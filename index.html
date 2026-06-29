@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Word Bank — ENGL114 Vocabulary</title>
+<meta name="description" content="Self-test for ENGL114 core midterm vocabulary: English word to Arabic meaning, with a saved review pile for weak words.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="ticker" aria-hidden="true">
+    <div class="track">
+      <div class="strip">assume · instinct · authentic · punctual · burn · local · balanced · principle · firsthand · unemployed · limitation · add up to · merchandise · acknowledge · memorable · encourage · prove · earn · significant · </div>
+      <div class="strip">assume · instinct · authentic · punctual · burn · local · balanced · principle · firsthand · unemployed · limitation · add up to · merchandise · acknowledge · memorable · encourage · prove · earn · significant · </div>
+    </div>
+  </div>
+
+  <section id="home" class="card mt">
+    <div class="eyebrow">ENGL114 · Core Vocabulary · Midterm Study</div>
+    <h1>Word Bank</h1>
+    <p class="lede">Read the English word, choose its Arabic meaning. Words you miss are saved to a review pile so you can test just those later.</p>
+    <div class="stats">
+      <div class="stat"><div class="n" id="s-total">0</div><div class="k">words</div></div>
+      <div class="stat"><div class="n" id="s-review">0</div><div class="k">to review</div></div>
+      <div class="stat"><div class="n" id="s-acc">—</div><div class="k">accuracy</div></div>
+    </div>
+    <p class="field-label">Questions per round</p>
+    <div class="seg" id="len-seg" role="group" aria-label="Questions per round">
+      <button data-len="10" aria-pressed="false">10</button>
+      <button data-len="20" aria-pressed="true">20</button>
+      <button data-len="0" aria-pressed="false">All</button>
+    </div>
+    <div class="mt"><button class="btn btn-primary" id="start">Start practice</button></div>
+    <div class="mt"><button class="btn btn-ghost" id="review">Review misses<span class="sub" id="review-sub">nothing saved yet</span></button></div>
+    <div class="footnote">
+      <button class="textbtn" id="reset-misses">clear review pile</button>
+      <button class="textbtn" id="reset-all">reset all progress</button>
+    </div>
+  </section>
+
+  <section id="quiz" class="card mt hide">
+    <div class="qtop">
+      <div class="progress"><span id="bar"></span></div>
+      <div class="meta" id="counter">1 / 20</div>
+      <div class="score" id="score"><span class="ok">0</span> · <span class="bad">0</span></div>
+      <button class="textbtn exit" id="exit">exit</button>
+    </div>
+    <div class="ask">What does this word mean?</div>
+    <div class="term" id="term" dir="ltr">—</div>
+    <div class="term-tag" id="mode-tag"></div>
+    <div class="options" id="options"></div>
+    <div class="verdict" id="verdict" aria-live="polite"></div>
+    <div class="mt"><button class="btn btn-primary hide" id="next">Next</button></div>
+  </section>
+
+  <section id="results" class="card mt hide">
+    <div class="eyebrow" id="res-eyebrow">Round complete</div>
+    <div class="scorebig">
+      <div class="pct" id="res-pct">0%</div>
+      <div class="frac" id="res-frac">0 / 0 correct</div>
+    </div>
+    <div class="note" id="res-note"></div>
+    <div id="res-misswrap" class="hide">
+      <div class="miss-h">Missed this round</div>
+      <div class="misslist" id="res-misslist"></div>
+    </div>
+    <div class="mt"><button class="btn btn-primary" id="again">Practice again</button></div>
+    <div class="mt row">
+      <button class="btn btn-ghost" id="res-review" style="flex:1">Review misses</button>
+      <button class="btn btn-ghost" id="home-btn" style="flex:1">Home</button>
+    </div>
+  </section>
+</div>
+<div class="toast" id="toast"></div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
