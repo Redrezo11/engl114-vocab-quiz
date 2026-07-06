@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 3,
+  "version": 4,
   "modules": [
     {
       "id": "engl114-starter-word-choice",
@@ -36,6 +36,20 @@
       "title": "ENGL114 — Core Vocabulary Test 4",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الرابع) — اختر الكلمة المناسبة لإكمال الجملة.",
       "count": 62
+    },
+    {
+      "id": "engl114-marathon-vocabulary-test-1",
+      "file": "engl114-marathon-test1.json",
+      "title": "ENGL114 — Vocabulary Marathon 1",
+      "description": "اختبار شامل (ماراثوني) لمفردات ENGL114 — الجزء 1 من أصل 2 — اختر الكلمة المناسبة لإكمال الجملة.",
+      "count": 100
+    },
+    {
+      "id": "engl114-marathon-vocabulary-test-2",
+      "file": "engl114-marathon-test2.json",
+      "title": "ENGL114 — Vocabulary Marathon 2",
+      "description": "اختبار شامل (ماراثوني) لمفردات ENGL114 — الجزء 2 من أصل 2 — اختر الكلمة المناسبة لإكمال الجملة.",
+      "count": 100
     }
   ]
 }
