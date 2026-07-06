@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "id": "engl114-core-vocabulary-test-1",
   "title": "ENGL114 — Core Vocabulary Test 1",
-  "description": "اختبار المفردات الأساسية لمادة ENGL114 — اختر الكلمة الإنجليزية الصحيحة.",
+  "description": "اختبار المفردات الأساسية لمادة ENGL114 — اختر الكلمة المناسبة لإكمال الجملة.",
   "shuffleQuestions": true,
   "shuffleOptions": true,
   "questions": [
     {
       "id": "q1",
-      "prompt": "Which word means \"to think that something is true without proof\"?",
+      "prompt": "I ___ you already know the schedule, since no one told me otherwise.",
       "options": [
         "assume",
         "prove",
@@ -16,15 +16,15 @@
         "ignore"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة الصحيحة تعني «يفترض» — أي يعتقد أن شيئاً صحيح دون دليل مؤكد.",
+      "hint": "ابحث عن فعل يعني «يفترض» — أي يعتقد شيئاً صحيحاً دون تأكيد.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة assume تعني «يفترض»، أي يعتقد شيئاً صحيحاً دون دليل قاطع.",
-        "incorrect": "الإجابة الصحيحة هي assume (يفترض). أمّا prove تعني «يُثبت»، و deny تعني «يُنكر»، و ignore تعني «يتجاهل» — وكلها لا تصف تكوين اعتقاد بلا دليل."
+        "correct": "أحسنت ✓ كلمة assume تعني «يفترض»، وهي مناسبة لأنه لم يتأكد من المعلومة، بل افترضها فقط.",
+        "incorrect": "الإجابة الصحيحة هي assume (يفترض). أمّا prove تعني «يُثبت»، و deny تعني «يُنكر»، و ignore تعني «يتجاهل» — وكلها لا تصف تكوين اعتقاد دون تأكيد."
       }
     },
     {
       "id": "q2",
-      "prompt": "Which word describes someone or something that can be trusted to work well?",
+      "prompt": "Our supplier is very ___; deliveries always arrive on time and undamaged.",
       "options": [
         "reliable",
         "suspicious",
@@ -32,15 +32,15 @@
         "temporary"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «موثوق / يُعتمد عليه» — شيء يمكن الوثوق به دائماً.",
+      "hint": "ابحث عن صفة تعني «موثوق» — لأن التوصيل يصل دائماً في الوقت وبدون أضرار.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة reliable تعني «موثوق»، أي يمكن الاعتماد عليه دائماً.",
-        "incorrect": "الإجابة الصحيحة هي reliable (موثوق). أمّا suspicious تعني «مُريب»، و careless تعني «مُهمل»، و temporary تعني «مؤقت» — وكلها لا تدل على الثقة."
+        "correct": "أحسنت ✓ كلمة reliable تعني «موثوق»، وهي مناسبة لأن التوصيل يصل دائماً في وقته وبحالة جيدة.",
+        "incorrect": "الإجابة الصحيحة هي reliable (موثوق). أمّا suspicious تعني «مُريب»، و careless تعني «مُهمل»، و temporary تعني «مؤقت» — وكلها لا تصف انتظام التوصيل الجيد."
       }
     },
     {
       "id": "q3",
-      "prompt": "Which word means \"real and genuine, not a copy\"?",
+      "prompt": "The museum only displays ___ artifacts, not replicas.",
       "options": [
         "authentic",
         "fake",
@@ -48,15 +48,15 @@
         "expensive"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «أصيل / حقيقي» — عكس المُقلَّد أو المزيّف.",
+      "hint": "ابحث عن صفة تعني «أصيل / حقيقي» — لأن الجملة تُقارنها بالتقليد (replicas).",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة authentic تعني «أصيل/حقيقي»، أي غير مُقلَّد.",
-        "incorrect": "الإجابة الصحيحة هي authentic (أصيل). أمّا fake تعني «مزيّف»، و ordinary تعني «عادي»، و expensive تعني «غالي الثمن» — وهي معانٍ مختلفة عن الأصالة."
+        "correct": "أحسنت ✓ كلمة authentic تعني «أصيل»، وهي مناسبة لأن الجملة تُقارن القِطَع الحقيقية بالتقليد.",
+        "incorrect": "الإجابة الصحيحة هي authentic (أصيل). أمّا fake تعني «مزيّف» (وهي عكس المطلوب)، و ordinary تعني «عادي»، و expensive تعني «غالي الثمن» — ولا علاقة لها بالأصالة مقابل التقليد."
       }
     },
     {
       "id": "q4",
-      "prompt": "Choose the word closest in meaning to \"belief in one's own ability\".",
+      "prompt": "After months of practice, she spoke with great ___ during the interview.",
       "options": [
         "confidence",
         "doubt",
@@ -64,15 +64,15 @@
         "anxiety"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «ثقة» — الشعور بالقدرة على النجاح.",
+      "hint": "ابحث عن اسم يعني «ثقة» — لأن التمرين الطويل يجعل الشخص أكثر ثقة بنفسه.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة confidence تعني «ثقة» بالنفس أو بالقدرة على النجاح.",
-        "incorrect": "الإجابة الصحيحة هي confidence (ثقة). أمّا doubt تعني «شك»، و weakness تعني «ضعف»، و anxiety تعني «قلق» — وهي عكس معنى الثقة."
+        "correct": "أحسنت ✓ كلمة confidence تعني «ثقة»، وهي مناسبة لأن التمرين الطويل زاد ثقتها بنفسها في المقابلة.",
+        "incorrect": "الإجابة الصحيحة هي confidence (ثقة). أمّا doubt تعني «شك»، و weakness تعني «ضعف»، و anxiety تعني «قلق» — وهي معاكسة لأثر التمرين الإيجابي."
       }
     },
     {
       "id": "q5",
-      "prompt": "Which word describes a person who always arrives on time?",
+      "prompt": "He is always ___, arriving exactly on time for every meeting.",
       "options": [
         "punctual",
         "late",
@@ -80,15 +80,15 @@
         "absent"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «دقيق في المواعيد» — الشخص الذي لا يتأخر أبداً.",
+      "hint": "ابحث عن صفة تعني «دقيق في المواعيد» — لأن الجملة تذكر أنه يصل في الوقت المحدد تماماً.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة punctual تعني «دقيق في المواعيد»، أي يصل في الوقت المحدد دائماً.",
-        "incorrect": "الإجابة الصحيحة هي punctual (دقيق في المواعيد). أمّا late تعني «متأخر»، و careless تعني «مُهمل»، و absent تعني «غائب» — وكلها عكس الالتزام بالوقت."
+        "correct": "أحسنت ✓ كلمة punctual تعني «دقيق في المواعيد»، وهي مناسبة لأنه يصل في الوقت المحدد دائماً.",
+        "incorrect": "الإجابة الصحيحة هي punctual (دقيق في المواعيد). أمّا late تعني «متأخر»، و careless تعني «مُهمل»، و absent تعني «غائب» — وكلها تتناقض مع «arriving exactly on time»."
       }
     },
     {
       "id": "q6",
-      "prompt": "Which word means \"having a duty to deal with something or someone\"?",
+      "prompt": "As the team leader, she is ___ for making sure the project is finished on time.",
       "options": [
         "responsible",
         "careless",
@@ -96,15 +96,15 @@
         "forgetful"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «مسؤول» — الشخص الذي يتحمل واجباً تجاه شيء أو شخص.",
+      "hint": "ابحث عن صفة تعني «مسؤول» — لأنها تتحمل واجب إنهاء المشروع في وقته.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة responsible تعني «مسؤول»، أي يتحمل واجباً تجاه أمر ما.",
-        "incorrect": "الإجابة الصحيحة هي responsible (مسؤول). أمّا careless تعني «مُهمل»، و lazy تعني «كسول»، و forgetful تعني «كثير النسيان» — وكلها لا تدل على تحمّل المسؤولية."
+        "correct": "أحسنت ✓ كلمة responsible تعني «مسؤول»، وهي مناسبة لأنها تتحمل واجب إنجاز المشروع.",
+        "incorrect": "الإجابة الصحيحة هي responsible (مسؤول). أمّا careless تعني «مُهمل»، و lazy تعني «كسول»، و forgetful تعني «كثير النسيان» — وكلها لا تناسب دور قائدة الفريق."
       }
     },
     {
       "id": "q7",
-      "prompt": "Choose the word that means \"roughly\" or \"about\" a number, not exactly.",
+      "prompt": "The trip will take ___ three hours, depending on traffic.",
       "options": [
         "approximately",
         "exactly",
@@ -112,15 +112,15 @@
         "eventually"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «تقريباً» — تُستخدم مع الأرقام غير الدقيقة تماماً.",
+      "hint": "ابحث عن ظرف يعني «تقريباً» — لأن المدة تعتمد على الازدحام، فهي غير محددة بدقة.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة approximately تعني «تقريباً»، أي رقم غير دقيق تماماً.",
-        "incorrect": "الإجابة الصحيحة هي approximately (تقريباً). أمّا exactly تعني «بالضبط»، و rarely تعني «نادراً»، و eventually تعني «في النهاية» — وليست لها علاقة بالتقريب العددي."
+        "correct": "أحسنت ✓ كلمة approximately تعني «تقريباً»، وهي مناسبة لأن المدة الدقيقة تعتمد على الازدحام.",
+        "incorrect": "الإجابة الصحيحة هي approximately (تقريباً). أمّا exactly تعني «بالضبط» (يتناقض مع «depending on traffic»)، و rarely تعني «نادراً»، و eventually تعني «في النهاية» — ولا تصف مدة زمنية تقريبية."
       }
     },
     {
       "id": "q8",
-      "prompt": "Which word describes a relationship or connection between two things?",
+      "prompt": "Researchers found a strong ___ between sleep and academic performance.",
       "options": [
         "correlation",
         "coincidence",
@@ -128,15 +128,15 @@
         "conclusion"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «علاقة / ارتباط» — صلة بين أمرين تتغير معاً.",
+      "hint": "ابحث عن اسم يعني «علاقة / ارتباط» — لأن الباحثين وجدوا صلة بين أمرين.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة correlation تعني «علاقة/ارتباط» بين أمرين أو أكثر.",
-        "incorrect": "الإجابة الصحيحة هي correlation (علاقة/ارتباط). أمّا coincidence تعني «مصادفة»، و contradiction تعني «تناقض»، و conclusion تعني «استنتاج» — وهي معانٍ مختلفة عن الارتباط."
+        "correct": "أحسنت ✓ كلمة correlation تعني «علاقة/ارتباط»، وهي مناسبة لوجود صلة قوية بين النوم والتحصيل الدراسي.",
+        "incorrect": "الإجابة الصحيحة هي correlation (علاقة/ارتباط). أمّا coincidence تعني «مصادفة»، و contradiction تعني «تناقض»، و conclusion تعني «استنتاج» — وهي لا تصف وجود صلة قوية بين أمرين."
       }
     },
     {
       "id": "q9",
-      "prompt": "Which word means \"to explain or make clear using examples or pictures\"?",
+      "prompt": "The teacher used a diagram to ___ how the water cycle works.",
       "options": [
         "illustrate",
         "confuse",
@@ -144,15 +144,15 @@
         "ignore"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «يُوضّح» — باستخدام أمثلة أو صور لتسهيل الفهم.",
+      "hint": "ابحث عن فعل يعني «يُوضّح» — لأن المعلم استخدم رسماً لتسهيل الفهم.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة illustrate تعني «يُوضّح» بالأمثلة أو الصور.",
-        "incorrect": "الإجابة الصحيحة هي illustrate (يُوضّح). أمّا confuse تعني «يُربك»، و hide تعني «يُخفي»، و ignore تعني «يتجاهل» — وهي عكس معنى التوضيح."
+        "correct": "أحسنت ✓ كلمة illustrate تعني «يُوضّح»، وهي مناسبة لأن الرسم استُخدم لتوضيح الفكرة.",
+        "incorrect": "الإجابة الصحيحة هي illustrate (يُوضّح). أمّا confuse تعني «يُربك»، و hide تعني «يُخفي»، و ignore تعني «يتجاهل» — وهي عكس الغرض من استخدام الرسم التوضيحي."
       }
     },
     {
       "id": "q10",
-      "prompt": "Choose the word that means \"usually\" or \"in most cases\".",
+      "prompt": "Classes ___ start at nine o'clock in the morning.",
       "options": [
         "typically",
         "rarely",
@@ -160,15 +160,15 @@
         "occasionally"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «عادةً / نموذجياً» — أي في أغلب الأحيان.",
+      "hint": "ابحث عن ظرف يعني «عادةً» — لوصف الوقت المعتاد لبدء الحصص.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة typically تعني «عادةً»، أي في أغلب الحالات.",
-        "incorrect": "الإجابة الصحيحة هي typically (عادةً). أمّا rarely تعني «نادراً»، و never تعني «أبداً»، و occasionally تعني «أحياناً» — وكلها تدل على تكرار أقل من «عادةً»."
+        "correct": "أحسنت ✓ كلمة typically تعني «عادةً»، وهي مناسبة لوصف الوقت المعتاد لبدء الحصص.",
+        "incorrect": "الإجابة الصحيحة هي typically (عادةً). أمّا rarely تعني «نادراً»، و never تعني «أبداً»، و occasionally تعني «أحياناً» — وكلها تدل على تكرار أقل بكثير من المعتاد."
       }
     },
     {
       "id": "q11",
-      "prompt": "Which word means \"extremely tired\"?",
+      "prompt": "After working a double shift, the nurse felt completely ___.",
       "options": [
         "exhausted",
         "energetic",
@@ -176,15 +176,15 @@
         "confused"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «مُنهَك / مُتعب جداً» — أعلى درجات التعب.",
+      "hint": "ابحث عن صفة تعني «مُنهَك جداً» — نتيجة العمل لفترة طويلة مضاعفة.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة exhausted تعني «مُنهَك»، أي متعب جداً.",
-        "incorrect": "الإجابة الصحيحة هي exhausted (مُنهَك). أمّا energetic تعني «نشيط»، و calm تعني «هادئ»، و confused تعني «مُرتبك» — وهي معانٍ مختلفة عن الإنهاك."
+        "correct": "أحسنت ✓ كلمة exhausted تعني «مُنهَك»، وهي مناسبة لأن العمل لفترة طويلة يسبب تعباً شديداً.",
+        "incorrect": "الإجابة الصحيحة هي exhausted (مُنهَك). أمّا energetic تعني «نشيط»، و calm تعني «هادئ»، و confused تعني «مُرتبك» — وهي لا تناسب أثر العمل الشاق."
       }
     },
     {
       "id": "q12",
-      "prompt": "Which word means \"lasting forever, not changing\"?",
+      "prompt": "Unlike her previous job, this position is ___, not temporary.",
       "options": [
         "permanent",
         "temporary",
@@ -192,15 +192,15 @@
         "rare"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «دائم» — عكس المؤقت.",
+      "hint": "ابحث عن صفة تعني «دائم» — لاحظ أن الجملة تقارنها مباشرة بكلمة temporary.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة permanent تعني «دائم»، أي لا يتغير أو ينتهي.",
-        "incorrect": "الإجابة الصحيحة هي permanent (دائم). أمّا temporary تعني «مؤقت»، و occasional تعني «متقطع»، و rare تعني «نادر» — وكلها عكس معنى الدوام."
+        "correct": "أحسنت ✓ كلمة permanent تعني «دائم»، وهي مناسبة لأن الجملة تُقارنها صراحةً بالوظيفة المؤقتة.",
+        "incorrect": "الإجابة الصحيحة هي permanent (دائم). أمّا temporary تعني «مؤقت» وهي مذكورة في الجملة كعكس المطلوب، و occasional تعني «متقطع»، و rare تعني «نادر» — ولا تناسب المقارنة."
       }
     },
     {
       "id": "q13",
-      "prompt": "Which word means \"to try hard to do something difficult\"?",
+      "prompt": "Many new students ___ to keep up with the reading assignments at first.",
       "options": [
         "struggle",
         "succeed",
@@ -208,15 +208,15 @@
         "ignore"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «يكافح / يُناضل» — بذل جهد كبير لتحقيق أمر صعب.",
+      "hint": "ابحث عن فعل يعني «يكافح» — لأن الطلاب الجدد يواجهون صعوبة في البداية.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة struggle تعني «يكافح»، أي يبذل جهداً كبيراً لمواجهة صعوبة.",
-        "incorrect": "الإجابة الصحيحة هي struggle (يكافح). أمّا succeed تعني «ينجح»، و relax تعني «يسترخي»، و ignore تعني «يتجاهل» — وهي لا تصف بذل الجهد لمواجهة الصعوبة."
+        "correct": "أحسنت ✓ كلمة struggle تعني «يكافح»، وهي مناسبة لوصف الصعوبة التي يواجهها الطلاب الجدد.",
+        "incorrect": "الإجابة الصحيحة هي struggle (يكافح). أمّا succeed تعني «ينجح»، و relax تعني «يسترخي»، و ignore تعني «يتجاهل» — وهي لا تصف مواجهة صعوبة في البداية."
       }
     },
     {
       "id": "q14",
-      "prompt": "Which word means \"to change in order to fit a new situation\"?",
+      "prompt": "It can take time for employees to ___ to a new company culture.",
       "options": [
         "adapt",
         "resist",
@@ -224,15 +224,15 @@
         "avoid"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «يتكيّف / يتأقلم» — يتغير ليناسب وضعاً جديداً.",
+      "hint": "ابحث عن فعل يعني «يتكيّف» — لأن الموظفين يحتاجون وقتاً للاعتياد على بيئة جديدة.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة adapt تعني «يتكيّف»، أي يتغير ليناسب وضعاً جديداً.",
-        "incorrect": "الإجابة الصحيحة هي adapt (يتكيّف). أمّا resist تعني «يُقاوم»، و ignore تعني «يتجاهل»، و avoid تعني «يتجنّب» — وكلها عكس فكرة التأقلم مع الجديد."
+        "correct": "أحسنت ✓ كلمة adapt تعني «يتكيّف»، وهي مناسبة لوصف التأقلم مع بيئة عمل جديدة.",
+        "incorrect": "الإجابة الصحيحة هي adapt (يتكيّف). أمّا resist تعني «يُقاوم»، و ignore تعني «يتجاهل»، و avoid تعني «يتجنّب» — وهي تصف مواقف مغايرة للتأقلم التدريجي."
       }
     },
     {
       "id": "q15",
-      "prompt": "Which word means \"something that blocks progress or makes something difficult\"?",
+      "prompt": "Lack of funding was the biggest ___ to completing the research project.",
       "options": [
         "obstacle",
         "solution",
@@ -240,15 +240,15 @@
         "opportunity"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «عائق / عقبة» — شيء يمنع التقدم أو يصعّب الأمر.",
+      "hint": "ابحث عن اسم يعني «عائق» — لأن نقص التمويل يمنع إتمام المشروع.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة obstacle تعني «عائق»، أي شيء يمنع التقدم.",
-        "incorrect": "الإجابة الصحيحة هي obstacle (عائق). أمّا solution تعني «حل»، و advantage تعني «ميزة»، و opportunity تعني «فرصة» — وهي معانٍ إيجابية عكس العائق."
+        "correct": "أحسنت ✓ كلمة obstacle تعني «عائق»، وهي مناسبة لأن نقص التمويل يمنع إتمام المشروع.",
+        "incorrect": "الإجابة الصحيحة هي obstacle (عائق). أمّا solution تعني «حل»، و advantage تعني «ميزة»، و opportunity تعني «فرصة» — وهي معانٍ إيجابية لا تناسب فكرة «نقص التمويل»."
       }
     },
     {
       "id": "q16",
-      "prompt": "Which word means \"to change something completely and dramatically\"?",
+      "prompt": "The invention of the smartphone helped ___ the way people communicate.",
       "options": [
         "revolutionize",
         "maintain",
@@ -256,15 +256,15 @@
         "weaken"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «يُحدث ثورة في / يُغيّر جذرياً» — تغيير كبير وشامل.",
+      "hint": "ابحث عن فعل يعني «يُغيّر جذرياً» — لأن الهاتف الذكي أحدث تغييراً ضخماً في التواصل.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة revolutionize تعني «يُغيّر جذرياً»، أي يُحدث تغييراً كبيراً وشاملاً.",
-        "incorrect": "الإجابة الصحيحة هي revolutionize (يُغيّر جذرياً). أمّا maintain تعني «يحافظ على»، و ignore تعني «يتجاهل»، و weaken تعني «يُضعف» — وهي لا تصف تغييراً جذرياً وشاملاً."
+        "correct": "أحسنت ✓ كلمة revolutionize تعني «يُغيّر جذرياً»، وهي مناسبة لوصف التغيير الكبير الذي أحدثه الهاتف الذكي.",
+        "incorrect": "الإجابة الصحيحة هي revolutionize (يُغيّر جذرياً). أمّا maintain تعني «يحافظ على»، و ignore تعني «يتجاهل»، و weaken تعني «يُضعف» — وهي لا تصف تغييراً كبيراً وشاملاً."
       }
     },
     {
       "id": "q17",
-      "prompt": "Which word means \"to say that something or someone is wrong or bad\"?",
+      "prompt": "Reviewers didn't hesitate to ___ the film's weak plot and slow pacing.",
       "options": [
         "criticize",
         "praise",
@@ -272,15 +272,15 @@
         "support"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «ينتقد» — يُشير إلى عيوب أو أخطاء شخص أو شيء.",
+      "hint": "ابحث عن فعل يعني «ينتقد» — لأن النقاد أشاروا إلى عيوب الفيلم بصراحة.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة criticize تعني «ينتقد»، أي يُشير إلى الأخطاء أو العيوب.",
-        "incorrect": "الإجابة الصحيحة هي criticize (ينتقد). أمّا praise تعني «يمدح»، و ignore تعني «يتجاهل»، و support تعني «يدعم» — وهي عكس معنى الانتقاد."
+        "correct": "أحسنت ✓ كلمة criticize تعني «ينتقد»، وهي مناسبة لأن النقاد أشاروا إلى عيوب الفيلم مباشرة.",
+        "incorrect": "الإجابة الصحيحة هي criticize (ينتقد). أمّا praise تعني «يمدح»، و ignore تعني «يتجاهل»، و support تعني «يدعم» — وهي تتناقض مع الإشارة إلى «weak plot» و«slow pacing»."
       }
     },
     {
       "id": "q18",
-      "prompt": "Which word means \"facts or information that show something is true\"?",
+      "prompt": "The scientist needed more ___ before publishing her conclusions.",
       "options": [
         "evidence",
         "opinion",
@@ -288,15 +288,15 @@
         "guess"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «دليل / برهان» — معلومات تُثبت صحة أمر ما.",
+      "hint": "ابحث عن اسم يعني «دليل» — لأن العالِمة تحتاج إثباتات علمية قبل النشر.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة evidence تعني «دليل»، أي معلومات تُثبت صحة أمر ما.",
-        "incorrect": "الإجابة الصحيحة هي evidence (دليل). أمّا opinion تعني «رأي»، و rumor تعني «إشاعة»، و guess تعني «تخمين» — وكلها أقل موثوقية من الدليل."
+        "correct": "أحسنت ✓ كلمة evidence تعني «دليل»، وهي مناسبة لأن العالِمة تحتاج إثباتات موثوقة قبل النشر.",
+        "incorrect": "الإجابة الصحيحة هي evidence (دليل). أمّا opinion تعني «رأي»، و rumor تعني «إشاعة»، و guess تعني «تخمين» — وهي أقل موثوقية بكثير من الدليل العلمي المطلوب."
       }
     },
     {
       "id": "q19",
-      "prompt": "Which word means \"correct and exact, without mistakes\"?",
+      "prompt": "It's important that the report contains ___ information, not guesses.",
       "options": [
         "accurate",
         "vague",
@@ -304,15 +304,15 @@
         "careless"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «دقيق» — صحيح تماماً وخالٍ من الأخطاء.",
+      "hint": "ابحث عن صفة تعني «دقيق» — لاحظ أن الجملة تقارنها بكلمة guesses (تخمينات).",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة accurate تعني «دقيق»، أي صحيح تماماً وخالٍ من الأخطاء.",
-        "incorrect": "الإجابة الصحيحة هي accurate (دقيق). أمّا vague تعني «غامض»، و false تعني «خاطئ»، و careless تعني «مُهمل» — وكلها عكس معنى الدقة."
+        "correct": "أحسنت ✓ كلمة accurate تعني «دقيق»، وهي مناسبة لأن الجملة تُقارنها صراحةً بالتخمينات.",
+        "incorrect": "الإجابة الصحيحة هي accurate (دقيق). أمّا vague تعني «غامض»، و false تعني «خاطئ»، و careless تعني «مُهمل» — وكلها تصف معلومات غير موثوقة، عكس المطلوب."
       }
     },
     {
       "id": "q20",
-      "prompt": "Which word describes someone who has firmly decided to do something and will not give up?",
+      "prompt": "Despite several failures, he remained ___ to finish the marathon.",
       "options": [
         "determined",
         "hesitant",
@@ -320,10 +320,10 @@
         "confused"
       ],
       "answerIndex": 0,
-      "hint": "الكلمة تعني «مُصمّم / عازم» — الشخص الذي قرر بثبات ولن يستسلم.",
+      "hint": "ابحث عن صفة تعني «مُصمّم» — لأنه استمر بثبات رغم الفشل المتكرر.",
       "feedback": {
-        "correct": "أحسنت ✓ كلمة determined تعني «مُصمّم»، أي قرر بثبات ولن يستسلم.",
-        "incorrect": "الإجابة الصحيحة هي determined (مُصمّم). أمّا hesitant تعني «متردد»، و careless تعني «مُهمل»، و confused تعني «مُرتبك» — وكلها عكس معنى العزم والتصميم."
+        "correct": "أحسنت ✓ كلمة determined تعني «مُصمّم»، وهي مناسبة لأنه استمر بعزيمة رغم الفشل المتكرر.",
+        "incorrect": "الإجابة الصحيحة هي determined (مُصمّم). أمّا hesitant تعني «متردد»، و careless تعني «مُهمل»، و confused تعني «مُرتبك» — وهي تتناقض مع «Despite several failures... to finish»."
       }
     }
   ]
