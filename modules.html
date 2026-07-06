@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modules — ENGL114 English Practice</title>
+<meta name="description" content="English multiple-choice vocabulary modules for ENGL114, with bilingual hints and feedback for Saudi EFL learners.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="mc">
+<div class="wrap">
+  <div class="ticker" aria-hidden="true">
+    <div class="track">
+      <div class="strip">conclusive · clarify · progress · contradictory · concise · support · punctual · link · significant · evidence · summary · context · </div>
+      <div class="strip">conclusive · clarify · progress · contradictory · concise · support · punctual · link · significant · evidence · summary · context · </div>
+    </div>
+  </div>
+
+  <!-- MODULE LIST -->
+  <section id="list" class="card mt">
+    <div class="eyebrow">ENGL114 · English Practice · Modules</div>
+    <h1>Practice Modules</h1>
+    <p class="lede">Choose a module below. Each is a set of English multiple-choice questions. Wrong answers give you an explanation, and you can press <b>Hint</b> for help — feedback is in Arabic + English.</p>
+    <p class="field-label">Questions per round</p>
+    <div class="seg" id="len-seg" role="group" aria-label="Questions per round">
+      <button data-len="10" aria-pressed="false">10</button>
+      <button data-len="20" aria-pressed="true">20</button>
+      <button data-len="0" aria-pressed="false">All</button>
+    </div>
+    <div id="modlist" class="modlist mt"><div class="modloading">Loading modules…</div></div>
+    <div class="footnote">
+      <a class="textbtn" href="index.html">← Arabic Word Bank</a>
+    </div>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="quiz" class="card mt hide">
+    <div class="qtop">
+      <div class="progress"><span id="bar"></span></div>
+      <div class="meta" id="counter">1 / 20</div>
+      <div class="score" id="score"><span class="ok">0</span> · <span class="bad">0</span></div>
+      <button class="textbtn exit" id="exit">exit</button>
+    </div>
+    <div class="ask" id="mod-name">Module</div>
+    <div class="prompt" id="prompt" dir="auto">—</div>
+    <div class="hintrow">
+      <button class="btn btn-hint hide" id="hint-btn" type="button">💡 Hint</button>
+    </div>
+    <div class="hint hide" id="hint" dir="auto" aria-live="polite"></div>
+    <div class="options" id="options"></div>
+    <div class="verdict" id="verdict" dir="auto" aria-live="polite"></div>
+    <div class="mt"><button class="btn btn-primary hide" id="next">Next</button></div>
+  </section>
+
+  <!-- RESULTS -->
+  <section id="results" class="card mt hide">
+    <div class="eyebrow" id="res-eyebrow">Round complete</div>
+    <div class="scorebig">
+      <div class="pct" id="res-pct">0%</div>
+      <div class="frac" id="res-frac">0 / 0 correct</div>
+    </div>
+    <div class="note" id="res-note"></div>
+    <div id="res-misswrap" class="hide">
+      <div class="miss-h">Missed this round</div>
+      <div class="misslist" id="res-misslist"></div>
+    </div>
+    <div class="mt"><button class="btn btn-primary" id="again">Practice again</button></div>
+    <div class="mt row">
+      <button class="btn btn-ghost" id="res-review" style="flex:1">Review misses</button>
+      <button class="btn btn-ghost" id="list-btn" style="flex:1">All modules</button>
+    </div>
+  </section>
+</div>
+<div class="toast" id="toast"></div>
+<script src="modules.js"></script>
+</body>
+</html>

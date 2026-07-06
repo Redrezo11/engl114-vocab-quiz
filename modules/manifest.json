@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "modules": [
+    {
+      "id": "engl114-starter-word-choice",
+      "file": "starter.json",
+      "title": "Starter — Academic Word Choice",
+      "description": "Sample module: choosing the right academic word in context. Bilingual hints & feedback.",
+      "count": 8
+    }
+  ]
+}

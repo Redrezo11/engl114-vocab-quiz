@@ -98,3 +98,39 @@
   .hide{display:none !important}
   @media (max-width:420px){ h1{font-size:26px} .term{font-size:28px} .opt .txt{font-size:17px} }
   @media (prefers-reduced-motion:reduce){ .ticker .track{animation:none} *{transition:none !important} }
+
+  /* ===== English multiple-choice modules page (body.mc) ===== */
+  a.btn{text-decoration:none}
+  /* Module list */
+  .modlist{display:flex; flex-direction:column; gap:10px}
+  .modloading, .modempty{color:var(--muted); font-size:14px; padding:14px; text-align:center;
+    background:var(--surface-2); border:1px solid var(--line); border-radius:12px}
+  .modcard{background:var(--surface-2); border:1px solid var(--line); border-radius:12px; padding:14px 16px;
+    display:flex; align-items:center; gap:12px; flex-wrap:wrap}
+  .modmain{flex:1; min-width:180px}
+  .modtitle{font-weight:700; font-size:16px; letter-spacing:-.01em}
+  .moddesc{color:var(--muted); font-size:13px; margin-top:3px}
+  .modmeta{font-family:var(--mono); font-size:11px; color:var(--primary); margin-top:8px; letter-spacing:.02em}
+  .modactions{display:flex; gap:8px; flex-shrink:0}
+  .modactions .btn{width:auto; padding:10px 16px; font-size:14px}
+
+  /* Question prompt (English, LTR, with room for Arabic in-line) */
+  .mc .prompt{font-size:20px; font-weight:700; line-height:1.35; margin:8px 0 2px; word-wrap:break-word; font-family:var(--sans)}
+  .hintrow{margin-top:12px}
+  .btn-hint{width:auto; display:inline-block; padding:9px 14px; font-size:14px; font-weight:600;
+    background:var(--surface-2); color:var(--primary); border:1px solid var(--line)}
+  .btn-hint:hover:not(:disabled){border-color:var(--primary)}
+  .btn-hint:disabled{opacity:.55; cursor:default}
+  .hint{margin-top:10px; background:#f4f8f7; border:1px solid var(--line); border-left:3px solid var(--accent);
+    border-radius:10px; padding:12px 14px; font-size:15px; line-height:1.6; color:var(--ink)}
+  .hint ul{margin:0; padding-left:18px}
+  .hint li{margin:2px 0}
+
+  /* English options: LTR, sans font, key on the left */
+  .mc .opt{text-align:left; justify-content:flex-start; padding:14px 16px 14px 44px}
+  .mc .opt .txt{font-family:var(--sans); font-size:16px; font-weight:600; direction:ltr}
+
+  /* Verdict/feedback: allow long bilingual text to wrap naturally */
+  .mc .verdict{align-items:flex-start; font-weight:500; line-height:1.55; display:block}
+  .mc .verdict .badge{display:inline-block; margin-right:8px; vertical-align:middle; font-weight:600}
+  .mc .miss .ar{font-family:var(--sans); direction:ltr; text-align:left}

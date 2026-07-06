@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "engl114-starter-word-choice",
+  "title": "Starter — Academic Word Choice",
+  "description": "A sample module: choosing the right academic word in context. Bilingual hints and feedback (Arabic + English) for scaffolding.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Choose the word that best completes the sentence: \"The results were ___, leaving no doubt about the conclusion.\"",
+      "options": ["conclusive", "tentative", "ambiguous", "arbitrary"],
+      "answerIndex": 0,
+      "hint": [
+        "conclusive = قاطع / حاسم",
+        "leaving no doubt = لا يترك مجالاً للشك — so we need a strong, definite word."
+      ],
+      "feedback": {
+        "correct": "Correct ✓ 'conclusive' يعني قاطع/حاسم — it matches 'no doubt' (لا شك).",
+        "incorrect": "The answer is 'conclusive' (قاطع، نهائي). 'tentative' (مبدئي/غير مؤكد) و 'ambiguous' (غامض) كلاهما يدلّ على عدم اليقين، و 'arbitrary' يعني عشوائي — none of these fit a definite, doubt-free result."
+      }
+    },
+    {
+      "id": "q2",
+      "prompt": "Which word means to make something clear or easier to understand?",
+      "options": ["clarify", "confuse", "conceal", "complicate"],
+      "answerIndex": 0,
+      "hint": "clarify = يوضّح. Look for the word about making things clear (واضح).",
+      "feedback": {
+        "correct": "Correct ✓ 'clarify' يعني يوضّح — to make something clear.",
+        "incorrect": "The answer is 'clarify' (يوضّح). 'confuse' يعني يُربك، 'conceal' يعني يُخفي، و 'complicate' يعني يُعقّد — these are the opposite of making something clear."
+      }
+    },
+    {
+      "id": "q3",
+      "prompt": "Select the correct form: \"She has made significant ___ in her English this term.\"",
+      "options": ["progress", "progresses", "progressing", "progressed"],
+      "answerIndex": 0,
+      "hint": [
+        "progress = تقدّم (an uncountable noun / اسم غير معدود)",
+        "After an adjective like 'significant', we need a noun — not a verb."
+      ],
+      "feedback": {
+        "correct": "Correct ✓ We need the noun 'progress' (تقدّم) after the adjective 'significant'.",
+        "incorrect": "The answer is 'progress' (تقدّم) — a noun. الكلمات الأخرى صيغ للفعل (verb forms)، and here we need a noun after 'significant'."
+      }
+    },
+    {
+      "id": "q4",
+      "prompt": "Choose the best word: \"The two studies produced ___ results, so we cannot be sure which is right.\"",
+      "options": ["contradictory", "identical", "consistent", "reliable"],
+      "answerIndex": 0,
+      "hint": "contradictory = متناقض. The clue is 'cannot be sure which is right' — the results disagree.",
+      "feedback": {
+        "correct": "Correct ✓ 'contradictory' يعني متناقض — the results disagree with each other.",
+        "incorrect": "The answer is 'contradictory' (متناقض). 'identical' يعني متطابق، 'consistent' يعني متوافق/ثابت، و 'reliable' يعني موثوق — none of these explain why we 'cannot be sure which is right'."
+      }
+    },
+    {
+      "id": "q5",
+      "prompt": "Which word best fits: \"He gave a ___ summary — short and covering only the main points.\"",
+      "options": ["concise", "detailed", "lengthy", "vague"],
+      "answerIndex": 0,
+      "hint": [
+        "concise = موجز / مختصر",
+        "The sentence itself defines it: 'short and covering only the main points'."
+      ],
+      "feedback": {
+        "correct": "Correct ✓ 'concise' يعني موجز — short and to the point.",
+        "incorrect": "The answer is 'concise' (موجز، مختصر). 'detailed' يعني مفصّل، 'lengthy' يعني طويل، و 'vague' يعني غامض — the opposite of a short, focused summary."
+      }
+    },
+    {
+      "id": "q6",
+      "prompt": "Complete the sentence: \"Scientists must ___ their claims with evidence.\"",
+      "options": ["support", "ignore", "doubt", "reject"],
+      "answerIndex": 0,
+      "hint": "support (a claim) = يدعم / يؤيّد بالأدلة. Think about what you do WITH evidence.",
+      "feedback": {
+        "correct": "Correct ✓ to 'support' a claim يعني يدعمها بالأدلة (back it up with evidence).",
+        "incorrect": "The answer is 'support' (يدعم). 'ignore' يعني يتجاهل، 'doubt' يعني يشكّ، و 'reject' يعني يرفض — you don't do these to your own claims with evidence."
+      }
+    },
+    {
+      "id": "q7",
+      "prompt": "Choose the word that means happening at a fixed, agreed time: \"The train is very ___; it always arrives on time.\"",
+      "options": ["punctual", "frequent", "delayed", "random"],
+      "answerIndex": 0,
+      "hint": "punctual = دقيق في المواعيد / في الوقت المحدّد. The clue is 'always arrives on time'.",
+      "feedback": {
+        "correct": "Correct ✓ 'punctual' يعني دقيق في المواعيد — always on time.",
+        "incorrect": "The answer is 'punctual' (دقيق في المواعيد). 'frequent' يعني متكرر، 'delayed' يعني متأخر، و 'random' يعني عشوائي — only 'punctual' means always on time."
+      }
+    },
+    {
+      "id": "q8",
+      "prompt": "Which word completes the sentence correctly: \"There is a clear ___ between smoking and lung disease.\"",
+      "options": ["link", "different", "similar", "apart"],
+      "answerIndex": 0,
+      "hint": [
+        "link = صلة / ارتباط (a noun here)",
+        "We need a noun after 'a clear', and it should mean a connection."
+      ],
+      "feedback": {
+        "correct": "Correct ✓ a 'link' (صلة/ارتباط) is a connection between two things.",
+        "incorrect": "The answer is 'link' (صلة، ارتباط) — a noun meaning a connection. 'different'، 'similar'، 'apart' صفات/ظروف (adjectives/adverbs) and don't fit after 'a clear ___'."
+      }
+    }
+  ]
+}
