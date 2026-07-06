@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 1,
+  "version": 2,
   "modules": [
     {
       "id": "engl114-starter-word-choice",
@@ -8,6 +8,13 @@
       "title": "Starter — Academic Word Choice",
       "description": "Sample module: choosing the right academic word in context. Bilingual hints & feedback.",
       "count": 8
+    },
+    {
+      "id": "engl114-core-vocabulary-test-1",
+      "file": "unit-vocab-test1.json",
+      "title": "ENGL114 — Core Vocabulary Test 1",
+      "description": "اختبار المفردات الأساسية لمادة ENGL114 — اختر الكلمة الإنجليزية الصحيحة.",
+      "count": 20
     }
   ]
 }
