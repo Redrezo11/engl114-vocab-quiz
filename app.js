@@ -110,7 +110,14 @@
     misses=[]; save(K_MISS,misses); refreshHome(); toast("Review pile cleared"); };
   $("reset-all").onclick=function(){ misses=[]; stats={ans:0,ok:0};
     save(K_MISS,misses); save(K_STAT,stats); refreshHome(); toast("All progress reset"); };
+  var qrModal=$("qr-modal");
+  function openQR(){ qrModal.classList.remove("hide"); $("qr-close").focus(); }
+  function closeQR(){ qrModal.classList.add("hide"); $("qr-open").focus(); }
+  $("qr-open").onclick=openQR;
+  $("qr-close").onclick=closeQR;
+  qrModal.addEventListener("click", function(e){ if(e.target.hasAttribute("data-close")) closeQR(); });
   document.addEventListener("keydown", function(e){
+    if(!qrModal.classList.contains("hide")){ if(e.key==="Escape") closeQR(); return; }
     if(!$("quiz").classList.contains("hide")){
       if(["1","2","3","4"].indexOf(e.key)>-1 && !answered){
         var b=$("options").children[parseInt(e.key,10)-1]; if(b) b.click();

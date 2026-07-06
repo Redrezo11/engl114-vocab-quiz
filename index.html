@@ -37,6 +37,7 @@
     <div class="mt"><button class="btn btn-primary" id="start">Start practice</button></div>
     <div class="mt"><button class="btn btn-ghost" id="review">Review misses<span class="sub" id="review-sub">nothing saved yet</span></button></div>
     <div class="mt"><a class="btn btn-ghost" href="modules.html">English modules →<span class="sub">multiple-choice practice</span></a></div>
+    <div class="mt"><button class="btn btn-ghost" id="qr-open" type="button">📱 Show QR code<span class="sub">scan to open on a phone</span></button></div>
     <div class="footnote">
       <button class="textbtn" id="reset-misses">clear review pile</button>
       <button class="textbtn" id="reset-all">reset all progress</button>
@@ -77,6 +78,18 @@
   </section>
 </div>
 <div class="toast" id="toast"></div>
+
+<div class="modal hide" id="qr-modal" role="dialog" aria-modal="true" aria-labelledby="qr-title">
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-card" role="document">
+    <button class="modal-x" id="qr-close" type="button" aria-label="Close">×</button>
+    <div class="eyebrow" id="qr-title">Scan to open on your phone</div>
+    <img class="qr" src="qr-home.svg" alt="QR code linking to the Word Bank site" width="240" height="240">
+    <p class="qr-url"><a id="qr-link" href="https://redrezo11.github.io/engl114-vocab-quiz/" target="_blank" rel="noopener">redrezo11.github.io/engl114-vocab-quiz</a></p>
+    <div class="mt"><a class="btn btn-primary" id="qr-open-link" href="https://redrezo11.github.io/engl114-vocab-quiz/">Open link</a></div>
+  </div>
+</div>
+
 <script src="data.js"></script>
 <script src="app.js"></script>
 </body>

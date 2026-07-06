@@ -134,3 +134,20 @@
   .mc .verdict{align-items:flex-start; font-weight:500; line-height:1.55; display:block}
   .mc .verdict .badge{display:inline-block; margin-right:8px; vertical-align:middle; font-weight:600}
   .mc .miss .ar{font-family:var(--sans); direction:ltr; text-align:left}
+
+  /* ===== QR modal ===== */
+  .modal{position:fixed; inset:0; z-index:50; display:flex; align-items:center; justify-content:center; padding:20px}
+  .modal-backdrop{position:absolute; inset:0; background:rgba(10,43,39,.55); backdrop-filter:blur(2px)}
+  .modal-card{position:relative; background:var(--surface); border:1px solid var(--line); border-radius:var(--r);
+    box-shadow:var(--shadow); padding:24px 22px; width:100%; max-width:320px; text-align:center; animation:pop .18s ease-out}
+  @keyframes pop{from{transform:scale(.94); opacity:0} to{transform:scale(1); opacity:1}}
+  .modal-x{position:absolute; top:8px; right:10px; border:0; background:none; color:var(--muted);
+    font-size:26px; line-height:1; cursor:pointer; padding:4px 8px; border-radius:8px}
+  .modal-x:hover{color:var(--ink)}
+  .modal-card .eyebrow{margin-bottom:14px}
+  .qr{display:block; width:240px; height:240px; max-width:100%; margin:0 auto; border-radius:8px;
+    background:#fff; image-rendering:pixelated}
+  .qr-url{font-family:var(--mono); font-size:12px; color:var(--muted); word-break:break-all; margin:14px 0 0}
+  .qr-url a{color:var(--primary); text-decoration:none}
+  .qr-url a:hover{text-decoration:underline}
+  .modal-card a.btn{text-decoration:none}
