@@ -137,7 +137,7 @@
 
   /* ---- quiz state ---- */
   var MOD=null, byId={}, misses=[], stats={ans:0,ok:0};
-  var qs=[], idx=0, roundOk=0, roundMiss=[], answered=false, curMode="practice", lenChoice=20;
+  var qs=[], idx=0, roundOk=0, roundMiss=[], answered=false, curMode="practice", lenChoice=0;
 
   async function openModule(entry, mode){
     var raw;
