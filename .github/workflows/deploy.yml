@@ -11,10 +11,11 @@ permissions:
   pages: write
   id-token: write
 
-# One deploy at a time; a newer push cancels an in-progress run
+# One deploy at a time; let an in-progress deploy finish (per GitHub's Pages guidance)
+# rather than cancelling it, which can leave a failed deployment behind.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
