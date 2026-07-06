@@ -15,6 +15,13 @@
       "title": "ENGL114 — Core Vocabulary Test 1",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 — اختر الكلمة الإنجليزية الصحيحة.",
       "count": 20
+    },
+    {
+      "id": "engl114-core-vocabulary-test-2",
+      "file": "unit-vocab-test2.json",
+      "title": "ENGL114 — Core Vocabulary Test 2",
+      "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثاني) — اختر الكلمة المناسبة لإكمال الجملة.",
+      "count": 40
     }
   ]
 }

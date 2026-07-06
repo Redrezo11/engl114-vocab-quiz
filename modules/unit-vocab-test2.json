@@ -1,0 +1,650 @@
+{
+  "schemaVersion": 1,
+  "id": "engl114-core-vocabulary-test-2",
+  "title": "ENGL114 — Core Vocabulary Test 2",
+  "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثاني) — اختر الكلمة المناسبة لإكمال الجملة.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "The teacher praised the students' polite ___ during the field trip.",
+      "options": [
+        "behavior",
+        "opinion",
+        "decision",
+        "opportunity"
+      ],
+      "answerIndex": 0,
+      "hint": "behavior = سلوك — لاحظ كلمة \"polite\" وعبارة \"during the field trip\" في الجملة، فهما تدلان على طريقة تصرف الطلاب.",
+      "feedback": {
+        "correct": "أحسنت ✓ behavior = سلوك. مناسبة لأن الجملة تصف طريقة تصرف الطلاب أثناء الرحلة.",
+        "incorrect": "الإجابة الصحيحة هي behavior (سلوك). أمّا opinion تعني «رأي»، و decision تعني «قرار»، و opportunity تعني «فرصة» — ولا يصف أي منها طريقة تصرف الطلاب."
+      }
+    },
+    {
+      "id": "q2",
+      "prompt": "Please explain your idea ___; we only have five minutes left.",
+      "options": [
+        "briefly",
+        "permanently",
+        "rarely",
+        "silently"
+      ],
+      "answerIndex": 0,
+      "hint": "briefly = باختصار — لاحظ عبارة \"only have five minutes left\"، فهذا يدل على الحاجة للإيجاز في الشرح.",
+      "feedback": {
+        "correct": "أحسنت ✓ briefly = باختصار. مناسبة لأن الوقت المتبقي قليل جداً، فيجب الإيجاز.",
+        "incorrect": "الإجابة الصحيحة هي briefly (باختصار). أمّا permanently تعني «بشكل دائم»، و rarely تعني «نادراً»، و silently تعني «بصمت» — ولا يناسب أي منها الحاجة الملحّة للإيجاز بسبب ضيق الوقت."
+      }
+    },
+    {
+      "id": "q3",
+      "prompt": "She made a ___ decision to eat healthier after seeing her test results.",
+      "options": [
+        "conscious",
+        "accidental",
+        "careless",
+        "forgetful"
+      ],
+      "answerIndex": 0,
+      "hint": "conscious = واعٍ / مُدرِك — لاحظ عبارة \"after seeing her test results\"، فهذا يدل على أن القرار جاء بعد تفكير وإدراك للنتائج.",
+      "feedback": {
+        "correct": "أحسنت ✓ conscious = واعٍ / مُدرِك. مناسبة لأن القرار جاء بوعي بعد رؤية النتائج، وليس صدفة.",
+        "incorrect": "الإجابة الصحيحة هي conscious (واعٍ / مُدرِك). أمّا accidental تعني «عرضي / غير مقصود»، و careless تعني «مُهمل»، و forgetful تعني «كثير النسيان» — وكلها تصف قراراً غير مقصود أو غير مدروس، عكس ما تصفه الجملة."
+      }
+    },
+    {
+      "id": "q4",
+      "prompt": "The new teaching method proved ___; test scores improved significantly.",
+      "options": [
+        "effective",
+        "harmful",
+        "expensive",
+        "boring"
+      ],
+      "answerIndex": 0,
+      "hint": "effective = فعّال — لاحظ عبارة \"test scores improved significantly\"، فهذا يدل على نجاح الطريقة.",
+      "feedback": {
+        "correct": "أحسنت ✓ effective = فعّال. مناسبة لأن النتيجة كانت تحسّناً واضحاً في الدرجات.",
+        "incorrect": "الإجابة الصحيحة هي effective (فعّال). أمّا harmful تعني «ضار»، و expensive تعني «غالي الثمن»، و boring تعني «مُمل» — وكلها لا تفسر تحسّن الدرجات بشكل ملحوظ."
+      }
+    },
+    {
+      "id": "q5",
+      "prompt": "It was a brief ___ in the hallway, but she remembered his kind smile for years.",
+      "options": [
+        "encounter",
+        "decision",
+        "celebration",
+        "argument"
+      ],
+      "answerIndex": 0,
+      "hint": "encounter = لقاء / مواجهة — لاحظ عبارة \"kind smile for years\"، فهذا يدل على لقاء لطيف قصير وليس خلافاً أو حدثاً آخر.",
+      "feedback": {
+        "correct": "أحسنت ✓ encounter = لقاء / مواجهة. مناسبة لأن الجملة تصف لقاءً عابراً تُرك أثر إيجابي بعده.",
+        "incorrect": "الإجابة الصحيحة هي encounter (لقاء / مواجهة). أمّا decision تعني «قرار»، و celebration تعني «احتفال»، و argument تعني «جدال / خلاف» — وكلها لا تتوافق مع وصف \"kind smile\" (ابتسامة لطيفة) الذي يوحي بلقاء ودّي لا خلافاً أو مناسبة أخرى."
+      }
+    },
+    {
+      "id": "q6",
+      "prompt": "A small ___ in the calculation caused the whole budget to be wrong.",
+      "options": [
+        "error",
+        "feature",
+        "method",
+        "degree"
+      ],
+      "answerIndex": 0,
+      "hint": "error = خطأ — لاحظ عبارة \"caused the whole budget to be wrong\"، فهذا يدل على غلطة صغيرة أدت لنتيجة خاطئة.",
+      "feedback": {
+        "correct": "أحسنت ✓ error = خطأ. مناسبة لأن الجملة تصف غلطة صغيرة أدت إلى نتيجة خاطئة في الميزانية.",
+        "incorrect": "الإجابة الصحيحة هي error (خطأ). أمّا feature تعني «ميزة / خاصية»، و method تعني «طريقة / أسلوب»، و degree تعني «درجة» — وكلها لا تصف خطأً يمكن أن يُفسد حسابات الميزانية."
+      }
+    },
+    {
+      "id": "q7",
+      "prompt": "They hired an ___ to fix the complicated wiring problem.",
+      "options": [
+        "expert",
+        "stranger",
+        "beginner",
+        "artist"
+      ],
+      "answerIndex": 0,
+      "hint": "expert = خبير — لاحظ عبارة \"complicated wiring problem\"، فهذا يتطلب شخصاً ذا خبرة عالية.",
+      "feedback": {
+        "correct": "أحسنت ✓ expert = خبير. مناسبة لأن المشكلة معقّدة وتحتاج شخصاً متمرّساً لحلها.",
+        "incorrect": "الإجابة الصحيحة هي expert (خبير). أمّا stranger تعني «شخص غريب»، و beginner تعني «مبتدئ»، و artist تعني «فنان» — وكلها لا تصف الشخص المؤهَّل لحل مشكلة معقّدة كهذه."
+      }
+    },
+    {
+      "id": "q8",
+      "prompt": "The security guard became ___ when the man kept looking at the cameras.",
+      "options": [
+        "suspicious",
+        "confident",
+        "relaxed",
+        "cheerful"
+      ],
+      "answerIndex": 0,
+      "hint": "suspicious = مُرتاب / مشبوه — لاحظ عبارة \"kept looking at the cameras\"، فهذا تصرف يثير الشك.",
+      "feedback": {
+        "correct": "أحسنت ✓ suspicious = مُرتاب / مشبوه. مناسبة لأن تصرف الرجل (النظر المتكرر للكاميرات) يثير الريبة لدى الحارس.",
+        "incorrect": "الإجابة الصحيحة هي suspicious (مُرتاب / مشبوه). أمّا confident تعني «واثق»، و relaxed تعني «مسترخي»، و cheerful تعني «مرح» — وكلها تصف مشاعر إيجابية أو هادئة لا تناسب موقفاً يثير الشك."
+      }
+    },
+    {
+      "id": "q9",
+      "prompt": "Patience is an important ___ for anyone working with young children.",
+      "options": [
+        "trait",
+        "error",
+        "degree",
+        "risk"
+      ],
+      "answerIndex": 0,
+      "hint": "trait = سمة / صفة — لاحظ عبارة \"working with young children\"، فالجملة تتحدث عن صفة شخصية مفيدة في هذا المجال.",
+      "feedback": {
+        "correct": "أحسنت ✓ trait = سمة / صفة. مناسبة لأن الصبر يُوصف هنا كصفة شخصية مهمة، لا كخطأ أو درجة أو خطر.",
+        "incorrect": "الإجابة الصحيحة هي trait (سمة / صفة). أمّا error تعني «خطأ»، و degree تعني «درجة»، و risk تعني «خطر / مخاطرة» — وكلها لا تصف صفة شخصية يمتلكها الإنسان."
+      }
+    },
+    {
+      "id": "q10",
+      "prompt": "He ___ tapped his pen while thinking, without even noticing he was doing it.",
+      "options": [
+        "unconsciously",
+        "professionally",
+        "briefly",
+        "rarely"
+      ],
+      "answerIndex": 0,
+      "hint": "unconsciously = لا شعورياً / دون وعي — لاحظ عبارة \"without even noticing he was doing it\"، فهذا يدل على فعل غير مقصود ودون وعي.",
+      "feedback": {
+        "correct": "أحسنت ✓ unconsciously = لا شعورياً / دون وعي. مناسبة لأن الجملة تصف فعلاً حدث دون أن يشعر به صاحبه.",
+        "incorrect": "الإجابة الصحيحة هي unconsciously (لا شعورياً / دون وعي). أمّا professionally تعني «باحترافية»، و briefly تعني «باختصار»، و rarely تعني «نادراً» — وكلها لا تصف عدم الوعي بالفعل أثناء حدوثه."
+      }
+    },
+    {
+      "id": "q11",
+      "prompt": "Graduating at the top of her class was a major ___ for her.",
+      "options": [
+        "accomplishment",
+        "weakness",
+        "risk",
+        "error"
+      ],
+      "answerIndex": 0,
+      "hint": "accomplishment = إنجاز — لاحظ عبارة \"Graduating at the top of her class\"، فهذا يصف نجاحاً كبيراً حققته.",
+      "feedback": {
+        "correct": "أحسنت ✓ accomplishment = إنجاز. مناسبة لأن التخرج بالمرتبة الأولى يُعد نجاحاً وإنجازاً كبيراً.",
+        "incorrect": "الإجابة الصحيحة هي accomplishment (إنجاز). أمّا weakness تعني «ضعف / نقطة ضعف»، و risk تعني «خطر / مخاطرة»، و error تعني «خطأ» — وكلها تصف أمراً سلبياً، عكس النجاح الموصوف في الجملة."
+      }
+    },
+    {
+      "id": "q12",
+      "prompt": "I really ___ your help moving the furniture yesterday.",
+      "options": [
+        "appreciate",
+        "criticize",
+        "ignore",
+        "doubt"
+      ],
+      "answerIndex": 0,
+      "hint": "appreciate = يُقدّر — لاحظ عبارة \"your help moving the furniture\"، فالجملة تعبر عن الامتنان لمساعدة تلقاها.",
+      "feedback": {
+        "correct": "أحسنت ✓ appreciate = يُقدّر. مناسبة لأن الجملة تعبّر عن الشكر والامتنان على المساعدة.",
+        "incorrect": "الإجابة الصحيحة هي appreciate (يُقدّر). أمّا criticize تعني «ينتقد»، و ignore تعني «يتجاهل»، و doubt تعني «يشك في» — وكلها تعبّر عن مشاعر سلبية أو عدم اكتراث، عكس الامتنان."
+      }
+    },
+    {
+      "id": "q13",
+      "prompt": "Before making a decision, you should ___ all the possible outcomes.",
+      "options": [
+        "consider",
+        "ignore",
+        "forget",
+        "deny"
+      ],
+      "answerIndex": 0,
+      "hint": "consider = يأخذ في الاعتبار / يعتبر — لاحظ عبارة \"Before making a decision\"، فهذا يعني التفكير الجيد في كل الاحتمالات قبل القرار.",
+      "feedback": {
+        "correct": "أحسنت ✓ consider = يأخذ في الاعتبار / يعتبر. مناسبة لأن اتخاذ قرار سليم يتطلب التفكير في كل النتائج المحتملة أولاً.",
+        "incorrect": "الإجابة الصحيحة هي consider (يأخذ في الاعتبار / يعتبر). أمّا ignore تعني «يتجاهل»، و forget تعني «ينسى»، و deny تعني «يُنكر» — وكلها تتناقض مع النصيحة بالتفكير الجيد قبل اتخاذ القرار."
+      }
+    },
+    {
+      "id": "q14",
+      "prompt": "The coach will ___ the correct technique before students try it themselves.",
+      "options": [
+        "demonstrate",
+        "hide",
+        "forget",
+        "deny"
+      ],
+      "answerIndex": 0,
+      "hint": "demonstrate = يُوضّح / يُظهر — لاحظ عبارة \"before students try it themselves\"، فالمدرب سيُري الطريقة الصحيحة أولاً.",
+      "feedback": {
+        "correct": "أحسنت ✓ demonstrate = يُوضّح / يُظهر. مناسبة لأن المدرب سيُري الطلاب الطريقة الصحيحة قبل أن يجربوها بأنفسهم.",
+        "incorrect": "الإجابة الصحيحة هي demonstrate (يُوضّح / يُظهر). أمّا hide تعني «يُخفي»، و forget تعني «ينسى»، و deny تعني «يُنكر» — وكلها تتناقض مع فكرة إظهار الطريقة الصحيحة للطلاب."
+      }
+    },
+    {
+      "id": "q15",
+      "prompt": "Based on the tracking information, we ___ the package to arrive by Friday at the latest.",
+      "options": [
+        "expect",
+        "want",
+        "need",
+        "allow"
+      ],
+      "answerIndex": 0,
+      "hint": "expect = يتوقّع — لاحظ عبارة \"Based on the tracking information\"، فهذا يدل على توقّع مبني على معلومات فعلية وليس مجرد رغبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ expect = يتوقّع. مناسبة لأن الجملة تصف توقعاً مبنياً على معلومات التتبع الفعلية.",
+        "incorrect": "الإجابة الصحيحة هي expect (يتوقّع). أمّا want تعني «يريد»، و need تعني «يحتاج»، و allow تعني «يسمح بـ» — وكلها تعبّر عن رغبة أو حاجة أو سماح، لا عن توقّع مبني على معلومات."
+      }
+    },
+    {
+      "id": "q16",
+      "prompt": "Her presentation really ___ the judges, and she won first place.",
+      "options": [
+        "impressed",
+        "bored",
+        "offended",
+        "confused"
+      ],
+      "answerIndex": 0,
+      "hint": "impressed = أثارت الإعجاب / أبهرت — لاحظ عبارة \"she won first place\"، فهذا يدل على رد فعل إيجابي قوي من الحكام.",
+      "feedback": {
+        "correct": "أحسنت ✓ impressed = أثارت الإعجاب / أبهرت. مناسبة لأن فوزها بالمركز الأول يدل على رد فعل إيجابي مبهر من الحكام.",
+        "incorrect": "الإجابة الصحيحة هي impressed (أثارت الإعجاب / أبهرت). أمّا bored تعني «شعر بالملل»، و offended تعني «شعر بالإهانة»، و confused تعني «ارتبك» — وكلها تصف ردود فعل سلبية أو محايدة لا تتوافق مع الفوز بالمركز الأول."
+      }
+    },
+    {
+      "id": "q17",
+      "prompt": "It's important to ___ a healthy diet, even during busy weeks.",
+      "options": [
+        "maintain",
+        "abandon",
+        "avoid",
+        "criticize"
+      ],
+      "answerIndex": 0,
+      "hint": "maintain = يحافظ على — لاحظ عبارة \"even during busy weeks\"، فهذا يعني الاستمرار في النظام الصحي رغم الانشغال.",
+      "feedback": {
+        "correct": "أحسنت ✓ maintain = يحافظ على. مناسبة لأن الجملة تنصح بالاستمرار في الحمية الصحية حتى مع الانشغال.",
+        "incorrect": "الإجابة الصحيحة هي maintain (يحافظ على). أمّا abandon تعني «يتخلى عن»، و avoid تعني «يتجنّب»، و criticize تعني «ينتقد» — وكلها تتناقض مع النصيحة بالاستمرار في نظام غذائي صحي."
+      }
+    },
+    {
+      "id": "q18",
+      "prompt": "Several people in the audience walked out because they found his joke ___.",
+      "options": [
+        "offensive",
+        "professional",
+        "effective",
+        "balanced"
+      ],
+      "answerIndex": 0,
+      "hint": "offensive = مُسيء / مهين — لاحظ عبارة \"walked out\"، فهذا يدل على انزعاج شديد بسبب النكتة.",
+      "feedback": {
+        "correct": "أحسنت ✓ offensive = مُسيء / مهين. مناسبة لأن مغادرة الجمهور تدل على أن النكتة أزعجتهم أو أهانتهم.",
+        "incorrect": "الإجابة الصحيحة هي offensive (مُسيء / مهين). أمّا professional تعني «محترف / مهني»، و effective تعني «فعّال»، و balanced تعني «متوازن» — وكلها صفات إيجابية أو محايدة لا تفسّر سبب مغادرة الجمهور غاضباً."
+      }
+    },
+    {
+      "id": "q19",
+      "prompt": "She always dresses in a ___ manner for client meetings, following the company's strict dress code.",
+      "options": [
+        "professional",
+        "casual",
+        "careless",
+        "offensive"
+      ],
+      "answerIndex": 0,
+      "hint": "professional = محترف / مهني — لاحظ عبارة \"the company's strict dress code\"، فهذا يتطلب مظهراً رسمياً ومناسباً للعمل.",
+      "feedback": {
+        "correct": "أحسنت ✓ professional = محترف / مهني. مناسبة لأن قواعد اللباس الصارمة في الشركة تتطلب مظهراً رسمياً ومهنياً.",
+        "incorrect": "الإجابة الصحيحة هي professional (محترف / مهني). أمّا casual تعني «غير رسمي»، و careless تعني «مُهمل»، و offensive تعني «مُسيء / مهين» — وكلها تتناقض مع الالتزام بقواعد لباس صارمة في بيئة العمل."
+      }
+    },
+    {
+      "id": "q20",
+      "prompt": "Please ___ one option from the list below before submitting the form.",
+      "options": [
+        "select",
+        "ignore",
+        "deny",
+        "avoid"
+      ],
+      "answerIndex": 0,
+      "hint": "select = يختار — لاحظ عبارة \"one option from the list\"، فهذا يطلب اختيار واحد فقط قبل الإرسال.",
+      "feedback": {
+        "correct": "أحسنت ✓ select = يختار. مناسبة لأن الجملة تطلب اختيار خيار واحد من القائمة.",
+        "incorrect": "الإجابة الصحيحة هي select (يختار). أمّا ignore تعني «يتجاهل»، و deny تعني «يُنكر»، و avoid تعني «يتجنّب» — وكلها تتناقض مع طلب اختيار خيار من القائمة قبل الإرسال."
+      }
+    },
+    {
+      "id": "q21",
+      "prompt": "Time management is a ___ he is working hard to improve.",
+      "options": [
+        "weakness",
+        "accomplishment",
+        "opportunity",
+        "method"
+      ],
+      "answerIndex": 0,
+      "hint": "weakness = ضعف / نقطة ضعف — لاحظ عبارة \"he is working hard to improve\"، فهذا يدل على وجود جانب يحتاج تحسيناً.",
+      "feedback": {
+        "correct": "أحسنت ✓ weakness = ضعف / نقطة ضعف. مناسبة لأنه يحتاج تحسين قدرته على إدارة الوقت، مما يدل على نقطة ضعف حالية.",
+        "incorrect": "الإجابة الصحيحة هي weakness (ضعف / نقطة ضعف). أمّا accomplishment تعني «إنجاز»، و opportunity تعني «فرصة»، و method تعني «طريقة / أسلوب» — ولا يصف أي منها جانباً يحتاج إلى تحسين وتطوير."
+      }
+    },
+    {
+      "id": "q22",
+      "prompt": "There is a high ___ of uncertainty about tomorrow's weather.",
+      "options": [
+        "degree",
+        "method",
+        "feature",
+        "risk"
+      ],
+      "answerIndex": 0,
+      "hint": "degree = درجة — لاحظ عبارة \"of uncertainty about tomorrow's weather\"، فهذا يصف مستوى أو مقدار عدم اليقين.",
+      "feedback": {
+        "correct": "أحسنت ✓ degree = درجة. مناسبة لأن الجملة تصف مستوى أو مقدار عدم اليقين، وهذا هو التعبير الشائع \"degree of uncertainty\".",
+        "incorrect": "الإجابة الصحيحة هي degree (درجة). أمّا method تعني «طريقة / أسلوب»، و feature تعني «ميزة / خاصية»، و risk تعني «خطر / مخاطرة» — وكلها لا تُستخدم عادةً مع كلمة \"uncertainty\" بهذه الطريقة."
+      }
+    },
+    {
+      "id": "q23",
+      "prompt": "They really ___ hiking in the mountains every summer, especially the fresh air and the views.",
+      "options": [
+        "enjoy",
+        "avoid",
+        "regret",
+        "fear"
+      ],
+      "answerIndex": 0,
+      "hint": "enjoy = يستمتع بـ — لاحظ عبارة \"especially the fresh air and the views\"، فهذا يدل على شعور إيجابي تجاه النشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ enjoy = يستمتع بـ. مناسبة لأن الجملة تذكر أسباباً إيجابية (الهواء النقي والمناظر) تجعلهم يستمتعون بالنشاط.",
+        "incorrect": "الإجابة الصحيحة هي enjoy (يستمتع بـ). أمّا avoid تعني «يتجنّب»، و regret تعني «يندم على»، و fear تعني «يخاف من» — وكلها تعبّر عن مشاعر سلبية تجاه النشاط، عكس ما تصفه الجملة."
+      }
+    },
+    {
+      "id": "q24",
+      "prompt": "Scientists ___ with different temperatures to see how the material reacts.",
+      "options": [
+        "experiment",
+        "argue",
+        "compete",
+        "negotiate"
+      ],
+      "answerIndex": 0,
+      "hint": "experiment = يُجري تجربة / يُجرّب — لاحظ عبارة \"to see how the material reacts\"، فهذا يصف اختباراً علمياً لمعرفة نتيجة ما.",
+      "feedback": {
+        "correct": "أحسنت ✓ experiment = يُجري تجربة / يُجرّب. مناسبة لأن الجملة تصف اختباراً علمياً للتحقق من رد فعل المادة.",
+        "incorrect": "الإجابة الصحيحة هي experiment (يُجري تجربة / يُجرّب). أمّا argue تعني «يجادل»، و compete تعني «يتنافس»، و negotiate تعني «يتفاوض» — وكلها لا تصف اختباراً علمياً منظّماً للتحقق من نتيجة معينة."
+      }
+    },
+    {
+      "id": "q25",
+      "prompt": "One useful ___ of this phone is its long battery life.",
+      "options": [
+        "feature",
+        "risk",
+        "degree",
+        "error"
+      ],
+      "answerIndex": 0,
+      "hint": "feature = ميزة / خاصية — لاحظ عبارة \"its long battery life\"، فهذه صفة إيجابية في الجهاز.",
+      "feedback": {
+        "correct": "أحسنت ✓ feature = ميزة / خاصية. مناسبة لأن عمر البطارية الطويل يُعد خاصية إيجابية في الهاتف.",
+        "incorrect": "الإجابة الصحيحة هي feature (ميزة / خاصية). أمّا risk تعني «خطر / مخاطرة»، و degree تعني «درجة»، و error تعني «خطأ» — وكلها لا تصف خاصية إيجابية في جهاز إلكتروني."
+      }
+    },
+    {
+      "id": "q26",
+      "prompt": "It is ___ to see snow in this part of the country, since it almost never gets that cold.",
+      "options": [
+        "rare",
+        "typical",
+        "frequent",
+        "certain"
+      ],
+      "answerIndex": 0,
+      "hint": "rare = نادر — لاحظ عبارة \"it almost never gets that cold\"، فهذا يفسر سبب ندرة رؤية الثلج هناك.",
+      "feedback": {
+        "correct": "أحسنت ✓ rare = نادر. مناسبة لأن الجو هناك لا يبرد بما يكفي لتساقط الثلج إلا نادراً.",
+        "incorrect": "الإجابة الصحيحة هي rare (نادر). أمّا typical تعني «معتاد»، و frequent تعني «متكرر»، و certain تعني «مؤكد» — وكلها تتناقض مع عبارة \"almost never gets that cold\" التي تدل على الندرة لا التكرار أو التأكد."
+      }
+    },
+    {
+      "id": "q27",
+      "prompt": "Investing all your savings in one company is a big ___.",
+      "options": [
+        "risk",
+        "accomplishment",
+        "feature",
+        "method"
+      ],
+      "answerIndex": 0,
+      "hint": "risk = خطر / مخاطرة — لاحظ عبارة \"Investing all your savings in one company\"، فهذا تصرف قد يسبب خسارة كبيرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ risk = خطر / مخاطرة. مناسبة لأن استثمار كل المدخرات في شركة واحدة قد يؤدي إلى خسارة كبيرة.",
+        "incorrect": "الإجابة الصحيحة هي risk (خطر / مخاطرة). أمّا accomplishment تعني «إنجاز»، و feature تعني «ميزة / خاصية»، و method تعني «طريقة / أسلوب» — وكلها لا تصف احتمال الخسارة الناتج عن استثمار غير آمن."
+      }
+    },
+    {
+      "id": "q28",
+      "prompt": "Could you ___ a meeting with the manager for next Tuesday, since we haven't discussed the budget yet?",
+      "options": [
+        "arrange",
+        "cancel",
+        "forget",
+        "avoid"
+      ],
+      "answerIndex": 0,
+      "hint": "arrange = يُرتّب / يُنظّم — لاحظ عبارة \"since we haven't discussed the budget yet\"، فهذا يدل على الحاجة لتحديد موعد جديد، وليس إلغاء موعد قائم.",
+      "feedback": {
+        "correct": "أحسنت ✓ arrange = يُرتّب / يُنظّم. مناسبة لأنه لا يوجد اجتماع سابق، فالمطلوب هو تحديد موعد جديد.",
+        "incorrect": "الإجابة الصحيحة هي arrange (يُرتّب / يُنظّم). أمّا cancel تعني «يُلغي»، و forget تعني «ينسى»، و avoid تعني «يتجنّب» — وكلها لا تناسب طلب تحديد موعد جديد لم يُحدَّد بعد."
+      }
+    },
+    {
+      "id": "q29",
+      "prompt": "Her ___ talent is clear in the paintings hanging in the gallery.",
+      "options": [
+        "artistic",
+        "financial",
+        "professional",
+        "scientific"
+      ],
+      "answerIndex": 0,
+      "hint": "artistic = فنّي — لاحظ عبارة \"paintings hanging in the gallery\"، فهذا يصف موهبة في الفن.",
+      "feedback": {
+        "correct": "أحسنت ✓ artistic = فنّي. مناسبة لأن اللوحات المعروضة تدل على موهبة فنية.",
+        "incorrect": "الإجابة الصحيحة هي artistic (فنّي). أمّا financial تعني «مالي»، و professional تعني «محترف / مهني»، و scientific تعني «علمي» — وكلها لا تناسب موهبة تظهر من خلال اللوحات الفنية."
+      }
+    },
+    {
+      "id": "q30",
+      "prompt": "A ___ diet includes fruits, vegetables, protein, and grains.",
+      "options": [
+        "balanced",
+        "spicy",
+        "rare",
+        "identical"
+      ],
+      "answerIndex": 0,
+      "hint": "balanced = متوازن — لاحظ عبارة \"fruits, vegetables, protein, and grains\"، فهذا يصف تنوعاً صحياً في الغذاء.",
+      "feedback": {
+        "correct": "أحسنت ✓ balanced = متوازن. مناسبة لأن الجملة تصف نظاماً غذائياً متنوعاً وصحياً.",
+        "incorrect": "الإجابة الصحيحة هي balanced (متوازن). أمّا spicy تعني «حار / حِرّيف»، و rare تعني «نادر»، و identical تعني «متطابق / مماثل تماماً» — وكلها لا تصف تنوعاً صحياً في مكونات الغذاء."
+      }
+    },
+    {
+      "id": "q31",
+      "prompt": "The twins look so ___ that even their teacher can't tell them apart.",
+      "options": [
+        "identical",
+        "distinctive",
+        "artistic",
+        "sensitive"
+      ],
+      "answerIndex": 0,
+      "hint": "identical = متطابق / مماثل تماماً — لاحظ عبارة \"even their teacher can't tell them apart\"، فهذا يدل على تشابه تام بينهما.",
+      "feedback": {
+        "correct": "أحسنت ✓ identical = متطابق / مماثل تماماً. مناسبة لأن عدم القدرة على التمييز بينهما يدل على تطابق تام في الشكل.",
+        "incorrect": "الإجابة الصحيحة هي identical (متطابق / مماثل تماماً). أمّا distinctive تعني «مُميّز»، و artistic تعني «فنّي»، و sensitive تعني «حسّاس» — وكلها تتناقض مع فكرة عدم القدرة على التمييز بينهما."
+      }
+    },
+    {
+      "id": "q32",
+      "prompt": "The witness was able to ___ the suspect from a photograph.",
+      "options": [
+        "identify",
+        "forget",
+        "avoid",
+        "deny"
+      ],
+      "answerIndex": 0,
+      "hint": "identify = يُحدّد / يتعرّف على — لاحظ عبارة \"the suspect from a photograph\"، فهذا يعني التعرّف على شخص معين من خلال صورته.",
+      "feedback": {
+        "correct": "أحسنت ✓ identify = يُحدّد / يتعرّف على. مناسبة لأن الشاهد تمكّن من التعرّف على الشخص من خلال الصورة.",
+        "incorrect": "الإجابة الصحيحة هي identify (يُحدّد / يتعرّف على). أمّا forget تعني «ينسى»، و avoid تعني «يتجنّب»، و deny تعني «يُنكر» — وكلها لا تصف عملية التعرّف على شخص من صورة."
+      }
+    },
+    {
+      "id": "q33",
+      "prompt": "Advertisements can strongly ___ what people choose to buy.",
+      "options": [
+        "influence",
+        "ignore",
+        "avoid",
+        "forget"
+      ],
+      "answerIndex": 0,
+      "hint": "influence = يؤثّر — لاحظ عبارة \"what people choose to buy\"، فهذا يصف تأثير الإعلانات على قرارات الشراء.",
+      "feedback": {
+        "correct": "أحسنت ✓ influence = يؤثّر. مناسبة لأن الإعلانات تؤثّر فعلاً على اختيارات الناس الشرائية.",
+        "incorrect": "الإجابة الصحيحة هي influence (يؤثّر). أمّا ignore تعني «يتجاهل»، و avoid تعني «يتجنّب»، و forget تعني «ينسى» — وكلها لا تصف تأثير الإعلانات على قرارات الشراء."
+      }
+    },
+    {
+      "id": "q34",
+      "prompt": "According to the weather forecast, it is ___ to rain later today, so bring an umbrella.",
+      "options": [
+        "likely",
+        "rare",
+        "identical",
+        "balanced"
+      ],
+      "answerIndex": 0,
+      "hint": "likely = مُحتمَل / من المرجّح — لاحظ عبارة \"According to the weather forecast\" و\"so bring an umbrella\"، فهذا يدل على توقّع مبني على معلومات جوية.",
+      "feedback": {
+        "correct": "أحسنت ✓ likely = مُحتمَل / من المرجّح. مناسبة لأن توقعات الطقس تشير إلى احتمال هطول المطر، لذا يُنصح بإحضار مظلة.",
+        "incorrect": "الإجابة الصحيحة هي likely (مُحتمَل / من المرجّح). أمّا rare تعني «نادر»، و identical تعني «متطابق / مماثل تماماً»، و balanced تعني «متوازن» — وكلها لا تتوافق مع توقّع مبني على نشرة جوية يستدعي إحضار مظلة."
+      }
+    },
+    {
+      "id": "q35",
+      "prompt": "This teaching ___ focuses on group discussion rather than lectures.",
+      "options": [
+        "method",
+        "opinion",
+        "feature",
+        "risk"
+      ],
+      "answerIndex": 0,
+      "hint": "method = طريقة / أسلوب — لاحظ عبارة \"group discussion rather than lectures\"، فهذا يصف أسلوباً معيناً في التدريس.",
+      "feedback": {
+        "correct": "أحسنت ✓ method = طريقة / أسلوب. مناسبة لأن الجملة تصف أسلوباً أو طريقة معينة في التدريس.",
+        "incorrect": "الإجابة الصحيحة هي method (طريقة / أسلوب). أمّا opinion تعني «رأي»، و feature تعني «ميزة / خاصية»، و risk تعني «خطر / مخاطرة» — وكلها لا تصف أسلوباً أو طريقة تدريس محددة."
+      }
+    },
+    {
+      "id": "q36",
+      "prompt": "No matter the situation, she always acts according to one guiding ___: never lie, even when it's difficult.",
+      "options": [
+        "principle",
+        "method",
+        "feature",
+        "degree"
+      ],
+      "answerIndex": 0,
+      "hint": "principle = مبدأ — لاحظ عبارة \"never lie, even when it's difficult\"، فهذا يصف قيمة أو قاعدة أساسية تُوجّه تصرفاتها.",
+      "feedback": {
+        "correct": "أحسنت ✓ principle = مبدأ. مناسبة لأن الجملة تصف قاعدة أخلاقية ثابتة تلتزم بها مهما كانت الظروف.",
+        "incorrect": "الإجابة الصحيحة هي principle (مبدأ). أمّا method تعني «طريقة / أسلوب»، و feature تعني «ميزة / خاصية»، و degree تعني «درجة» — وكلها لا تصف قيمة أو قاعدة أخلاقية ثابتة يلتزم بها الشخص."
+      }
+    },
+    {
+      "id": "q37",
+      "prompt": "I didn't ___ him at first because he had cut his hair short.",
+      "options": [
+        "recognize",
+        "forget",
+        "avoid",
+        "deny"
+      ],
+      "answerIndex": 0,
+      "hint": "recognize = يتعرّف على / يُميّز — لاحظ عبارة \"because he had cut his hair short\"، فهذا يفسر سبب عدم معرفته للوهلة الأولى.",
+      "feedback": {
+        "correct": "أحسنت ✓ recognize = يتعرّف على / يُميّز. مناسبة لأن تغيّر شكل شعره هو سبب منطقي لعدم التعرّف عليه فوراً.",
+        "incorrect": "الإجابة الصحيحة هي recognize (يتعرّف على / يُميّز). أمّا forget تعني «ينسى»، و avoid تعني «يتجنّب»، و deny تعني «يُنكر» — وكلها لا تُفسَّر منطقياً بسبب تغيّر شكل الشعر."
+      }
+    },
+    {
+      "id": "q38",
+      "prompt": "Please be ___ when discussing the topic; it upsets some people.",
+      "options": [
+        "sensitive",
+        "offensive",
+        "careless",
+        "confident"
+      ],
+      "answerIndex": 0,
+      "hint": "sensitive = حسّاس — لاحظ عبارة \"it upsets some people\"، فهذا يطلب مراعاة مشاعر الآخرين.",
+      "feedback": {
+        "correct": "أحسنت ✓ sensitive = حسّاس. مناسبة لأن الموضوع يزعج البعض، لذا يجب التعامل معه بمراعاة ولطف.",
+        "incorrect": "الإجابة الصحيحة هي sensitive (حسّاس). أمّا offensive تعني «مُسيء / مهين»، و careless تعني «مُهمل»، و confident تعني «واثق» — وكلها تتناقض مع طلب مراعاة مشاعر من يزعجهم الموضوع."
+      }
+    },
+    {
+      "id": "q39",
+      "prompt": "The library uses a digital ___ to track which books have been borrowed.",
+      "options": [
+        "system",
+        "risk",
+        "degree",
+        "trait"
+      ],
+      "answerIndex": 0,
+      "hint": "system = نظام — لاحظ عبارة \"to track which books have been borrowed\"، فهذا يصف مجموعة متكاملة من الإجراءات والتقنيات.",
+      "feedback": {
+        "correct": "أحسنت ✓ system = نظام. مناسبة لأن تتبع الكتب المُستعارة يتطلب نظاماً رقمياً منظّماً.",
+        "incorrect": "الإجابة الصحيحة هي system (نظام). أمّا risk تعني «خطر / مخاطرة»، و degree تعني «درجة»، و trait تعني «سمة / صفة» — وكلها لا تصف مجموعة إجراءات أو تقنية لتتبع الكتب."
+      }
+    },
+    {
+      "id": "q40",
+      "prompt": "It took her a while to ___ with the stress of her new job.",
+      "options": [
+        "cope",
+        "agree",
+        "argue",
+        "compete"
+      ],
+      "answerIndex": 0,
+      "hint": "cope = يتأقلم / يتعامل مع — لاحظ عبارة \"the stress of her new job\"، فهذا يصف طريقة التعامل مع ضغط العمل.",
+      "feedback": {
+        "correct": "أحسنت ✓ cope = يتأقلم / يتعامل مع. مناسبة لأن الجملة تصف عملية التأقلم التدريجي مع ضغط الوظيفة الجديدة.",
+        "incorrect": "الإجابة الصحيحة هي cope (يتأقلم / يتعامل مع). أمّا agree تعني «يوافق»، و argue تعني «يجادل»، و compete تعني «يتنافس» — وكلها لا تصف عملية التعامل مع الضغط النفسي أو التأقلم معه."
+      }
+    }
+  ]
+}
