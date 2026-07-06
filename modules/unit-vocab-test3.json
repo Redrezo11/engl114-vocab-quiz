@@ -1,0 +1,1002 @@
+{
+  "schemaVersion": 1,
+  "id": "engl114-core-vocabulary-test-3",
+  "title": "ENGL114 — Core Vocabulary Test 3",
+  "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثالث) — اختر الكلمة المناسبة لإكمال الجملة.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Within the first few seconds of meeting someone, we often ___ about their personality.",
+      "options": [
+        "form an impression",
+        "make an appointment",
+        "take a risk",
+        "reach an agreement"
+      ],
+      "answerIndex": 0,
+      "hint": "form an impression = يكوّن انطباعاً — لاحظ عبارة \"Within the first few seconds of meeting someone\"، نتحدث عن انطباع أولي سريع نُكوّنه عن شخص بمجرد لقائه.",
+      "feedback": {
+        "correct": "أحسنت ✓ form an impression = يكوّن انطباعاً. نتحدث عن انطباع أولي سريع نُكوّنه عن شخص بمجرد لقائه.",
+        "incorrect": "الإجابة الصحيحة هي form an impression (يكوّن انطباعاً). أمّا make an appointment تعني «يحدد موعداً»، و take a risk تعني «يخاطر»، و reach an agreement تعني «يتوصل إلى اتفاق» — ولا يصف أي منها الانطباع الأولي الذي نُكوّنه عن شخص جديد."
+      }
+    },
+    {
+      "id": "q2",
+      "prompt": "Poor weather conditions may ___ the delay in construction.",
+      "options": [
+        "account for",
+        "apply for",
+        "look for",
+        "wait for"
+      ],
+      "answerIndex": 0,
+      "hint": "account for = يُفسّر / يُبرّر — لاحظ عبارة \"the delay in construction\"، الطقس السيئ يُفسّر سبب التأخير في البناء.",
+      "feedback": {
+        "correct": "أحسنت ✓ account for = يُفسّر / يُبرّر. الطقس السيئ يُفسّر سبب التأخير في البناء.",
+        "incorrect": "الإجابة الصحيحة هي account for (يُفسّر / يُبرّر). أمّا apply for تعني «يتقدّم بطلب لـ»، و look for تعني «يبحث عن»، و wait for تعني «ينتظر» — وكلها لا تصف تفسير سبب حدوث شيء ما."
+      }
+    },
+    {
+      "id": "q3",
+      "prompt": "Genetics can ___ determining a person's height.",
+      "options": [
+        "play a role in",
+        "take part of",
+        "make sense of",
+        "keep track of"
+      ],
+      "answerIndex": 0,
+      "hint": "play a role in = يلعب دوراً في — لاحظ عبارة \"determining a person's height\"، الجينات تُسهم أو تلعب دوراً في تحديد الطول.",
+      "feedback": {
+        "correct": "أحسنت ✓ play a role in = يلعب دوراً في. الجينات تُسهم أو تلعب دوراً في تحديد الطول.",
+        "incorrect": "الإجابة الصحيحة هي play a role in (يلعب دوراً في). أمّا take part of تعني «يشارك في»، و make sense of تعني «يفهم»، و keep track of تعني «يتابع» — وكلها تعابير غير صحيحة أو لا تناسب فكرة المساهمة في نتيجة ما."
+      }
+    },
+    {
+      "id": "q4",
+      "prompt": "Without proper vaccination, young children are ___ of catching the disease.",
+      "options": [
+        "at risk",
+        "in favor",
+        "in charge",
+        "on time"
+      ],
+      "answerIndex": 0,
+      "hint": "at risk = في خطر / مُعرّض للخطر — لاحظ عبارة \"Without proper vaccination\"، عدم التطعيم يجعل الأطفال مُعرّضين لخطر الإصابة بالمرض.",
+      "feedback": {
+        "correct": "أحسنت ✓ at risk = في خطر / مُعرّض للخطر. عدم التطعيم يجعل الأطفال مُعرّضين لخطر الإصابة بالمرض.",
+        "incorrect": "الإجابة الصحيحة هي at risk (في خطر / مُعرّض للخطر). أمّا in favor تعني «مؤيِّد»، و in charge تعني «مسؤول / مُشرِف»، و on time تعني «في الوقت المحدد» — وكلها لا تصف التعرّض لخطر الإصابة بمرض."
+      }
+    },
+    {
+      "id": "q5",
+      "prompt": "She said she would ___ stay late if the project needed it.",
+      "options": [
+        "be willing to",
+        "be afraid to",
+        "be certain to",
+        "be unable to"
+      ],
+      "answerIndex": 0,
+      "hint": "be willing to = يكون مستعداً لـ / راغباً في — لاحظ عبارة \"if the project needed it\"، تُعبّر عن استعدادها للبقاء متأخرة إذا لزم الأمر.",
+      "feedback": {
+        "correct": "أحسنت ✓ be willing to = يكون مستعداً لـ / راغباً في. تُعبّر عن استعدادها للبقاء متأخرة إذا لزم الأمر.",
+        "incorrect": "الإجابة الصحيحة هي be willing to (يكون مستعداً لـ / راغباً في). أمّا be afraid to تعني «يخاف من»، و be certain to تعني «يكون متأكداً من»، و be unable to تعني «يكون غير قادر على» — وكلها تصف الخوف أو التأكد أو عدم القدرة، لا الاستعداد للمساعدة."
+      }
+    },
+    {
+      "id": "q6",
+      "prompt": "Owning an expensive sports car is often seen as a ___ rather than a necessity.",
+      "options": [
+        "status symbol",
+        "natural resource",
+        "personal opinion",
+        "cultural tradition"
+      ],
+      "answerIndex": 0,
+      "hint": "status symbol = رمز مكانة اجتماعية — لاحظ عبارة \"rather than a necessity\"، السيارة الفاخرة تُعبّر عن مكانة اجتماعية، لا عن حاجة ضرورية.",
+      "feedback": {
+        "correct": "أحسنت ✓ status symbol = رمز مكانة اجتماعية. السيارة الفاخرة تُعبّر عن مكانة اجتماعية، لا عن حاجة ضرورية.",
+        "incorrect": "الإجابة الصحيحة هي status symbol (رمز مكانة اجتماعية). أمّا natural resource تعني «مورد طبيعي»، و personal opinion تعني «رأي شخصي»، و cultural tradition تعني «تقليد ثقافي» — وكلها لا تصف شيئاً يُقتنى لإظهار المكانة الاجتماعية."
+      }
+    },
+    {
+      "id": "q7",
+      "prompt": "It took the team all night to ___ the final presentation.",
+      "options": [
+        "put together",
+        "give up on",
+        "look forward to",
+        "take care of"
+      ],
+      "answerIndex": 0,
+      "hint": "put together = يُجمّع / يُركّب — لاحظ عبارة \"all night\"، الفريق عمل طوال الليل لتجميع وإعداد العرض النهائي.",
+      "feedback": {
+        "correct": "أحسنت ✓ put together = يُجمّع / يُركّب. الفريق عمل طوال الليل لتجميع وإعداد العرض النهائي.",
+        "incorrect": "الإجابة الصحيحة هي put together (يُجمّع / يُركّب). أمّا give up on تعني «يتخلى عن»، و look forward to تعني «يتطلّع إلى»، و take care of تعني «يعتني بـ» — وكلها لا تصف عملية تجميع أو إعداد شيء ما."
+      }
+    },
+    {
+      "id": "q8",
+      "prompt": "The sudden loss of her job seemed to ___ her entire life.",
+      "options": [
+        "turn upside down",
+        "take advantage of",
+        "keep track of",
+        "make sense of"
+      ],
+      "answerIndex": 0,
+      "hint": "turn upside down = يقلب رأساً على عقب — لاحظ عبارة \"The sudden loss of her job\"، فقدان الوظيفة المفاجئ قلب حياتها رأساً على عقب.",
+      "feedback": {
+        "correct": "أحسنت ✓ turn upside down = يقلب رأساً على عقب. فقدان الوظيفة المفاجئ قلب حياتها رأساً على عقب.",
+        "incorrect": "الإجابة الصحيحة هي turn upside down (يقلب رأساً على عقب). أمّا take advantage of تعني «يستغل»، و keep track of تعني «يتابع»، و make sense of تعني «يفهم» — وكلها لا تصف تغييراً جذرياً ومفاجئاً في حياة شخص."
+      }
+    },
+    {
+      "id": "q9",
+      "prompt": "Doctors often explain ___ regular exercise to their patients.",
+      "options": [
+        "the benefits of",
+        "the risk of",
+        "the shortage of",
+        "the opposite of"
+      ],
+      "answerIndex": 0,
+      "hint": "the benefits of = فوائد / منافع — لاحظ عبارة \"Doctors often explain\"، الأطباء يشرحون فوائد الرياضة المنتظمة لمرضاهم.",
+      "feedback": {
+        "correct": "أحسنت ✓ the benefits of = فوائد / منافع. الأطباء يشرحون فوائد الرياضة المنتظمة لمرضاهم.",
+        "incorrect": "الإجابة الصحيحة هي the benefits of (فوائد / منافع). أمّا the risk of تعني «خطر»، و the shortage of تعني «نقص»، و the opposite of تعني «عكس» — وكلها لا تصف الفوائد الإيجابية للرياضة."
+      }
+    },
+    {
+      "id": "q10",
+      "prompt": "After all the discussion, ___ is that we simply don't have enough money.",
+      "options": [
+        "the bottom line",
+        "the status symbol",
+        "the snap judgment",
+        "the side effect"
+      ],
+      "answerIndex": 0,
+      "hint": "the bottom line = الخلاصة / النتيجة النهائية — لاحظ عبارة \"After all the discussion\"، بعد كل النقاش، تُلخَّص المشكلة الحقيقية بعدم كفاية المال.",
+      "feedback": {
+        "correct": "أحسنت ✓ the bottom line = الخلاصة / النتيجة النهائية. بعد كل النقاش، تُلخَّص المشكلة الحقيقية بعدم كفاية المال.",
+        "incorrect": "الإجابة الصحيحة هي the bottom line (الخلاصة / النتيجة النهائية). أمّا the status symbol تعني «رمز المكانة الاجتماعية»، و the snap judgment تعني «الحكم المتسرّع»، و the side effect تعني «أثر جانبي» — وكلها لا تصف الخلاصة أو النتيجة النهائية لنقاش طويل."
+      }
+    },
+    {
+      "id": "q11",
+      "prompt": "When planning the trip, you should ___ the weather forecast.",
+      "options": [
+        "take into account",
+        "get rid of",
+        "keep up with",
+        "put up with"
+      ],
+      "answerIndex": 0,
+      "hint": "take into account = يأخذ في الاعتبار / يضع في الحسبان — لاحظ عبارة \"When planning the trip\"، عند التخطيط للرحلة، يجب مراعاة توقعات الطقس.",
+      "feedback": {
+        "correct": "أحسنت ✓ take into account = يأخذ في الاعتبار / يضع في الحسبان. عند التخطيط للرحلة، يجب مراعاة توقعات الطقس.",
+        "incorrect": "الإجابة الصحيحة هي take into account (يأخذ في الاعتبار / يضع في الحسبان). أمّا get rid of تعني «يتخلص من»، و keep up with تعني «يواكب»، و put up with تعني «يتحمّل» — وكلها لا تصف مراعاة معلومة معينة عند اتخاذ قرار."
+      }
+    },
+    {
+      "id": "q12",
+      "prompt": "The police discovered that the passport was ___, not real.",
+      "options": [
+        "fake",
+        "rare",
+        "local",
+        "annual"
+      ],
+      "answerIndex": 0,
+      "hint": "fake = مزيّف / مقلَّد — لاحظ عبارة \"not real\"، الجواز غير حقيقي، أي أنه مزيّف.",
+      "feedback": {
+        "correct": "أحسنت ✓ fake = مزيّف / مقلَّد. الجواز غير حقيقي، أي أنه مزيّف.",
+        "incorrect": "الإجابة الصحيحة هي fake (مزيّف / مقلَّد). أمّا rare تعني «نادر»، و local تعني «محلي»، و annual تعني «سنوي» — وكلها لا تعني «غير حقيقي» أو «مقلَّد»."
+      }
+    },
+    {
+      "id": "q13",
+      "prompt": "Constant criticism can have a ___ effect on a child's confidence.",
+      "options": [
+        "negative",
+        "financial",
+        "annual",
+        "distinctive"
+      ],
+      "answerIndex": 0,
+      "hint": "negative = سلبي — لاحظ عبارة \"on a child's confidence\"، الانتقاد المستمر يُضعف ثقة الطفل بنفسه، أي له أثر سلبي.",
+      "feedback": {
+        "correct": "أحسنت ✓ negative = سلبي. الانتقاد المستمر يُضعف ثقة الطفل بنفسه، أي له أثر سلبي.",
+        "incorrect": "الإجابة الصحيحة هي negative (سلبي). أمّا financial تعني «مالي»، و annual تعني «سنوي»، و distinctive تعني «مُميّز / فريد» — وكلها لا تصف أثراً سلبياً على الثقة بالنفس."
+      }
+    },
+    {
+      "id": "q14",
+      "prompt": "The lab tested a small ___ of the water before approving it for drinking.",
+      "options": [
+        "sample",
+        "element",
+        "factor",
+        "symbol"
+      ],
+      "answerIndex": 0,
+      "hint": "sample = عيّنة — لاحظ عبارة \"before approving it for drinking\"، المختبر اختبر كمية صغيرة (عيّنة) من الماء قبل الموافقة عليه.",
+      "feedback": {
+        "correct": "أحسنت ✓ sample = عيّنة. المختبر اختبر كمية صغيرة (عيّنة) من الماء قبل الموافقة عليه.",
+        "incorrect": "الإجابة الصحيحة هي sample (عيّنة). أمّا element تعني «عنصر»، و factor تعني «عامل»، و symbol تعني «رمز» — وكلها لا تصف كمية صغيرة تُؤخذ للفحص."
+      }
+    },
+    {
+      "id": "q15",
+      "prompt": "Teenagers often use ___ that older generations don't understand.",
+      "options": [
+        "slang",
+        "research",
+        "feedback",
+        "merchandise"
+      ],
+      "answerIndex": 0,
+      "hint": "slang = لغة عامية / دارجة — لاحظ عبارة \"that older generations don't understand\"، المراهقون يستخدمون لغة عامية خاصة بجيلهم لا يفهمها الكبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ slang = لغة عامية / دارجة. المراهقون يستخدمون لغة عامية خاصة بجيلهم لا يفهمها الكبار.",
+        "incorrect": "الإجابة الصحيحة هي slang (لغة عامية / دارجة). أمّا research تعني «بحث»، و feedback تعني «تغذية راجعة / ملاحظات»، و merchandise تعني «بضائع / سلع» — وكلها لا تصف نوعاً من اللغة أو الكلام."
+      }
+    },
+    {
+      "id": "q16",
+      "prompt": "Running for thirty minutes can ___ several hundred calories.",
+      "options": [
+        "burn",
+        "earn",
+        "solve",
+        "locate"
+      ],
+      "answerIndex": 0,
+      "hint": "burn = يحرق — لاحظ عبارة \"several hundred calories\"، الجري يحرق عدداً من السعرات الحرارية.",
+      "feedback": {
+        "correct": "أحسنت ✓ burn = يحرق. الجري يحرق عدداً من السعرات الحرارية.",
+        "incorrect": "الإجابة الصحيحة هي burn (يحرق). أمّا earn تعني «يكسب / يحصل على أجر»، و solve تعني «يحلّ»، و locate تعني «يُحدّد موقع / يعثر على» — وكلها لا تصف عملية التخلص من السعرات الحرارية عبر الحركة."
+      }
+    },
+    {
+      "id": "q17",
+      "prompt": "The festival celebrates the city's ___ diversity, with food and music from many cultures.",
+      "options": [
+        "ethnic",
+        "financial",
+        "annual",
+        "personal"
+      ],
+      "answerIndex": 0,
+      "hint": "ethnic = عِرقي / إثني — لاحظ عبارة \"with food and music from many cultures\"، المهرجان يحتفي بالتنوع العِرقي والثقافي في المدينة.",
+      "feedback": {
+        "correct": "أحسنت ✓ ethnic = عِرقي / إثني. المهرجان يحتفي بالتنوع العِرقي والثقافي في المدينة.",
+        "incorrect": "الإجابة الصحيحة هي ethnic (عِرقي / إثني). أمّا financial تعني «مالي»، و annual تعني «سنوي»، و personal تعني «شخصي» — وكلها لا تصف تنوع الأصول والثقافات المختلفة."
+      }
+    },
+    {
+      "id": "q18",
+      "prompt": "We prefer to buy vegetables from ___ farmers rather than large supermarkets.",
+      "options": [
+        "local",
+        "global",
+        "previous",
+        "digital"
+      ],
+      "answerIndex": 0,
+      "hint": "local = محلي — لاحظ عبارة \"rather than large supermarkets\"، نُفضّل شراء الخضار من مزارعين محليين قريبين لا من متاجر كبرى.",
+      "feedback": {
+        "correct": "أحسنت ✓ local = محلي. نُفضّل شراء الخضار من مزارعين محليين قريبين لا من متاجر كبرى.",
+        "incorrect": "الإجابة الصحيحة هي local (محلي). أمّا global تعني «عالمي»، و previous تعني «سابق»، و digital تعني «رقمي» — وكلها لا تصف مصدراً قريباً أو محلياً للمنتجات."
+      }
+    },
+    {
+      "id": "q19",
+      "prompt": "He avoids ___ food because it upsets his stomach.",
+      "options": [
+        "spicy",
+        "ethnic",
+        "fake",
+        "distinctive"
+      ],
+      "answerIndex": 0,
+      "hint": "spicy = حار / حِرّيف — لاحظ عبارة \"because it upsets his stomach\"، الطعام الحار يُزعج معدته، لذا يتجنّبه.",
+      "feedback": {
+        "correct": "أحسنت ✓ spicy = حار / حِرّيف. الطعام الحار يُزعج معدته، لذا يتجنّبه.",
+        "incorrect": "الإجابة الصحيحة هي spicy (حار / حِرّيف). أمّا ethnic تعني «عِرقي / إثني»، و fake تعني «مزيّف / مقلَّد»، و distinctive تعني «مُميّز / فريد» — وكلها لا تصف نوع طعام يسبب اضطراباً في المعدة."
+      }
+    },
+    {
+      "id": "q20",
+      "prompt": "After months of practice, she ___ passed her driving test.",
+      "options": [
+        "eventually",
+        "previously",
+        "rarely",
+        "briefly"
+      ],
+      "answerIndex": 0,
+      "hint": "eventually = في النهاية / في نهاية المطاف — لاحظ عبارة \"After months of practice\"، بعد أشهر من التدريب، نجحت أخيراً وفي النهاية.",
+      "feedback": {
+        "correct": "أحسنت ✓ eventually = في النهاية / في نهاية المطاف. بعد أشهر من التدريب، نجحت أخيراً وفي النهاية.",
+        "incorrect": "الإجابة الصحيحة هي eventually (في النهاية / في نهاية المطاف). أمّا previously تعني «سابقاً»، و rarely تعني «نادراً»، و briefly تعني «باختصار» — وكلها لا تناسب النتيجة النهائية بعد فترة طويلة من التدريب."
+      }
+    },
+    {
+      "id": "q21",
+      "prompt": "The two friends decided to ___ their own company after graduating.",
+      "options": [
+        "found",
+        "quit",
+        "monitor",
+        "regulate"
+      ],
+      "answerIndex": 0,
+      "hint": "found = يؤسّس / يُنشئ — لاحظ عبارة \"after graduating\"، الصديقان قررا تأسيس شركة خاصة بهما.",
+      "feedback": {
+        "correct": "أحسنت ✓ found = يؤسّس / يُنشئ. الصديقان قررا تأسيس شركة خاصة بهما.",
+        "incorrect": "الإجابة الصحيحة هي found (يؤسّس / يُنشئ). أمّا quit تعني «يترك / يستقيل»، و monitor تعني «يراقب / يرصد»، و regulate تعني «يُنظّم / يضبط» — وكلها لا تصف تأسيس أو إنشاء شركة جديدة."
+      }
+    },
+    {
+      "id": "q22",
+      "prompt": "He decided to ___ his job to travel around the world.",
+      "options": [
+        "quit",
+        "found",
+        "monitor",
+        "regulate"
+      ],
+      "answerIndex": 0,
+      "hint": "quit = يترك / يستقيل — لاحظ عبارة \"to travel around the world\"، قرر ترك وظيفته للسفر حول العالم.",
+      "feedback": {
+        "correct": "أحسنت ✓ quit = يترك / يستقيل. قرر ترك وظيفته للسفر حول العالم.",
+        "incorrect": "الإجابة الصحيحة هي quit (يترك / يستقيل). أمّا found تعني «يؤسّس / يُنشئ»، و monitor تعني «يراقب / يرصد»، و regulate تعني «يُنظّم / يضبط» — وكلها لا تصف ترك وظيفة أو الاستقالة منها."
+      }
+    },
+    {
+      "id": "q23",
+      "prompt": "After the factory closed, hundreds of workers became ___.",
+      "options": [
+        "unemployed",
+        "informed",
+        "distinctive",
+        "significant"
+      ],
+      "answerIndex": 0,
+      "hint": "unemployed = عاطل عن العمل — لاحظ عبارة \"After the factory closed\"، إغلاق المصنع أدى إلى فقدان مئات العمال لوظائفهم.",
+      "feedback": {
+        "correct": "أحسنت ✓ unemployed = عاطل عن العمل. إغلاق المصنع أدى إلى فقدان مئات العمال لوظائفهم.",
+        "incorrect": "الإجابة الصحيحة هي unemployed (عاطل عن العمل). أمّا informed تعني «مُطّلع / على دراية»، و distinctive تعني «مُميّز / فريد»، و significant تعني «مهمّ / ذو دلالة» — وكلها لا تصف حالة فقدان الوظيفة."
+      }
+    },
+    {
+      "id": "q24",
+      "prompt": "The researchers collected ___ from over a thousand participants.",
+      "options": [
+        "data",
+        "feedback",
+        "merchandise",
+        "resource"
+      ],
+      "answerIndex": 0,
+      "hint": "data = بيانات — لاحظ عبارة \"from over a thousand participants\"، الباحثون جمعوا بيانات من عدد كبير من المشاركين.",
+      "feedback": {
+        "correct": "أحسنت ✓ data = بيانات. الباحثون جمعوا بيانات من عدد كبير من المشاركين.",
+        "incorrect": "الإجابة الصحيحة هي data (بيانات). أمّا feedback تعني «تغذية راجعة / ملاحظات»، و merchandise تعني «بضائع / سلع»، و resource تعني «مورد» — وكلها لا تصف معلومات تُجمع من مشاركين في دراسة."
+      }
+    },
+    {
+      "id": "q25",
+      "prompt": "Scientists were excited to ___ a new species of frog in the rainforest.",
+      "options": [
+        "discover",
+        "monitor",
+        "found",
+        "predict"
+      ],
+      "answerIndex": 0,
+      "hint": "discover = يكتشف — لاحظ عبارة \"a new species of frog\"، العلماء اكتشفوا نوعاً جديداً من الضفادع.",
+      "feedback": {
+        "correct": "أحسنت ✓ discover = يكتشف. العلماء اكتشفوا نوعاً جديداً من الضفادع.",
+        "incorrect": "الإجابة الصحيحة هي discover (يكتشف). أمّا monitor تعني «يراقب / يرصد»، و found تعني «يؤسّس / يُنشئ»، و predict تعني «يتنبّأ / يتوقّع» — وكلها لا تصف العثور على شيء جديد لم يكن معروفاً من قبل."
+      }
+    },
+    {
+      "id": "q26",
+      "prompt": "Climate change is a ___ problem that affects every country.",
+      "options": [
+        "global",
+        "local",
+        "previous",
+        "annual"
+      ],
+      "answerIndex": 0,
+      "hint": "global = عالمي — لاحظ عبارة \"that affects every country\"، تغيّر المناخ مشكلة عالمية تؤثر على كل الدول.",
+      "feedback": {
+        "correct": "أحسنت ✓ global = عالمي. تغيّر المناخ مشكلة عالمية تؤثر على كل الدول.",
+        "incorrect": "الإجابة الصحيحة هي global (عالمي). أمّا local تعني «محلي»، و previous تعني «سابق»، و annual تعني «سنوي» — وكلها لا تصف مشكلة تشمل العالم كله."
+      }
+    },
+    {
+      "id": "q27",
+      "prompt": "One ___ of the study is that it only included adult participants.",
+      "options": [
+        "limitation",
+        "invention",
+        "judgment",
+        "element"
+      ],
+      "answerIndex": 0,
+      "hint": "limitation = قيد / حدّ / محدودية — لاحظ عبارة \"only included adult participants\"، اقتصار الدراسة على البالغين يُعد قيداً أو محدودية فيها.",
+      "feedback": {
+        "correct": "أحسنت ✓ limitation = قيد / حدّ / محدودية. اقتصار الدراسة على البالغين يُعد قيداً أو محدودية فيها.",
+        "incorrect": "الإجابة الصحيحة هي limitation (قيد / حدّ / محدودية). أمّا invention تعني «اختراع»، و judgment تعني «حُكم / تقدير»، و element تعني «عنصر» — وكلها لا تصف نقطة ضعف أو قيداً في بحث علمي."
+      }
+    },
+    {
+      "id": "q28",
+      "prompt": "Nurses ___ the patient's heart rate every hour and record the readings.",
+      "options": [
+        "monitor",
+        "discover",
+        "found",
+        "regulate"
+      ],
+      "answerIndex": 0,
+      "hint": "monitor = يراقب / يرصد — لاحظ عبارة \"every hour and record the readings\"، الممرضات يراقبن معدل ضربات القلب ويسجّلن القراءات.",
+      "feedback": {
+        "correct": "أحسنت ✓ monitor = يراقب / يرصد. الممرضات يراقبن معدل ضربات القلب ويسجّلن القراءات.",
+        "incorrect": "الإجابة الصحيحة هي monitor (يراقب / يرصد). أمّا discover تعني «يكتشف»، و found تعني «يؤسّس / يُنشئ»، و regulate تعني «يُنظّم / يضبط» — وكلها لا تصف عملية المراقبة والتسجيل المستمر."
+      }
+    },
+    {
+      "id": "q29",
+      "prompt": "Earthquakes can ___ without any warning.",
+      "options": [
+        "occur",
+        "disappear",
+        "decline",
+        "emerge"
+      ],
+      "answerIndex": 0,
+      "hint": "occur = يحدث / يقع — لاحظ عبارة \"without any warning\"، الزلازل تحدث وتقع فجأة دون إنذار مسبق.",
+      "feedback": {
+        "correct": "أحسنت ✓ occur = يحدث / يقع. الزلازل تحدث وتقع فجأة دون إنذار مسبق.",
+        "incorrect": "الإجابة الصحيحة هي occur (يحدث / يقع). أمّا disappear تعني «يختفي»، و decline تعني «ينخفض / يتراجع»، و emerge تعني «يظهر / يبرز» — وكلها لا تصف وقوع حدث مفاجئ."
+      }
+    },
+    {
+      "id": "q30",
+      "prompt": "Animals can often ___ danger through smell and sound, even before humans notice anything unusual.",
+      "options": [
+        "sense",
+        "discover",
+        "monitor",
+        "predict"
+      ],
+      "answerIndex": 0,
+      "hint": "sense = يستشعر / يُحسّ بـ — لاحظ عبارة \"through smell and sound\"، الحيوانات تستشعر الخطر عبر حواسها كالشم والسمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ sense = يستشعر / يُحسّ بـ. الحيوانات تستشعر الخطر عبر حواسها كالشم والسمع.",
+        "incorrect": "الإجابة الصحيحة هي sense (يستشعر / يُحسّ بـ). أمّا discover تعني «يكتشف»، و monitor تعني «يراقب / يرصد»، و predict تعني «يتنبّأ / يتوقّع» — وكلها لا تصف الإحساس بالخطر عن طريق الحواس مباشرة."
+      }
+    },
+    {
+      "id": "q31",
+      "prompt": "The company's ___ that the product cures illness has not been proven.",
+      "options": [
+        "claim",
+        "evidence",
+        "judgment",
+        "element"
+      ],
+      "answerIndex": 0,
+      "hint": "claim = ادّعاء / زعم — لاحظ عبارة \"has not been proven\"، ادّعاء الشركة لم يُثبت بعد بأدلة علمية.",
+      "feedback": {
+        "correct": "أحسنت ✓ claim = ادّعاء / زعم. ادّعاء الشركة لم يُثبت بعد بأدلة علمية.",
+        "incorrect": "الإجابة الصحيحة هي claim (ادّعاء / زعم). أمّا evidence تعني «دليل / برهان»، و judgment تعني «حُكم / تقدير»، و element تعني «عنصر» — وكلها لا تصف تصريحاً أو زعماً غير مؤكَّد."
+      }
+    },
+    {
+      "id": "q32",
+      "prompt": "From her silence, we could ___ that she was upset.",
+      "options": [
+        "infer",
+        "respond",
+        "acknowledge",
+        "regulate"
+      ],
+      "answerIndex": 0,
+      "hint": "infer = يستنتج — لاحظ عبارة \"From her silence\"، استنتجنا من صمتها أنها كانت منزعجة.",
+      "feedback": {
+        "correct": "أحسنت ✓ infer = يستنتج. استنتجنا من صمتها أنها كانت منزعجة.",
+        "incorrect": "الإجابة الصحيحة هي infer (يستنتج). أمّا respond تعني «يستجيب / يردّ»، و acknowledge تعني «يعترف بـ / يُقرّ بـ»، و regulate تعني «يُنظّم / يضبط» — وكلها لا تصف استنتاج أمر من إشارة غير مباشرة."
+      }
+    },
+    {
+      "id": "q33",
+      "prompt": "The store sells official team ___, like shirts and caps.",
+      "options": [
+        "merchandise",
+        "data",
+        "feedback",
+        "resource"
+      ],
+      "answerIndex": 0,
+      "hint": "merchandise = بضائع / سلع — لاحظ عبارة \"like shirts and caps\"، المتجر يبيع بضائع رسمية للفريق كالقمصان والقبعات.",
+      "feedback": {
+        "correct": "أحسنت ✓ merchandise = بضائع / سلع. المتجر يبيع بضائع رسمية للفريق كالقمصان والقبعات.",
+        "incorrect": "الإجابة الصحيحة هي merchandise (بضائع / سلع). أمّا data تعني «بيانات»، و feedback تعني «تغذية راجعة / ملاحظات»، و resource تعني «مورد» — وكلها لا تصف منتجات أو سلعاً تُباع في متجر."
+      }
+    },
+    {
+      "id": "q34",
+      "prompt": "This device automatically increases or decreases heat to ___ the temperature inside the greenhouse.",
+      "options": [
+        "regulate",
+        "monitor",
+        "discover",
+        "found"
+      ],
+      "answerIndex": 0,
+      "hint": "regulate = يُنظّم / يضبط — لاحظ عبارة \"automatically increases or decreases heat\"، الجهاز يتحكم بدرجة الحرارة ويضبطها تلقائياً.",
+      "feedback": {
+        "correct": "أحسنت ✓ regulate = يُنظّم / يضبط. الجهاز يتحكم بدرجة الحرارة ويضبطها تلقائياً.",
+        "incorrect": "الإجابة الصحيحة هي regulate (يُنظّم / يضبط). أمّا monitor تعني «يراقب / يرصد»، و discover تعني «يكتشف»، و found تعني «يؤسّس / يُنشئ» — وكلها لا تصف التحكم النشط في قيمة معينة، بل مجرد الملاحظة أو الاكتشاف."
+      }
+    },
+    {
+      "id": "q35",
+      "prompt": "The soup needs more salt; it has almost no ___ right now.",
+      "options": [
+        "taste",
+        "sample",
+        "element",
+        "factor"
+      ],
+      "answerIndex": 0,
+      "hint": "taste = ذوق / مذاق — لاحظ عبارة \"it has almost no\"، الحساء يفتقر إلى المذاق أو الطعم بسبب قلة الملح.",
+      "feedback": {
+        "correct": "أحسنت ✓ taste = ذوق / مذاق. الحساء يفتقر إلى المذاق أو الطعم بسبب قلة الملح.",
+        "incorrect": "الإجابة الصحيحة هي taste (ذوق / مذاق). أمّا sample تعني «عيّنة»، و element تعني «عنصر»، و factor تعني «عامل» — وكلها لا تصف مذاق أو طعم الطعام."
+      }
+    },
+    {
+      "id": "q36",
+      "prompt": "The film became a ___ success, playing in theaters on every continent.",
+      "options": [
+        "worldwide",
+        "local",
+        "annual",
+        "previous"
+      ],
+      "answerIndex": 0,
+      "hint": "worldwide = عالمي / على مستوى العالم — لاحظ عبارة \"on every continent\"، الفيلم حقق نجاحاً عالمياً وعُرض في كل القارات.",
+      "feedback": {
+        "correct": "أحسنت ✓ worldwide = عالمي / على مستوى العالم. الفيلم حقق نجاحاً عالمياً وعُرض في كل القارات.",
+        "incorrect": "الإجابة الصحيحة هي worldwide (عالمي / على مستوى العالم). أمّا local تعني «محلي»، و annual تعني «سنوي»، و previous تعني «سابق» — وكلها لا تصف انتشاراً في كل أنحاء العالم."
+      }
+    },
+    {
+      "id": "q37",
+      "prompt": "He finally had to ___ that his plan had failed.",
+      "options": [
+        "acknowledge",
+        "predict",
+        "infer",
+        "regulate"
+      ],
+      "answerIndex": 0,
+      "hint": "acknowledge = يعترف بـ / يُقرّ بـ — لاحظ عبارة \"that his plan had failed\"، اضطر أخيراً إلى الاعتراف بفشل خطته.",
+      "feedback": {
+        "correct": "أحسنت ✓ acknowledge = يعترف بـ / يُقرّ بـ. اضطر أخيراً إلى الاعتراف بفشل خطته.",
+        "incorrect": "الإجابة الصحيحة هي acknowledge (يعترف بـ / يُقرّ بـ). أمّا predict تعني «يتنبّأ / يتوقّع»، و infer تعني «يستنتج»، و regulate تعني «يُنظّم / يضبط» — وكلها لا تصف الاعتراف بحقيقة غير مرغوبة."
+      }
+    },
+    {
+      "id": "q38",
+      "prompt": "The company holds its ___ meeting every January to review the past year.",
+      "options": [
+        "annual",
+        "previous",
+        "global",
+        "local"
+      ],
+      "answerIndex": 0,
+      "hint": "annual = سنوي — لاحظ عبارة \"every January to review the past year\"، الشركة تعقد اجتماعها السنوي في يناير من كل عام.",
+      "feedback": {
+        "correct": "أحسنت ✓ annual = سنوي. الشركة تعقد اجتماعها السنوي في يناير من كل عام.",
+        "incorrect": "الإجابة الصحيحة هي annual (سنوي). أمّا previous تعني «سابق»، و global تعني «عالمي»، و local تعني «محلي» — وكلها لا تصف حدثاً يتكرر مرة كل عام."
+      }
+    },
+    {
+      "id": "q39",
+      "prompt": "She made a generous ___ to the children's hospital.",
+      "options": [
+        "donation",
+        "invention",
+        "judgment",
+        "element"
+      ],
+      "answerIndex": 0,
+      "hint": "donation = تبرّع — لاحظ عبارة \"to the children's hospital\"، قدّمت تبرعاً سخياً لمستشفى الأطفال.",
+      "feedback": {
+        "correct": "أحسنت ✓ donation = تبرّع. قدّمت تبرعاً سخياً لمستشفى الأطفال.",
+        "incorrect": "الإجابة الصحيحة هي donation (تبرّع). أمّا invention تعني «اختراع»، و judgment تعني «حُكم / تقدير»، و element تعني «عنصر» — وكلها لا تصف مبلغاً أو شيئاً يُمنح تبرعاً."
+      }
+    },
+    {
+      "id": "q40",
+      "prompt": "Long ___ to the sun without sunscreen can damage your skin.",
+      "options": [
+        "exposure",
+        "invention",
+        "judgment",
+        "limitation"
+      ],
+      "answerIndex": 0,
+      "hint": "exposure = تعرّض / انكشاف — لاحظ عبارة \"without sunscreen can damage your skin\"، التعرّض الطويل لأشعة الشمس دون واقٍ يضر بالبشرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ exposure = تعرّض / انكشاف. التعرّض الطويل لأشعة الشمس دون واقٍ يضر بالبشرة.",
+        "incorrect": "الإجابة الصحيحة هي exposure (تعرّض / انكشاف). أمّا invention تعني «اختراع»، و judgment تعني «حُكم / تقدير»، و limitation تعني «قيد / حدّ / محدودية» — وكلها لا تصف حالة التعرّض المباشر لعامل خارجي كالشمس."
+      }
+    },
+    {
+      "id": "q41",
+      "prompt": "The new policy had a huge ___ on small businesses.",
+      "options": [
+        "impact",
+        "element",
+        "factor",
+        "judgment"
+      ],
+      "answerIndex": 0,
+      "hint": "impact = تأثير / أثر — لاحظ عبارة \"on small businesses\"، السياسة الجديدة أثّرت بشكل كبير على الشركات الصغيرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ impact = تأثير / أثر. السياسة الجديدة أثّرت بشكل كبير على الشركات الصغيرة.",
+        "incorrect": "الإجابة الصحيحة هي impact (تأثير / أثر). أمّا element تعني «عنصر»، و factor تعني «عامل»، و judgment تعني «حُكم / تقدير» — وكلها لا تُستخدم عادة مع تركيبة «had a huge ___ on»."
+      }
+    },
+    {
+      "id": "q42",
+      "prompt": "Their wedding was so ___ that guests still talk about it years later.",
+      "options": [
+        "memorable",
+        "annual",
+        "previous",
+        "distinctive"
+      ],
+      "answerIndex": 0,
+      "hint": "memorable = لا يُنسى / جدير بالتذكّر — لاحظ عبارة \"guests still talk about it years later\"، الحفل ترك ذكرى لا تُنسى في أذهان الضيوف.",
+      "feedback": {
+        "correct": "أحسنت ✓ memorable = لا يُنسى / جدير بالتذكّر. الحفل ترك ذكرى لا تُنسى في أذهان الضيوف.",
+        "incorrect": "الإجابة الصحيحة هي memorable (لا يُنسى / جدير بالتذكّر). أمّا annual تعني «سنوي»، و previous تعني «سابق»، و distinctive تعني «مُميّز / فريد» — وكلها لا تصف حدثاً يبقى في الذاكرة لسنوات."
+      }
+    },
+    {
+      "id": "q43",
+      "prompt": "Please only include information that is ___ to the topic of your essay.",
+      "options": [
+        "relevant",
+        "previous",
+        "annual",
+        "distinctive"
+      ],
+      "answerIndex": 0,
+      "hint": "relevant = ذو صلة / وثيق الصلة — لاحظ عبارة \"to the topic of your essay\"، يجب أن تكون المعلومات ذات صلة مباشرة بموضوع المقال.",
+      "feedback": {
+        "correct": "أحسنت ✓ relevant = ذو صلة / وثيق الصلة. يجب أن تكون المعلومات ذات صلة مباشرة بموضوع المقال.",
+        "incorrect": "الإجابة الصحيحة هي relevant (ذو صلة / وثيق الصلة). أمّا previous تعني «سابق»، و annual تعني «سنوي»، و distinctive تعني «مُميّز / فريد» — وكلها لا تصف ارتباط المعلومة بموضوع محدد."
+      }
+    },
+    {
+      "id": "q44",
+      "prompt": "My doctor didn't order more tests, but she did ___ that I get more sleep.",
+      "options": [
+        "suggest",
+        "regulate",
+        "acknowledge",
+        "infer"
+      ],
+      "answerIndex": 0,
+      "hint": "suggest = يقترح / يشير إلى — لاحظ عبارة \"she did\"، الطبيبة اقترحت الحصول على نوم أكثر دون أن تطلب فحوصات.",
+      "feedback": {
+        "correct": "أحسنت ✓ suggest = يقترح / يشير إلى. الطبيبة اقترحت الحصول على نوم أكثر دون أن تطلب فحوصات.",
+        "incorrect": "الإجابة الصحيحة هي suggest (يقترح / يشير إلى). أمّا regulate تعني «يُنظّم / يضبط»، و acknowledge تعني «يعترف بـ / يُقرّ بـ»، و infer تعني «يستنتج» — وكلها لا تصف تقديم اقتراح أو نصيحة."
+      }
+    },
+    {
+      "id": "q45",
+      "prompt": "The hikers admired the mountains ___ the small village.",
+      "options": [
+        "surrounding",
+        "previous",
+        "annual",
+        "distinctive"
+      ],
+      "answerIndex": 0,
+      "hint": "surrounding = مُحيط — لاحظ عبارة \"the small village\"، الجبال تحيط بالقرية الصغيرة من كل جانب.",
+      "feedback": {
+        "correct": "أحسنت ✓ surrounding = مُحيط. الجبال تحيط بالقرية الصغيرة من كل جانب.",
+        "incorrect": "الإجابة الصحيحة هي surrounding (مُحيط). أمّا previous تعني «سابق»، و annual تعني «سنوي»، و distinctive تعني «مُميّز / فريد» — وكلها لا تصف ما يُحيط بمكان معين."
+      }
+    },
+    {
+      "id": "q46",
+      "prompt": "Sales began to ___ sharply after the competitor launched a cheaper product.",
+      "options": [
+        "decline",
+        "emerge",
+        "occur",
+        "disappear"
+      ],
+      "answerIndex": 0,
+      "hint": "decline = ينخفض / يتراجع — لاحظ عبارة \"after the competitor launched a cheaper product\"، المبيعات انخفضت بشكل حاد بعد ظهور منافس أرخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ decline = ينخفض / يتراجع. المبيعات انخفضت بشكل حاد بعد ظهور منافس أرخص.",
+        "incorrect": "الإجابة الصحيحة هي decline (ينخفض / يتراجع). أمّا emerge تعني «يظهر / يبرز»، و occur تعني «يحدث / يقع»، و disappear تعني «يختفي» — وكلها لا تصف انخفاضاً تدريجياً في المبيعات."
+      }
+    },
+    {
+      "id": "q47",
+      "prompt": "Good teachers ___ students to ask questions, even difficult ones.",
+      "options": [
+        "encourage",
+        "discourage",
+        "regulate",
+        "acknowledge"
+      ],
+      "answerIndex": 0,
+      "hint": "encourage = يُشجّع — لاحظ عبارة \"even difficult ones\"، المعلمون الجيدون يشجّعون الطلاب على طرح الأسئلة مهما كانت صعبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ encourage = يُشجّع. المعلمون الجيدون يشجّعون الطلاب على طرح الأسئلة مهما كانت صعبة.",
+        "incorrect": "الإجابة الصحيحة هي encourage (يُشجّع). أمّا discourage تعني «يُثبّط / يُثني»، و regulate تعني «يُنظّم / يضبط»، و acknowledge تعني «يعترف بـ / يُقرّ بـ» — وكلها لا تصف تحفيز الطلاب على المشاركة والسؤال."
+      }
+    },
+    {
+      "id": "q48",
+      "prompt": "The scholarship provides ___ support for students who cannot afford tuition.",
+      "options": [
+        "financial",
+        "annual",
+        "previous",
+        "global"
+      ],
+      "answerIndex": 0,
+      "hint": "financial = مالي — لاحظ عبارة \"who cannot afford tuition\"، المنحة تقدّم دعماً مالياً لمن لا يستطيعون دفع الرسوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ financial = مالي. المنحة تقدّم دعماً مالياً لمن لا يستطيعون دفع الرسوم.",
+        "incorrect": "الإجابة الصحيحة هي financial (مالي). أمّا annual تعني «سنوي»، و previous تعني «سابق»، و global تعني «عالمي» — وكلها لا تصف نوع الدعم المرتبط بالمال والرسوم الدراسية."
+      }
+    },
+    {
+      "id": "q49",
+      "prompt": "The printing press was a groundbreaking ___ that changed how information spread.",
+      "options": [
+        "invention",
+        "element",
+        "factor",
+        "judgment"
+      ],
+      "answerIndex": 0,
+      "hint": "invention = اختراع — لاحظ عبارة \"that changed how information spread\"، المطبعة كانت اختراعاً غيّر طريقة انتشار المعلومات.",
+      "feedback": {
+        "correct": "أحسنت ✓ invention = اختراع. المطبعة كانت اختراعاً غيّر طريقة انتشار المعلومات.",
+        "incorrect": "الإجابة الصحيحة هي invention (اختراع). أمّا element تعني «عنصر»، و factor تعني «عامل»، و judgment تعني «حُكم / تقدير» — وكلها لا تصف شيئاً جديداً اخترعه الإنسان."
+      }
+    },
+    {
+      "id": "q50",
+      "prompt": "As a referee, you need good ___ to make fair decisions quickly.",
+      "options": [
+        "judgment",
+        "element",
+        "factor",
+        "limitation"
+      ],
+      "answerIndex": 0,
+      "hint": "judgment = حُكم / تقدير — لاحظ عبارة \"to make fair decisions quickly\"، الحكم يحتاج إلى حُكم سليم وتقدير جيد لاتخاذ قرارات عادلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ judgment = حُكم / تقدير. الحكم يحتاج إلى حُكم سليم وتقدير جيد لاتخاذ قرارات عادلة.",
+        "incorrect": "الإجابة الصحيحة هي judgment (حُكم / تقدير). أمّا element تعني «عنصر»، و factor تعني «عامل»، و limitation تعني «قيد / حدّ / محدودية» — وكلها لا تصف القدرة على التقدير واتخاذ قرار صائب."
+      }
+    },
+    {
+      "id": "q51",
+      "prompt": "No one has ever solved the ___ of why the ship disappeared without a trace.",
+      "options": [
+        "mystery",
+        "invention",
+        "judgment",
+        "factor"
+      ],
+      "answerIndex": 0,
+      "hint": "mystery = لغز / غموض — لاحظ عبارة \"disappeared without a trace\"، اختفاء السفينة دون أثر يبقى لغزاً غير محلول.",
+      "feedback": {
+        "correct": "أحسنت ✓ mystery = لغز / غموض. اختفاء السفينة دون أثر يبقى لغزاً غير محلول.",
+        "incorrect": "الإجابة الصحيحة هي mystery (لغز / غموض). أمّا invention تعني «اختراع»، و judgment تعني «حُكم / تقدير»، و factor تعني «عامل» — وكلها لا تصف أمراً غامضاً غير مفسَّر."
+      }
+    },
+    {
+      "id": "q52",
+      "prompt": "The new evidence helped ___ that the suspect was innocent.",
+      "options": [
+        "prove",
+        "infer",
+        "acknowledge",
+        "suggest"
+      ],
+      "answerIndex": 0,
+      "hint": "prove = يُثبت / يبرهن — لاحظ عبارة \"that the suspect was innocent\"، الدليل الجديد أثبت براءة المشتبه به بشكل قاطع.",
+      "feedback": {
+        "correct": "أحسنت ✓ prove = يُثبت / يبرهن. الدليل الجديد أثبت براءة المشتبه به بشكل قاطع.",
+        "incorrect": "الإجابة الصحيحة هي prove (يُثبت / يبرهن). أمّا infer تعني «يستنتج»، و acknowledge تعني «يعترف بـ / يُقرّ بـ»، و suggest تعني «يقترح / يشير إلى» — وكلها لا تصف إثبات حقيقة بدليل قاطع."
+      }
+    },
+    {
+      "id": "q53",
+      "prompt": "After forty years of teaching, she plans to ___ when she turns sixty-five next summer.",
+      "options": [
+        "retire",
+        "quit",
+        "found",
+        "unemployed"
+      ],
+      "answerIndex": 0,
+      "hint": "retire = يتقاعد — لاحظ عبارة \"when she turns sixty-five\"، بعد أربعين عاماً من التدريس، ستتقاعد عند بلوغها سن التقاعد.",
+      "feedback": {
+        "correct": "أحسنت ✓ retire = يتقاعد. بعد أربعين عاماً من التدريس، ستتقاعد عند بلوغها سن التقاعد.",
+        "incorrect": "الإجابة الصحيحة هي retire (يتقاعد). أمّا quit تعني «يترك / يستقيل»، و found تعني «يؤسّس / يُنشئ»، و unemployed تعني «عاطل عن العمل» — وكلها إما لا تصف التقاعد بعد مسيرة مهنية طويلة أو لا تصلح نحوياً في هذا التركيب."
+      }
+    },
+    {
+      "id": "q54",
+      "prompt": "Finding clean water was essential for their ___ in the desert.",
+      "options": [
+        "survival",
+        "invention",
+        "judgment",
+        "exposure"
+      ],
+      "answerIndex": 0,
+      "hint": "survival = بقاء / نجاة — لاحظ عبارة \"in the desert\"، الماء النظيف ضروري لبقائهم على قيد الحياة في الصحراء.",
+      "feedback": {
+        "correct": "أحسنت ✓ survival = بقاء / نجاة. الماء النظيف ضروري لبقائهم على قيد الحياة في الصحراء.",
+        "incorrect": "الإجابة الصحيحة هي survival (بقاء / نجاة). أمّا invention تعني «اختراع»، و judgment تعني «حُكم / تقدير»، و exposure تعني «تعرّض / انكشاف» — وكلها لا تصف استمرار الحياة والنجاة في ظروف قاسية."
+      }
+    },
+    {
+      "id": "q55",
+      "prompt": "The firefighter ___ ran into the burning building to save the child.",
+      "options": [
+        "bravely",
+        "previously",
+        "annually",
+        "briefly"
+      ],
+      "answerIndex": 0,
+      "hint": "bravely = بشجاعة — لاحظ عبارة \"ran into the burning building\"، رجل الإطفاء تصرف بشجاعة بدخوله المبنى المشتعل لإنقاذ الطفل.",
+      "feedback": {
+        "correct": "أحسنت ✓ bravely = بشجاعة. رجل الإطفاء تصرف بشجاعة بدخوله المبنى المشتعل لإنقاذ الطفل.",
+        "incorrect": "الإجابة الصحيحة هي bravely (بشجاعة). أمّا previously تعني «سابقاً»، و annually تعني «سنوياً»، و briefly تعني «باختصار» — وكلها لا تصف الشجاعة في مواجهة الخطر."
+      }
+    },
+    {
+      "id": "q56",
+      "prompt": "The bird's bright blue feathers make it easy to identify; it has a very ___ appearance.",
+      "options": [
+        "distinctive",
+        "previous",
+        "annual",
+        "global"
+      ],
+      "answerIndex": 0,
+      "hint": "distinctive = مُميّز / فريد — لاحظ عبارة \"easy to identify\"، ريش الطائر الأزرق يجعل مظهره مميزاً وسهل التمييز.",
+      "feedback": {
+        "correct": "أحسنت ✓ distinctive = مُميّز / فريد. ريش الطائر الأزرق يجعل مظهره مميزاً وسهل التمييز.",
+        "incorrect": "الإجابة الصحيحة هي distinctive (مُميّز / فريد). أمّا previous تعني «سابق»، و annual تعني «سنوي»، و global تعني «عالمي» — وكلها لا تصف مظهراً فريداً يسهل تمييزه."
+      }
+    },
+    {
+      "id": "q57",
+      "prompt": "Sunlight is a key ___ in the process of photosynthesis, along with water and carbon dioxide.",
+      "options": [
+        "element",
+        "factor",
+        "judgment",
+        "limitation"
+      ],
+      "answerIndex": 0,
+      "hint": "element = عنصر — لاحظ عبارة \"along with water and carbon dioxide\"، ضوء الشمس هو أحد العناصر أو المكوّنات الأساسية في عملية البناء الضوئي.",
+      "feedback": {
+        "correct": "أحسنت ✓ element = عنصر. ضوء الشمس هو أحد العناصر أو المكوّنات الأساسية في عملية البناء الضوئي.",
+        "incorrect": "الإجابة الصحيحة هي element (عنصر). أمّا factor تعني «عامل»، و judgment تعني «حُكم / تقدير»، و limitation تعني «قيد / حدّ / محدودية» — وكلها لا تصف مكوّناً أساسياً ضمن عملية تتكون من عدة أجزاء."
+      }
+    },
+    {
+      "id": "q58",
+      "prompt": "This new software will ___ employees to work from home more easily.",
+      "options": [
+        "enable",
+        "regulate",
+        "monitor",
+        "acknowledge"
+      ],
+      "answerIndex": 0,
+      "hint": "enable = يُمكّن / يُتيح — لاحظ عبارة \"to work from home more easily\"، البرنامج الجديد يُمكّن الموظفين من العمل من المنزل بسهولة أكبر.",
+      "feedback": {
+        "correct": "أحسنت ✓ enable = يُمكّن / يُتيح. البرنامج الجديد يُمكّن الموظفين من العمل من المنزل بسهولة أكبر.",
+        "incorrect": "الإجابة الصحيحة هي enable (يُمكّن / يُتيح). أمّا regulate تعني «يُنظّم / يضبط»، و monitor تعني «يراقب / يرصد»، و acknowledge تعني «يعترف بـ / يُقرّ بـ» — وكلها لا تصف منح القدرة على القيام بأمر ما."
+      }
+    },
+    {
+      "id": "q59",
+      "prompt": "People often ___ tall people as more confident, even without knowing them.",
+      "options": [
+        "perceive",
+        "sense",
+        "infer",
+        "acknowledge"
+      ],
+      "answerIndex": 0,
+      "hint": "perceive = يُدرك / يتصوّر — لاحظ عبارة \"even without knowing them\"، الناس يتصوّرون الطوال بأنهم أكثر ثقة، وهذا مجرد انطباع لا استنتاج مبني على دليل.",
+      "feedback": {
+        "correct": "أحسنت ✓ perceive = يُدرك / يتصوّر. الناس يتصوّرون الطوال بأنهم أكثر ثقة، وهذا مجرد انطباع لا استنتاج مبني على دليل.",
+        "incorrect": "الإجابة الصحيحة هي perceive (يُدرك / يتصوّر). أمّا sense تعني «يستشعر / يُحسّ بـ»، و infer تعني «يستنتج»، و acknowledge تعني «يعترف بـ / يُقرّ بـ» — وكلها لا تصف تكوين انطباع أو رأي عن شخص بناءً على مظهره فقط."
+      }
+    },
+    {
+      "id": "q60",
+      "prompt": "Meteorologists use satellite data to ___ next week's weather.",
+      "options": [
+        "predict",
+        "monitor",
+        "discover",
+        "regulate"
+      ],
+      "answerIndex": 0,
+      "hint": "predict = يتنبّأ / يتوقّع — لاحظ عبارة \"next week's weather\"، خبراء الأرصاد يتنبأون بطقس الأسبوع القادم باستخدام بيانات الأقمار الصناعية.",
+      "feedback": {
+        "correct": "أحسنت ✓ predict = يتنبّأ / يتوقّع. خبراء الأرصاد يتنبأون بطقس الأسبوع القادم باستخدام بيانات الأقمار الصناعية.",
+        "incorrect": "الإجابة الصحيحة هي predict (يتنبّأ / يتوقّع). أمّا monitor تعني «يراقب / يرصد»، و discover تعني «يكتشف»، و regulate تعني «يُنظّم / يضبط» — وكلها لا تصف توقع حدث مستقبلي بناءً على بيانات."
+      }
+    },
+    {
+      "id": "q61",
+      "prompt": "There was a ___ increase in sales after the advertising campaign started.",
+      "options": [
+        "significant",
+        "annual",
+        "previous",
+        "global"
+      ],
+      "answerIndex": 0,
+      "hint": "significant = مهمّ / ذو دلالة — لاحظ عبارة \"after the advertising campaign started\"، ارتفعت المبيعات بشكل ملحوظ ومهم بعد بدء الحملة الإعلانية.",
+      "feedback": {
+        "correct": "أحسنت ✓ significant = مهمّ / ذو دلالة. ارتفعت المبيعات بشكل ملحوظ ومهم بعد بدء الحملة الإعلانية.",
+        "incorrect": "الإجابة الصحيحة هي significant (مهمّ / ذو دلالة). أمّا annual تعني «سنوي»، و previous تعني «سابق»، و global تعني «عالمي» — وكلها لا تصف زيادة كبيرة وملحوظة ذات دلالة."
+      }
+    },
+    {
+      "id": "q62",
+      "prompt": "Surviving the car accident was a deeply ___ experience that left lasting emotional scars on the whole family.",
+      "options": [
+        "traumatic",
+        "memorable",
+        "significant",
+        "distinctive"
+      ],
+      "answerIndex": 0,
+      "hint": "traumatic = صادم / مؤلم نفسياً — لاحظ عبارة \"left lasting emotional scars\"، نجاتهم من الحادث كانت تجربة صادمة تركت أثراً نفسياً عميقاً.",
+      "feedback": {
+        "correct": "أحسنت ✓ traumatic = صادم / مؤلم نفسياً. نجاتهم من الحادث كانت تجربة صادمة تركت أثراً نفسياً عميقاً.",
+        "incorrect": "الإجابة الصحيحة هي traumatic (صادم / مؤلم نفسياً). أمّا memorable تعني «لا يُنسى / جدير بالتذكّر»، و significant تعني «مهمّ / ذو دلالة»، و distinctive تعني «مُميّز / فريد» — وكلها لا تصف تجربة مؤلمة نفسياً تترك ندوباً عاطفية."
+      }
+    }
+  ]
+}

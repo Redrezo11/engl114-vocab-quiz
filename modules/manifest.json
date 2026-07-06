@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 2,
+  "version": 3,
   "modules": [
     {
       "id": "engl114-starter-word-choice",
@@ -22,6 +22,20 @@
       "title": "ENGL114 — Core Vocabulary Test 2",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثاني) — اختر الكلمة المناسبة لإكمال الجملة.",
       "count": 40
+    },
+    {
+      "id": "engl114-core-vocabulary-test-3",
+      "file": "unit-vocab-test3.json",
+      "title": "ENGL114 — Core Vocabulary Test 3",
+      "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثالث) — اختر الكلمة المناسبة لإكمال الجملة.",
+      "count": 62
+    },
+    {
+      "id": "engl114-core-vocabulary-test-4",
+      "file": "unit-vocab-test4.json",
+      "title": "ENGL114 — Core Vocabulary Test 4",
+      "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الرابع) — اختر الكلمة المناسبة لإكمال الجملة.",
+      "count": 62
     }
   ]
 }
