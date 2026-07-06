@@ -67,6 +67,11 @@ question file is only fetched when a learner opens that module.
 > root — `python -m http.server 8000`, then open `http://localhost:8000/modules.html` — or just
 > test on the live Pages site. (The Arabic quiz still works offline; only this page needs a server.)
 
+> **Full authoring spec for the LLM:** see
+> [`documentations/module-authoring-guide.md`](documentations/module-authoring-guide.md) — a
+> complete, copy-pasteable brief covering the schema, the 0-based `answerIndex`, validation rules,
+> and the Arabic-dominant language policy.
+
 ## Module JSON schema
 One file = one module = one quiz. `answerIndex` is **0-based** (0 = first option).
 
@@ -125,8 +130,9 @@ plain text (no HTML), so quotes/apostrophes/Arabic are safe.
 > "options":["…","…","…","…"], "answerIndex":<0-based int>, "hint":["…"],
 > "feedback":{ "correct":"…", "incorrect":"…" } } ] }`.
 > Rules: `prompt` and `options` are **English only** (that's what's being tested). `hint`,
-> `feedback.correct`, and `feedback.incorrect` must **mix Arabic and English** — gloss the hard
-> English word(s) in Arabic, then explain the choice in simple English. `feedback.incorrect` is
+> `feedback.correct`, and `feedback.incorrect` must be **mainly Arabic**, using English only when
+> necessary (the target vocabulary word itself, or a grammar label) — explain meanings and reasons
+> in Arabic. `feedback.incorrect` is
 > one *universal* explanation shown for any wrong answer: say what the right word means and why the
 > others don't fit. `answerIndex` is 0-based and must point to the correct option. Give each
 > question a unique `id`. Produce N questions.
