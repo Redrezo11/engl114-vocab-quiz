@@ -65,6 +65,14 @@
       "title": "Grammar — Core Midterm Topics",
       "description": "سؤال واحد لكل موضوع من مواضيع قواعد المنتصف الثلاثة عشر، مع رابط شرح لكل موضوع في زر Hint.",
       "count": 13
+    },
+    {
+      "id": "engl114-grammar-test1",
+      "file": "grammar/grammar-test1.json",
+      "category": "grammar",
+      "title": "Grammar Practice Test 1 — Midterm Review",
+      "description": "اختبار تدريبي شامل يغطي جميع نقاط القواعد الثلاث عشرة المقررة لاختبار المنتصف.",
+      "count": 50
     }
   ]
 }

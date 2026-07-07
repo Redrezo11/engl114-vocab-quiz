@@ -1,0 +1,860 @@
+{
+  "schemaVersion": 1,
+  "id": "engl114-grammar-test1",
+  "title": "Grammar Practice Test 1 — Midterm Review",
+  "description": "اختبار تدريبي شامل يغطي جميع نقاط القواعد الثلاث عشرة المقررة لاختبار المنتصف.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "g1",
+      "prompt": "___ your brother play football on Saturdays?",
+      "options": [
+        "Does",
+        "Do",
+        "Is",
+        "Did"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-do-present-past",
+      "hint": "brother = أخ، Saturdays = أيام السبت — الجملة تسأل عن عادة متكررة.",
+      "feedback": {
+        "correct": "أحسنت ✓ نستخدم Does مع الفاعل المفرد الغائب (brother) في المضارع البسيط.",
+        "incorrect": "الإجابة الصحيحة Does. مع he/she/it (ومنها brother) نستخدم Does في السؤال، وليس Do أو Is أو Did (الماضي)."
+      }
+    },
+    {
+      "id": "g2",
+      "prompt": "She ___ like spicy food, but she eats it anyway to be polite.",
+      "options": [
+        "doesn't",
+        "don't",
+        "isn't",
+        "didn't"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-do-present-past",
+      "hint": "spicy = حار، polite = مهذّب — الجملة تتحدث عن رغبتها الحالية، وتوضح أنها تأكله رغم ذلك مجاملةً.",
+      "feedback": {
+        "correct": "أحسنت ✓ she doesn't (مضارع بسيط منفي مع الفاعل المفرد الغائب).",
+        "incorrect": "الإجابة الصحيحة doesn't. مع she نستخدم does/doesn't في المضارع البسيط، ولا نستخدم don't (للجمع) أو isn't/didn't (لأزمنة أخرى)."
+      }
+    },
+    {
+      "id": "g3",
+      "prompt": "___ they visit the museum last week?",
+      "options": [
+        "Did",
+        "Do",
+        "Were",
+        "Have"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-do-present-past",
+      "hint": "museum = متحف، last week = الأسبوع الماضي — السؤال عن حدث وقع وانتهى في وقت محدد سابق.",
+      "feedback": {
+        "correct": "أحسنت ✓ نستخدم Did لتكوين سؤال في الماضي البسيط.",
+        "incorrect": "الإجابة الصحيحة Did، لأن last week تدل على الماضي البسيط، ونستخدم Did + الفاعل + الفعل الأساسي."
+      }
+    },
+    {
+      "id": "g4",
+      "prompt": "I ___ finish my project yesterday because the internet was down.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "haven't"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-do-present-past",
+      "hint": "project = مشروع، internet was down = انقطع الإنترنت — الجملة تفسر سبب عدم إنجاز أمر في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ didn't + الفعل الأساسي (finish) لنفي الماضي البسيط.",
+        "incorrect": "الإجابة الصحيحة didn't. yesterday تدل على الماضي البسيط، ونفيه يكون بـ didn't + الفعل الأساسي، وليس don't أو wasn't أو haven't."
+      }
+    },
+    {
+      "id": "g5",
+      "prompt": "Look! The children ___ in the garden right now.",
+      "options": [
+        "are playing",
+        "play",
+        "played",
+        "is playing"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-present-continuous",
+      "hint": "garden = حديقة، right now = الآن — الجملة تصف مشهدًا يحدث أمامنا في هذه اللحظة.",
+      "feedback": {
+        "correct": "أحسنت ✓ are + playing لأن الفاعل جمع (children) والفعل يصف حدثًا مستمرًا الآن.",
+        "incorrect": "الإجابة الصحيحة are playing. عبارة right now تدل على المضارع المستمر، والفاعل children جمع فيحتاج are وليس is."
+      }
+    },
+    {
+      "id": "g6",
+      "prompt": "I ___ a message to my teacher at the moment.",
+      "options": [
+        "am writing",
+        "write",
+        "wrote",
+        "writes"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-present-continuous",
+      "hint": "message = رسالة، at the moment = في هذه اللحظة — المتحدث يصف فعلًا يقوم به أثناء الحديث.",
+      "feedback": {
+        "correct": "أحسنت ✓ am + writing لأن الفاعل I ويصف فعلًا يحدث الآن.",
+        "incorrect": "الإجابة الصحيحة am writing. at the moment تدل على المضارع المستمر، ومع I نستخدم am."
+      }
+    },
+    {
+      "id": "g7",
+      "prompt": "___ she wearing a new dress today?",
+      "options": [
+        "Is",
+        "Does",
+        "Do",
+        "Was"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-present-continuous",
+      "hint": "wearing = ترتدي، new dress = فستان جديد — السؤال عن مظهر الشخص في هذا اليوم بالتحديد.",
+      "feedback": {
+        "correct": "أحسنت ✓ Is + she + wearing لتكوين سؤال في المضارع المستمر.",
+        "incorrect": "الإجابة الصحيحة Is. today مع فعل wearing (+ing) تدل على المضارع المستمر، ونستخدم Is مع she."
+      }
+    },
+    {
+      "id": "g8",
+      "prompt": "We can't talk now; the manager ___ an important call.",
+      "options": [
+        "is making",
+        "makes",
+        "made",
+        "make"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-present-continuous",
+      "hint": "manager = مدير، important call = مكالمة مهمة — الجملة تشرح سبب عدم القدرة على التحدث الآن.",
+      "feedback": {
+        "correct": "أحسنت ✓ is + making لوصف فعل يحدث الآن مع فاعل مفرد (the manager).",
+        "incorrect": "الإجابة الصحيحة is making. الموقف يصف حدثًا مستمرًا حاليًا (can't talk now)، فنحتاج المضارع المستمر مع is."
+      }
+    },
+    {
+      "id": "g9",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I wanted to go to the party, but I was too tired.",
+        "I wanted to go to the party but I was too tired.",
+        "I wanted to go to the party, I was too tired.",
+        "I wanted to go to the party but, I was too tired."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "compound-sentences",
+      "hint": "party = حفلة، tired = متعب — الجملة تربط بين رغبة الشخص وسبب عدم تحقيقها.",
+      "feedback": {
+        "correct": "أحسنت ✓ نضع فاصلة قبل but عند ربط جملتين كاملتين.",
+        "incorrect": "الإجابة الصحيحة الأولى. تحتاج الجملة المركبة فاصلة قبل أداة الربط but، ولا يكفي وضعها بدون أداة ربط أو وضعها بعد but."
+      }
+    },
+    {
+      "id": "g10",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The exam was difficult, so many students felt worried.",
+        "The exam was difficult so many students felt worried.",
+        "The exam was difficult, many students felt worried.",
+        "The exam difficult, so many students felt worried."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "compound-sentences",
+      "hint": "exam = امتحان، worried = قلق — الجملة توضح نتيجة شعور الطلاب بسبب صعوبة الامتحان.",
+      "feedback": {
+        "correct": "أحسنت ✓ so أداة ربط تحتاج فاصلة قبلها عند ربط جملتين كاملتين.",
+        "incorrect": "الإجابة الصحيحة الأولى، لأن so أداة ربط وتحتاج فاصلة قبلها؛ كما يجب وجود فعل بعد exam was."
+      }
+    },
+    {
+      "id": "g11",
+      "prompt": "You can pay by cash, ___ you can pay by card.",
+      "options": [
+        "or",
+        "so",
+        "but",
+        "and"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "compound-sentences",
+      "hint": "cash = نقدًا، card = بطاقة — الجملة تعرض خيارين بديلين لطريقة الدفع.",
+      "feedback": {
+        "correct": "أحسنت ✓ or تُستخدم لعرض اختيار بين بديلين.",
+        "incorrect": "الإجابة الصحيحة or، لأنها تعرض خيارًا بين طريقتين للدفع، بخلاف so (نتيجة) أو but (تضاد) أو and (إضافة)."
+      }
+    },
+    {
+      "id": "g12",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She studied hard, and she passed the exam with high marks.",
+        "She studied hard and, she passed the exam with high marks.",
+        "She studied hard, and, she passed the exam with high marks.",
+        "She studied hard and she, passed the exam with high marks."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "compound-sentences",
+      "hint": "studied hard = ذاكرت بجد، high marks = درجات عالية — الجملة تربط بين جهد الطالبة ونتيجتها الإيجابية.",
+      "feedback": {
+        "correct": "أحسنت ✓ الفاصلة توضع قبل and مباشرة عند ربط جملتين كاملتين، دون فواصل إضافية.",
+        "incorrect": "الإجابة الصحيحة الأولى؛ توضع فاصلة واحدة فقط قبل and، وليس بعده أو في مكان آخر من الجملة."
+      }
+    },
+    {
+      "id": "g13",
+      "prompt": "If you mix blue and yellow, you ___ green.",
+      "options": [
+        "get",
+        "will get",
+        "got",
+        "are getting"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "present-real-conditional",
+      "hint": "mix = تمزج، blue and yellow = الأزرق والأصفر — الجملة تصف حقيقة ثابتة عن الألوان تحدث دائمًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ get (مضارع بسيط) لأن الجملة تصف حقيقة عامة ثابتة.",
+        "incorrect": "الإجابة الصحيحة get. الحقائق العامة تُصاغ بالمضارع البسيط في كلا الجزأين: If + مضارع، مضارع، وليس will get أو صيغًا أخرى."
+      }
+    },
+    {
+      "id": "g14",
+      "prompt": "Ice ___ if you leave it in the sun.",
+      "options": [
+        "melts",
+        "will melt",
+        "melted",
+        "is melting"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "present-real-conditional",
+      "hint": "ice = ثلج، leave it in the sun = تتركه في الشمس — الجملة تصف نتيجة طبيعية متكررة.",
+      "feedback": {
+        "correct": "أحسنت ✓ melts (مضارع بسيط) لوصف نتيجة علمية ثابتة.",
+        "incorrect": "الإجابة الصحيحة melts. القوانين الطبيعية تُصاغ بالمضارع البسيط في جملة النتيجة أيضًا، فلا نستخدم will melt هنا."
+      }
+    },
+    {
+      "id": "g15",
+      "prompt": "If people don't drink enough water, they ___ thirsty.",
+      "options": [
+        "feel",
+        "will feel",
+        "felt",
+        "are feeling"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "present-real-conditional",
+      "hint": "enough water = ماء كافٍ، thirsty = عطشان — الجملة تصف نتيجة معتادة تحدث لأي شخص في هذا الموقف.",
+      "feedback": {
+        "correct": "أحسنت ✓ feel (مضارع بسيط) لأن الجملة عادة/حقيقة عامة.",
+        "incorrect": "الإجابة الصحيحة feel. بما أن الجملة تصف عادة عامة، نستخدم المضارع البسيط في جملة النتيجة، لا will feel."
+      }
+    },
+    {
+      "id": "g16",
+      "prompt": "If the weather is nice, my family ___ a picnic every weekend.",
+      "options": [
+        "has",
+        "will have",
+        "had",
+        "is having"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "present-real-conditional",
+      "hint": "weather = الطقس، picnic = نزهة — الجملة تتحدث عن عادة أسبوعية متكررة.",
+      "feedback": {
+        "correct": "أحسنت ✓ has (مضارع بسيط) لوصف عادة متكررة كل أسبوع.",
+        "incorrect": "الإجابة الصحيحة has. كلمة every weekend تدل على عادة متكررة، فتُستخدم المضارع البسيط لا will have."
+      }
+    },
+    {
+      "id": "g17",
+      "prompt": "If it rains tomorrow, the match ___ cancelled.",
+      "options": [
+        "will be",
+        "is",
+        "was",
+        "would be"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "future-real-conditional",
+      "hint": "rains tomorrow = تمطر غدًا، match = مباراة — الجملة تتوقع نتيجة محتملة في المستقبل.",
+      "feedback": {
+        "correct": "أحسنت ✓ will be لأن جملة النتيجة في الشرط المستقبلي تُصاغ بـ will + الفعل الأساسي.",
+        "incorrect": "الإجابة الصحيحة will be. tomorrow تدل على المستقبل، وجملة الشرط الحقيقي المستقبلي تكون: If + مضارع، will + فعل أساسي."
+      }
+    },
+    {
+      "id": "g18",
+      "prompt": "If you ___ hard this semester, you will get a scholarship.",
+      "options": [
+        "study",
+        "will study",
+        "studied",
+        "are studying"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "future-real-conditional",
+      "hint": "hard = بجد، scholarship = منحة دراسية — الجملة تصف شرطًا مستقبليًا حقيقيًا ونتيجته.",
+      "feedback": {
+        "correct": "أحسنت ✓ study (مضارع بسيط) في جملة if، بينما تأتي النتيجة بـ will.",
+        "incorrect": "الإجابة الصحيحة study. في جملة الشرط المستقبلي الحقيقي، تأتي جملة if بالمضارع البسيط، ولا نستخدم will بعد if."
+      }
+    },
+    {
+      "id": "g19",
+      "prompt": "She will call you as soon as she ___ the airport.",
+      "options": [
+        "reaches",
+        "will reach",
+        "reached",
+        "is reaching"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "future-real-conditional",
+      "hint": "as soon as = حالما، airport = المطار — الجملة تحدد الوقت الذي سيحدث فيه الاتصال في المستقبل.",
+      "feedback": {
+        "correct": "أحسنت ✓ reaches (مضارع بسيط) بعد as soon as، مع أن الحدث في المستقبل.",
+        "incorrect": "الإجابة الصحيحة reaches. مع أدوات الزمن/الشرط مثل as soon as وif، نستخدم المضارع البسيط حتى لو كان المعنى مستقبليًا، ولا نستخدم will."
+      }
+    },
+    {
+      "id": "g20",
+      "prompt": "If I have free time this weekend, I ___ my grandmother.",
+      "options": [
+        "will visit",
+        "visit",
+        "visited",
+        "am visiting"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "future-real-conditional",
+      "hint": "free time = وقت فراغ، grandmother = جدة — الجملة تتحدث عن خطة محتملة لعطلة نهاية الأسبوع القادمة.",
+      "feedback": {
+        "correct": "أحسنت ✓ will visit في جملة النتيجة، لأنها تصف حدثًا مستقبليًا محتملًا.",
+        "incorrect": "الإجابة الصحيحة will visit. جملة النتيجة في الشرط المستقبلي الحقيقي تُصاغ بـ will + الفعل الأساسي."
+      }
+    },
+    {
+      "id": "g21",
+      "prompt": "At 8 p.m. yesterday, I ___ dinner with my family.",
+      "options": [
+        "was having",
+        "have",
+        "had",
+        "am having"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-past-continuous",
+      "hint": "8 p.m. yesterday = الثامنة مساء أمس، dinner = عشاء — الجملة تصف فعلًا كان مستمرًا في لحظة محددة في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ was + having لوصف فعل مستمر وقت محدد في الماضي مع الفاعل I.",
+        "incorrect": "الإجابة الصحيحة was having. تحديد وقت في الماضي (At 8 p.m. yesterday) مع فعل مستمر يستدعي الماضي المستمر: was/were + فعل+ing."
+      }
+    },
+    {
+      "id": "g22",
+      "prompt": "While the students ___ the exam, the fire alarm rang.",
+      "options": [
+        "were taking",
+        "take",
+        "took",
+        "are taking"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-past-continuous",
+      "hint": "fire alarm rang = رن جرس الإنذار، exam = امتحان — الجملة تصف فعلًا طويلًا قاطعه حدث مفاجئ.",
+      "feedback": {
+        "correct": "أحسنت ✓ were taking لأن الفاعل جمع (students) والفعل كان مستمرًا عندما وقع حدث آخر.",
+        "incorrect": "الإجابة الصحيحة were taking. عبارة while تدل على فعل مستمر مقطوع بحدث آخر، ونستخدم were مع الفاعل الجمع."
+      }
+    },
+    {
+      "id": "g23",
+      "prompt": "It ___ heavily when we left the house this morning.",
+      "options": [
+        "was raining",
+        "rains",
+        "rained",
+        "is raining"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-past-continuous",
+      "hint": "heavily = بغزارة، left the house = غادرنا المنزل — الجملة تصف حالة الجو أثناء حدوث فعل آخر هذا الصباح.",
+      "feedback": {
+        "correct": "أحسنت ✓ was raining لوصف فعل مستمر في لحظة محددة في الماضي (عند مغادرتنا).",
+        "incorrect": "الإجابة الصحيحة was raining. الفعل leave وقع أثناء استمرار المطر في الماضي، فنستخدم was + raining."
+      }
+    },
+    {
+      "id": "g24",
+      "prompt": "___ you waiting for the bus when I saw you?",
+      "options": [
+        "Were",
+        "Are",
+        "Did",
+        "Was"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-be-past-continuous",
+      "hint": "waiting for the bus = تنتظر الحافلة — السؤال عن فعل كان مستمرًا لحظة رؤية المتحدث للشخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ Were لأن الفاعل you والفعل كان مستمرًا في لحظة ماضية محددة.",
+        "incorrect": "الإجابة الصحيحة Were. مع you في الماضي المستمر نستخدم Were، والجملة تصف فعلًا مستمرًا وقت حدث آخر (saw)."
+      }
+    },
+    {
+      "id": "g25",
+      "prompt": "You are from Riyadh, ___?",
+      "options": [
+        "aren't you",
+        "are you",
+        "don't you",
+        "isn't it"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "tag-questions",
+      "hint": "Riyadh = الرياض — الجملة الأساسية مثبتة، والسؤال الذيلي يطلب التأكيد.",
+      "feedback": {
+        "correct": "أحسنت ✓ الجملة مثبتة (are)، فيكون الذيل منفيًا: aren't you.",
+        "incorrect": "الإجابة الصحيحة aren't you. الجملة الأساسية مثبتة (You are)، فالذيل يجب أن يكون منفيًا ويكرر نفس الفعل المساعد are."
+      }
+    },
+    {
+      "id": "g26",
+      "prompt": "He doesn't eat meat, ___?",
+      "options": [
+        "does he",
+        "doesn't he",
+        "is he",
+        "did he"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "tag-questions",
+      "hint": "meat = لحم — الجملة الأساسية منفية، والسؤال الذيلي يطلب التأكيد.",
+      "feedback": {
+        "correct": "أحسنت ✓ الجملة منفية (doesn't)، فيكون الذيل مثبتًا: does he.",
+        "incorrect": "الإجابة الصحيحة does he. الجملة الأساسية منفية (doesn't)، فالذيل يجب أن يكون مثبتًا باستخدام نفس الفعل المساعد does."
+      }
+    },
+    {
+      "id": "g27",
+      "prompt": "They have finished the report, ___?",
+      "options": [
+        "haven't they",
+        "have they",
+        "don't they",
+        "didn't they"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "tag-questions",
+      "hint": "report = تقرير — الجملة الأساسية مثبتة بفعل تام، والذيل يطلب التأكيد.",
+      "feedback": {
+        "correct": "أحسنت ✓ haven't they لأن الفعل المساعد في الجملة الأساسية have (مثبت)، فيصبح الذيل منفيًا.",
+        "incorrect": "الإجابة الصحيحة haven't they. نكرر الفعل المساعد نفسه have في الذيل، مع قلب الجملة المثبتة إلى ذيل منفٍ."
+      }
+    },
+    {
+      "id": "g28",
+      "prompt": "She can't swim, ___?",
+      "options": [
+        "can she",
+        "can't she",
+        "does she",
+        "is she"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "tag-questions",
+      "hint": "swim = تسبح — الجملة الأساسية منفية بفعل قدرة، والذيل يطلب التأكيد.",
+      "feedback": {
+        "correct": "أحسنت ✓ الجملة منفية (can't)، فيكون الذيل مثبتًا: can she.",
+        "incorrect": "الإجابة الصحيحة can she. الجملة الأساسية منفية (can't)، فيجب أن يكون الذيل مثبتًا مستخدمًا نفس الفعل المساعد can."
+      }
+    },
+    {
+      "id": "g29",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "He plays football and basketball on weekends.",
+        "He plays football and plays basketball on weekends.",
+        "He play football and basketball on weekends.",
+        "He plays football or, basketball on weekends."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "conjunctions-parallel",
+      "hint": "weekends = عطلة نهاية الأسبوع — الجملة تعدد رياضتين يمارسهما الشخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ and تربط بين اسمين متشابهين في الشكل (football, basketball) دون تكرار الفعل.",
+        "incorrect": "الإجابة الصحيحة الأولى؛ نربط بين اسمين بنفس الصيغة دون تكرار الفعل play، ولا نضع فاصلة بعد or."
+      }
+    },
+    {
+      "id": "g30",
+      "prompt": "I want tea ___ coffee, not both.",
+      "options": [
+        "or",
+        "and",
+        "but",
+        "so"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "conjunctions-parallel",
+      "hint": "not both = ليس كلاهما — الجملة توضح أن المتحدث سيختار واحدًا فقط من الاثنين.",
+      "feedback": {
+        "correct": "أحسنت ✓ or تُستخدم لعرض اختيار بين شيئين، خاصة مع تأكيد not both.",
+        "incorrect": "الإجابة الصحيحة or، لأن الجملة تعرض اختيارًا واحدًا فقط، بخلاف and (إضافة) أو but (تضاد) أو so (نتيجة)."
+      }
+    },
+    {
+      "id": "g31",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The food was cheap but delicious.",
+        "The food was cheap but delicious food.",
+        "The food was cheap but it was delicious food.",
+        "The food cheap but delicious."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "conjunctions-parallel",
+      "hint": "cheap = رخيص، delicious = لذيذ — الجملة تصف صفتين متضادتين لنفس الطعام.",
+      "feedback": {
+        "correct": "أحسنت ✓ but تربط بين صفتين متساويتين في الشكل (cheap, delicious) بأسلوب مختصر ومتوازٍ.",
+        "incorrect": "الإجابة الصحيحة الأولى؛ نربط صفتين متوازيتين مباشرة دون تكرار كلمة food أو حذف الفعل was."
+      }
+    },
+    {
+      "id": "g32",
+      "prompt": "I ___ my keys. I can't find them anywhere.",
+      "options": [
+        "have lost",
+        "lost",
+        "lose",
+        "am losing"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-have-present-perfect",
+      "hint": "keys = مفاتيح، anywhere = في أي مكان — الجملة تصف نتيجة حالية لفعل حدث في الماضي غير محدد الوقت.",
+      "feedback": {
+        "correct": "أحسنت ✓ have lost (مضارع تام) لأن النتيجة (عدم إيجاد المفاتيح) واضحة الآن.",
+        "incorrect": "الإجابة الصحيحة have lost. لا يوجد وقت محدد للفعل، والنتيجة ظاهرة الآن، لذا نستخدم have + التصريف الثالث."
+      }
+    },
+    {
+      "id": "g33",
+      "prompt": "She ___ never been to Japan.",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "did"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-have-present-perfect",
+      "hint": "Japan = اليابان — الجملة تتحدث عن خبرة (أو غيابها) في حياة الشخص حتى الآن.",
+      "feedback": {
+        "correct": "أحسنت ✓ has مع she في المضارع التام.",
+        "incorrect": "الإجابة الصحيحة has. نستخدم has مع المفرد الغائب (he/she/it) في المضارع التام، وليس have أو is أو did."
+      }
+    },
+    {
+      "id": "g34",
+      "prompt": "We ___ already finished the meeting.",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "did"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-have-present-perfect",
+      "hint": "meeting = اجتماع، already = بالفعل — الجملة تصف حدثًا انتهى للتو ونتيجته مرتبطة بالحاضر.",
+      "feedback": {
+        "correct": "أحسنت ✓ have مع we في المضارع التام.",
+        "incorrect": "الإجابة الصحيحة have. مع we (جمع) نستخدم have، وكلمة already من إشارات المضارع التام."
+      }
+    },
+    {
+      "id": "g35",
+      "prompt": "Have you ___ your homework yet?",
+      "options": [
+        "finished",
+        "finish",
+        "finishing",
+        "finishes"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "aux-have-present-perfect",
+      "hint": "homework = واجب، yet = حتى الآن — السؤال عن اكتمال أمر حتى هذه اللحظة.",
+      "feedback": {
+        "correct": "أحسنت ✓ finished (التصريف الثالث) بعد Have you في المضارع التام.",
+        "incorrect": "الإجابة الصحيحة finished. بعد Have/Has نستخدم التصريف الثالث للفعل، وكلمة yet من إشارات المضارع التام في الأسئلة والنفي."
+      }
+    },
+    {
+      "id": "g36",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "My hobbies are reading, cooking, and traveling.",
+        "My hobbies are reading, cooking, and to travel.",
+        "My hobbies are to read, cooking, and traveling.",
+        "My hobbies are reading, to cook, and traveling."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "parallel-structure",
+      "hint": "hobbies = هوايات — الجملة تعدد ثلاث هوايات للشخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ جميع العناصر بصيغة واحدة (reading, cooking, traveling) وهذا هو التوازي الصحيح.",
+        "incorrect": "الإجابة الصحيحة الأولى؛ يجب أن تكون جميع العناصر في القائمة بالصيغة نفسها (كلها ing)، لا مزيجًا بين to + فعل و ing."
+      }
+    },
+    {
+      "id": "g37",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The teacher is patient, friendly, and knowledgeable.",
+        "The teacher is patient, friendly, and has knowledge.",
+        "The teacher is patient, friendliness, and knowledgeable.",
+        "The teacher patient, friendly, and knowledgeable."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "parallel-structure",
+      "hint": "patient = صبور، knowledgeable = واسع المعرفة — الجملة تصف صفات المعلم الثلاث.",
+      "feedback": {
+        "correct": "أحسنت ✓ الصفات الثلاث بنفس الصيغة (صفة، صفة، صفة) وهذا توازٍ صحيح.",
+        "incorrect": "الإجابة الصحيحة الأولى؛ يجب أن تكون جميع العناصر صفات متوازية، لا خلط بين صفة واسم (friendliness) أو جملة فعلية (has knowledge)."
+      }
+    },
+    {
+      "id": "g38",
+      "prompt": "She spent the weekend cleaning the house, washing the car, and ___ the garden.",
+      "options": [
+        "watering",
+        "to water",
+        "waters",
+        "watered"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "parallel-structure",
+      "hint": "cleaning = تنظيف، washing = غسل، garden = حديقة — الجملة تعدد ثلاثة أعمال قامت بها في عطلة نهاية الأسبوع.",
+      "feedback": {
+        "correct": "أحسنت ✓ watering لأن باقي العناصر في القائمة جاءت بصيغة ing (cleaning, washing).",
+        "incorrect": "الإجابة الصحيحة watering. يجب أن يتوافق العنصر الثالث في الصيغة مع العنصرين السابقين (ing)، للحفاظ على التوازي."
+      }
+    },
+    {
+      "id": "g39",
+      "prompt": "In Saudi Arabia, drivers ___ wear a seatbelt; it is the law.",
+      "options": [
+        "must",
+        "can't",
+        "don't have to",
+        "should"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "modals-attitude",
+      "hint": "seatbelt = حزام الأمان، the law = القانون — الجملة تتحدث عن أمر مطلوب رسميًا وملزم قانونًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ must تعبّر عن الوجوب/الإلزام، وهنا القانون يفرض ارتداء الحزام.",
+        "incorrect": "الإجابة الصحيحة must، لأن العبارة it is the law تدل على إلزام قوي، بخلاف can't (منع) أو don't have to (عدم ضرورة) أو should (نصيحة فقط)."
+      }
+    },
+    {
+      "id": "g40",
+      "prompt": "You ___ smoke inside the hospital; it is strictly forbidden.",
+      "options": [
+        "must not",
+        "don't have to",
+        "should",
+        "have to"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "modals-attitude",
+      "hint": "hospital = مستشفى، strictly forbidden = ممنوع منعًا باتًا — الجملة تصف قاعدة تمنع فعلًا معينًا تمامًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ must not تعبّر عن المنع القوي، وهذا يناسب forbidden.",
+        "incorrect": "الإجابة الصحيحة must not، لأنها تعبّر عن منع قوي يطابق forbidden، بخلاف don't have to (عدم ضرورة فقط) أو should (نصيحة) أو have to (إلزام إيجابي)."
+      }
+    },
+    {
+      "id": "g41",
+      "prompt": "You look tired. You ___ get some rest.",
+      "options": [
+        "should",
+        "must not",
+        "can't",
+        "don't have to"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "modals-attitude",
+      "hint": "tired = متعب، get some rest = تأخذ قسطًا من الراحة — المتحدث يقدم نصيحة بناءً على حالة الشخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ should تُستخدم لتقديم نصيحة مناسبة للموقف.",
+        "incorrect": "الإجابة الصحيحة should، لأن الجملة نصيحة وليست منعًا (must not/can't) أو عدم ضرورة (don't have to)."
+      }
+    },
+    {
+      "id": "g42",
+      "prompt": "This class is optional, so you ___ attend if you don't want to.",
+      "options": [
+        "don't have to",
+        "must not",
+        "can't",
+        "should"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "modals-attitude",
+      "hint": "optional = اختياري — الجملة توضح أن الحضور ليس إلزاميًا بما أن الأمر اختياري.",
+      "feedback": {
+        "correct": "أحسنت ✓ don't have to تعبّر عن عدم الضرورة، وهذا يطابق كلمة optional.",
+        "incorrect": "الإجابة الصحيحة don't have to، لأن optional تعني عدم الإلزام، بخلاف must not (منع) أو can't (عدم قدرة/منع) أو should (نصيحة بالحضور)."
+      }
+    },
+    {
+      "id": "g43",
+      "prompt": "There isn't ___ sugar left in the kitchen.",
+      "options": [
+        "much",
+        "many",
+        "a few",
+        "several"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "quantifiers-count-noncount",
+      "hint": "sugar = سكر، kitchen = مطبخ — الجملة تتحدث عن كمية قليلة جدًا من مادة لا تُعدّ.",
+      "feedback": {
+        "correct": "أحسنت ✓ much تُستخدم مع الأسماء غير المعدودة مثل sugar.",
+        "incorrect": "الإجابة الصحيحة much. sugar اسم غير معدود، ونستخدم معه much في النفي، وليس many أو a few أو several (للمعدود)."
+      }
+    },
+    {
+      "id": "g44",
+      "prompt": "I have ___ close friends who always support me.",
+      "options": [
+        "a few",
+        "a little",
+        "much",
+        "a lot of water"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "quantifiers-count-noncount",
+      "hint": "close friends = أصدقاء مقربون، support = يدعمون — الجملة تتحدث عن عدد صغير لكن مهم من الأصدقاء.",
+      "feedback": {
+        "correct": "أحسنت ✓ a few تُستخدم مع الأسماء المعدودة الجمع مثل friends.",
+        "incorrect": "الإجابة الصحيحة a few. friends اسم معدود جمع، ونستخدم معه a few، بخلاف a little أو much (لغير المعدود)."
+      }
+    },
+    {
+      "id": "g45",
+      "prompt": "We need ___ information before we make a decision.",
+      "options": [
+        "some",
+        "many",
+        "a few",
+        "these"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "quantifiers-count-noncount",
+      "hint": "information = معلومات، decision = قرار — الجملة تطلب كمية غير محددة من شيء لا يُعدّ.",
+      "feedback": {
+        "correct": "أحسنت ✓ some تصلح مع الأسماء غير المعدودة مثل information في الجمل المثبتة.",
+        "incorrect": "الإجابة الصحيحة some. information اسم غير معدود، ونستخدم معه some، بخلاف many أو a few (للمعدود)."
+      }
+    },
+    {
+      "id": "g46",
+      "prompt": "How ___ students are there in your English class?",
+      "options": [
+        "many",
+        "much",
+        "little",
+        "a lot"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "quantifiers-count-noncount",
+      "hint": "English class = صف اللغة الإنجليزية — السؤال عن عدد أفراد يمكن عدّهم.",
+      "feedback": {
+        "correct": "أحسنت ✓ many تُستخدم في السؤال عن عدد الأسماء المعدودة الجمع مثل students.",
+        "incorrect": "الإجابة الصحيحة many. students اسم معدود جمع، ونسأل عن عدده بـ How many، وليس much (لغير المعدود)."
+      }
+    },
+    {
+      "id": "g47",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She bought a beautiful blue dress.",
+        "She bought a dress beautiful blue.",
+        "She bought a beautifuls blue dress.",
+        "She bought a blue beautiful dress for the party, beautiful."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives-use-placement",
+      "hint": "bought = اشترت، dress = فستان — الجملة تصف ملابس اشترتها الفتاة بصفتين.",
+      "feedback": {
+        "correct": "أحسنت ✓ توضع الصفات قبل الاسم مباشرة دون علامة جمع (a beautiful blue dress).",
+        "incorrect": "الإجابة الصحيحة الأولى؛ توضع الصفتان قبل الاسم مباشرة، ولا تأخذ الصفة علامة جمع (s)، ولا تُكرر بعد الاسم."
+      }
+    },
+    {
+      "id": "g48",
+      "prompt": "The movie we watched last night was really ___.",
+      "options": [
+        "boring",
+        "borings",
+        "bore",
+        "boredom"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives-use-placement",
+      "hint": "movie = فيلم، last night = الليلة الماضية — الجملة تصف انطباعًا سلبيًا عن الفيلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ boring صفة تصف الفيلم بعد الفعل was.",
+        "incorrect": "الإجابة الصحيحة boring. نحتاج صفة بعد was لوصف الفيلم، وليس اسمًا (boredom) أو فعلًا (bore) أو صيغة جمع غير صحيحة أصلًا (borings)."
+      }
+    },
+    {
+      "id": "g49",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "He is a hardworking and honest employee.",
+        "He is a hardworkings and honest employee.",
+        "He is an employee hardworking and honest.",
+        "He is a hardworking, honest, employee."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives-use-placement",
+      "hint": "employee = موظف — الجملة تصف صفتين إيجابيتين للموظف.",
+      "feedback": {
+        "correct": "أحسنت ✓ الصفتان توضعان قبل الاسم مباشرة دون فاصلة قبل الاسم نفسه.",
+        "incorrect": "الإجابة الصحيحة الأولى؛ توضع الصفات قبل الاسم دون علامة جمع، ودون فاصلة قبل الاسم مباشرة."
+      }
+    },
+    {
+      "id": "g50",
+      "prompt": "This is a very ___ question; I don't know how to answer it.",
+      "options": [
+        "difficult",
+        "difficults",
+        "difficulty",
+        "difficulted"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives-use-placement",
+      "hint": "question = سؤال، answer = يجيب — المتحدث يعبّر عن صعوبة السؤال الذي أمامه.",
+      "feedback": {
+        "correct": "أحسنت ✓ difficult صفة تصف السؤال، وتأتي بعد very وقبل الاسم question.",
+        "incorrect": "الإجابة الصحيحة difficult. الصفة لا تأخذ علامة جمع (difficults)، ولا تتحول إلى اسم (difficulty) أو فعل (difficulted)."
+      }
+    }
+  ]
+}
