@@ -57,8 +57,14 @@ question file is only fetched when a learner opens that module.
 The modules page has two tabs driven by each manifest entry's **`category`** field
 (`"vocabulary"` or `"grammar"`; missing defaults to `vocabulary`). Vocabulary and grammar modules
 use the **same** JSON schema and engine — grammar is just multiple-choice items about grammar
-(options can be words, forms, or whole sentences). To add a grammar module, author it like any
-other and set `"category": "grammar"` on its manifest entry.
+(options can be words, forms, or whole sentences).
+
+**Grammar files live in their own folder, `modules/grammar/`** (kept separate from vocabulary files
+in `modules/`). To add a grammar module: save it as `modules/grammar/<name>.json`, and register it
+with `"category": "grammar"` and `"file": "grammar/<name>.json"`. Each grammar question also carries
+a `topicSlug` that links its **Hint** to the matching topic in
+[`grammar-reference.html`](grammar-reference.html). Full instructions:
+[`documentations/grammar-module-authoring-guide.md`](documentations/grammar-module-authoring-guide.md).
 
 ## Grammar reference (study pane)
 [`grammar-reference.html`](grammar-reference.html) is a browsable, bilingual study page for the 13

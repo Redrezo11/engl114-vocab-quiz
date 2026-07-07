@@ -60,7 +60,7 @@
     },
     {
       "id": "engl114-grammar-starter",
-      "file": "grammar-starter.json",
+      "file": "grammar/grammar-starter.json",
       "category": "grammar",
       "title": "Grammar — Core Midterm Topics",
       "description": "سؤال واحد لكل موضوع من مواضيع قواعد المنتصف الثلاثة عشر، مع رابط شرح لكل موضوع في زر Hint.",
