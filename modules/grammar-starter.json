@@ -1,150 +1,180 @@
 {
   "schemaVersion": 1,
   "id": "engl114-grammar-starter",
-  "title": "Grammar — Core Topics (Starter)",
-  "description": "تدريب على قواعد ENGL114 الأساسية — اختر الإجابة الصحيحة. (نموذج بداية يُستبدل بمحتوى المنهج.)",
+  "title": "Grammar — Core Midterm Topics",
+  "description": "سؤال واحد لكل موضوع من مواضيع قواعد اختبار المنتصف الثلاثة عشر — اختر الإجابة الصحيحة، واضغط Hint للانتقال إلى شرح الموضوع.",
   "shuffleQuestions": true,
   "shuffleOptions": true,
   "questions": [
     {
       "id": "g1",
-      "prompt": "Choose the correct form: \"She ___ in Riyadh since 2019.\"",
-      "options": ["has lived", "lived", "lives", "is living"],
+      "prompt": "Choose the correct question form: \"___ she like coffee?\"",
+      "options": ["Does", "Do", "Is", "Did"],
       "answerIndex": 0,
-      "hint": [
-        "كلمة since (منذ) مع فترة زمنية مستمرة حتى الآن تحتاج المضارع التام (present perfect).",
-        "الصيغة: has/have + التصريف الثالث."
-      ],
+      "topicSlug": "aux-do-present-past",
+      "hint": "في المضارع البسيط مع he/she/it نستخدم does لتكوين السؤال، ويبقى الفعل الأساسي بلا تغيير.",
       "feedback": {
-        "correct": "أحسنت ✓ نستخدم المضارع التام has lived لأن الفعل بدأ في الماضي وما زال مستمراً (since 2019).",
-        "incorrect": "الإجابة الصحيحة has lived. مع since + وقت مستمر نستخدم present perfect. الماضي lived يدل على انتهاء الحدث، و lives/is living لا يناسبان since منذ سنة محددة."
+        "correct": "أحسنت ✓ مع she نستخدم does، ويبقى الفعل like في صيغته الأساسية.",
+        "incorrect": "الإجابة الصحيحة Does. مع he/she/it نستخدم does في سؤال المضارع البسيط. Do للجمع/‏I/you، و Did للماضي، و Is فعل be وليس مساعداً للمضارع البسيط."
       }
     },
     {
       "id": "g2",
-      "prompt": "Choose the correct article: \"He is ___ honest man.\"",
-      "options": ["an", "a", "the", "(no article)"],
+      "prompt": "Choose the correct form: \"Look! The baby ___ right now.\"",
+      "options": ["is sleeping", "sleeps", "sleep", "is sleep"],
       "answerIndex": 0,
-      "hint": "أداة التعريف تعتمد على الصوت لا الحرف. كلمة honest تبدأ بصوت متحرك لأن الحرف h صامت (silent).",
+      "topicSlug": "aux-be-present-continuous",
+      "hint": "لفعل يحدث الآن نستخدم المضارع المستمر: am/is/are + الفعل + ing.",
       "feedback": {
-        "correct": "أحسنت ✓ نستخدم an لأن honest تبدأ بصوت متحرك (الحرف h صامت).",
-        "incorrect": "الإجابة الصحيحة an. رغم أن honest تبدأ بحرف ساكن كتابةً، إلا أن نطقها يبدأ بصوت متحرك (h صامتة)، لذلك نستخدم an وليس a."
+        "correct": "أحسنت ✓ الحدث يقع الآن (right now)، فنستخدم is sleeping (be + ing).",
+        "incorrect": "الإجابة الصحيحة is sleeping. كلمة right now تدل على الآن، فنستخدم المضارع المستمر is + sleeping، وليس المضارع البسيط sleeps."
       }
     },
     {
       "id": "g3",
-      "prompt": "Choose the correct verb: \"Each of the students ___ a book.\"",
-      "options": ["has", "have", "are having", "having"],
+      "prompt": "Choose the correct compound sentence:",
+      "options": [
+        "I was tired, so I went to bed.",
+        "I was tired so I went to bed.",
+        "I was tired, I went to bed.",
+        "I was tired I went to bed."
+      ],
       "answerIndex": 0,
-      "hint": "كلمة each (كل واحد) تُعامل معاملة المفرد، فتأخذ فعلاً مفرداً.",
+      "topicSlug": "compound-sentences",
+      "hint": "الجملة المركبة تربط جملتين كاملتين بأداة عطف (and/but/or/so) مع فاصلة قبلها.",
       "feedback": {
-        "correct": "أحسنت ✓ each يُعامل مفرداً، لذلك نستخدم has.",
-        "incorrect": "الإجابة الصحيحة has. الكلمات مثل each / every / one of تأخذ فعلاً مفرداً (subject–verb agreement)، فلا نقول have مع each."
+        "correct": "أحسنت ✓ فاصلة + so تربط الجملتين الكاملتين بشكل صحيح.",
+        "incorrect": "الإجابة الصحيحة \"I was tired, so I went to bed.\" نحتاج فاصلة قبل أداة العطف so، ولا يصح ربط جملتين كاملتين بفاصلة فقط دون أداة عطف."
       }
     },
     {
       "id": "g4",
-      "prompt": "Choose the correct preposition: \"The meeting is ___ Monday morning.\"",
-      "options": ["on", "in", "at", "to"],
+      "prompt": "Choose the correct form: \"If you heat ice, it ___.\"",
+      "options": ["melts", "will melt", "melted", "is melting"],
       "answerIndex": 0,
-      "hint": "حروف الجر مع الزمن: in (الشهور/السنوات)، on (الأيام/التواريخ)، at (الساعات).",
+      "topicSlug": "present-real-conditional",
+      "hint": "للحقائق العامة نستخدم الشرط الحقيقي في الحاضر: If + مضارع، مضارع.",
       "feedback": {
-        "correct": "أحسنت ✓ نستخدم on مع أيام الأسبوع (on Monday).",
-        "incorrect": "الإجابة الصحيحة on. نستخدم on مع الأيام والتواريخ، بينما in للشهور والسنوات و at للساعات."
+        "correct": "أحسنت ✓ حقيقة عامة، فالجزآن في المضارع البسيط: heat → melts.",
+        "incorrect": "الإجابة الصحيحة melts. الأمور الحقيقية العامة تأتي بالمضارع في الجزأين، ولا نستخدم will داخل هذا النوع من الشرط."
       }
     },
     {
       "id": "g5",
-      "prompt": "Choose the correct comparative: \"This test is ___ than the last one.\"",
-      "options": ["more difficult", "difficulter", "most difficult", "more difficulter"],
+      "prompt": "Choose the correct form: \"If it rains tomorrow, we ___ inside.\"",
+      "options": ["will stay", "stay", "stayed", "would stay"],
       "answerIndex": 0,
-      "hint": "الصفات الطويلة (مقطعان فأكثر) نستخدم معها more للمقارنة، لا اللاحقة -er.",
+      "topicSlug": "future-real-conditional",
+      "hint": "للشرط المستقبلي الممكن: If + مضارع بسيط، will + فعل أساسي.",
       "feedback": {
-        "correct": "أحسنت ✓ difficult صفة طويلة، فنقول more difficult للمقارنة.",
-        "incorrect": "الإجابة الصحيحة more difficult. مع الصفات الطويلة نستخدم more + الصفة، ولا نضيف -er. و most difficult صيغة تفضيل (superlative) وليست مقارنة."
+        "correct": "أحسنت ✓ الشرط الأول: (If + مضارع) + (will + مصدر) → will stay.",
+        "incorrect": "الإجابة الصحيحة will stay. جملة if بالمضارع rains، والنتيجة بالمستقبل will stay. would للشرط غير الواقعي."
       }
     },
     {
       "id": "g6",
-      "prompt": "Choose the correct form (first conditional): \"If it rains tomorrow, we ___ the trip.\"",
-      "options": ["will cancel", "cancel", "would cancel", "cancelled"],
+      "prompt": "Choose the correct form: \"They ___ football when it started to rain.\"",
+      "options": ["were playing", "played", "are playing", "was playing"],
       "answerIndex": 0,
-      "hint": [
-        "الجملة الشرطية الأولى (real future): If + مضارع بسيط , will + مصدر.",
-        "الشرط هنا rains (مضارع)، فالنتيجة تكون will + الفعل."
-      ],
+      "topicSlug": "aux-be-past-continuous",
+      "hint": "لفعل كان مستمراً في الماضي عند وقوع حدث آخر نستخدم was/were + ing.",
       "feedback": {
-        "correct": "أحسنت ✓ في الشرط الأول: If + present simple، والنتيجة will + base verb → will cancel.",
-        "incorrect": "الإجابة الصحيحة will cancel. الشرط الأول يعبّر عن مستقبل ممكن: (If + مضارع بسيط) + (will + مصدر). would للشرط الثاني غير الواقعي."
+        "correct": "أحسنت ✓ فعل مستمر في الماضي، ومع they نستخدم were playing.",
+        "incorrect": "الإجابة الصحيحة were playing. الماضي المستمر was/were + ing، ومع الجمع they نستخدم were (لا was)."
       }
     },
     {
       "id": "g7",
-      "prompt": "Choose the correct form: \"I enjoy ___ to music in the evening.\"",
-      "options": ["listening", "to listen", "listen", "listened"],
+      "prompt": "Choose the correct tag question: \"You are a student, ___?\"",
+      "options": ["aren't you", "are you", "don't you", "isn't it"],
       "answerIndex": 0,
-      "hint": "بعض الأفعال مثل enjoy / avoid / finish يتبعها فعل بصيغة gerund (فعل + ing).",
+      "topicSlug": "tag-questions",
+      "hint": "الجملة المثبتة تأخذ ذيلاً منفياً يكرر الفعل المساعد نفسه (are → aren't).",
       "feedback": {
-        "correct": "أحسنت ✓ الفعل enjoy يتبعه gerund، فنقول enjoy listening.",
-        "incorrect": "الإجابة الصحيحة listening. أفعال مثل enjoy / finish / avoid تأخذ بعدها الصيغة الاسمية للفعل (gerund: -ing)، وليس المصدر to listen."
+        "correct": "أحسنت ✓ جملة مثبتة فيها are، فالذيل المنفي aren't you.",
+        "incorrect": "الإجابة الصحيحة aren't you. الجملة المثبتة تحتاج ذيلاً منفياً، ويكرر الذيل الفعل المساعد are."
       }
     },
     {
       "id": "g8",
-      "prompt": "Choose the correct modal: \"You ___ wear a seatbelt; it is the law.\"",
-      "options": ["must", "can", "might", "could"],
+      "prompt": "Choose the correct word: \"Would you like tea ___ coffee?\"",
+      "options": ["or", "and", "but", "so"],
       "answerIndex": 0,
-      "hint": "للتعبير عن الإلزام أو الواجب القوي (خصوصاً القانوني) نستخدم must.",
+      "topicSlug": "conjunctions-parallel",
+      "hint": "أدوات الربط: and للإضافة، but للتضاد، or للاختيار بين شيئين.",
       "feedback": {
-        "correct": "أحسنت ✓ must تدل على الإلزام/الوجوب، وهو المناسب لأنه \"القانون\".",
-        "incorrect": "الإجابة الصحيحة must. must للإلزام القوي، بينما can للقدرة/الإذن، و might / could للاحتمال — ولا تناسب معنى الواجب القانوني."
+        "correct": "أحسنت ✓ نعرض اختياراً بين شيئين، فنستخدم or.",
+        "incorrect": "الإجابة الصحيحة or، لأن السؤال يعرض اختياراً بين خيارين. and للإضافة، و but للتضاد."
       }
     },
     {
       "id": "g9",
-      "prompt": "Choose the correct past form: \"They ___ to the museum last Friday.\"",
-      "options": ["went", "have gone", "go", "were going"],
+      "prompt": "Choose the correct form: \"She ___ her homework already.\"",
+      "options": ["has finished", "have finished", "finished", "is finishing"],
       "answerIndex": 0,
-      "hint": "عبارة last Friday زمن ماضٍ محدد ومنتهٍ، فنستخدم الماضي البسيط (past simple).",
+      "topicSlug": "aux-have-present-perfect",
+      "hint": "للفعل الماضي المرتبط بالحاضر (already) نستخدم المضارع التام: has/have + التصريف الثالث.",
       "feedback": {
-        "correct": "أحسنت ✓ مع زمن ماضٍ محدد (last Friday) نستخدم الماضي البسيط went.",
-        "incorrect": "الإجابة الصحيحة went. الزمن الماضي المحدد (last Friday) يتطلب الماضي البسيط، لا المضارع التام have gone الذي لا يُستخدم مع وقت ماضٍ محدد."
+        "correct": "أحسنت ✓ مع she نستخدم has + finished (المضارع التام).",
+        "incorrect": "الإجابة الصحيحة has finished. كلمة already تدل على المضارع التام، ومع she نستخدم has (لا have)."
       }
     },
     {
       "id": "g10",
-      "prompt": "Choose the correct relative pronoun: \"The student ___ won the prize is my friend.\"",
-      "options": ["who", "which", "whose", "where"],
+      "prompt": "Choose the sentence with correct parallel structure:",
+      "options": [
+        "I enjoy swimming, running, and cycling.",
+        "I enjoy swimming, running, and to cycle.",
+        "I enjoy to swim, running, and cycling.",
+        "I enjoy swim, run, and cycle."
+      ],
       "answerIndex": 0,
-      "hint": "ضمير الوصل للأشخاص هو who، وللأشياء which.",
+      "topicSlug": "parallel-structure",
+      "hint": "عناصر القائمة يجب أن تكون بالصيغة نفسها (كلها ‎-ing هنا).",
       "feedback": {
-        "correct": "أحسنت ✓ نستخدم who لأننا نتحدث عن شخص (the student).",
-        "incorrect": "الإجابة الصحيحة who. who للأشخاص، which للأشياء، whose للملكية، where للأماكن — والمقصود هنا شخص (student)."
+        "correct": "أحسنت ✓ كل العناصر بصيغة ‎-ing: swimming, running, cycling.",
+        "incorrect": "الإجابة الصحيحة \"swimming, running, and cycling\". يجب توحيد صيغة العناصر؛ خلط ‎-ing مع to + مصدر يكسر التوازي."
       }
     },
     {
       "id": "g11",
-      "prompt": "Choose the correct form (passive): \"The report ___ by the manager yesterday.\"",
-      "options": ["was written", "wrote", "has written", "is writing"],
+      "prompt": "Choose the correct modal: \"You ___ wear a seatbelt; it is the law.\"",
+      "options": ["must", "can", "might", "would"],
       "answerIndex": 0,
-      "hint": [
-        "المبني للمجهول (passive): صيغة be + التصريف الثالث للفعل.",
-        "التقرير لم يكتب نفسه؛ شخص كتبه، والزمن ماضٍ (yesterday)."
-      ],
+      "topicSlug": "modals-attitude",
+      "hint": "للإلزام القوي (خاصة القانوني) نستخدم must، ويأتي بعده الفعل الأساسي.",
       "feedback": {
-        "correct": "أحسنت ✓ المبني للمجهول في الماضي: was/were + past participle → was written.",
-        "incorrect": "الإجابة الصحيحة was written. الفاعل الحقيقي هو المدير (by the manager) والتقرير هو المفعول، فنستخدم المبني للمجهول was + written في الماضي."
+        "correct": "أحسنت ✓ must تدل على الوجوب، وهي المناسبة لأنه \"القانون\".",
+        "incorrect": "الإجابة الصحيحة must. must للوجوب، بينما can للقدرة/الإذن، و might/would للاحتمال — ولا تناسب الإلزام القانوني."
       }
     },
     {
       "id": "g12",
-      "prompt": "Choose the correct quantifier: \"There isn't ___ milk left in the fridge.\"",
-      "options": ["much", "many", "a few", "number of"],
+      "prompt": "Choose the correct quantifier: \"There isn't ___ water left.\"",
+      "options": ["much", "many", "a few", "a number of"],
       "answerIndex": 0,
-      "hint": "كلمة milk اسم غير معدود (uncountable)، فنستخدم معه much لا many.",
+      "topicSlug": "quantifiers-count-noncount",
+      "hint": "كلمة water اسم غير معدود، فنستخدم معه much (خاصة في النفي).",
       "feedback": {
-        "correct": "أحسنت ✓ milk غير معدود، فنستخدم much (خصوصاً في النفي).",
-        "incorrect": "الإجابة الصحيحة much. الأسماء غير المعدودة مثل milk تأخذ much، بينما many و a few للأسماء المعدودة."
+        "correct": "أحسنت ✓ water غير معدود، فنستخدم much.",
+        "incorrect": "الإجابة الصحيحة much. الأسماء غير المعدودة مثل water تأخذ much، بينما many و a few للأسماء المعدودة."
+      }
+    },
+    {
+      "id": "g13",
+      "prompt": "Choose the sentence with the correct adjective placement:",
+      "options": [
+        "She has a beautiful voice.",
+        "She has a voice beautiful.",
+        "She has a beautifuls voice.",
+        "She has beautiful a voice."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives-use-placement",
+      "hint": "توضع الصفة قبل الاسم، ولا تأخذ الصفة علامة الجمع (s).",
+      "feedback": {
+        "correct": "أحسنت ✓ الصفة beautiful قبل الاسم voice، وبلا (s).",
+        "incorrect": "الإجابة الصحيحة \"a beautiful voice\". توضع الصفة قبل الاسم، ولا تُجمع الصفة بإضافة (s)."
       }
     }
   ]

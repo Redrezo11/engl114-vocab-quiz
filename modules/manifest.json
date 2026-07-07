@@ -62,9 +62,9 @@
       "id": "engl114-grammar-starter",
       "file": "grammar-starter.json",
       "category": "grammar",
-      "title": "Grammar — Core Topics (Starter)",
-      "description": "تدريب على قواعد ENGL114 الأساسية: الأزمنة، أدوات التعريف، المطابقة، حروف الجر، والشرط — اختر الإجابة الصحيحة.",
-      "count": 12
+      "title": "Grammar — Core Midterm Topics",
+      "description": "سؤال واحد لكل موضوع من مواضيع قواعد المنتصف الثلاثة عشر، مع رابط شرح لكل موضوع في زر Hint.",
+      "count": 13
     }
   ]
 }

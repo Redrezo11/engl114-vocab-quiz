@@ -52,6 +52,7 @@
         options: q.options.map(String),
         answerIndex: q.answerIndex,
         hint: normHint(q.hint),
+        topicSlug: isStr(q.topicSlug) ? q.topicSlug.trim() : "",   // grammar: links the hint to a reference topic
         fbCorrect: (q.feedback && isStr(q.feedback.correct)) ? String(q.feedback.correct) : "Correct!",
         fbIncorrect: String(q.feedback.incorrect)
       });
@@ -176,6 +177,7 @@
         options: order.map(function(i){ return q.options[i]; }),
         correctIdx: order.indexOf(q.answerIndex),
         hint: q.hint,
+        topicSlug: q.topicSlug,
         fbCorrect: q.fbCorrect,
         fbIncorrect: q.fbIncorrect
       };
@@ -197,10 +199,10 @@
     $("mod-name").textContent = MOD.title + (curMode==="review" ? " · review" : "");
     $("prompt").textContent = q.prompt;
 
-    // hint
+    // hint (available if there is hint text and/or a grammar-topic link)
     var hb=$("hint-btn"), hint=$("hint");
     hint.className="hint hide"; hint.innerHTML="";
-    if(q.hint && q.hint.length){ hb.classList.remove("hide"); hb.disabled=false; }
+    if((q.hint && q.hint.length) || q.topicSlug){ hb.classList.remove("hide"); hb.disabled=false; }
     else { hb.classList.add("hide"); }
 
     $("verdict").className="verdict"; $("verdict").innerHTML="";
@@ -218,13 +220,21 @@
 
   function revealHint(){
     var q=qs[idx], hint=$("hint");
-    if(!q.hint || !q.hint.length) return;
+    if(!(q.hint && q.hint.length) && !q.topicSlug) return;
     hint.innerHTML="";
-    if(q.hint.length===1){ hint.textContent=q.hint[0]; }
-    else {
+    if(q.hint && q.hint.length===1){ var p=document.createElement("div"); p.setAttribute("dir","auto"); p.textContent=q.hint[0]; hint.appendChild(p); }
+    else if(q.hint && q.hint.length>1){
       var ul=document.createElement("ul");
       q.hint.forEach(function(h){ var li=document.createElement("li"); li.setAttribute("dir","auto"); li.textContent=h; ul.appendChild(li); });
       hint.appendChild(ul);
+    }
+    // grammar: link to the reference topic this question addresses (opens in a new tab to keep quiz state)
+    if(q.topicSlug){
+      var a=document.createElement("a"); a.className="hint-topic";
+      a.href="grammar-reference.html#"+encodeURIComponent(q.topicSlug);
+      a.target="_blank"; a.rel="noopener";
+      a.textContent="📖 Study this grammar topic → · ادرس هذا الموضوع";
+      hint.appendChild(a);
     }
     hint.classList.remove("hide");
     $("hint-btn").disabled=true;
