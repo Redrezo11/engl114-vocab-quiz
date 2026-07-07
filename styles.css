@@ -151,3 +151,38 @@
   .qr-url a{color:var(--primary); text-decoration:none}
   .qr-url a:hover{text-decoration:underline}
   .modal-card a.btn{text-decoration:none}
+
+  /* ===== Grammar reference (accordion + jump index) ===== */
+  .gref-jump{display:flex; flex-wrap:wrap; gap:6px}
+  .gref-chip{border:1px solid var(--line); background:var(--surface-2); color:var(--primary);
+    font-family:var(--sans); font-weight:600; font-size:12px; padding:6px 10px; border-radius:99px; cursor:pointer}
+  .gref-chip:hover{border-color:var(--primary)}
+  .gref-list{display:flex; flex-direction:column; gap:8px}
+  .acc-item{border:1px solid var(--line); border-radius:12px; overflow:hidden; background:var(--surface)}
+  .acc-item:target{border-color:var(--primary); box-shadow:0 0 0 2px rgba(19,179,154,.18)}
+  .acc-head{width:100%; display:flex; align-items:center; gap:10px; text-align:left; cursor:pointer;
+    border:0; background:var(--surface-2); padding:12px 14px; font-family:var(--sans)}
+  .acc-head:hover{background:#eef4f2}
+  .acc-htxt{flex:1; display:flex; flex-direction:column; gap:2px}
+  .acc-en{font-weight:700; font-size:15px; color:var(--ink)}
+  .acc-ar{font-family:var(--ar); font-size:14px; color:var(--muted)}
+  .acc-caret{color:var(--muted); font-size:13px; transition:transform .15s}
+  .acc-head[aria-expanded="true"] .acc-caret{transform:rotate(90deg); color:var(--primary)}
+  .acc-body{display:none; padding:14px; border-top:1px solid var(--line)}
+  .acc-body.open{display:block}
+  .gref-bi{margin:0 0 6px}
+  .gref-bi .en{font-size:15px; color:var(--ink); line-height:1.5}
+  .gref-bi .ar{font-family:var(--ar); font-size:15px; color:var(--muted); line-height:1.7; margin-top:2px}
+  .gref-explain .en{font-weight:600}
+  .gref-label{font-family:var(--mono); font-size:10px; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--primary); margin:14px 0 6px}
+  .gref-structure{font-family:var(--mono); font-size:13px; background:var(--surface-2); border:1px solid var(--line);
+    border-radius:8px; padding:10px 12px; color:var(--ink); white-space:pre-wrap; word-break:break-word}
+  .gref-ex{background:var(--ok-bg); border:1px solid var(--ok-line); border-radius:8px; padding:8px 10px; margin:0 0 6px}
+  .gref-ex .en{font-weight:600}
+  .gref-mis{background:var(--bad-bg); border:1px solid var(--bad-line); border-radius:8px; padding:8px 10px; margin:0 0 6px}
+  .gref-mis .en{font-weight:600}
+  /* contextual grammar-reference link on the modules Grammar tab */
+  .gref-link{display:inline-block; margin-top:2px; font-weight:600; color:var(--primary); text-decoration:none;
+    font-size:14px; border:1px solid var(--line); background:var(--surface-2); padding:9px 14px; border-radius:10px}
+  .gref-link:hover{border-color:var(--primary)}

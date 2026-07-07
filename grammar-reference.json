@@ -1,0 +1,432 @@
+{
+  "course": "ENGL114",
+  "program": "KSU ELSD Common First Year (CFY)",
+  "target_level": "CEFR A1-A2 (Beginner)",
+  "audience": "Common First Year Saudi students",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "assessment": "Midterm",
+  "description_en": "Bilingual (English/Arabic) grammar reference for the ENGL114 midterm. Explanations are kept short and precise so learners can read, understand, and start practicing quickly.",
+  "description_ar": "مرجع قواعد ثنائي اللغة (إنجليزي/عربي) لاختبار منتصف الفصل لمقرر ENGL114. الشروح مختصرة ودقيقة ليتمكن الطالب من القراءة والفهم والبدء في التطبيق بسرعة.",
+  "topics": [
+    {
+      "id": 1,
+      "slug": "aux-do-present-past",
+      "title_en": "Auxiliary Verbs: 'do' for Simple Present and Simple Past",
+      "title_ar": "الأفعال المساعدة: (do) في المضارع البسيط والماضي البسيط",
+      "explanation_en": "Use 'do/does' to make questions and negatives in the simple present, and 'did' in the simple past. The main verb stays in its base form (no -s, no -ed).",
+      "explanation_ar": "نستخدم (do/does) لتكوين الأسئلة والنفي في المضارع البسيط، و(did) في الماضي البسيط. ويبقى الفعل الرئيسي في صيغته الأساسية دون إضافة (s) أو (ed).",
+      "structure": "Do/Does + subject + base verb?  |  Subject + don't/doesn't + base verb.  ||  Did + subject + base verb?  |  Subject + didn't + base verb.",
+      "examples": [
+        {
+          "en": "Do you like tea?",
+          "ar": "هل تحب الشاي؟"
+        },
+        {
+          "en": "She doesn't work on Fridays.",
+          "ar": "هي لا تعمل أيام الجمعة."
+        },
+        {
+          "en": "Did they arrive early?",
+          "ar": "هل وصلوا مبكرًا؟"
+        },
+        {
+          "en": "I didn't see the message.",
+          "ar": "لم أرَ الرسالة."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "She doesn't works here. → She doesn't work here.",
+          "ar": "بعد (doesn't) يبقى الفعل بلا (s)."
+        },
+        {
+          "en": "Did you went? → Did you go?",
+          "ar": "بعد (did) يعود الفعل إلى صيغته الأساسية."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "aux-be-present-continuous",
+      "title_en": "Auxiliary Verbs: 'be' with the Present Continuous",
+      "title_ar": "الأفعال المساعدة: (be) مع المضارع المستمر",
+      "explanation_en": "Use am/is/are + verb-ing to talk about an action happening now or around now.",
+      "explanation_ar": "نستخدم (am/is/are) مع الفعل مضافًا إليه (ing) للتحدث عن فعل يحدث الآن أو في هذه الفترة.",
+      "structure": "Subject + am/is/are + verb-ing.  (I am / He-She-It is / You-We-They are)",
+      "examples": [
+        {
+          "en": "I am studying English now.",
+          "ar": "أنا أدرس الإنجليزية الآن."
+        },
+        {
+          "en": "She is reading a book.",
+          "ar": "هي تقرأ كتابًا."
+        },
+        {
+          "en": "They are playing football.",
+          "ar": "هم يلعبون كرة القدم."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "She is read a book. → She is reading a book.",
+          "ar": "لا تنسَ إضافة (ing) إلى الفعل."
+        },
+        {
+          "en": "I studying now. → I am studying now.",
+          "ar": "لا تحذف الفعل المساعد (am/is/are)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "compound-sentences",
+      "title_en": "Compound Sentences",
+      "title_ar": "الجُمل المركبة",
+      "explanation_en": "A compound sentence joins two complete sentences with a coordinating conjunction (and, but, or, so). Put a comma before the conjunction.",
+      "explanation_ar": "الجملة المركبة تربط جملتين كاملتين بأداة عطف (and, but, or, so)، مع وضع فاصلة قبل أداة الربط.",
+      "structure": "[Complete sentence], + (and / but / or / so) + [complete sentence].",
+      "examples": [
+        {
+          "en": "I like tea, but my brother likes coffee.",
+          "ar": "أنا أحب الشاي، لكن أخي يحب القهوة."
+        },
+        {
+          "en": "It was late, so we went home.",
+          "ar": "كان الوقت متأخرًا، لذلك ذهبنا إلى المنزل."
+        },
+        {
+          "en": "You can call me, or you can send a message.",
+          "ar": "يمكنك الاتصال بي، أو يمكنك إرسال رسالة."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "I like tea but my brother likes coffee. → I like tea, but my brother likes coffee.",
+          "ar": "ضع فاصلة قبل أداة الربط."
+        },
+        {
+          "en": "It was late, we went home. → It was late, so we went home.",
+          "ar": "لا تربط جملتين كاملتين بفاصلة فقط دون أداة عطف."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "present-real-conditional",
+      "title_en": "Present Real Conditional",
+      "title_ar": "الشرط الحقيقي في الحاضر",
+      "explanation_en": "Use it for facts, general truths, and habits. Both parts use the simple present: If + present, present.",
+      "explanation_ar": "نستخدمه للحقائق والأمور العامة والعادات. ويأتي الجزآن في المضارع البسيط: If + مضارع، مضارع.",
+      "structure": "If + subject + present verb, subject + present verb.",
+      "examples": [
+        {
+          "en": "If you heat water, it boils.",
+          "ar": "إذا سخّنتَ الماء، فإنه يغلي."
+        },
+        {
+          "en": "If I feel tired, I go to sleep early.",
+          "ar": "إذا شعرتُ بالتعب، أنام مبكرًا."
+        },
+        {
+          "en": "Plants die if they don't get water.",
+          "ar": "تموت النباتات إذا لم تحصل على الماء."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "If you will heat water, it boils. → If you heat water, it boils.",
+          "ar": "لا نستخدم (will) في جملة (if)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "future-real-conditional",
+      "title_en": "Future Real Conditional",
+      "title_ar": "الشرط الحقيقي في المستقبل",
+      "explanation_en": "Use it for real or possible situations in the future. The if-clause is simple present; the result uses 'will' + base verb.",
+      "explanation_ar": "نستخدمه للمواقف الحقيقية أو الممكنة في المستقبل. تأتي جملة (if) في المضارع البسيط، وتأتي النتيجة مع (will) والفعل الأساسي.",
+      "structure": "If + subject + present verb, subject + will + base verb.",
+      "examples": [
+        {
+          "en": "If it rains tomorrow, I will stay home.",
+          "ar": "إذا أمطرت غدًا، سأبقى في المنزل."
+        },
+        {
+          "en": "If you study hard, you will pass the exam.",
+          "ar": "إذا درستَ بجد، ستنجح في الامتحان."
+        },
+        {
+          "en": "She will call you if she has time.",
+          "ar": "ستتصل بك إذا كان لديها وقت."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "If it will rain, I will stay home. → If it rains, I will stay home.",
+          "ar": "لا نستخدم (will) بعد (if)."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "aux-be-past-continuous",
+      "title_en": "Auxiliary Verbs: 'be' with the Past Continuous",
+      "title_ar": "الأفعال المساعدة: (be) مع الماضي المستمر",
+      "explanation_en": "Use was/were + verb-ing to talk about an action that was in progress at a specific time in the past.",
+      "explanation_ar": "نستخدم (was/were) مع الفعل مضافًا إليه (ing) للتحدث عن فعل كان مستمرًا في وقت محدد في الماضي.",
+      "structure": "Subject + was/were + verb-ing.  (I-He-She-It was / You-We-They were)",
+      "examples": [
+        {
+          "en": "I was sleeping at 10 p.m.",
+          "ar": "كنتُ نائمًا في العاشرة مساءً."
+        },
+        {
+          "en": "They were studying when I called.",
+          "ar": "كانوا يذاكرون عندما اتصلتُ."
+        },
+        {
+          "en": "It was raining this morning.",
+          "ar": "كانت السماء تمطر هذا الصباح."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "They was studying. → They were studying.",
+          "ar": "نستخدم (were) مع الجمع."
+        },
+        {
+          "en": "I was slept. → I was sleeping.",
+          "ar": "الفعل يأخذ (ing) وليس صيغة الماضي."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "tag-questions",
+      "title_en": "Tag Questions",
+      "title_ar": "الأسئلة الذيلية (أسئلة التذييل)",
+      "explanation_en": "A short question added to the end of a sentence to confirm information. A positive sentence takes a negative tag; a negative sentence takes a positive tag. The tag repeats the same auxiliary, or uses do/does/did.",
+      "explanation_ar": "سؤال قصير يُضاف إلى نهاية الجملة للتأكد من المعلومة. الجملة المثبتة تأخذ ذيلًا منفيًا، والجملة المنفية تأخذ ذيلًا مثبتًا. ويكرر الذيل الفعل المساعد نفسه، أو يستخدم (do/does/did).",
+      "structure": "Positive statement + negative tag?  |  Negative statement + positive tag?",
+      "examples": [
+        {
+          "en": "You are a student, aren't you?",
+          "ar": "أنت طالب، أليس كذلك؟"
+        },
+        {
+          "en": "She doesn't drive, does she?",
+          "ar": "هي لا تقود السيارة، أليس كذلك؟"
+        },
+        {
+          "en": "They finished the work, didn't they?",
+          "ar": "لقد أنهوا العمل، أليس كذلك؟"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "You are a student, are you? → You are a student, aren't you?",
+          "ar": "الجملة المثبتة تحتاج ذيلًا منفيًا."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "conjunctions-parallel",
+      "title_en": "Conjunctions: 'and', 'but', 'or' for Parallel Structure",
+      "title_ar": "أدوات الربط: (and, but, or) للتركيب المتوازي",
+      "explanation_en": "These conjunctions join equal words or phrases. 'and' adds, 'but' contrasts, 'or' gives a choice. The words on both sides must have the same grammatical form.",
+      "explanation_ar": "تربط هذه الأدوات كلمات أو عبارات متساوية. (and) للإضافة، و(but) للتضاد، و(or) للاختيار. ويجب أن تكون الكلمات على الجانبين من النوع النحوي نفسه.",
+      "structure": "word/phrase + (and / but / or) + word/phrase  (same form on both sides)",
+      "examples": [
+        {
+          "en": "I bought apples and oranges.",
+          "ar": "اشتريتُ تفاحًا وبرتقالًا."
+        },
+        {
+          "en": "The room is small but clean.",
+          "ar": "الغرفة صغيرة لكنها نظيفة."
+        },
+        {
+          "en": "Would you like tea or coffee?",
+          "ar": "هل تريد شايًا أم قهوة؟"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "I like reading and to swim. → I like reading and swimming.",
+          "ar": "يجب توحيد الصيغة على جانبي أداة الربط."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "aux-have-present-perfect",
+      "title_en": "Auxiliary Verbs: 'have' with the Present Perfect",
+      "title_ar": "الأفعال المساعدة: (have) مع المضارع التام",
+      "explanation_en": "Use have/has + past participle (the third form of the verb) for past actions connected to now, experiences, or results we can see now.",
+      "explanation_ar": "نستخدم (have/has) مع التصريف الثالث للفعل للتعبير عن أفعال ماضية مرتبطة بالحاضر، أو الخبرات، أو نتائج نراها الآن.",
+      "structure": "Subject + have/has + past participle.  (I-You-We-They have / He-She-It has)",
+      "examples": [
+        {
+          "en": "I have finished my homework.",
+          "ar": "لقد أنهيتُ واجبي."
+        },
+        {
+          "en": "She has visited Dubai twice.",
+          "ar": "لقد زارت دبي مرتين."
+        },
+        {
+          "en": "We have never eaten sushi.",
+          "ar": "لم نأكل السوشي من قبل."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "She have finished. → She has finished.",
+          "ar": "نستخدم (has) مع المفرد الغائب (he/she/it)."
+        },
+        {
+          "en": "I have finish. → I have finished.",
+          "ar": "نستخدم التصريف الثالث للفعل."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "parallel-structure",
+      "title_en": "Parallel Structure",
+      "title_ar": "التركيب المتوازي (التوازي)",
+      "explanation_en": "Use the same grammatical form for items in a list or items joined by a conjunction (all nouns, all -ing verbs, all infinitives, and so on).",
+      "explanation_ar": "استخدم الصيغة النحوية نفسها للعناصر في القائمة أو العناصر المرتبطة بأداة عطف (كلها أسماء، أو كلها أفعال بـ(ing)، أو كلها مصادر، وهكذا).",
+      "structure": "item + , + item + , + (and/or) + item   →  all items in the same form",
+      "examples": [
+        {
+          "en": "I enjoy swimming, running, and cycling.",
+          "ar": "أستمتع بالسباحة والجري وركوب الدراجة. (كلها بصيغة ing)"
+        },
+        {
+          "en": "She is smart, kind, and hardworking.",
+          "ar": "هي ذكية ولطيفة ومجتهدة. (كلها صفات)"
+        },
+        {
+          "en": "We want to learn, to grow, and to succeed.",
+          "ar": "نريد أن نتعلم وأن ننمو وأن ننجح. (كلها مصادر)"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "He likes to read and swimming. → to read and to swim (or) reading and swimming.",
+          "ar": "وحّد الصيغة بين جميع العناصر."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "modals-attitude",
+      "title_en": "Modals Expressing Attitude",
+      "title_ar": "الأفعال المساعدة الشكلية للتعبير عن الموقف (Modals)",
+      "explanation_en": "Modals show attitude such as obligation, prohibition, or advice. Necessity: must, have to. Prohibition: must not, can't. Advice: should, ought to; advice against: shouldn't. No necessity: don't have to. A modal is always followed by the base verb.",
+      "explanation_ar": "تعبّر الأفعال الشكلية عن مواقف مثل الوجوب أو المنع أو النصح. للوجوب: (must, have to). للمنع: (must not, can't). للنصح: (should, ought to)، وللنصح بالترك: (shouldn't). لعدم الضرورة: (don't have to). ويأتي بعد الفعل الشكلي دائمًا الفعل في صيغته الأساسية.",
+      "structure": "Subject + modal + base verb.  (You must go / You should rest / You don't have to pay)",
+      "examples": [
+        {
+          "en": "You must wear a seatbelt.",
+          "ar": "يجب أن ترتدي حزام الأمان. (وجوب)"
+        },
+        {
+          "en": "You can't park here.",
+          "ar": "لا يمكنك الوقوف هنا. (منع)"
+        },
+        {
+          "en": "You should drink more water.",
+          "ar": "ينبغي أن تشرب المزيد من الماء. (نصيحة)"
+        },
+        {
+          "en": "You don't have to come early.",
+          "ar": "لستَ مضطرًا للحضور مبكرًا. (لا ضرورة)"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "You must to go. → You must go.",
+          "ar": "لا نضع (to) بعد الفعل الشكلي (ماعدا have to / ought to)."
+        },
+        {
+          "en": "'must not' vs 'don't have to'",
+          "ar": "(must not) تعني ممنوع، أما (don't have to) فتعني غير ضروري."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "quantifiers-count-noncount",
+      "title_en": "Quantifiers with Count and Noncount Nouns",
+      "title_ar": "أدوات الكمية مع الأسماء المعدودة وغير المعدودة",
+      "explanation_en": "Count nouns can be counted and have a plural (book/books). Noncount nouns cannot be counted (water, rice, information). Use many/(a) few with count nouns; much/(a) little with noncount nouns; some/any/a lot of with both.",
+      "explanation_ar": "الأسماء المعدودة يمكن عدّها ولها صيغة جمع (book/books). الأسماء غير المعدودة لا تُعدّ (water, rice, information). نستخدم (many/a few) مع المعدودة، و(much/a little) مع غير المعدودة، و(some/any/a lot of) مع كليهما.",
+      "structure": "many / a few + [count plural]  |  much / a little + [noncount]  |  some / any / a lot of + [both]",
+      "examples": [
+        {
+          "en": "I have many friends.",
+          "ar": "لديّ أصدقاء كثيرون. (اسم معدود)"
+        },
+        {
+          "en": "There isn't much water.",
+          "ar": "لا يوجد ماء كثير. (اسم غير معدود)"
+        },
+        {
+          "en": "We need some rice and a few eggs.",
+          "ar": "نحتاج بعض الأرز وقليلًا من البيض."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "much friends → many friends",
+          "ar": "نستخدم (many) مع الاسم المعدود."
+        },
+        {
+          "en": "many water → much water",
+          "ar": "نستخدم (much) مع الاسم غير المعدود."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "adjectives-use-placement",
+      "title_en": "Use and Placement of Adjectives",
+      "title_ar": "استخدام الصفات وموضعها",
+      "explanation_en": "Adjectives describe nouns. Place an adjective before the noun (a red car) or after the verb 'be' (The car is red). Adjectives never take a plural -s.",
+      "explanation_ar": "الصفات تصف الأسماء. توضع الصفة قبل الاسم (a red car) أو بعد الفعل (be) مثل (The car is red). ولا تأخذ الصفة علامة الجمع (s) أبدًا.",
+      "structure": "adjective + noun (a big house)   OR   noun + be + adjective (The house is big)",
+      "examples": [
+        {
+          "en": "She has a beautiful voice.",
+          "ar": "لديها صوت جميل."
+        },
+        {
+          "en": "The students are happy.",
+          "ar": "الطلاب سعداء."
+        },
+        {
+          "en": "It is a long, difficult exam.",
+          "ar": "إنه امتحان طويل وصعب."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "a reds car → a red car",
+          "ar": "الصفة لا تُجمع."
+        },
+        {
+          "en": "a car red → a red car",
+          "ar": "توضع الصفة قبل الاسم."
+        }
+      ]
+    }
+  ]
+}

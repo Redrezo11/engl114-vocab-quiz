@@ -60,6 +60,15 @@ use the **same** JSON schema and engine — grammar is just multiple-choice item
 (options can be words, forms, or whole sentences). To add a grammar module, author it like any
 other and set `"category": "grammar"` on its manifest entry.
 
+## Grammar reference (study pane)
+[`grammar-reference.html`](grammar-reference.html) is a browsable, bilingual study page for the 13
+midterm grammar topics (jump index + accordion). Its data lives in
+[`grammar-reference.json`](grammar-reference.json) (the human-readable companion is
+[`documentations/engl114_grammar_a1a2_bilingual.md`](documentations/engl114_grammar_a1a2_bilingual.md)).
+Each topic's accordion item uses `id="<slug>"`, so it is **deep-linkable** — e.g.
+`grammar-reference.html#tag-questions` opens straight to that topic. Future grammar hints will link
+to these `#slug` anchors (open in a new tab to keep the quiz state).
+
 ## Add a new module (webmaster workflow)
 1. Have an LLM produce a `.json` file following the **schema** below (see the author prompt).
 2. **Validate the JSON** (paste into your editor / jsonlint) and remove any ```` ```json ```` code

@@ -285,7 +285,9 @@
   $("cat-seg").addEventListener("click", function(e){
     var b=e.target.closest("button"); if(!b) return; var kids=$("cat-seg").children;
     for(var i=0;i<kids.length;i++){ kids[i].setAttribute("aria-pressed", kids[i]===b); }
-    curCat = b.dataset.cat; renderList(); });
+    curCat = b.dataset.cat;
+    $("gref-wrap").classList.toggle("hide", curCat!=="grammar");
+    renderList(); });
   $("len-seg").addEventListener("click", function(e){
     var b=e.target.closest("button"); if(!b) return; var kids=$("len-seg").children;
     for(var i=0;i<kids.length;i++){ kids[i].setAttribute("aria-pressed", kids[i]===b); }
