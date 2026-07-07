@@ -163,13 +163,15 @@ app finds modules through a registry. The webmaster must:
    {
      "id": "engl114-unit4-collocations",
      "file": "unit4.json",
+     "category": "vocabulary",
      "title": "Unit 4 — Collocations",
      "description": "اختيار الكلمة الصحيحة في السياق الأكاديمي.",
      "count": 30
    }
    ```
    The manifest `id` **must match** the `id` inside the module file. `count` is the number of
-   questions (used only for display).
+   questions (used only for display). `category` is **`"vocabulary"` or `"grammar"`** — it decides
+   which tab the module appears under on the modules page; if omitted it defaults to `"vocabulary"`.
 3. Commit and push. GitHub Pages rebuilds and the module appears in the list.
 
 If you (the LLM) are asked to produce the manifest entry too, output it separately and clearly

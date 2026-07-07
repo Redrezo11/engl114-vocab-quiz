@@ -1,9 +1,13 @@
-# Word Bank — ENGL114 Vocabulary Quiz
+# ENGL114 Midterm Practice
 
-A small static web app for self-testing the **ENGL114** core midterm vocabulary (the general
-academic word list from the exam specs). It shows an English word and four Arabic options;
-words you miss are saved to a **review pile** (in `localStorage`) so you can retest just the
-weak ones later. Plain HTML, CSS, and JavaScript — no build step, no dependencies. 184 words.
+A small static web app for **ENGL114** midterm self-study. Two parts:
+
+- **Word Bank** ([index.html](index.html)) — the core midterm vocabulary as English→Arabic
+  matching; missed words are saved to a **review pile** (in `localStorage`) to retest later.
+- **Practice Modules** ([modules.html](modules.html)) — English multiple-choice modules split into
+  **Vocabulary** and **Grammar** tabs, with bilingual (Arabic-dominant) hints and feedback.
+
+Plain HTML, CSS, and JavaScript — no build step, no dependencies.
 
 ## Files
 - `index.html` — page structure
@@ -49,6 +53,13 @@ its own. Instead, [`modules/manifest.json`](modules/manifest.json) is a **regist
 lists every module so the app knows what exists. The module list is built from the manifest; each
 question file is only fetched when a learner opens that module.
 
+## Vocabulary vs Grammar tabs
+The modules page has two tabs driven by each manifest entry's **`category`** field
+(`"vocabulary"` or `"grammar"`; missing defaults to `vocabulary`). Vocabulary and grammar modules
+use the **same** JSON schema and engine — grammar is just multiple-choice items about grammar
+(options can be words, forms, or whole sentences). To add a grammar module, author it like any
+other and set `"category": "grammar"` on its manifest entry.
+
 ## Add a new module (webmaster workflow)
 1. Have an LLM produce a `.json` file following the **schema** below (see the author prompt).
 2. **Validate the JSON** (paste into your editor / jsonlint) and remove any ```` ```json ```` code
@@ -56,7 +67,7 @@ question file is only fetched when a learner opens that module.
 3. Drop the file into `modules/` (e.g. `modules/unit4.json`).
 4. Add one entry to `modules/manifest.json`:
    ```json
-   { "id": "engl114-unit4", "file": "unit4.json",
+   { "id": "engl114-unit4", "file": "unit4.json", "category": "vocabulary",
      "title": "Unit 4 — Collocations", "description": "…", "count": 30 }
    ```
    The `id` must be **unique** (it namespaces that module's saved progress — never reuse one).

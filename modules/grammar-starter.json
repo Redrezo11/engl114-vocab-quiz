@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "engl114-grammar-starter",
+  "title": "Grammar — Core Topics (Starter)",
+  "description": "تدريب على قواعد ENGL114 الأساسية — اختر الإجابة الصحيحة. (نموذج بداية يُستبدل بمحتوى المنهج.)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "g1",
+      "prompt": "Choose the correct form: \"She ___ in Riyadh since 2019.\"",
+      "options": ["has lived", "lived", "lives", "is living"],
+      "answerIndex": 0,
+      "hint": [
+        "كلمة since (منذ) مع فترة زمنية مستمرة حتى الآن تحتاج المضارع التام (present perfect).",
+        "الصيغة: has/have + التصريف الثالث."
+      ],
+      "feedback": {
+        "correct": "أحسنت ✓ نستخدم المضارع التام has lived لأن الفعل بدأ في الماضي وما زال مستمراً (since 2019).",
+        "incorrect": "الإجابة الصحيحة has lived. مع since + وقت مستمر نستخدم present perfect. الماضي lived يدل على انتهاء الحدث، و lives/is living لا يناسبان since منذ سنة محددة."
+      }
+    },
+    {
+      "id": "g2",
+      "prompt": "Choose the correct article: \"He is ___ honest man.\"",
+      "options": ["an", "a", "the", "(no article)"],
+      "answerIndex": 0,
+      "hint": "أداة التعريف تعتمد على الصوت لا الحرف. كلمة honest تبدأ بصوت متحرك لأن الحرف h صامت (silent).",
+      "feedback": {
+        "correct": "أحسنت ✓ نستخدم an لأن honest تبدأ بصوت متحرك (الحرف h صامت).",
+        "incorrect": "الإجابة الصحيحة an. رغم أن honest تبدأ بحرف ساكن كتابةً، إلا أن نطقها يبدأ بصوت متحرك (h صامتة)، لذلك نستخدم an وليس a."
+      }
+    },
+    {
+      "id": "g3",
+      "prompt": "Choose the correct verb: \"Each of the students ___ a book.\"",
+      "options": ["has", "have", "are having", "having"],
+      "answerIndex": 0,
+      "hint": "كلمة each (كل واحد) تُعامل معاملة المفرد، فتأخذ فعلاً مفرداً.",
+      "feedback": {
+        "correct": "أحسنت ✓ each يُعامل مفرداً، لذلك نستخدم has.",
+        "incorrect": "الإجابة الصحيحة has. الكلمات مثل each / every / one of تأخذ فعلاً مفرداً (subject–verb agreement)، فلا نقول have مع each."
+      }
+    },
+    {
+      "id": "g4",
+      "prompt": "Choose the correct preposition: \"The meeting is ___ Monday morning.\"",
+      "options": ["on", "in", "at", "to"],
+      "answerIndex": 0,
+      "hint": "حروف الجر مع الزمن: in (الشهور/السنوات)، on (الأيام/التواريخ)، at (الساعات).",
+      "feedback": {
+        "correct": "أحسنت ✓ نستخدم on مع أيام الأسبوع (on Monday).",
+        "incorrect": "الإجابة الصحيحة on. نستخدم on مع الأيام والتواريخ، بينما in للشهور والسنوات و at للساعات."
+      }
+    },
+    {
+      "id": "g5",
+      "prompt": "Choose the correct comparative: \"This test is ___ than the last one.\"",
+      "options": ["more difficult", "difficulter", "most difficult", "more difficulter"],
+      "answerIndex": 0,
+      "hint": "الصفات الطويلة (مقطعان فأكثر) نستخدم معها more للمقارنة، لا اللاحقة -er.",
+      "feedback": {
+        "correct": "أحسنت ✓ difficult صفة طويلة، فنقول more difficult للمقارنة.",
+        "incorrect": "الإجابة الصحيحة more difficult. مع الصفات الطويلة نستخدم more + الصفة، ولا نضيف -er. و most difficult صيغة تفضيل (superlative) وليست مقارنة."
+      }
+    },
+    {
+      "id": "g6",
+      "prompt": "Choose the correct form (first conditional): \"If it rains tomorrow, we ___ the trip.\"",
+      "options": ["will cancel", "cancel", "would cancel", "cancelled"],
+      "answerIndex": 0,
+      "hint": [
+        "الجملة الشرطية الأولى (real future): If + مضارع بسيط , will + مصدر.",
+        "الشرط هنا rains (مضارع)، فالنتيجة تكون will + الفعل."
+      ],
+      "feedback": {
+        "correct": "أحسنت ✓ في الشرط الأول: If + present simple، والنتيجة will + base verb → will cancel.",
+        "incorrect": "الإجابة الصحيحة will cancel. الشرط الأول يعبّر عن مستقبل ممكن: (If + مضارع بسيط) + (will + مصدر). would للشرط الثاني غير الواقعي."
+      }
+    },
+    {
+      "id": "g7",
+      "prompt": "Choose the correct form: \"I enjoy ___ to music in the evening.\"",
+      "options": ["listening", "to listen", "listen", "listened"],
+      "answerIndex": 0,
+      "hint": "بعض الأفعال مثل enjoy / avoid / finish يتبعها فعل بصيغة gerund (فعل + ing).",
+      "feedback": {
+        "correct": "أحسنت ✓ الفعل enjoy يتبعه gerund، فنقول enjoy listening.",
+        "incorrect": "الإجابة الصحيحة listening. أفعال مثل enjoy / finish / avoid تأخذ بعدها الصيغة الاسمية للفعل (gerund: -ing)، وليس المصدر to listen."
+      }
+    },
+    {
+      "id": "g8",
+      "prompt": "Choose the correct modal: \"You ___ wear a seatbelt; it is the law.\"",
+      "options": ["must", "can", "might", "could"],
+      "answerIndex": 0,
+      "hint": "للتعبير عن الإلزام أو الواجب القوي (خصوصاً القانوني) نستخدم must.",
+      "feedback": {
+        "correct": "أحسنت ✓ must تدل على الإلزام/الوجوب، وهو المناسب لأنه \"القانون\".",
+        "incorrect": "الإجابة الصحيحة must. must للإلزام القوي، بينما can للقدرة/الإذن، و might / could للاحتمال — ولا تناسب معنى الواجب القانوني."
+      }
+    },
+    {
+      "id": "g9",
+      "prompt": "Choose the correct past form: \"They ___ to the museum last Friday.\"",
+      "options": ["went", "have gone", "go", "were going"],
+      "answerIndex": 0,
+      "hint": "عبارة last Friday زمن ماضٍ محدد ومنتهٍ، فنستخدم الماضي البسيط (past simple).",
+      "feedback": {
+        "correct": "أحسنت ✓ مع زمن ماضٍ محدد (last Friday) نستخدم الماضي البسيط went.",
+        "incorrect": "الإجابة الصحيحة went. الزمن الماضي المحدد (last Friday) يتطلب الماضي البسيط، لا المضارع التام have gone الذي لا يُستخدم مع وقت ماضٍ محدد."
+      }
+    },
+    {
+      "id": "g10",
+      "prompt": "Choose the correct relative pronoun: \"The student ___ won the prize is my friend.\"",
+      "options": ["who", "which", "whose", "where"],
+      "answerIndex": 0,
+      "hint": "ضمير الوصل للأشخاص هو who، وللأشياء which.",
+      "feedback": {
+        "correct": "أحسنت ✓ نستخدم who لأننا نتحدث عن شخص (the student).",
+        "incorrect": "الإجابة الصحيحة who. who للأشخاص، which للأشياء، whose للملكية، where للأماكن — والمقصود هنا شخص (student)."
+      }
+    },
+    {
+      "id": "g11",
+      "prompt": "Choose the correct form (passive): \"The report ___ by the manager yesterday.\"",
+      "options": ["was written", "wrote", "has written", "is writing"],
+      "answerIndex": 0,
+      "hint": [
+        "المبني للمجهول (passive): صيغة be + التصريف الثالث للفعل.",
+        "التقرير لم يكتب نفسه؛ شخص كتبه، والزمن ماضٍ (yesterday)."
+      ],
+      "feedback": {
+        "correct": "أحسنت ✓ المبني للمجهول في الماضي: was/were + past participle → was written.",
+        "incorrect": "الإجابة الصحيحة was written. الفاعل الحقيقي هو المدير (by the manager) والتقرير هو المفعول، فنستخدم المبني للمجهول was + written في الماضي."
+      }
+    },
+    {
+      "id": "g12",
+      "prompt": "Choose the correct quantifier: \"There isn't ___ milk left in the fridge.\"",
+      "options": ["much", "many", "a few", "number of"],
+      "answerIndex": 0,
+      "hint": "كلمة milk اسم غير معدود (uncountable)، فنستخدم معه much لا many.",
+      "feedback": {
+        "correct": "أحسنت ✓ milk غير معدود، فنستخدم much (خصوصاً في النفي).",
+        "incorrect": "الإجابة الصحيحة much. الأسماء غير المعدودة مثل milk تأخذ much، بينما many و a few للأسماء المعدودة."
+      }
+    }
+  ]
+}

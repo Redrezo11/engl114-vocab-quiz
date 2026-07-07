@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": 4,
+  "version": 5,
   "modules": [
     {
       "id": "engl114-starter-word-choice",
       "file": "starter.json",
+      "category": "vocabulary",
       "title": "Starter — Academic Word Choice",
       "description": "Sample module: choosing the right academic word in context. Bilingual hints & feedback.",
       "count": 8
@@ -12,6 +13,7 @@
     {
       "id": "engl114-core-vocabulary-test-1",
       "file": "unit-vocab-test1.json",
+      "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 1",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 — اختر الكلمة الإنجليزية الصحيحة.",
       "count": 20
@@ -19,6 +21,7 @@
     {
       "id": "engl114-core-vocabulary-test-2",
       "file": "unit-vocab-test2.json",
+      "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 2",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثاني) — اختر الكلمة المناسبة لإكمال الجملة.",
       "count": 40
@@ -26,6 +29,7 @@
     {
       "id": "engl114-core-vocabulary-test-3",
       "file": "unit-vocab-test3.json",
+      "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 3",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثالث) — اختر الكلمة المناسبة لإكمال الجملة.",
       "count": 62
@@ -33,6 +37,7 @@
     {
       "id": "engl114-core-vocabulary-test-4",
       "file": "unit-vocab-test4.json",
+      "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 4",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الرابع) — اختر الكلمة المناسبة لإكمال الجملة.",
       "count": 62
@@ -40,6 +45,7 @@
     {
       "id": "engl114-marathon-vocabulary-test-1",
       "file": "engl114-marathon-test1.json",
+      "category": "vocabulary",
       "title": "ENGL114 — Vocabulary Marathon 1",
       "description": "اختبار شامل (ماراثوني) لمفردات ENGL114 — الجزء 1 من أصل 2 — اختر الكلمة المناسبة لإكمال الجملة.",
       "count": 100
@@ -47,9 +53,18 @@
     {
       "id": "engl114-marathon-vocabulary-test-2",
       "file": "engl114-marathon-test2.json",
+      "category": "vocabulary",
       "title": "ENGL114 — Vocabulary Marathon 2",
       "description": "اختبار شامل (ماراثوني) لمفردات ENGL114 — الجزء 2 من أصل 2 — اختر الكلمة المناسبة لإكمال الجملة.",
       "count": 100
+    },
+    {
+      "id": "engl114-grammar-starter",
+      "file": "grammar-starter.json",
+      "category": "grammar",
+      "title": "Grammar — Core Topics (Starter)",
+      "description": "تدريب على قواعد ENGL114 الأساسية: الأزمنة، أدوات التعريف، المطابقة، حروف الجر، والشرط — اختر الإجابة الصحيحة.",
+      "count": 12
     }
   ]
 }

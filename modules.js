@@ -68,6 +68,8 @@
 
   /* ---- manifest + module list ---- */
   var MANIFEST = [];
+  var curCat = "vocabulary";
+  function catOf(m){ return isStr(m.category) ? m.category : "vocabulary"; }
   async function fetchJson(path){
     var res = await fetch(path, { cache: "no-cache" });
     if(!res.ok) throw new Error("HTTP "+res.status+" for "+path);
@@ -98,12 +100,15 @@
 
   function renderList(){
     var box = $("modlist"); box.innerHTML = "";
-    if(!MANIFEST.length){
+    var list = MANIFEST.filter(function(m){ return catOf(m)===curCat; });
+    if(!list.length){
       var empty = document.createElement("div"); empty.className="modempty";
-      empty.textContent = "No modules yet. Add a JSON file to /modules and register it in modules/manifest.json.";
+      empty.textContent = MANIFEST.length
+        ? ("No "+curCat+" modules yet.")
+        : "No modules yet. Add a JSON file to /modules and register it in modules/manifest.json.";
       box.appendChild(empty); return;
     }
-    MANIFEST.forEach(function(m){
+    list.forEach(function(m){
       var stat = load(statKey(m.id), null);
       var acc = accPct(stat), rev = missCount(m.id);
       var card = document.createElement("div"); card.className="modcard";
@@ -277,6 +282,10 @@
   function backToList(){ renderList(); show("list"); }
 
   /* ---- events ---- */
+  $("cat-seg").addEventListener("click", function(e){
+    var b=e.target.closest("button"); if(!b) return; var kids=$("cat-seg").children;
+    for(var i=0;i<kids.length;i++){ kids[i].setAttribute("aria-pressed", kids[i]===b); }
+    curCat = b.dataset.cat; renderList(); });
   $("len-seg").addEventListener("click", function(e){
     var b=e.target.closest("button"); if(!b) return; var kids=$("len-seg").children;
     for(var i=0;i<kids.length;i++){ kids[i].setAttribute("aria-pressed", kids[i]===b); }

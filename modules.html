@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Modules — ENGL114 English Practice</title>
-<meta name="description" content="English multiple-choice vocabulary modules for ENGL114, with bilingual hints and feedback for Saudi EFL learners.">
+<title>ENGL114 Midterm Practice — Modules</title>
+<meta name="description" content="ENGL114 Midterm Practice: English multiple-choice vocabulary and grammar modules, with bilingual hints and feedback for Saudi EFL learners.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
@@ -21,10 +21,14 @@
 
   <!-- MODULE LIST -->
   <section id="list" class="card mt">
-    <div class="eyebrow">ENGL114 · English Practice · Modules</div>
+    <div class="eyebrow">ENGL114 Midterm Practice · Modules</div>
     <h1>Practice Modules</h1>
-    <p class="lede">Choose a module below. Each is a set of English multiple-choice questions. Wrong answers give you an explanation, and you can press <b>Hint</b> for help — feedback is in Arabic + English.</p>
-    <p class="field-label">Questions per round</p>
+    <p class="lede">Pick <b>Vocabulary</b> or <b>Grammar</b>, then choose a module. Each is a set of English multiple-choice questions. Wrong answers give you an explanation, and you can press <b>Hint</b> for help — feedback is in Arabic + English.</p>
+    <div class="seg" id="cat-seg" role="group" aria-label="Module type">
+      <button data-cat="vocabulary" aria-pressed="true">Vocabulary</button>
+      <button data-cat="grammar" aria-pressed="false">Grammar</button>
+    </div>
+    <p class="field-label mt">Questions per round</p>
     <div class="seg" id="len-seg" role="group" aria-label="Questions per round">
       <button data-len="10" aria-pressed="false">10</button>
       <button data-len="20" aria-pressed="false">20</button>
