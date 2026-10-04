@@ -97,6 +97,22 @@ An unknown slug still links, but the reference page won't auto-open a topic.
 | `quantifiers-count-noncount` | Quantifiers with count/noncount nouns |
 | `adjectives-use-placement` | Use and placement of adjectives |
 
+**ENGL 102/103B** slugs (source:
+[`courses/engl102/grammar/reference.json`](../courses/engl102/grammar/reference.json)):
+
+| slug | topic |
+|---|---|
+| `simple-present-be` | Simple present of *be* (am/is/are; statements, negatives, yes/no questions) |
+| `be-contractions` | Contractions with *be* (I'm, he's, isn't, aren't…) |
+| `simple-present-verbs` | Simple present of other verbs: affirmative (-s/-es), negative, questions |
+| `wh-questions-simple-present` | Wh-questions and answers with *be* and other verbs |
+| `adjectives` | Adjectives: use and placement |
+| `adverbs-with-adjectives` | pretty / really / very / extremely / quite + adjective |
+| `pronouns-replace-gerunds` | Using pronouns (*it*) to replace gerunds |
+| `subject-object-pronouns` | Subject and object pronouns |
+| `capitalization-punctuation` | Capitalization and punctuation |
+| `prepositions-of-location` | Prepositions of location |
+
 > If a question tests a point **not** in this list, a new topic must first be added to
 > the course's `grammar/reference.json` (it auto-appears on the reference page); then questions can use its slug.
 

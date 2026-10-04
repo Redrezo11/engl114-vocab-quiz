@@ -1,5 +1,441 @@
 {
   "course": "ENGL102",
-  "languages": ["en", "ar"],
-  "topics": []
+  "program": "KSU ELSD Common First Year (CFY) — Humanities track (ENGL 102/103B)",
+  "target_level": "CEFR A1-A2 (Beginner)",
+  "audience": "Common First Year Saudi students",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "assessment": "Midterm",
+  "description_en": "Bilingual (English/Arabic) grammar reference for the ENGL 102/103B midterm: the 12 grammar points listed in the exam specs, grouped into 10 topics. Explanations are short so learners can read, understand, and start practicing quickly.",
+  "description_ar": "مرجع قواعد ثنائي اللغة (إنجليزي/عربي) لاختبار منتصف الفصل لمقرر ENGL 102/103B: نقاط القواعد الاثنتا عشرة المذكورة في مواصفات الاختبار، مجمّعة في 10 مواضيع. الشروح مختصرة ليتمكن الطالب من القراءة والفهم والبدء في التطبيق بسرعة.",
+  "topics": [
+    {
+      "id": 1,
+      "slug": "simple-present-be",
+      "title_en": "Simple Present of the Verb 'be'",
+      "title_ar": "الفعل (be) في المضارع البسيط",
+      "explanation_en": "Use am/is/are to say who or what someone is, what they are like, or where they are. Use 'not' after am/is/are to make the negative. For a yes/no question, put am/is/are before the subject.",
+      "explanation_ar": "نستخدم (am/is/are) لنقول من هو الشخص أو ما صفته أو أين هو. للنفي نضع (not) بعد (am/is/are). وللسؤال بنعم أو لا نقدّم (am/is/are) على الفاعل.",
+      "structure": "I am  |  he / she / it is  |  you / we / they are  →  Subject + am/is/are (+ not) + noun / adjective / place.  |  Am/Is/Are + subject + …?",
+      "examples": [
+        {
+          "en": "I am a student.",
+          "ar": "أنا طالب."
+        },
+        {
+          "en": "My roommate is very friendly.",
+          "ar": "زميلي في السكن ودود جدًا."
+        },
+        {
+          "en": "The books are not on the desk.",
+          "ar": "الكتب ليست على المكتب."
+        },
+        {
+          "en": "A: Are they students? B: Yes, they are.",
+          "ar": "أ: هل هم طلاب؟ ب: نعم، هم كذلك."
+        },
+        {
+          "en": "A: Is the campus big? B: No, it isn't.",
+          "ar": "أ: هل الحرم الجامعي كبير؟ ب: لا، ليس كذلك."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "He tall. → He is tall.",
+          "ar": "في الإنجليزية لا بد من الفعل (be) في الجملة، حتى لو لم نحتج إليه في العربية."
+        },
+        {
+          "en": "They is happy. → They are happy.",
+          "ar": "مع (they / we / you) نستخدم (are)، ومع (he / she / it) نستخدم (is)."
+        },
+        {
+          "en": "You are a teacher? → Are you a teacher?",
+          "ar": "في السؤال نقدّم (are) على الفاعل."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "be-contractions",
+      "title_en": "Contractions with the Verb 'be'",
+      "title_ar": "الاختصارات مع الفعل (be)",
+      "explanation_en": "In speaking and informal writing, we often join the subject and am/is/are with an apostrophe ('). We can also shorten 'is not' to isn't and 'are not' to aren't. There is no short form for 'am not' — say I'm not.",
+      "explanation_ar": "في الكلام والكتابة غير الرسمية نجمع غالبًا الفاعل مع (am/is/are) باستخدام الفاصلة العليا ('). ويمكن أيضًا اختصار (is not) إلى (isn't) و(are not) إلى (aren't). ولا يوجد اختصار لـ (am not)، بل نقول (I'm not).",
+      "structure": "I am → I'm  |  you are → you're  |  he is → he's  |  she is → she's  |  it is → it's  |  we are → we're  |  they are → they're  |  is not → isn't  |  are not → aren't",
+      "examples": [
+        {
+          "en": "I'm interested in sports.",
+          "ar": "أنا مهتم بالرياضة."
+        },
+        {
+          "en": "She's very shy.",
+          "ar": "هي خجولة جدًا."
+        },
+        {
+          "en": "It isn't expensive. (= It's not expensive.)",
+          "ar": "إنه ليس غاليًا."
+        },
+        {
+          "en": "We aren't late.",
+          "ar": "لسنا متأخرين."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "I amn't tired. → I'm not tired.",
+          "ar": "لا يوجد اختصار (amn't)، نقول (I'm not)."
+        },
+        {
+          "en": "Its a nice day. → It's a nice day.",
+          "ar": "(It's) تعني (it is) وتحتاج إلى الفاصلة العليا. أما (its) بدون فاصلة فتعني «الخاص به»."
+        },
+        {
+          "en": "Theyre students. → They're students.",
+          "ar": "لا ننسى الفاصلة العليا (') في مكان الحرف المحذوف."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "simple-present-verbs",
+      "title_en": "Simple Present of Other Verbs (Affirmative, Negative, Questions)",
+      "title_ar": "المضارع البسيط للأفعال الأخرى (الإثبات والنفي والسؤال)",
+      "explanation_en": "Use the simple present for habits, routines, and facts. In affirmative sentences, add -s or -es to the verb after he, she, or it. For negatives and questions, use do/does, and the main verb stays in its base form (no -s).",
+      "explanation_ar": "نستخدم المضارع البسيط للعادات والأعمال اليومية والحقائق. في الجمل المثبتة نضيف (s) أو (es) إلى الفعل بعد (he / she / it). وفي النفي والسؤال نستخدم (do/does)، ويبقى الفعل الرئيسي في صيغته الأساسية دون (s).",
+      "structure": "I / you / we / they + base verb  |  he / she / it + verb-s/-es  ||  Subject + don't/doesn't + base verb.  |  Do/Does + subject + base verb?",
+      "examples": [
+        {
+          "en": "I play soccer every Friday.",
+          "ar": "ألعب كرة القدم كل يوم جمعة."
+        },
+        {
+          "en": "My brother watches TV after dinner.",
+          "ar": "يشاهد أخي التلفاز بعد العشاء."
+        },
+        {
+          "en": "She doesn't eat meat. She is a vegetarian.",
+          "ar": "هي لا تأكل اللحم. إنها نباتية."
+        },
+        {
+          "en": "Do you like seafood?",
+          "ar": "هل تحب المأكولات البحرية؟"
+        },
+        {
+          "en": "Spelling: work → works, watch → watches, go → goes, study → studies, have → has",
+          "ar": "الإملاء: نضيف (s) عادةً، و(es) بعد ch / sh / s / x / o، ونغيّر (y) إلى (ies) بعد حرف ساكن. والفعل (have) يصبح (has)."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "He go to school. → He goes to school.",
+          "ar": "مع (he / she / it) يأخذ الفعل (s) أو (es) في الجملة المثبتة."
+        },
+        {
+          "en": "She doesn't works here. → She doesn't work here.",
+          "ar": "بعد (doesn't) يبقى الفعل بلا (s)."
+        },
+        {
+          "en": "Does he likes tea? → Does he like tea?",
+          "ar": "بعد (does) في السؤال يعود الفعل إلى صيغته الأساسية."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "wh-questions-simple-present",
+      "title_en": "Simple Present Wh-Questions and Answers (be and other verbs)",
+      "title_ar": "أسئلة (Wh) وإجاباتها في المضارع البسيط (مع be والأفعال الأخرى)",
+      "explanation_en": "Wh-questions ask for information: what, where, when, who, why, how. With 'be', put the question word first, then am/is/are, then the subject. With other verbs, use question word + do/does + subject + base verb. Answer with information, not with yes or no.",
+      "explanation_ar": "أسئلة (Wh) تطلب معلومات: (what / where / when / who / why / how). مع الفعل (be) نبدأ بأداة السؤال ثم (am/is/are) ثم الفاعل. ومع الأفعال الأخرى: أداة السؤال + (do/does) + الفاعل + الفعل في صيغته الأساسية. ونجيب بمعلومة، لا بنعم أو لا.",
+      "structure": "Wh-word + am/is/are + subject?  |  Wh-word + do/does + subject + base verb?",
+      "examples": [
+        {
+          "en": "A: Where is the library? B: It's next to the cafeteria.",
+          "ar": "أ: أين المكتبة؟ ب: إنها بجانب المقصف."
+        },
+        {
+          "en": "A: Who is your teacher? B: Mr. Ahmed.",
+          "ar": "أ: من معلمك؟ ب: الأستاذ أحمد."
+        },
+        {
+          "en": "A: Where does he live? B: He lives in Riyadh.",
+          "ar": "أ: أين يسكن؟ ب: يسكن في الرياض."
+        },
+        {
+          "en": "A: What do you do on weekends? B: I go shopping.",
+          "ar": "أ: ماذا تفعل في عطلة نهاية الأسبوع؟ ب: أذهب للتسوّق."
+        },
+        {
+          "en": "A: When does the class start? B: At eight o'clock.",
+          "ar": "أ: متى يبدأ الدرس؟ ب: في الساعة الثامنة."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "Where he lives? → Where does he live?",
+          "ar": "مع الأفعال الأخرى نحتاج إلى (does) في السؤال، ويعود الفعل إلى صيغته الأساسية."
+        },
+        {
+          "en": "Where you are from? → Where are you from?",
+          "ar": "مع (be) يأتي (are) قبل الفاعل في السؤال."
+        },
+        {
+          "en": "What does she studies? → What does she study?",
+          "ar": "بعد (does) لا نضيف (s) إلى الفعل."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "adjectives",
+      "title_en": "Adjectives: Use and Placement",
+      "title_ar": "الصفات: استخدامها وموضعها",
+      "explanation_en": "Adjectives describe nouns (people, places, and things). Place an adjective before the noun (a messy room) or after the verb 'be' (The room is messy). Adjectives never take a plural -s.",
+      "explanation_ar": "الصفات تصف الأسماء (الأشخاص والأماكن والأشياء). توضع الصفة قبل الاسم مثل (a messy room) أو بعد الفعل (be) مثل (The room is messy). ولا تأخذ الصفة علامة الجمع (s) أبدًا.",
+      "structure": "adjective + noun (a big house)   OR   noun + be + adjective (The house is big)",
+      "examples": [
+        {
+          "en": "She is a helpful student.",
+          "ar": "هي طالبة متعاونة."
+        },
+        {
+          "en": "The students are happy.",
+          "ar": "الطلاب سعداء."
+        },
+        {
+          "en": "We live in a noisy, crowded city.",
+          "ar": "نعيش في مدينة صاخبة ومزدحمة."
+        },
+        {
+          "en": "This food is fresh and delicious.",
+          "ar": "هذا الطعام طازج ولذيذ."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "two reds cars → two red cars",
+          "ar": "الصفة لا تُجمع، حتى مع اسم جمع."
+        },
+        {
+          "en": "a car red → a red car",
+          "ar": "توضع الصفة قبل الاسم في الإنجليزية، عكس العربية."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "adverbs-with-adjectives",
+      "title_en": "Adverbs + Adjectives: pretty, really, very, extremely, quite",
+      "title_ar": "الظروف مع الصفات: pretty / really / very / extremely / quite",
+      "explanation_en": "These adverbs go before an adjective to make it stronger or softer. From strongest to weakest: extremely > really / very > pretty / quite. Use only one of them before the adjective.",
+      "explanation_ar": "تأتي هذه الظروف قبل الصفة لتقوية معناها أو تخفيفه. من الأقوى إلى الأضعف: (extremely) ثم (really / very) ثم (pretty / quite). ونستخدم واحدًا منها فقط قبل الصفة.",
+      "structure": "(be) + pretty / really / very / extremely / quite + adjective   |   a / an + adverb + adjective + noun",
+      "examples": [
+        {
+          "en": "The exam was extremely difficult.",
+          "ar": "كان الاختبار صعبًا للغاية."
+        },
+        {
+          "en": "My new apartment is really comfortable.",
+          "ar": "شقتي الجديدة مريحة حقًا."
+        },
+        {
+          "en": "The food is pretty good. (= good, but not excellent)",
+          "ar": "الطعام جيد إلى حدٍّ ما. (جيد لكنه ليس ممتازًا)"
+        },
+        {
+          "en": "It's a very popular restaurant.",
+          "ar": "إنه مطعم مشهور جدًا."
+        },
+        {
+          "en": "The book is quite interesting.",
+          "ar": "الكتاب مثير للاهتمام إلى حدٍّ ما."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "He is tall very. → He is very tall.",
+          "ar": "الظرف يأتي قبل الصفة، لا بعدها."
+        },
+        {
+          "en": "It is very extremely hot. → It is extremely hot.",
+          "ar": "نستخدم ظرفًا واحدًا فقط قبل الصفة."
+        },
+        {
+          "en": "She is a very girl. → She is a very nice girl.",
+          "ar": "الظرف (very) يحتاج إلى صفة بعده، ولا يصف الاسم مباشرة."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "pronouns-replace-gerunds",
+      "title_en": "Using Pronouns to Replace Gerunds",
+      "title_ar": "استخدام الضمائر بدلًا من اسم الفعل (gerund)",
+      "explanation_en": "A gerund is a verb + -ing used as a noun (swimming, reading, going jogging). After we name the activity once, we use 'it' to replace it, so we don't repeat it. A gerund subject takes a singular verb (is, takes, makes).",
+      "explanation_ar": "اسم الفعل (gerund) هو فعل مضاف إليه (ing) ويُستخدم كاسم، مثل (swimming / reading / going jogging). بعد أن نذكر النشاط مرة واحدة نستخدم الضمير (it) بدلًا منه حتى لا نكرّره. ويأخذ اسم الفعل فعلًا مفردًا مثل (is / takes / makes).",
+      "structure": "Gerund + singular verb … .  It + singular verb … .   |   … + gerund … . … + it.",
+      "examples": [
+        {
+          "en": "Swimming is my favorite hobby. It is very relaxing.",
+          "ar": "السباحة هوايتي المفضلة. إنها مريحة جدًا."
+        },
+        {
+          "en": "I love cooking. It makes me happy.",
+          "ar": "أحب الطبخ. إنه يجعلني سعيدًا."
+        },
+        {
+          "en": "Going jogging is good for you. It gives you energy.",
+          "ar": "الذهاب للهرولة مفيد لك. إنه يمنحك الطاقة."
+        },
+        {
+          "en": "My brother enjoys collecting coins. He does it every weekend.",
+          "ar": "يستمتع أخي بجمع العملات. يفعل ذلك كل عطلة نهاية أسبوع."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "Reading is fun. They is easy. → Reading is fun. It is easy.",
+          "ar": "اسم الفعل مفرد، فنستبدله بالضمير (it) لا (they)."
+        },
+        {
+          "en": "Swimming are fun. → Swimming is fun.",
+          "ar": "اسم الفعل يأخذ فعلًا مفردًا (is)."
+        },
+        {
+          "en": "I like hiking. Hiking is fun. Hiking is healthy. → I like hiking. It is fun and healthy.",
+          "ar": "نستخدم (it) لتجنّب تكرار اسم النشاط."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "subject-object-pronouns",
+      "title_en": "Subject and Object Pronouns",
+      "title_ar": "ضمائر الفاعل وضمائر المفعول به",
+      "explanation_en": "Subject pronouns do the action and usually come before the verb. Object pronouns receive the action and come after a verb or a preposition (to, with, for, at). 'You' and 'it' are the same in both forms.",
+      "explanation_ar": "ضمائر الفاعل تقوم بالفعل وتأتي عادة قبل الفعل. وضمائر المفعول به يقع عليها الفعل وتأتي بعد الفعل أو بعد حرف الجر مثل (to / with / for / at). والضميران (you) و(it) لا يتغيّران.",
+      "structure": "Subject: I, you, he, she, it, we, they  →  Object: me, you, him, her, it, us, them",
+      "examples": [
+        {
+          "en": "She is my friend. I meet her every day.",
+          "ar": "هي صديقتي. ألتقي بها كل يوم."
+        },
+        {
+          "en": "We invited them to the party.",
+          "ar": "دعوناهم إلى الحفلة."
+        },
+        {
+          "en": "He gives me a ride to campus.",
+          "ar": "هو يوصلني إلى الحرم الجامعي."
+        },
+        {
+          "en": "Can you play tennis with us?",
+          "ar": "هل يمكنك أن تلعب التنس معنا؟"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "Me and him go to the gym. → He and I go to the gym.",
+          "ar": "قبل الفعل نستخدم ضمائر الفاعل (I / he)، ونضع (I) في الآخر."
+        },
+        {
+          "en": "Call I tomorrow. → Call me tomorrow.",
+          "ar": "بعد الفعل نستخدم ضمير المفعول به (me)."
+        },
+        {
+          "en": "This gift is for she. → This gift is for her.",
+          "ar": "بعد حرف الجر (for) نستخدم ضمير المفعول به (her)."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "capitalization-punctuation",
+      "title_en": "Capitalization and Punctuation",
+      "title_ar": "الحروف الكبيرة وعلامات الترقيم",
+      "explanation_en": "Use a capital letter for the first word of a sentence, the pronoun 'I', and names of people, places, days, months, nationalities, and languages. End a statement with a period (.) and a question with a question mark (?). Use commas (,) between items in a list, and an apostrophe (') in contractions.",
+      "explanation_ar": "نكتب بحرف كبير: أول كلمة في الجملة، والضمير (I)، وأسماء الأشخاص والأماكن والأيام والشهور والجنسيات واللغات. ننهي الجملة الخبرية بنقطة (.) والسؤال بعلامة استفهام (?). ونستخدم الفاصلة (,) بين عناصر القائمة، والفاصلة العليا (') في الاختصارات.",
+      "structure": "Capital: sentence start · I · names · places · days · months · nationalities · languages  |  .  ?  ,  '",
+      "examples": [
+        {
+          "en": "My name is Sara, and I'm from Jeddah.",
+          "ar": "اسمي سارة، وأنا من جدة."
+        },
+        {
+          "en": "We have English class on Sunday and Tuesday.",
+          "ar": "لدينا درس اللغة الإنجليزية يومي الأحد والثلاثاء."
+        },
+        {
+          "en": "Do you speak Arabic?",
+          "ar": "هل تتحدث العربية؟"
+        },
+        {
+          "en": "I like apples, grapes, and bananas.",
+          "ar": "أحب التفاح والعنب والموز."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "i study english on monday. → I study English on Monday.",
+          "ar": "الضمير (I) وأسماء اللغات والأيام تُكتب دائمًا بحرف كبير."
+        },
+        {
+          "en": "Where do you live. → Where do you live?",
+          "ar": "السؤال ينتهي بعلامة استفهام لا بنقطة."
+        },
+        {
+          "en": "she is saudi. → She is Saudi.",
+          "ar": "أول كلمة في الجملة والجنسيات تُكتب بحرف كبير."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "prepositions-of-location",
+      "title_en": "Prepositions of Location",
+      "title_ar": "حروف الجر الدالة على المكان",
+      "explanation_en": "Prepositions of location tell us where something is. Use 'in' for inside a space (in the room, in Riyadh), 'on' for a surface (on the table), and 'at' for a point or place (at school, at home). Others: under, above, below, next to, between, in front of, behind.",
+      "explanation_ar": "حروف الجر المكانية تخبرنا بمكان الشيء. نستخدم (in) لما هو داخل مكان مثل (in the room / in Riyadh)، و(on) لما هو على سطح مثل (on the table)، و(at) لنقطة أو مكان محدد مثل (at school / at home). ومن غيرها: (under / above / below / next to / between / in front of / behind).",
+      "structure": "Subject + be + preposition + place.  (The keys are on the table.)",
+      "examples": [
+        {
+          "en": "My phone is in the drawer.",
+          "ar": "هاتفي في الدُّرج."
+        },
+        {
+          "en": "The picture is above the bed.",
+          "ar": "الصورة فوق السرير."
+        },
+        {
+          "en": "The bank is between the hotel and the pharmacy.",
+          "ar": "البنك بين الفندق والصيدلية."
+        },
+        {
+          "en": "The cat is under the chair.",
+          "ar": "القطة تحت الكرسي."
+        },
+        {
+          "en": "My apartment is next to the campus.",
+          "ar": "شقتي بجانب الحرم الجامعي."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "en": "The book is in the table. → The book is on the table.",
+          "ar": "على سطح الشيء نستخدم (on)، أما (in) فتعني «داخل»."
+        },
+        {
+          "en": "He is in home. → He is at home.",
+          "ar": "نقول (at home / at school / at work)."
+        },
+        {
+          "en": "The car is in front the house. → The car is in front of the house.",
+          "ar": "لا ننسى (of) في (in front of)."
+        }
+      ]
+    }
+  ]
 }
