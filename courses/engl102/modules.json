@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 4,
+  "version": 5,
   "modules": [
     {
       "id": "engl102-vocab-bank-1",
@@ -19,6 +19,14 @@
       "count": 100
     },
     {
+      "id": "engl102-vocab-bank-3",
+      "file": "vocabulary/vocab-bank3.json",
+      "category": "vocabulary",
+      "title": "ENGL 102/103B — Vocabulary Bank 3",
+      "description": "اختبار مفردات شامل (100 سؤال) — الجزء الثالث: يغطي الكلمات المتبقية من قائمة ENGL 102/103B مع مراجعة لكلمات سابقة.",
+      "count": 100
+    },
+    {
       "id": "engl102-grammar-bank-1",
       "file": "grammar/modules/grammar-bank1.json",
       "category": "grammar",
@@ -32,6 +40,14 @@
       "category": "grammar",
       "title": "ENGL 102/103B — Grammar Practice 2",
       "description": "اختبار تدريبي ثانٍ (100 سؤال) على نقاط القواعد الاثنتي عشرة لاختبار منتصف الفصل، مع رابط شرح لكل موضوع في زر Hint.",
+      "count": 100
+    },
+    {
+      "id": "engl102-grammar-bank-3",
+      "file": "grammar/modules/grammar-bank3.json",
+      "category": "grammar",
+      "title": "ENGL 102/103B — Grammar Practice 3",
+      "description": "اختبار تدريبي ثالث (100 سؤال) على نقاط القواعد الاثنتي عشرة لاختبار منتصف الفصل، مع رابط شرح لكل موضوع في زر Hint.",
       "count": 100
     }
   ]

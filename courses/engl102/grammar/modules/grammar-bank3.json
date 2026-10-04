@@ -1,0 +1,1710 @@
+{
+  "schemaVersion": 1,
+  "id": "engl102-grammar-bank-3",
+  "title": "ENGL 102/103B — Grammar Practice 3",
+  "description": "اختبار تدريبي ثالث (100 سؤال) على نقاط القواعد الاثنتي عشرة لاختبار منتصف الفصل، مع رابط شرح لكل موضوع في زر Hint.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "g1",
+      "prompt": "My sister ___ a nurse at King Fahd Hospital.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-be",
+      "hint": "sister = أخت، nurse = ممرضة — الفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ is — sister مفرد غائب، فنستخدم is.",
+        "incorrect": "الإجابة الصحيحة is — sister مفرد غائب، فنستخدم is. are للجمع، و am مع I فقط، و be لا تُستخدم وحدها."
+      }
+    },
+    {
+      "id": "g2",
+      "prompt": "You ___ my best student this year.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-be",
+      "hint": "best = الأفضل، student = طالب — الفاعل ضمير المخاطب.",
+      "feedback": {
+        "correct": "أحسنت ✓ are — مع you نستخدم are.",
+        "incorrect": "الإجابة الصحيحة are — مع you نستخدم are. is للمفرد الغائب، و am مع I فقط، و be لا تُستخدم وحدها."
+      }
+    },
+    {
+      "id": "g3",
+      "prompt": "The windows ___ open. It's very hot in here.",
+      "options": [
+        "is",
+        "am",
+        "be",
+        "are"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-present-be",
+      "hint": "windows = نوافذ، hot = حار — الفاعل اسم جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ are — windows جمع، فنستخدم are.",
+        "incorrect": "الإجابة الصحيحة are — windows جمع، فنستخدم are. is للمفرد، و am مع I فقط، و be لا تُستخدم وحدها."
+      }
+    },
+    {
+      "id": "g4",
+      "prompt": "___ your teacher from Egypt?",
+      "options": [
+        "Are",
+        "Am",
+        "Is",
+        "Do"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-be",
+      "hint": "teacher = معلم، Egypt = مصر — سؤال بنعم أو لا عن شخص واحد.",
+      "feedback": {
+        "correct": "أحسنت ✓ Is — في السؤال نقدّم is على الفاعل المفرد your teacher.",
+        "incorrect": "الإجابة الصحيحة Is — في السؤال نقدّم is على الفاعل المفرد your teacher. Are للجمع أو you، و Am مع I فقط، و Do لا تُستخدم مع be."
+      }
+    },
+    {
+      "id": "g5",
+      "prompt": "I ___ not ready for the test yet.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-be",
+      "hint": "ready = جاهز، yet = بعد — جملة منفية والفاعل المتكلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ am — مع الضمير I نستخدم am ثم not للنفي.",
+        "incorrect": "الإجابة الصحيحة am — مع الضمير I نستخدم am ثم not للنفي. is و are لا يناسبان I، و do لا تُستخدم مع الصفة ready."
+      }
+    },
+    {
+      "id": "g6",
+      "prompt": "A: Are they at school? B: No, they ___.",
+      "options": [
+        "aren't",
+        "isn't",
+        "doesn't",
+        "am not"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-be",
+      "hint": "school = المدرسة — الإجابة القصيرة تكرر الفعل الموجود في السؤال.",
+      "feedback": {
+        "correct": "أحسنت ✓ aren't — السؤال يبدأ بـ Are فنجيب بـ they aren't.",
+        "incorrect": "الإجابة الصحيحة aren't — السؤال يبدأ بـ Are فنجيب بـ they aren't. isn't للمفرد، و doesn't مع الأفعال الرئيسية لا مع be، و am not مع I فقط."
+      }
+    },
+    {
+      "id": "g7",
+      "prompt": "The weather ___ nice in Abha in summer.",
+      "options": [
+        "are",
+        "am",
+        "be",
+        "is"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-present-be",
+      "hint": "weather = الطقس، Abha = أبها — الفاعل اسم مفرد لا يُعدّ.",
+      "feedback": {
+        "correct": "أحسنت ✓ is — weather مفرد، فنستخدم is.",
+        "incorrect": "الإجابة الصحيحة is — weather مفرد، فنستخدم is. are للجمع، و am مع I فقط، و be لا تُستخدم وحدها."
+      }
+    },
+    {
+      "id": "g8",
+      "prompt": "My brother and I ___ in the same class.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-be",
+      "hint": "brother = أخ، same class = نفس الصف — الفاعل شخصان.",
+      "feedback": {
+        "correct": "أحسنت ✓ are — My brother and I شخصان (we)، فنستخدم are.",
+        "incorrect": "الإجابة الصحيحة are — My brother and I شخصان (we)، فنستخدم are. is للمفرد، و am مع I وحدها، و be لا تُستخدم وحدها."
+      }
+    },
+    {
+      "id": "g9",
+      "prompt": "___ the students happy with the results?",
+      "options": [
+        "Is",
+        "Are",
+        "Do",
+        "Does"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-be",
+      "hint": "students = طلاب، results = النتائج — سؤال عن حال أشخاص عدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ Are — students جمع، ونقدّم Are على الفاعل في السؤال.",
+        "incorrect": "الإجابة الصحيحة Are — students جمع، ونقدّم Are على الفاعل في السؤال. Is للمفرد، و Do و Does لا تُستخدمان مع الصفة happy."
+      }
+    },
+    {
+      "id": "g10",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She is very tall.",
+        "She very tall.",
+        "She are very tall.",
+        "She do very tall."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-be",
+      "hint": "tall = طويلة — الجملة الصحيحة تحتوي على الفعل (be) المناسب.",
+      "feedback": {
+        "correct": "أحسنت ✓ «She is very tall.» — لا بد من الفعل be، ومع she نستخدم is.",
+        "incorrect": "الإجابة الصحيحة «She is very tall.» — لا بد من الفعل be، ومع she نستخدم is. حذف الفعل خطأ، و are لا تناسب she، و do لا تُستخدم مع الصفة."
+      }
+    },
+    {
+      "id": "g11",
+      "prompt": "___ not at home. He is at work.",
+      "options": [
+        "Hes",
+        "Hi's",
+        "He'is",
+        "He's"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "be-contractions",
+      "hint": "home = البيت، work = العمل — الاختصار الصحيح يُكتب بفاصلة عليا.",
+      "feedback": {
+        "correct": "أحسنت ✓ He's — He's اختصار صحيح مع الفاصلة العليا.",
+        "incorrect": "الإجابة الصحيحة He's — He's اختصار صحيح مع الفاصلة العليا. Hes بلا فاصلة، و Hi's و He'is كتابة خاطئة."
+      }
+    },
+    {
+      "id": "g12",
+      "prompt": "___ my friends. We study together.",
+      "options": [
+        "Theyre",
+        "Thei're",
+        "They're",
+        "They'r"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "be-contractions",
+      "hint": "friends = أصدقاء، study = ندرس — الاختصار الصحيح يُكتب بفاصلة عليا.",
+      "feedback": {
+        "correct": "أحسنت ✓ They're — They're = they are، والفاصلة العليا مكان الحرف a.",
+        "incorrect": "الإجابة الصحيحة They're — They're = they are، والفاصلة العليا مكان الحرف a. Theyre بلا فاصلة، والصيغتان الأخريان كتابة خاطئة."
+      }
+    },
+    {
+      "id": "g13",
+      "prompt": "___ late. The bus came on time.",
+      "options": [
+        "I amn't",
+        "I'm not",
+        "I isn't",
+        "I aren't"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "be-contractions",
+      "hint": "late = متأخر، bus = حافلة — الجملة منفية والفاعل المتكلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ I'm not — لا يوجد اختصار لـ am not، فنقول I'm not.",
+        "incorrect": "الإجابة الصحيحة I'm not — لا يوجد اختصار لـ am not، فنقول I'm not. amn't غير موجودة، و isn't و aren't لا تناسبان I."
+      }
+    },
+    {
+      "id": "g14",
+      "prompt": "The questions ___ easy. They are difficult.",
+      "options": [
+        "aren't",
+        "isn't",
+        "amn't",
+        "don't"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "be-contractions",
+      "hint": "questions = أسئلة، difficult = صعبة — جملة منفية مختصرة والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ aren't — questions جمع، فنستخدم aren't للنفي المختصر.",
+        "incorrect": "الإجابة الصحيحة aren't — questions جمع، فنستخدم aren't للنفي المختصر. isn't للمفرد، و amn't غير موجودة، و don't لا تُستخدم مع be."
+      }
+    },
+    {
+      "id": "g15",
+      "prompt": "___ a good idea. Let's do it!",
+      "options": [
+        "Thats",
+        "That'is",
+        "Tha's",
+        "That's"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "be-contractions",
+      "hint": "idea = فكرة، Let's = لنفعل — الاختصار يحتاج فاصلة عليا.",
+      "feedback": {
+        "correct": "أحسنت ✓ That's — That's = that is، وتُكتب بفاصلة عليا.",
+        "incorrect": "الإجابة الصحيحة That's — That's = that is، وتُكتب بفاصلة عليا. Thats بلا فاصلة، و That'is و Tha's كتابة خاطئة."
+      }
+    },
+    {
+      "id": "g16",
+      "prompt": "My phone ___ here. I think I left it at home.",
+      "options": [
+        "aren't",
+        "amn't",
+        "isn't",
+        "don't"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "be-contractions",
+      "hint": "phone = هاتف، left = تركت — جملة منفية مختصرة والفاعل مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ isn't — مع my phone (it) نستخدم isn't للنفي المختصر.",
+        "incorrect": "الإجابة الصحيحة isn't — مع my phone (it) نستخدم isn't للنفي المختصر. aren't للجمع، و amn't غير موجودة، و don't لا تُستخدم مع be."
+      }
+    },
+    {
+      "id": "g17",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Theyr'e in the library.",
+        "They're in the library.",
+        "They'ar in the library.",
+        "Theyre in the library."
+      ],
+      "answerIndex": 1,
+      "topicSlug": "be-contractions",
+      "hint": "library = المكتبة — الفاصلة العليا مكان الحرف المحذوف.",
+      "feedback": {
+        "correct": "أحسنت ✓ «They're in the library.» — They're = they are، والفاصلة العليا مكان الحرف a.",
+        "incorrect": "الإجابة الصحيحة «They're in the library.» — They're = they are، والفاصلة العليا مكان الحرف a. الخيارات الأخرى تحذف الفاصلة أو تضعها في مكان خاطئ."
+      }
+    },
+    {
+      "id": "g18",
+      "prompt": "You ___ wrong. The answer is correct.",
+      "options": [
+        "aren't",
+        "isn't",
+        "amn't",
+        "don't"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "be-contractions",
+      "hint": "wrong = مخطئ، correct = صحيحة — جملة منفية مختصرة مع ضمير المخاطب.",
+      "feedback": {
+        "correct": "أحسنت ✓ aren't — مع you نستخدم aren't للنفي المختصر.",
+        "incorrect": "الإجابة الصحيحة aren't — مع you نستخدم aren't للنفي المختصر. isn't للمفرد الغائب، و amn't غير موجودة، و don't لا تُستخدم مع be."
+      }
+    },
+    {
+      "id": "g19",
+      "prompt": "Which contraction is correct?",
+      "options": [
+        "She is'nt at school today.",
+        "She isnt at school today.",
+        "She isn 't at school today.",
+        "She isn't at school today."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "be-contractions",
+      "hint": "school = المدرسة، today = اليوم — الفاصلة العليا مكان الحرف المحذوف.",
+      "feedback": {
+        "correct": "أحسنت ✓ «She isn't at school today.» — isn't اختصار is not والفاصلة العليا مكان o.",
+        "incorrect": "الإجابة الصحيحة «She isn't at school today.» — isn't اختصار is not والفاصلة العليا مكان o. الخيارات الأخرى تضع الفاصلة في مكان خاطئ أو تحذفها."
+      }
+    },
+    {
+      "id": "g20",
+      "prompt": "___ very kind. Everybody likes him.",
+      "options": [
+        "Hes",
+        "Hee's",
+        "He's",
+        "He'is"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "be-contractions",
+      "hint": "kind = لطيف، likes = يحب — الاختصار الصحيح بفاصلة عليا.",
+      "feedback": {
+        "correct": "أحسنت ✓ He's — He's اختصار صحيح مع الفاصلة العليا.",
+        "incorrect": "الإجابة الصحيحة He's — He's اختصار صحيح مع الفاصلة العليا. Hes بلا فاصلة، و Hee's و He'is كتابة خاطئة."
+      }
+    },
+    {
+      "id": "g21",
+      "prompt": "My mother ___ dinner at six o'clock.",
+      "options": [
+        "cook",
+        "cooks",
+        "cooking",
+        "cookes"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-verbs",
+      "hint": "dinner = العشاء، six o'clock = الساعة السادسة — جملة مثبتة والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ cooks — مع she/my mother نضيف s إلى الفعل: cooks.",
+        "incorrect": "الإجابة الصحيحة cooks — مع she/my mother نضيف s إلى الفعل: cooks. cook بدون s خطأ مع المفرد، و cooking ليست مضارعًا بسيطًا، و cookes إملاء خاطئ."
+      }
+    },
+    {
+      "id": "g22",
+      "prompt": "We ___ English every day.",
+      "options": [
+        "practice",
+        "practices",
+        "practicing",
+        "practiced"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-verbs",
+      "hint": "English = الإنجليزية، every day = كل يوم — جملة مثبتة والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ practice — مع we نستخدم الفعل في صيغته الأساسية بلا s.",
+        "incorrect": "الإجابة الصحيحة practice — مع we نستخدم الفعل في صيغته الأساسية بلا s. practices مع المفرد الغائب فقط، و practicing و practiced ليستا مضارعًا بسيطًا."
+      }
+    },
+    {
+      "id": "g23",
+      "prompt": "The mechanic ___ cars at the garage.",
+      "options": [
+        "fix",
+        "fixs",
+        "fixing",
+        "fixes"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-present-verbs",
+      "hint": "mechanic = ميكانيكي، garage = ورشة — الفعل ينتهي بـ (x) فتتغير نهايته مع الفاعل المفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ fixes — الفعل الذي ينتهي بـ x نضيف إليه es مع الفاعل المفرد: fixes.",
+        "incorrect": "الإجابة الصحيحة fixes — الفعل الذي ينتهي بـ x نضيف إليه es مع الفاعل المفرد: fixes. fix بدون es خطأ مع المفرد، و fixs إملاء خاطئ، و fixing ليست مضارعًا بسيطًا."
+      }
+    },
+    {
+      "id": "g24",
+      "prompt": "They ___ like spicy food.",
+      "options": [
+        "doesn't",
+        "aren't",
+        "don't",
+        "isn't"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-verbs",
+      "hint": "spicy = حار بالتوابل، food = طعام — جملة منفية والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ don't — مع they نستخدم don't + الفعل الأساسي.",
+        "incorrect": "الإجابة الصحيحة don't — مع they نستخدم don't + الفعل الأساسي. doesn't مع المفرد الغائب، و aren't و isn't مع be لا مع الفعل like."
+      }
+    },
+    {
+      "id": "g25",
+      "prompt": "___ she play the piano?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-verbs",
+      "hint": "piano = بيانو — سؤال بنعم أو لا والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ Does — مع she نبدأ السؤال بـ Does ويبقى play بلا s.",
+        "incorrect": "الإجابة الصحيحة Does — مع she نبدأ السؤال بـ Does ويبقى play بلا s. Do مع الجمع و you، و Is و Are لا تناسبان الفعل الرئيسي play."
+      }
+    },
+    {
+      "id": "g26",
+      "prompt": "___ you walk to the university?",
+      "options": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-verbs",
+      "hint": "walk = تمشي، university = الجامعة — سؤال بنعم أو لا مع الضمير (you).",
+      "feedback": {
+        "correct": "أحسنت ✓ Do — مع you نبدأ السؤال بـ Do.",
+        "incorrect": "الإجابة الصحيحة Do — مع you نبدأ السؤال بـ Do. Does مع المفرد الغائب، و Are و Is لا تناسبان الفعل الرئيسي walk."
+      }
+    },
+    {
+      "id": "g27",
+      "prompt": "The baby ___ a lot in the afternoon.",
+      "options": [
+        "sleep",
+        "sleepes",
+        "sleeping",
+        "sleeps"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-present-verbs",
+      "hint": "baby = رضيع، afternoon = بعد الظهر — جملة مثبتة والفاعل مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ sleeps — مع the baby (it/he) نضيف s إلى الفعل: sleeps.",
+        "incorrect": "الإجابة الصحيحة sleeps — مع the baby (it/he) نضيف s إلى الفعل: sleeps. sleep بدون s خطأ مع المفرد، و sleepes إملاء خاطئ، و sleeping ليست مضارعًا بسيطًا."
+      }
+    },
+    {
+      "id": "g28",
+      "prompt": "My uncle ___ drink coffee after dinner.",
+      "options": [
+        "don't",
+        "isn't",
+        "doesn't",
+        "not"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-verbs",
+      "hint": "uncle = عم، coffee = قهوة — جملة منفية والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ doesn't — مع my uncle (he) نستخدم doesn't + الفعل الأساسي.",
+        "incorrect": "الإجابة الصحيحة doesn't — مع my uncle (he) نستخدم doesn't + الفعل الأساسي. don't مع الجمع، و isn't مع be، و not وحدها لا تكفي."
+      }
+    },
+    {
+      "id": "g29",
+      "prompt": "Birds ___ in the sky.",
+      "options": [
+        "flies",
+        "fly",
+        "flys",
+        "flying"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-verbs",
+      "hint": "birds = طيور، sky = السماء — جملة مثبتة والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ fly — Birds جمع، فنستخدم الفعل الأساسي fly بلا تغيير.",
+        "incorrect": "الإجابة الصحيحة fly — Birds جمع، فنستخدم الفعل الأساسي fly بلا تغيير. flies مع المفرد الغائب فقط، و flys إملاء خاطئ، و flying ليست مضارعًا بسيطًا."
+      }
+    },
+    {
+      "id": "g30",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She teaches math at a high school.",
+        "She teach math at a high school.",
+        "She teachs math at a high school.",
+        "She is teach math at a high school."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-verbs",
+      "hint": "math = الرياضيات، high school = مدرسة ثانوية — الفعل ينتهي بـ (ch) فتتغير نهايته مع (she).",
+      "feedback": {
+        "correct": "أحسنت ✓ «She teaches math at a high school.» — الفعل الذي ينتهي بـ ch نضيف إليه es مع she: teaches.",
+        "incorrect": "الإجابة الصحيحة «She teaches math at a high school.» — الفعل الذي ينتهي بـ ch نضيف إليه es مع she: teaches. teach بدون es خطأ مع she، و teachs إملاء خاطئ، و is teach جمع بين be وفعل رئيسي."
+      }
+    },
+    {
+      "id": "g31",
+      "prompt": "What ___ your phone number?",
+      "options": [
+        "are",
+        "do",
+        "does",
+        "is"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "phone number = رقم الهاتف — لا يوجد فعل رئيسي في السؤال.",
+      "feedback": {
+        "correct": "أحسنت ✓ is — لا يوجد فعل رئيسي، فنستخدم be: What is your phone number?",
+        "incorrect": "الإجابة الصحيحة is — لا يوجد فعل رئيسي، فنستخدم be: What is your phone number? are للجمع، و do و does تحتاجان فعلًا رئيسيًا."
+      }
+    },
+    {
+      "id": "g32",
+      "prompt": "Where ___ your parents live?",
+      "options": [
+        "does",
+        "are",
+        "do",
+        "is"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "parents = الوالدان، live = يسكن — الفاعل جمع وبعده فعل رئيسي.",
+      "feedback": {
+        "correct": "أحسنت ✓ do — parents جمع، فنستخدم do ويبقى live بلا s.",
+        "incorrect": "الإجابة الصحيحة do — parents جمع، فنستخدم do ويبقى live بلا s. does مع المفرد الغائب، و are و is مع be لا مع فعل رئيسي."
+      }
+    },
+    {
+      "id": "g33",
+      "prompt": "Who ___ you sit next to in class?",
+      "options": [
+        "does",
+        "do",
+        "are",
+        "is"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "sit = تجلس، class = الصف — فعل رئيسي بعد الفاعل (you).",
+      "feedback": {
+        "correct": "أحسنت ✓ do — مع you نستخدم do ويبقى sit بلا s.",
+        "incorrect": "الإجابة الصحيحة do — مع you نستخدم do ويبقى sit بلا s. does مع المفرد الغائب، و are و is لا تُستخدمان قبل فعل رئيسي."
+      }
+    },
+    {
+      "id": "g34",
+      "prompt": "How old ___ your brother?",
+      "options": [
+        "is",
+        "are",
+        "does",
+        "do"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "old = عمر (سنًّا)، brother = أخ — سؤال عن العمر ولا يوجد فعل رئيسي.",
+      "feedback": {
+        "correct": "أحسنت ✓ is — لا يوجد فعل رئيسي، فنستخدم is مع الفاعل المفرد.",
+        "incorrect": "الإجابة الصحيحة is — لا يوجد فعل رئيسي، فنستخدم is مع الفاعل المفرد. are للجمع، و does و do تحتاجان فعلًا رئيسيًا."
+      }
+    },
+    {
+      "id": "g35",
+      "prompt": "When ___ your classes start in the morning?",
+      "options": [
+        "does",
+        "are",
+        "is",
+        "do"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "classes = حصص، start = تبدأ — الفاعل جمع وبعده فعل رئيسي.",
+      "feedback": {
+        "correct": "أحسنت ✓ do — classes جمع، فنستخدم do ويبقى start بلا s.",
+        "incorrect": "الإجابة الصحيحة do — classes جمع، فنستخدم do ويبقى start بلا s. does مع المفرد الغائب، و are و is مع be."
+      }
+    },
+    {
+      "id": "g36",
+      "prompt": "Why ___ he study at night?",
+      "options": [
+        "do",
+        "is",
+        "does",
+        "are"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "study = يدرس، night = الليل — فعل رئيسي والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ does — مع he نستخدم does ويبقى study بلا s.",
+        "incorrect": "الإجابة الصحيحة does — مع he نستخدم does ويبقى study بلا s. do مع الجمع و you، و is و are مع be."
+      }
+    },
+    {
+      "id": "g37",
+      "prompt": "Which bus ___ you take to work?",
+      "options": [
+        "does",
+        "do",
+        "are",
+        "is"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "bus = حافلة، take = تأخذ — سؤال عن اختيار، وبعد الفاعل فعل رئيسي.",
+      "feedback": {
+        "correct": "أحسنت ✓ do — مع you نستخدم do ويبقى take بلا s.",
+        "incorrect": "الإجابة الصحيحة do — مع you نستخدم do ويبقى take بلا s. does مع المفرد الغائب، و are و is لا تُستخدمان قبل فعل رئيسي."
+      }
+    },
+    {
+      "id": "g38",
+      "prompt": "Where ___ your friends from?",
+      "options": [
+        "are",
+        "is",
+        "do",
+        "does"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "friends = أصدقاء، from = من — سؤال عن بلد الأصل باستخدام (be).",
+      "feedback": {
+        "correct": "أحسنت ✓ are — friends جمع ولا يوجد فعل رئيسي، فنستخدم are.",
+        "incorrect": "الإجابة الصحيحة are — friends جمع ولا يوجد فعل رئيسي، فنستخدم are. is للمفرد، و do و does تحتاجان فعلًا رئيسيًا."
+      }
+    },
+    {
+      "id": "g39",
+      "prompt": "Choose the correct question.",
+      "options": [
+        "What time you wake up?",
+        "What time do you wakes up?",
+        "What time are you wake up?",
+        "What time do you wake up?"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "wake up = تستيقظ — يلزم فعل مساعد بعد أداة السؤال، ويبقى الفعل الرئيسي في صيغته الأساسية.",
+      "feedback": {
+        "correct": "أحسنت ✓ «What time do you wake up?» — Wh-word + do + you + wake (بلا s).",
+        "incorrect": "الإجابة الصحيحة «What time do you wake up?» — Wh-word + do + you + wake (بلا s). حذف do خطأ، وإضافة s بعد do خطأ، و are لا تُستخدم مع فعل رئيسي."
+      }
+    },
+    {
+      "id": "g40",
+      "prompt": "A: ___ do you go to the gym? B: Three times a week.",
+      "options": [
+        "How much",
+        "How old",
+        "How often",
+        "How long"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "wh-questions-simple-present",
+      "hint": "gym = النادي، Three times a week = ثلاث مرات في الأسبوع — الإجابة تذكر تكرارًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ How often — نسأل عن عدد المرات بـ How often.",
+        "incorrect": "الإجابة الصحيحة How often — نسأل عن عدد المرات بـ How often. How much للكمية أو السعر، و How old للعمر، و How long للمدة."
+      }
+    },
+    {
+      "id": "g41",
+      "prompt": "It is a ___ day. We can go to the beach.",
+      "options": [
+        "sunnily",
+        "sunny",
+        "sun",
+        "sunnies"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "adjectives",
+      "hint": "beach = الشاطئ، go = نذهب — كلمة تصف الاسم day.",
+      "feedback": {
+        "correct": "أحسنت ✓ sunny — الصفة sunny تأتي قبل الاسم day.",
+        "incorrect": "الإجابة الصحيحة sunny — الصفة sunny تأتي قبل الاسم day. sunnily ظرف، و sun اسم، و sunnies جمع خاطئ."
+      }
+    },
+    {
+      "id": "g42",
+      "prompt": "The new library is very ___.",
+      "options": [
+        "modern",
+        "modernly",
+        "modernity",
+        "moderns"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives",
+      "hint": "library = مكتبة، new = جديدة — بعد (be) very نحتاج صفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ modern — بعد is very نحتاج صفة: modern.",
+        "incorrect": "الإجابة الصحيحة modern — بعد is very نحتاج صفة: modern. modernly ظرف، و modernity اسم، و moderns خطأ لأن الصفة لا تُجمع."
+      }
+    },
+    {
+      "id": "g43",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I have a car small blue.",
+        "I have a smalls blue car.",
+        "I have a small blues car.",
+        "I have a small blue car."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "adjectives",
+      "hint": "car = سيارة، blue = أزرق — الصفات قبل الاسم ولا تُجمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ «I have a small blue car.» — الصفات تأتي قبل الاسم بلا s: a small blue car.",
+        "incorrect": "الإجابة الصحيحة «I have a small blue car.» — الصفات تأتي قبل الاسم بلا s: a small blue car. وضع الصفات بعد الاسم خطأ، وإضافة s إلى الصفة خطأ."
+      }
+    },
+    {
+      "id": "g44",
+      "prompt": "The students are ___ about the trip.",
+      "options": [
+        "excitedly",
+        "excitement",
+        "excited",
+        "exciteds"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "adjectives",
+      "hint": "students = طلاب، trip = رحلة — بعد (be) نحتاج صفة تصف الشعور.",
+      "feedback": {
+        "correct": "أحسنت ✓ excited — بعد are نستخدم الصفة excited.",
+        "incorrect": "الإجابة الصحيحة excited — بعد are نستخدم الصفة excited. excitedly ظرف، و excitement اسم، و exciteds خطأ."
+      }
+    },
+    {
+      "id": "g45",
+      "prompt": "She is a ___ cook. Everybody loves her food.",
+      "options": [
+        "greatly",
+        "great",
+        "greatness",
+        "greats"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "adjectives",
+      "hint": "cook = طباخة، food = الطعام — كلمة تصف الاسم قبله.",
+      "feedback": {
+        "correct": "أحسنت ✓ great — الصفة great تأتي قبل الاسم cook.",
+        "incorrect": "الإجابة الصحيحة great — الصفة great تأتي قبل الاسم cook. greatly ظرف، و greatness اسم، و greats خطأ."
+      }
+    },
+    {
+      "id": "g46",
+      "prompt": "These apples are ___. Let's eat them.",
+      "options": [
+        "fresh",
+        "freshly",
+        "freshness",
+        "freshes"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives",
+      "hint": "apples = تفاح، eat = نأكل — بعد (be) نحتاج صفة بلا s.",
+      "feedback": {
+        "correct": "أحسنت ✓ fresh — بعد are نستخدم الصفة fresh.",
+        "incorrect": "الإجابة الصحيحة fresh — بعد are نستخدم الصفة fresh. freshly ظرف، و freshness اسم، و freshes خطأ."
+      }
+    },
+    {
+      "id": "g47",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "They live in a house beautiful old.",
+        "They live in a beautifuls old house.",
+        "They live in a beautiful olds house.",
+        "They live in a beautiful old house."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "adjectives",
+      "hint": "live = يعيشون، house = بيت — الصفات قبل الاسم ولا تُجمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ «They live in a beautiful old house.» — الصفات تأتي قبل الاسم بلا s: a beautiful old house.",
+        "incorrect": "الإجابة الصحيحة «They live in a beautiful old house.» — الصفات تأتي قبل الاسم بلا s: a beautiful old house. وضع الصفات بعد الاسم خطأ، وإضافة s إلى الصفة خطأ."
+      }
+    },
+    {
+      "id": "g48",
+      "prompt": "The test was ___, but I passed it.",
+      "options": [
+        "difficultly",
+        "difficulty",
+        "difficult",
+        "difficults"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "adjectives",
+      "hint": "test = اختبار، passed = نجحت فيه — بعد (be) نحتاج صفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ difficult — بعد was نستخدم الصفة difficult.",
+        "incorrect": "الإجابة الصحيحة difficult — بعد was نستخدم الصفة difficult. difficultly ظرف، و difficulty اسم، و difficults خطأ."
+      }
+    },
+    {
+      "id": "g49",
+      "prompt": "My grandmother tells ___ stories.",
+      "options": [
+        "interestingly",
+        "interesting",
+        "interest",
+        "interests"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "adjectives",
+      "hint": "grandmother = جدة، stories = قصص — كلمة تصف الاسم قبله، وبدون s.",
+      "feedback": {
+        "correct": "أحسنت ✓ interesting — الصفة interesting تأتي قبل الاسم stories.",
+        "incorrect": "الإجابة الصحيحة interesting — الصفة interesting تأتي قبل الاسم stories. interestingly ظرف، و interest و interests اسمان."
+      }
+    },
+    {
+      "id": "g50",
+      "prompt": "This is a ___ road. Drive slowly.",
+      "options": [
+        "dangerous",
+        "dangerously",
+        "danger",
+        "dangerouses"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adjectives",
+      "hint": "road = طريق، slowly = ببطء — كلمة تصف الاسم road.",
+      "feedback": {
+        "correct": "أحسنت ✓ dangerous — الصفة dangerous تأتي قبل الاسم road.",
+        "incorrect": "الإجابة الصحيحة dangerous — الصفة dangerous تأتي قبل الاسم road. dangerously ظرف، و danger اسم، و dangerouses خطأ."
+      }
+    },
+    {
+      "id": "g51",
+      "prompt": "This coffee is ___ hot. I can't drink it.",
+      "options": [
+        "extreme",
+        "extremes",
+        "extremity",
+        "extremely"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "coffee = قهوة، drink = أشرب — كلمة تقوّي الصفة وتأتي قبلها.",
+      "feedback": {
+        "correct": "أحسنت ✓ extremely — الظرف extremely يقوّي الصفة hot.",
+        "incorrect": "الإجابة الصحيحة extremely — الظرف extremely يقوّي الصفة hot. extreme صفة، و extremes و extremity اسمان."
+      }
+    },
+    {
+      "id": "g52",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The film was funny really.",
+        "The film really funny was.",
+        "The film was really funny.",
+        "The film was reallys funny."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "film = فيلم، funny = مضحك — موضع الظرف بالنسبة للصفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ «The film was really funny.» — الظرف really يأتي قبل الصفة funny.",
+        "incorrect": "الإجابة الصحيحة «The film was really funny.» — الظرف really يأتي قبل الصفة funny. really بعد الصفة خطأ، وتغيير ترتيب الكلمات خطأ، و reallys إملاء خاطئ."
+      }
+    },
+    {
+      "id": "g53",
+      "prompt": "Our new neighbors are ___ friendly.",
+      "options": [
+        "prettiest",
+        "pretty",
+        "prettify",
+        "prettily"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "neighbors = جيران، new = جدد — ظرف يعني «إلى حدٍّ ما» ويأتي قبل الصفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ pretty — pretty ظرف يخفف المعنى قبل الصفة friendly.",
+        "incorrect": "الإجابة الصحيحة pretty — pretty ظرف يخفف المعنى قبل الصفة friendly. prettiest صفة تفضيل، و prettify فعل، و prettily ظرف حال لا يناسب الصفة."
+      }
+    },
+    {
+      "id": "g54",
+      "prompt": "The exam was ___ long. It took four hours.",
+      "options": [
+        "very",
+        "ver",
+        "verry",
+        "vary"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "exam = اختبار، four hours = أربع ساعات — ظرف يقوّي الصفة، انتبه للتهجئة.",
+      "feedback": {
+        "correct": "أحسنت ✓ very — الظرف very يقوّي الصفة long.",
+        "incorrect": "الإجابة الصحيحة very — الظرف very يقوّي الصفة long. ver و verry خطأ إملائي، و vary فعل بمعنى يتغير."
+      }
+    },
+    {
+      "id": "g55",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "It is an really cold morning.",
+        "It is a cold really morning.",
+        "It is a really coldly morning.",
+        "It is a really cold morning."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "morning = صباح، cold = بارد — الظرف قبل الصفة، واختيار أداة التنكير المناسبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ «It is a really cold morning.» — الظرف really قبل الصفة cold، ونستخدم a قبل حرف ساكن.",
+        "incorrect": "الإجابة الصحيحة «It is a really cold morning.» — الظرف really قبل الصفة cold، ونستخدم a قبل حرف ساكن. an لا تناسب really، ووضع الظرف بعد الصفة خطأ، و coldly ظرف لا يناسب الاسم."
+      }
+    },
+    {
+      "id": "g56",
+      "prompt": "My room is ___ small, but I like it.",
+      "options": [
+        "quiet",
+        "quit",
+        "quite",
+        "quote"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "room = غرفة، small = صغيرة — انتبه للتهجئة؛ الظرف يعني «إلى حدٍّ ما».",
+      "feedback": {
+        "correct": "أحسنت ✓ quite — الظرف quite يأتي قبل الصفة small.",
+        "incorrect": "الإجابة الصحيحة quite — الظرف quite يأتي قبل الصفة small. quiet تعني هادئ، و quit فعل بمعنى يترك، و quote تعني اقتباس."
+      }
+    },
+    {
+      "id": "g57",
+      "prompt": "We were ___ tired after the long trip.",
+      "options": [
+        "reals",
+        "really",
+        "reality",
+        "realize"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "tired = متعبون، trip = رحلة — كلمة تقوّي الصفة وهي ظرف.",
+      "feedback": {
+        "correct": "أحسنت ✓ really — الظرف really يقوّي الصفة tired.",
+        "incorrect": "الإجابة الصحيحة really — الظرف really يقوّي الصفة tired. reals خطأ، و reality اسم، و realize فعل."
+      }
+    },
+    {
+      "id": "g58",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The soup is pretty good.",
+        "The soup pretty is good.",
+        "The soup is good pretty.",
+        "The soup is prettily good."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "soup = شوربة، good = جيدة — موضع الظرف بالنسبة للصفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ «The soup is pretty good.» — الظرف pretty يأتي قبل الصفة good.",
+        "incorrect": "الإجابة الصحيحة «The soup is pretty good.» — الظرف pretty يأتي قبل الصفة good. وضع pretty قبل is خطأ، ووضعه بعد الصفة خطأ، و prettily ظرف حال لا يناسب الصفة."
+      }
+    },
+    {
+      "id": "g59",
+      "prompt": "That was a ___ good game.",
+      "options": [
+        "prettiest",
+        "prettify",
+        "prettily",
+        "pretty"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "game = مباراة، good = جيدة — ظرف يعني «إلى حدٍّ ما» ويأتي قبل الصفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ pretty — pretty ظرف يخفف المعنى قبل الصفة good.",
+        "incorrect": "الإجابة الصحيحة pretty — pretty ظرف يخفف المعنى قبل الصفة good. prettiest صفة تفضيل، و prettify فعل، و prettily ظرف حال لا يناسب الصفة."
+      }
+    },
+    {
+      "id": "g60",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "He is extreme tired.",
+        "He is tired extremely.",
+        "He is extremely tired.",
+        "He is very extremely tired."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "adverbs-with-adjectives",
+      "hint": "tired = متعب — ظرف واحد فقط قبل الصفة، بصيغة الظرف.",
+      "feedback": {
+        "correct": "أحسنت ✓ «He is extremely tired.» — الظرف extremely يأتي قبل الصفة tired.",
+        "incorrect": "الإجابة الصحيحة «He is extremely tired.» — الظرف extremely يأتي قبل الصفة tired. extreme صفة لا ظرف، ووضع الظرف بعد الصفة خطأ، وجمع ظرفين خطأ."
+      }
+    },
+    {
+      "id": "g61",
+      "prompt": "Reading before bed is relaxing. ___ helps me sleep.",
+      "options": [
+        "They",
+        "It",
+        "We",
+        "I"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "relaxing = مريح، sleep = أنام — الضمير يعود على نشاط مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ It — نستبدل النشاط (reading before bed) بـ it مع الفعل helps.",
+        "incorrect": "الإجابة الصحيحة It — نستبدل النشاط (reading before bed) بـ it مع الفعل helps. They و We و I لا تناسب الفعل helps ولا تعود على النشاط."
+      }
+    },
+    {
+      "id": "g62",
+      "prompt": "My father loves fishing. He does ___ every Friday.",
+      "options": [
+        "it",
+        "them",
+        "they",
+        "him"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "loves = يحب، Friday = الجمعة — الضمير بعد الفعل يعود على النشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ it — he does it أي يفعل هذا النشاط، و it تعود على fishing.",
+        "incorrect": "الإجابة الصحيحة it — he does it أي يفعل هذا النشاط، و it تعود على fishing. them و they للجمع، و him يعود على الأب لا على النشاط."
+      }
+    },
+    {
+      "id": "g63",
+      "prompt": "Driving at night is dangerous. ___ needs more attention.",
+      "options": [
+        "They",
+        "We",
+        "I",
+        "It"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "dangerous = خطير، attention = انتباه — نستبدل اسم الفعل بضمير مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ It — نستبدل النشاط (driving at night) بـ it مع الفعل needs.",
+        "incorrect": "الإجابة الصحيحة It — نستبدل النشاط (driving at night) بـ it مع الفعل needs. They و We و I لا تناسب الفعل needs ولا تعود على النشاط."
+      }
+    },
+    {
+      "id": "g64",
+      "prompt": "___ is a good way to learn English.",
+      "options": [
+        "Watch movies",
+        "Watches movies",
+        "Watching movies",
+        "To watching movies"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "way = طريقة، learn = تتعلم — نحتاج اسم فعل (فعل + ing) في بداية الجملة.",
+      "feedback": {
+        "correct": "أحسنت ✓ Watching movies — اسم الفعل Watching movies يمكن أن يكون فاعل الجملة.",
+        "incorrect": "الإجابة الصحيحة Watching movies — اسم الفعل Watching movies يمكن أن يكون فاعل الجملة. Watch movies و Watches movies لا يصلحان فاعلًا هنا، و To watching تركيب خاطئ."
+      }
+    },
+    {
+      "id": "g65",
+      "prompt": "Jogging ___ my favorite activity.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "favorite = المفضل، activity = نشاط — اسم الفعل يأخذ فعلًا مفردًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ is — اسم الفعل (gerund) يعامل كمفرد، فنستخدم is.",
+        "incorrect": "الإجابة الصحيحة is — اسم الفعل (gerund) يعامل كمفرد، فنستخدم is. are للجمع، و am مع I، و be لا تُستخدم وحدها."
+      }
+    },
+    {
+      "id": "g66",
+      "prompt": "I enjoy baking cakes. ___ is easy and fun.",
+      "options": [
+        "It",
+        "They",
+        "We",
+        "I"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "baking = الخَبز، easy = سهل — الضمير يعود على النشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ It — نستبدل النشاط (baking cakes) بـ it مع الفعل is.",
+        "incorrect": "الإجابة الصحيحة It — نستبدل النشاط (baking cakes) بـ it مع الفعل is. They و We و I لا تناسب الفعل is ولا تعود على النشاط."
+      }
+    },
+    {
+      "id": "g67",
+      "prompt": "Learning to swim takes patience. ___ takes about a month.",
+      "options": [
+        "They",
+        "We",
+        "I",
+        "It"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "patience = صبر، month = شهر — الضمير يعود على النشاط المذكور.",
+      "feedback": {
+        "correct": "أحسنت ✓ It — نستبدل النشاط (learning to swim) بـ it مع الفعل takes.",
+        "incorrect": "الإجابة الصحيحة It — نستبدل النشاط (learning to swim) بـ it مع الفعل takes. They و We و I لا تناسب الفعل takes ولا تعود على النشاط."
+      }
+    },
+    {
+      "id": "g68",
+      "prompt": "Swimming in the sea is fun, but ___ can be dangerous, too.",
+      "options": [
+        "they",
+        "we",
+        "it",
+        "I"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "sea = البحر، dangerous = خطيرة — الضمير يعود على النشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ it — نستبدل النشاط (swimming in the sea) بـ it مع الفعل can be.",
+        "incorrect": "الإجابة الصحيحة it — نستبدل النشاط (swimming in the sea) بـ it مع الفعل can be. they و we و I لا تعود على النشاط ولا تناسب هذا المعنى."
+      }
+    },
+    {
+      "id": "g69",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Cooking is fun. They are also healthy.",
+        "Cooking is fun. It is also healthy.",
+        "Cooking are fun. It is also healthy.",
+        "Cooking is fun. Cooking are also healthy."
+      ],
+      "answerIndex": 1,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "healthy = صحي، fun = ممتع — لا نكرر اسم الفعل، بل نستخدم ضميرًا مفردًا مناسبًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Cooking is fun. It is also healthy.» — نستبدل Cooking بـ It في الجملة الثانية.",
+        "incorrect": "الإجابة الصحيحة «Cooking is fun. It is also healthy.» — نستبدل Cooking بـ It في الجملة الثانية. They لا تعود على نشاط مفرد، و Cooking are خطأ في الفعل."
+      }
+    },
+    {
+      "id": "g70",
+      "prompt": "___ in the park is my favorite hobby.",
+      "options": [
+        "Walking",
+        "Walk",
+        "Walks",
+        "To walking"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "pronouns-replace-gerunds",
+      "hint": "park = حديقة، hobby = هواية — نحتاج اسم فعل (فعل + ing) في بداية الجملة.",
+      "feedback": {
+        "correct": "أحسنت ✓ Walking — اسم الفعل Walking يمكن أن يكون فاعل الجملة.",
+        "incorrect": "الإجابة الصحيحة Walking — اسم الفعل Walking يمكن أن يكون فاعل الجملة. Walk و Walks لا يصلحان فاعلًا هنا، و To walking تركيب خاطئ."
+      }
+    },
+    {
+      "id": "g71",
+      "prompt": "Ms. Huda is kind. I always thank ___.",
+      "options": [
+        "she",
+        "hers",
+        "herself",
+        "her"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "kind = لطيفة، thank = أشكر — الكلمة بعد الفعل وهي المفعول به.",
+      "feedback": {
+        "correct": "أحسنت ✓ her — بعد الفعل thank نستخدم ضمير المفعول به her.",
+        "incorrect": "الإجابة الصحيحة her — بعد الفعل thank نستخدم ضمير المفعول به her. she ضمير فاعل، و hers للملكية، و herself للانعكاس."
+      }
+    },
+    {
+      "id": "g72",
+      "prompt": "The boys are noisy. The teacher is angry with ___.",
+      "options": [
+        "they",
+        "their",
+        "them",
+        "theirs"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "noisy = صاخبون، angry = غاضب — بعد حرف الجر نستخدم ضمير المفعول به.",
+      "feedback": {
+        "correct": "أحسنت ✓ them — بعد حرف الجر with نستخدم them.",
+        "incorrect": "الإجابة الصحيحة them — بعد حرف الجر with نستخدم them. they ضمير فاعل، و their و theirs للملكية."
+      }
+    },
+    {
+      "id": "g73",
+      "prompt": "My sister and ___ are twins.",
+      "options": [
+        "me",
+        "I",
+        "my",
+        "mine"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "twins = توأم — الكلمة فاعل قبل الفعل.",
+      "feedback": {
+        "correct": "أحسنت ✓ I — الفاعل قبل الفعل are هو I.",
+        "incorrect": "الإجابة الصحيحة I — الفاعل قبل الفعل are هو I. me ضمير مفعول، و my و mine للملكية."
+      }
+    },
+    {
+      "id": "g74",
+      "prompt": "Can you help ___ with this exercise?",
+      "options": [
+        "me",
+        "I",
+        "my",
+        "mine"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "help = تساعد، exercise = تمرين — الكلمة بعد الفعل وهي المفعول به.",
+      "feedback": {
+        "correct": "أحسنت ✓ me — بعد الفعل help نستخدم ضمير المفعول به me.",
+        "incorrect": "الإجابة الصحيحة me — بعد الفعل help نستخدم ضمير المفعول به me. I ضمير فاعل، و my و mine للملكية."
+      }
+    },
+    {
+      "id": "g75",
+      "prompt": "Salem is my neighbor. I often see ___ at the mosque.",
+      "options": [
+        "he",
+        "his",
+        "himself",
+        "him"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "neighbor = جار، mosque = المسجد — الكلمة بعد الفعل وهي المفعول به لمفرد مذكر.",
+      "feedback": {
+        "correct": "أحسنت ✓ him — بعد الفعل see نستخدم ضمير المفعول به him.",
+        "incorrect": "الإجابة الصحيحة him — بعد الفعل see نستخدم ضمير المفعول به him. he ضمير فاعل، و his للملكية، و himself للانعكاس."
+      }
+    },
+    {
+      "id": "g76",
+      "prompt": "Mona and Huda are friends. ___ study at the same university.",
+      "options": [
+        "Them",
+        "Their",
+        "They",
+        "Theirs"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "friends = صديقتان، study = تدرسان — الكلمة فاعل وتعود على شخصين.",
+      "feedback": {
+        "correct": "أحسنت ✓ They — الفاعل الجمع الغائب قبل الفعل هو They.",
+        "incorrect": "الإجابة الصحيحة They — الفاعل الجمع الغائب قبل الفعل هو They. Them ضمير مفعول، و Their و Theirs للملكية."
+      }
+    },
+    {
+      "id": "g77",
+      "prompt": "The teacher is talking to ___. Please be quiet.",
+      "options": [
+        "we",
+        "us",
+        "our",
+        "ours"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "talking = يتحدث، quiet = هادئ — بعد حرف الجر نستخدم ضمير المفعول به.",
+      "feedback": {
+        "correct": "أحسنت ✓ us — بعد حرف الجر to نستخدم us.",
+        "incorrect": "الإجابة الصحيحة us — بعد حرف الجر to نستخدم us. we ضمير فاعل، و our و ours للملكية."
+      }
+    },
+    {
+      "id": "g78",
+      "prompt": "My cousins live in Dammam. ___ have a big house near the sea.",
+      "options": [
+        "They",
+        "Them",
+        "Their",
+        "Theirs"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "cousins = أبناء العم، house = بيت — الكلمة فاعل قبل الفعل.",
+      "feedback": {
+        "correct": "أحسنت ✓ They — الفاعل الجمع الغائب قبل الفعل have هو They.",
+        "incorrect": "الإجابة الصحيحة They — الفاعل الجمع الغائب قبل الفعل have هو They. Them ضمير مفعول، و Their و Theirs للملكية."
+      }
+    },
+    {
+      "id": "g79",
+      "prompt": "I like this watch. Can you give ___ to me?",
+      "options": [
+        "its",
+        "he",
+        "they",
+        "it"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "watch = ساعة يد، give = تعطي — الكلمة بعد الفعل وتعود على شيء مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ it — بعد الفعل give نستخدم ضمير المفعول به it للشيء المفرد.",
+        "incorrect": "الإجابة الصحيحة it — بعد الفعل give نستخدم ضمير المفعول به it للشيء المفرد. its للملكية، و he للمذكر العاقل، و they للجمع."
+      }
+    },
+    {
+      "id": "g80",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "You and me are classmates.",
+        "Me and you are classmates.",
+        "You and I are classmates.",
+        "You and myself are classmates."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "subject-object-pronouns",
+      "hint": "classmates = زملاء الصف — الفاعل في الجملة يجب أن يكون بصيغة الفاعل.",
+      "feedback": {
+        "correct": "أحسنت ✓ «You and I are classmates.» — الفاعل قبل الفعل: You and I.",
+        "incorrect": "الإجابة الصحيحة «You and I are classmates.» — الفاعل قبل الفعل: You and I. me ضمير مفعول ولا يصلح فاعلًا، و myself ضمير انعكاسي."
+      }
+    },
+    {
+      "id": "g81",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "ahmed lives in madinah.",
+        "Ahmed lives in Madinah.",
+        "Ahmed lives in madinah.",
+        "ahmed lives in Madinah."
+      ],
+      "answerIndex": 1,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "Ahmed = أحمد، Madinah = المدينة المنورة — أول الجملة والأسماء الخاصة بحرف كبير.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Ahmed lives in Madinah.» — نكتب أول الجملة واسم الشخص والمدينة بحرف كبير.",
+        "incorrect": "الإجابة الصحيحة «Ahmed lives in Madinah.» — نكتب أول الجملة واسم الشخص والمدينة بحرف كبير. الخيارات الأخرى تترك الاسم أو اسم المدينة بحرف صغير."
+      }
+    },
+    {
+      "id": "g82",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I study French and German.",
+        "i study french and german.",
+        "I study french and German.",
+        "I study French and german."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "French = الفرنسية، German = الألمانية — الضمير (I) واللغات بحرف كبير.",
+      "feedback": {
+        "correct": "أحسنت ✓ «I study French and German.» — I و French و German تُكتب بحرف كبير.",
+        "incorrect": "الإجابة الصحيحة «I study French and German.» — I و French و German تُكتب بحرف كبير. الخيارات الأخرى تكتب إحدى هذه الكلمات بحرف صغير."
+      }
+    },
+    {
+      "id": "g83",
+      "prompt": "I love this city___",
+      "options": [
+        "?",
+        ",",
+        "'",
+        "."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "love = أحب، city = مدينة — نوع الجملة يحدد علامة نهايتها.",
+      "feedback": {
+        "correct": "أحسنت ✓ «.» — الجملة خبرية، فتنتهي بنقطة.",
+        "incorrect": "الإجابة الصحيحة «.» — الجملة خبرية، فتنتهي بنقطة. علامة الاستفهام للسؤال، والفاصلة داخل الجملة، والفاصلة العليا للاختصار."
+      }
+    },
+    {
+      "id": "g84",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "We visit jeddah in december.",
+        "we visit Jeddah in December.",
+        "We visit Jeddah in December.",
+        "We visit Jeddah in december."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "Jeddah = جدة، December = ديسمبر — الأسماء الخاصة والشهور بحرف كبير.",
+      "feedback": {
+        "correct": "أحسنت ✓ «We visit Jeddah in December.» — أول الجملة واسم المدينة والشهر بحرف كبير.",
+        "incorrect": "الإجابة الصحيحة «We visit Jeddah in December.» — أول الجملة واسم المدينة والشهر بحرف كبير. الخيارات الأخرى تكتب إحدى الكلمات بحرف صغير."
+      }
+    },
+    {
+      "id": "g85",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Theyre not here today.",
+        "They're not here today.",
+        "They 're not here today.",
+        "They'r not here today."
+      ],
+      "answerIndex": 1,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "here = هنا، today = اليوم — الفاصلة العليا مكان الحرف المحذوف.",
+      "feedback": {
+        "correct": "أحسنت ✓ «They're not here today.» — They're = they are، والفاصلة العليا مكان الحرف a.",
+        "incorrect": "الإجابة الصحيحة «They're not here today.» — They're = they are، والفاصلة العليا مكان الحرف a. الخيارات الأخرى تحذف الفاصلة أو تضعها في مكان خاطئ."
+      }
+    },
+    {
+      "id": "g86",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Are you coming on Friday?",
+        "are you coming on Friday?",
+        "Are you coming on friday?",
+        "Are you coming on Friday."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "coming = قادم، Friday = الجمعة — الجملة سؤال، واسم اليوم بحرف كبير.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Are you coming on Friday?» — أول الجملة واسم اليوم بحرف كبير، وتنتهي بعلامة استفهام.",
+        "incorrect": "الإجابة الصحيحة «Are you coming on Friday?» — أول الجملة واسم اليوم بحرف كبير، وتنتهي بعلامة استفهام. الخيارات الأخرى تكتب Are أو Friday بحرف صغير، أو تنهي السؤال بنقطة."
+      }
+    },
+    {
+      "id": "g87",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I bought milk eggs and bread.",
+        "I bought milk, eggs, and, bread.",
+        "I bought, milk, eggs, and bread.",
+        "I bought milk, eggs, and bread."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "milk = حليب، eggs = بيض — نفصل بين عناصر القائمة بعلامة ترقيم محددة.",
+      "feedback": {
+        "correct": "أحسنت ✓ «I bought milk, eggs, and bread.» — نفصل بين عناصر القائمة بفاصلة (,).",
+        "incorrect": "الإجابة الصحيحة «I bought milk, eggs, and bread.» — نفصل بين عناصر القائمة بفاصلة (,). ترك الفواصل خطأ، ووضعها بعد حرف العطف أو بعد الفعل خطأ."
+      }
+    },
+    {
+      "id": "g88",
+      "prompt": "What a beautiful day___",
+      "options": [
+        "?",
+        ",",
+        "!",
+        "'"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "beautiful = جميل — نوع الجملة يحدد علامة نهايتها.",
+      "feedback": {
+        "correct": "أحسنت ✓ «!» — جملة التعجب تنتهي بعلامة تعجب (!).",
+        "incorrect": "الإجابة الصحيحة «!» — جملة التعجب تنتهي بعلامة تعجب (!). علامة الاستفهام للسؤال، والفاصلة داخل الجملة، والفاصلة العليا للاختصار."
+      }
+    },
+    {
+      "id": "g89",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She's from saudi arabia, and he's from egypt.",
+        "She's from Saudi Arabia, and he's from Egypt.",
+        "Shes from Saudi Arabia, and hes from Egypt.",
+        "She's from Saudi Arabia and, he's from Egypt."
+      ],
+      "answerIndex": 1,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "Saudi Arabia = السعودية، Egypt = مصر — أسماء الدول بحرف كبير، والفاصلة العليا في الاختصار.",
+      "feedback": {
+        "correct": "أحسنت ✓ «She's from Saudi Arabia, and he's from Egypt.» — أسماء الدول بحرف كبير، والفاصلة العليا في She's و he's، وفاصلة قبل and.",
+        "incorrect": "الإجابة الصحيحة «She's from Saudi Arabia, and he's from Egypt.» — أسماء الدول بحرف كبير، والفاصلة العليا في She's و he's، وفاصلة قبل and. الخيارات الأخرى تكتب أسماء الدول بحرف صغير، أو تحذف الفاصلة العليا، أو تضع الفاصلة في مكان خاطئ."
+      }
+    },
+    {
+      "id": "g90",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "On Monday, I have an exam.",
+        "On monday I have an exam",
+        "on Monday, I have an exam.",
+        "On Monday I, have an exam."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "capitalization-punctuation",
+      "hint": "Monday = الاثنين، exam = اختبار — حرف كبير في بداية الجملة واسم اليوم، وفاصلة بعد العبارة الافتتاحية.",
+      "feedback": {
+        "correct": "أحسنت ✓ «On Monday, I have an exam.» — On و Monday بحرف كبير، وفاصلة بعد On Monday، ونقطة في النهاية.",
+        "incorrect": "الإجابة الصحيحة «On Monday, I have an exam.» — On و Monday بحرف كبير، وفاصلة بعد On Monday، ونقطة في النهاية. الخيارات الأخرى تكتب monday أو on بحرف صغير، أو تنسى النقطة، أو تضع الفاصلة في مكان خاطئ."
+      }
+    },
+    {
+      "id": "g91",
+      "prompt": "The first floor is ___ the second floor.",
+      "options": [
+        "above",
+        "on",
+        "at",
+        "below"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "prepositions-of-location",
+      "hint": "floor = طابق، second = الثاني — موقع الطابق الأول بالنسبة للثاني.",
+      "feedback": {
+        "correct": "أحسنت ✓ below — الطابق الأول أسفل الثاني، فنستخدم below.",
+        "incorrect": "الإجابة الصحيحة below — الطابق الأول أسفل الثاني، فنستخدم below. above تعني فوق، و on و at لا تصف موقع طابق بالنسبة لآخر."
+      }
+    },
+    {
+      "id": "g92",
+      "prompt": "The students are standing ___ the door.",
+      "options": [
+        "under",
+        "between",
+        "at",
+        "above"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "prepositions-of-location",
+      "hint": "students = طلاب، standing = واقفون — الجملة تصف مكان وقوفهم.",
+      "feedback": {
+        "correct": "أحسنت ✓ at — نقول at the door للدلالة على نقطة محددة عند الباب.",
+        "incorrect": "الإجابة الصحيحة at — نقول at the door للدلالة على نقطة محددة عند الباب. under تعني تحت، و between تحتاج شيئين، و above تعني فوق."
+      }
+    },
+    {
+      "id": "g93",
+      "prompt": "My family lives ___ a small village.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "between"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "prepositions-of-location",
+      "hint": "family = العائلة، village = قرية — حرف الجر مع الأماكن.",
+      "feedback": {
+        "correct": "أحسنت ✓ in — نقول live in a village أي نقيم في قرية.",
+        "incorrect": "الإجابة الصحيحة in — نقول live in a village أي نقيم في قرية. on للأسطح، و at لنقطة محددة، و between تحتاج شيئين."
+      }
+    },
+    {
+      "id": "g94",
+      "prompt": "The shoes are ___ the bed. I can't see them.",
+      "options": [
+        "under",
+        "above",
+        "on",
+        "between"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "prepositions-of-location",
+      "hint": "shoes = أحذية، bed = سرير — الجملة تصف سبب عدم رؤية الأحذية.",
+      "feedback": {
+        "correct": "أحسنت ✓ under — لا نرى الأحذية لأنها أسفل السرير، فنستخدم under.",
+        "incorrect": "الإجابة الصحيحة under — لا نرى الأحذية لأنها أسفل السرير، فنستخدم under. above تعني فوق فنراها، و on تعني على سطحه، و between تحتاج شيئين."
+      }
+    },
+    {
+      "id": "g95",
+      "prompt": "The post office is ___ the pharmacy. They share a wall.",
+      "options": [
+        "above",
+        "under",
+        "in",
+        "next to"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "prepositions-of-location",
+      "hint": "post office = مكتب البريد، wall = جدار — الجملة تصف مبنيين متجاورين.",
+      "feedback": {
+        "correct": "أحسنت ✓ next to — المبنيان يشتركان في جدار، فهما متجاوران: next to.",
+        "incorrect": "الإجابة الصحيحة next to — المبنيان يشتركان في جدار، فهما متجاوران: next to. above و under و in لا تصف مبنيين متجاورين."
+      }
+    },
+    {
+      "id": "g96",
+      "prompt": "Our flat is ___ the third floor.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "of"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "prepositions-of-location",
+      "hint": "flat = شقة، floor = طابق — حرف الجر مع الطوابق.",
+      "feedback": {
+        "correct": "أحسنت ✓ on — نقول on the third floor مع أرقام الطوابق.",
+        "incorrect": "الإجابة الصحيحة on — نقول on the third floor مع أرقام الطوابق. in تعني داخل، و at و of لا تناسبان هنا."
+      }
+    },
+    {
+      "id": "g97",
+      "prompt": "He is sitting ___ his desk, writing a letter.",
+      "options": [
+        "in",
+        "at",
+        "of",
+        "to"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "prepositions-of-location",
+      "hint": "sitting = جالس، desk = مكتب — حرف الجر مع مكان الجلوس أو العمل.",
+      "feedback": {
+        "correct": "أحسنت ✓ at — نقول sit at a desk أي يجلس إلى المكتب.",
+        "incorrect": "الإجابة الصحيحة at — نقول sit at a desk أي يجلس إلى المكتب. in و of و to لا تناسب هذا التعبير."
+      }
+    },
+    {
+      "id": "g98",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The cat is under the table.",
+        "The cat is in the table.",
+        "The cat is at under the table.",
+        "The cat is under of the table."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "prepositions-of-location",
+      "hint": "cat = قطة، table = طاولة — موضع القطة بالنسبة للطاولة.",
+      "feedback": {
+        "correct": "أحسنت ✓ «The cat is under the table.» — نقول under the table للشيء أسفل الطاولة.",
+        "incorrect": "الإجابة الصحيحة «The cat is under the table.» — نقول under the table للشيء أسفل الطاولة. in تعني داخل، و at under و under of تراكيب خاطئة."
+      }
+    },
+    {
+      "id": "g99",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She lives next the school.",
+        "She lives next of the school.",
+        "She lives in next to the school.",
+        "She lives next to the school."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "prepositions-of-location",
+      "hint": "lives = تسكن، school = المدرسة — العبارة الثابتة تحتاج كلمة قبل (the).",
+      "feedback": {
+        "correct": "أحسنت ✓ «She lives next to the school.» — العبارة الثابتة: next to.",
+        "incorrect": "الإجابة الصحيحة «She lives next to the school.» — العبارة الثابتة: next to. حذف to أو استبدالها بـ of خطأ، وإضافة in قبلها خطأ."
+      }
+    },
+    {
+      "id": "g100",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The museum is between the park, the library.",
+        "The museum is between of the park and the library.",
+        "The museum is between the park and the library.",
+        "The museum is among the park and the library."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "prepositions-of-location",
+      "hint": "museum = متحف، park = حديقة — حرف الجر مع مكانين محددين.",
+      "feedback": {
+        "correct": "أحسنت ✓ «The museum is between the park and the library.» — نقول between X and Y لمكانين محددين.",
+        "incorrect": "الإجابة الصحيحة «The museum is between the park and the library.» — نقول between X and Y لمكانين محددين. حذف and خطأ، و between of خطأ، و among تُستخدم مع أكثر من اثنين."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1610 @@
+{
+  "schemaVersion": 1,
+  "id": "engl102-vocab-bank-3",
+  "title": "ENGL 102/103B — Vocabulary Bank 3",
+  "description": "اختبار مفردات شامل (100 سؤال) — الجزء الثالث: يغطي الكلمات المتبقية من قائمة ENGL 102/103B مع مراجعة لكلمات سابقة.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Ali eats very little and he is tall and ___. His clothes are too big for him.",
+      "options": [
+        "overweight",
+        "messy",
+        "thin",
+        "famous"
+      ],
+      "answerIndex": 2,
+      "hint": "little = قليل، clothes = ملابس — الجملة تصف جسم شخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ thin تعني «نحيف» — من يأكل قليلًا وملابسه واسعة عليه نحيف.",
+        "incorrect": "الإجابة الصحيحة هي thin (نحيف) — من يأكل قليلًا وملابسه واسعة عليه نحيف. أمّا overweight تعني «زائد الوزن»، و messy تعني «فوضوي»، و famous تعني «مشهور» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q2",
+      "prompt": "A pencil is long and ___, but a book is thick.",
+      "options": [
+        "short",
+        "thin",
+        "noisy",
+        "cheap"
+      ],
+      "answerIndex": 1,
+      "hint": "pencil = قلم رصاص، thick = سميك — الجملة تقارن بين شكل القلم والكتاب.",
+      "feedback": {
+        "correct": "أحسنت ✓ thin تعني «نحيف» — عكس سميك هو رفيع، ونصف الأشخاص أو الأشياء الرفيعة بـ thin.",
+        "incorrect": "الإجابة الصحيحة هي thin (نحيف) — عكس سميك هو رفيع، ونصف الأشخاص أو الأشياء الرفيعة بـ thin. أمّا short تعني «قصير»، و noisy تعني «صاخب»، و cheap تعني «رخيص» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q3",
+      "prompt": "It is very hot, so I ___ light clothes.",
+      "options": [
+        "wear",
+        "watch",
+        "ride",
+        "feed"
+      ],
+      "answerIndex": 0,
+      "hint": "hot = حار، light = خفيفة — شخص يصف ما يفعله بسبب الطقس.",
+      "feedback": {
+        "correct": "أحسنت ✓ wear تعني «يرتدي» — نقول wear clothes أي نرتدي الملابس.",
+        "incorrect": "الإجابة الصحيحة هي wear (يرتدي) — نقول wear clothes أي نرتدي الملابس. أمّا watch تعني «يشاهد»، و ride تعني «يركب»، و feed تعني «يُطعم» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q4",
+      "prompt": "Students must ___ a uniform at this school.",
+      "options": [
+        "read",
+        "meet",
+        "teach",
+        "wear"
+      ],
+      "answerIndex": 3,
+      "hint": "uniform = زي موحد، must = يجب — قاعدة في المدرسة.",
+      "feedback": {
+        "correct": "أحسنت ✓ wear تعني «يرتدي» — نرتدي الزي الموحد، ونقول wear a uniform.",
+        "incorrect": "الإجابة الصحيحة هي wear (يرتدي) — نرتدي الزي الموحد، ونقول wear a uniform. أمّا read تعني «يقرأ»، و meet تعني «يقابل»، و teach تعني «يُدرّس» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q5",
+      "prompt": "Khalid plays football well. He wants to ___ the school team.",
+      "options": [
+        "be for",
+        "be of",
+        "be on",
+        "be at"
+      ],
+      "answerIndex": 2,
+      "hint": "football = كرة القدم، school team = فريق المدرسة — الجملة تصف رغبة لاعب في الانضمام.",
+      "feedback": {
+        "correct": "أحسنت ✓ be on تعني «يكون عضوًا في» — نقول be on the team أي يكون عضوًا في الفريق.",
+        "incorrect": "الإجابة الصحيحة هي be on (يكون عضوًا في) — نقول be on the team أي يكون عضوًا في الفريق. أمّا be for تعني «يكون لـ»، و be of تعني «يكون من»، و be at تعني «يكون في» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q6",
+      "prompt": "My sister ___ the tennis team at university. She plays every Saturday.",
+      "options": [
+        "is of",
+        "is on",
+        "is at",
+        "is for"
+      ],
+      "answerIndex": 1,
+      "hint": "tennis = التنس، Saturday = السبت — الجملة تصف علاقة أختي بفريق.",
+      "feedback": {
+        "correct": "أحسنت ✓ is on تعني «عضوة في» — نقول is on the team أي هي عضوة في الفريق.",
+        "incorrect": "الإجابة الصحيحة هي is on (عضوة في) — نقول is on the team أي هي عضوة في الفريق. أمّا is of تعني «من»، و is at تعني «في»، و is for تعني «لـ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q7",
+      "prompt": "I like to ___ a book before I sleep.",
+      "options": [
+        "read",
+        "ride",
+        "feed",
+        "wear"
+      ],
+      "answerIndex": 0,
+      "hint": "book = كتاب، sleep = أنام — شخص يصف عادته قبل النوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ read تعني «يقرأ» — الكتاب نقرأه، ونقول read a book.",
+        "incorrect": "الإجابة الصحيحة هي read (يقرأ) — الكتاب نقرأه، ونقول read a book. أمّا ride تعني «يركب»، و feed تعني «يُطعم»، و wear تعني «يرتدي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q8",
+      "prompt": "Ali can ___ English and Arabic, but he can't write them well.",
+      "options": [
+        "meet",
+        "feed",
+        "wear",
+        "read"
+      ],
+      "answerIndex": 3,
+      "hint": "English and Arabic = الإنجليزية والعربية، write = يكتب — الجملة تقارن بين مهارتين.",
+      "feedback": {
+        "correct": "أحسنت ✓ read تعني «يقرأ» — المهارة المقابلة للكتابة هي القراءة، أي read.",
+        "incorrect": "الإجابة الصحيحة هي read (يقرأ) — المهارة المقابلة للكتابة هي القراءة، أي read. أمّا meet تعني «يقابل»، و feed تعني «يُطعم»، و wear تعني «يرتدي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q9",
+      "prompt": "Reading, swimming and drawing are my ___.",
+      "options": [
+        "jobs",
+        "clubs",
+        "hobbies",
+        "classes"
+      ],
+      "answerIndex": 2,
+      "hint": "reading = القراءة، drawing = الرسم — الجملة تذكر أنشطة يفعلها الشخص لأنه يحبها.",
+      "feedback": {
+        "correct": "أحسنت ✓ hobbies تعني «هوايات» — الأنشطة التي نمارسها في وقت الفراغ لأننا نحبها هي هواياتنا.",
+        "incorrect": "الإجابة الصحيحة هي hobbies (هوايات) — الأنشطة التي نمارسها في وقت الفراغ لأننا نحبها هي هواياتنا. أمّا jobs تعني «وظائف»، و clubs تعني «نوادٍ»، و classes تعني «صفوف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q10",
+      "prompt": "What are your ___? I like playing chess and collecting coins.",
+      "options": [
+        "jobs",
+        "hobbies",
+        "names",
+        "ages"
+      ],
+      "answerIndex": 1,
+      "hint": "chess = الشطرنج، coins = عملات — سؤال عن أنشطة الوقت الحر.",
+      "feedback": {
+        "correct": "أحسنت ✓ hobbies تعني «هوايات» — السؤال عن الأنشطة المفضلة في وقت الفراغ يسأل عن hobbies.",
+        "incorrect": "الإجابة الصحيحة هي hobbies (هوايات) — السؤال عن الأنشطة المفضلة في وقت الفراغ يسأل عن hobbies. أمّا jobs تعني «وظائف»، و names تعني «أسماء»، و ages تعني «أعمار» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q11",
+      "prompt": "Students need to improve their ___ English to write good essays at university.",
+      "options": [
+        "academic",
+        "noisy",
+        "popular",
+        "cheap"
+      ],
+      "answerIndex": 0,
+      "hint": "essays = مقالات، university = جامعة — الجملة تتحدث عن نوع من اللغة يُستخدم في الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ academic تعني «أكاديمي» — اللغة المستخدمة في الدراسة الجامعية تسمى academic English.",
+        "incorrect": "الإجابة الصحيحة هي academic (أكاديمي) — اللغة المستخدمة في الدراسة الجامعية تسمى academic English. أمّا noisy تعني «صاخب»، و popular تعني «شائع»، و cheap تعني «رخيص» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q12",
+      "prompt": "The ___ year at King Saud University starts in August.",
+      "options": [
+        "famous",
+        "afraid",
+        "noisy",
+        "academic"
+      ],
+      "answerIndex": 3,
+      "hint": "year = عام، starts = يبدأ — الجملة تتحدث عن عام في الجامعة يبدأ في أغسطس.",
+      "feedback": {
+        "correct": "أحسنت ✓ academic تعني «أكاديمي» — نقول academic year للعام الدراسي.",
+        "incorrect": "الإجابة الصحيحة هي academic (أكاديمي) — نقول academic year للعام الدراسي. أمّا famous تعني «مشهور»، و afraid تعني «خائف»، و noisy تعني «صاخب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q13",
+      "prompt": "I really ___ cooking with my mother. It makes me happy.",
+      "options": [
+        "avoid",
+        "fail",
+        "enjoy",
+        "increase"
+      ],
+      "answerIndex": 2,
+      "hint": "cooking = الطبخ، happy = سعيد — شخص يصف شعوره تجاه نشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ enjoy تعني «يستمتع ب» — من يسعد بالطبخ مع أمه يستمتع به.",
+        "incorrect": "الإجابة الصحيحة هي enjoy (يستمتع ب) — من يسعد بالطبخ مع أمه يستمتع به. أمّا avoid تعني «يتجنّب»، و fail تعني «يرسب»، و increase تعني «يزيد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q14",
+      "prompt": "Children ___ playing outside in the rain. They laugh and run all day.",
+      "options": [
+        "avoid",
+        "enjoy",
+        "fail",
+        "reduce"
+      ],
+      "answerIndex": 1,
+      "hint": "outside = في الخارج، laugh = يضحكون — الجملة تصف شعور الأطفال.",
+      "feedback": {
+        "correct": "أحسنت ✓ enjoy تعني «يستمتع ب» — الأطفال الذين يضحكون ويركضون يستمتعون باللعب.",
+        "incorrect": "الإجابة الصحيحة هي enjoy (يستمتع ب) — الأطفال الذين يضحكون ويركضون يستمتعون باللعب. أمّا avoid تعني «يتجنّب»، و fail تعني «يرسب»، و reduce تعني «يُقلّل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q15",
+      "prompt": "Every morning, Mona ___ her cat before she goes to school.",
+      "options": [
+        "feeds",
+        "wears",
+        "reads",
+        "rides"
+      ],
+      "answerIndex": 0,
+      "hint": "cat = قطة، before = قبل — الجملة تصف عملًا يوميًا للعناية بحيوان.",
+      "feedback": {
+        "correct": "أحسنت ✓ feeds تعني «يُطعم» — نقول feed a cat أي نعطيه الطعام، ومع she نضيف s.",
+        "incorrect": "الإجابة الصحيحة هي feeds (يُطعم) — نقول feed a cat أي نعطيه الطعام، ومع she نضيف s. أمّا wears تعني «يرتدي»، و reads تعني «يقرأ»، و rides تعني «يركب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q16",
+      "prompt": "The farmer must ___ his cows twice a day. If they don't eat, they get sick.",
+      "options": [
+        "read",
+        "wear",
+        "attend",
+        "feed"
+      ],
+      "answerIndex": 3,
+      "hint": "farmer = مزارع، cows = أبقار — الجملة تصف عمل المزارع مع حيواناته.",
+      "feedback": {
+        "correct": "أحسنت ✓ feed تعني «يُطعم» — إعطاء الأبقار الطعام يسمى feed.",
+        "incorrect": "الإجابة الصحيحة هي feed (يُطعم) — إعطاء الأبقار الطعام يسمى feed. أمّا read تعني «يقرأ»، و wear تعني «يرتدي»، و attend تعني «يحضر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q17",
+      "prompt": "After the heavy rain, there was a ___ in the street. The water was one meter high.",
+      "options": [
+        "farm",
+        "drawer",
+        "flood",
+        "pill"
+      ],
+      "answerIndex": 2,
+      "hint": "heavy rain = مطر غزير، meter = متر — الجملة تصف ما حدث بعد المطر.",
+      "feedback": {
+        "correct": "أحسنت ✓ flood تعني «فيضان» — ارتفاع الماء في الشارع بعد المطر الغزير يسمى flood.",
+        "incorrect": "الإجابة الصحيحة هي flood (فيضان) — ارتفاع الماء في الشارع بعد المطر الغزير يسمى flood. أمّا farm تعني «مزرعة»، و drawer تعني «دُرج»، و pill تعني «حبّة دواء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q18",
+      "prompt": "A ___ can destroy houses and cars because of too much water.",
+      "options": [
+        "drawer",
+        "flood",
+        "pill",
+        "contest"
+      ],
+      "answerIndex": 1,
+      "hint": "destroy = يدمر، houses = بيوت — الجملة تصف كارثة طبيعية.",
+      "feedback": {
+        "correct": "أحسنت ✓ flood تعني «فيضان» — كثرة الماء التي تدمر البيوت والسيارات تسمى flood.",
+        "incorrect": "الإجابة الصحيحة هي flood (فيضان) — كثرة الماء التي تدمر البيوت والسيارات تسمى flood. أمّا drawer تعني «دُرج»، و pill تعني «حبّة دواء»، و contest تعني «مسابقة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q19",
+      "prompt": "This farm grows ___ vegetables without chemicals.",
+      "options": [
+        "organic",
+        "noisy",
+        "unfriendly",
+        "run-down"
+      ],
+      "answerIndex": 0,
+      "hint": "grows = تزرع، chemicals = مواد كيميائية — الجملة تصف نوع الزراعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ organic تعني «عضوي» — الخضروات المزروعة بدون مواد كيميائية تسمى organic.",
+        "incorrect": "الإجابة الصحيحة هي organic (عضوي) — الخضروات المزروعة بدون مواد كيميائية تسمى organic. أمّا noisy تعني «صاخب»، و unfriendly تعني «غير ودود»، و run-down تعني «مُرهَق» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q20",
+      "prompt": "She only buys ___ food. She says it is better for the environment.",
+      "options": [
+        "run-down",
+        "noisy",
+        "unfriendly",
+        "organic"
+      ],
+      "answerIndex": 3,
+      "hint": "better = أفضل، environment = البيئة — شخص يشرح سبب اختياره الطعام.",
+      "feedback": {
+        "correct": "أحسنت ✓ organic تعني «عضوي» — الطعام الطبيعي الذي لا يضر البيئة يسمى organic.",
+        "incorrect": "الإجابة الصحيحة هي organic (عضوي) — الطعام الطبيعي الذي لا يضر البيئة يسمى organic. أمّا run-down تعني «مُرهَق»، و noisy تعني «صاخب»، و unfriendly تعني «غير ودود» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q21",
+      "prompt": "The shop assistant never smiles or says hello. He is very ___.",
+      "options": [
+        "friendly",
+        "helpful",
+        "unfriendly",
+        "studious"
+      ],
+      "answerIndex": 2,
+      "hint": "smiles = يبتسم، says hello = يلقي التحية — الجملة تصف تعامل البائع مع الزبائن.",
+      "feedback": {
+        "correct": "أحسنت ✓ unfriendly تعني «غير ودود» — من لا يبتسم ولا يلقي التحية غير ودود.",
+        "incorrect": "الإجابة الصحيحة هي unfriendly (غير ودود) — من لا يبتسم ولا يلقي التحية غير ودود. أمّا friendly تعني «ودود»، و helpful تعني «متعاون»، و studious تعني «مجتهد في الدراسة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q22",
+      "prompt": "I don't like that restaurant. The waiters are ___ and slow.",
+      "options": [
+        "friendly",
+        "unfriendly",
+        "helpful",
+        "popular"
+      ],
+      "answerIndex": 1,
+      "hint": "waiters = نوادل، slow = بطيء — شخص يشرح سبب عدم إعجابه بمطعم.",
+      "feedback": {
+        "correct": "أحسنت ✓ unfriendly تعني «غير ودود» — عدم الإعجاب بالمطعم يدل على صفة سلبية، فالنوادل غير ودودين.",
+        "incorrect": "الإجابة الصحيحة هي unfriendly (غير ودود) — عدم الإعجاب بالمطعم يدل على صفة سلبية، فالنوادل غير ودودين. أمّا friendly تعني «ودود»، و helpful تعني «متعاون»، و popular تعني «شائع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q23",
+      "prompt": "Flexible children often ___ at the sports club. They jump and turn on mats.",
+      "options": [
+        "do gymnastics",
+        "play soccer",
+        "go skiing",
+        "play tennis"
+      ],
+      "answerIndex": 0,
+      "hint": "flexible = مرن، mats = حصائر — الجملة تصف رياضة فيها قفز ودوران.",
+      "feedback": {
+        "correct": "أحسنت ✓ do gymnastics تعني «يمارس الجمباز» — القفز والدوران على الحصائر هو رياضة الجمباز.",
+        "incorrect": "الإجابة الصحيحة هي do gymnastics (يمارس الجمباز) — القفز والدوران على الحصائر هو رياضة الجمباز. أمّا play soccer تعني «يلعب كرة القدم»، و go skiing تعني «يذهب للتزلّج»، و play tennis تعني «يلعب التنس» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q24",
+      "prompt": "Lina wants to ___ in the Olympics. She trains every day on the bars and rings.",
+      "options": [
+        "do judo",
+        "go skiing",
+        "play tennis",
+        "do gymnastics"
+      ],
+      "answerIndex": 3,
+      "hint": "Olympics = الأولمبياد، bars = قضبان — الجملة تصف رياضة بأدوات خاصة.",
+      "feedback": {
+        "correct": "أحسنت ✓ do gymnastics تعني «يمارس الجمباز» — التدريب على القضبان والحلقات هو رياضة الجمباز.",
+        "incorrect": "الإجابة الصحيحة هي do gymnastics (يمارس الجمباز) — التدريب على القضبان والحلقات هو رياضة الجمباز. أمّا do judo تعني «يمارس الجودو»، و go skiing تعني «يذهب للتزلّج»، و play tennis تعني «يلعب التنس» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q25",
+      "prompt": "This sofa is soft and big. It is very ___.",
+      "options": [
+        "noisy",
+        "run-down",
+        "comfortable",
+        "unfriendly"
+      ],
+      "answerIndex": 2,
+      "hint": "sofa = أريكة، soft = ناعمة — الجملة تصف شعور الجلوس.",
+      "feedback": {
+        "correct": "أحسنت ✓ comfortable تعني «مريح» — الأريكة الناعمة الكبيرة مريحة.",
+        "incorrect": "الإجابة الصحيحة هي comfortable (مريح) — الأريكة الناعمة الكبيرة مريحة. أمّا noisy تعني «صاخب»، و run-down تعني «مُرهَق»، و unfriendly تعني «غير ودود» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q26",
+      "prompt": "I can't sleep well because my bed is not ___.",
+      "options": [
+        "organic",
+        "comfortable",
+        "special",
+        "academic"
+      ],
+      "answerIndex": 1,
+      "hint": "sleep = أنام، bed = سرير — شخص يشتكي من شيء يؤثر على نومه.",
+      "feedback": {
+        "correct": "أحسنت ✓ comfortable تعني «مريح» — لا ننام جيدًا إذا لم يكن السرير مريحًا.",
+        "incorrect": "الإجابة الصحيحة هي comfortable (مريح) — لا ننام جيدًا إذا لم يكن السرير مريحًا. أمّا organic تعني «عضوي»، و special تعني «مميّز»، و academic تعني «أكاديمي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q27",
+      "prompt": "Fatima won first prize in the English speaking ___ at school.",
+      "options": [
+        "contest",
+        "drawer",
+        "pill",
+        "flood"
+      ],
+      "answerIndex": 0,
+      "hint": "prize = جائزة، won = فازت — الجملة تتحدث عن نشاط فاز فيه الطالب بجائزة.",
+      "feedback": {
+        "correct": "أحسنت ✓ contest تعني «مسابقة» — النشاط الذي يتنافس فيه الطلاب للفوز بجائزة يسمى contest.",
+        "incorrect": "الإجابة الصحيحة هي contest (مسابقة) — النشاط الذي يتنافس فيه الطلاب للفوز بجائزة يسمى contest. أمّا drawer تعني «دُرج»، و pill تعني «حبّة دواء»، و flood تعني «فيضان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q28",
+      "prompt": "There is a drawing ___ next week. The best picture will win a prize.",
+      "options": [
+        "drawer",
+        "flood",
+        "location",
+        "contest"
+      ],
+      "answerIndex": 3,
+      "hint": "drawing = رسم، win = يفوز — الجملة تتحدث عن حدث يتنافس فيه المشاركون.",
+      "feedback": {
+        "correct": "أحسنت ✓ contest تعني «مسابقة» — الحدث الذي يفوز فيه أفضل رسم بجائزة هو مسابقة.",
+        "incorrect": "الإجابة الصحيحة هي contest (مسابقة) — الحدث الذي يفوز فيه أفضل رسم بجائزة هو مسابقة. أمّا drawer تعني «دُرج»، و flood تعني «فيضان»، و location تعني «موقع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q29",
+      "prompt": "My passport is in the top ___ of my desk.",
+      "options": [
+        "contest",
+        "location",
+        "drawer",
+        "pill"
+      ],
+      "answerIndex": 2,
+      "hint": "passport = جواز سفر، desk = مكتب — الجملة تصف مكان حفظ الجواز.",
+      "feedback": {
+        "correct": "أحسنت ✓ drawer تعني «دُرج» — الجزء الذي ينزلق من المكتب لحفظ الأشياء هو الدُّرج.",
+        "incorrect": "الإجابة الصحيحة هي drawer (دُرج) — الجزء الذي ينزلق من المكتب لحفظ الأشياء هو الدُّرج. أمّا contest تعني «مسابقة»، و location تعني «موقع»، و pill تعني «حبّة دواء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q30",
+      "prompt": "Open the second ___ and you will find the scissors.",
+      "options": [
+        "flood",
+        "drawer",
+        "pill",
+        "campus"
+      ],
+      "answerIndex": 1,
+      "hint": "scissors = مقص، find = تجد — شخص يوجّه آخر للبحث عن شيء.",
+      "feedback": {
+        "correct": "أحسنت ✓ drawer تعني «دُرج» — نفتح الدُّرج (drawer) لنجد الأشياء المحفوظة.",
+        "incorrect": "الإجابة الصحيحة هي drawer (دُرج) — نفتح الدُّرج (drawer) لنجد الأشياء المحفوظة. أمّا flood تعني «فيضان»، و pill تعني «حبّة دواء»، و campus تعني «الحرم الجامعي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q31",
+      "prompt": "Our English ___ gives us homework every day.",
+      "options": [
+        "teacher",
+        "landlord",
+        "drawer",
+        "pill"
+      ],
+      "answerIndex": 0,
+      "hint": "homework = الواجب، every day = كل يوم — الجملة تصف شخصًا في الصف.",
+      "feedback": {
+        "correct": "أحسنت ✓ teacher تعني «معلّم» — من يعطي الطلاب الواجبات هو المعلم.",
+        "incorrect": "الإجابة الصحيحة هي teacher (معلّم) — من يعطي الطلاب الواجبات هو المعلم. أمّا landlord تعني «المالك»، و drawer تعني «دُرج»، و pill تعني «حبّة دواء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q32",
+      "prompt": "A ___ works at a school and helps students learn.",
+      "options": [
+        "landlord",
+        "roommate",
+        "drawer",
+        "teacher"
+      ],
+      "answerIndex": 3,
+      "hint": "works = يعمل، students = طلاب — الجملة تعرّف بوظيفة شخص في المدرسة.",
+      "feedback": {
+        "correct": "أحسنت ✓ teacher تعني «معلّم» — من يعمل في المدرسة ويساعد الطلاب على التعلم هو المعلم.",
+        "incorrect": "الإجابة الصحيحة هي teacher (معلّم) — من يعمل في المدرسة ويساعد الطلاب على التعلم هو المعلم. أمّا landlord تعني «المالك»، و roommate تعني «زميل السكن»، و drawer تعني «دُرج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q33",
+      "prompt": "The university ___ has a library, a mosque and many gardens.",
+      "options": [
+        "drawer",
+        "pill",
+        "campus",
+        "flood"
+      ],
+      "answerIndex": 2,
+      "hint": "library = مكتبة، mosque = مسجد — الجملة تصف مكانًا فيه مبانٍ عدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ campus تعني «الحرم الجامعي» — المكان الذي يضم مباني الجامعة ومرافقها هو الحرم الجامعي.",
+        "incorrect": "الإجابة الصحيحة هي campus (الحرم الجامعي) — المكان الذي يضم مباني الجامعة ومرافقها هو الحرم الجامعي. أمّا drawer تعني «دُرج»، و pill تعني «حبّة دواء»، و flood تعني «فيضان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q34",
+      "prompt": "Students walk across the ___ to get to their classes.",
+      "options": [
+        "drawer",
+        "campus",
+        "contest",
+        "pill"
+      ],
+      "answerIndex": 1,
+      "hint": "walk = يمشي، classes = حصص — الجملة تصف حركة الطلاب داخل مكان.",
+      "feedback": {
+        "correct": "أحسنت ✓ campus تعني «الحرم الجامعي» — يمشي الطلاب داخل الحرم الجامعي للوصول إلى حصصهم.",
+        "incorrect": "الإجابة الصحيحة هي campus (الحرم الجامعي) — يمشي الطلاب داخل الحرم الجامعي للوصول إلى حصصهم. أمّا drawer تعني «دُرج»، و contest تعني «مسابقة»، و pill تعني «حبّة دواء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q35",
+      "prompt": "I need to ___ the file from the website before the class.",
+      "options": [
+        "download",
+        "feed",
+        "wear",
+        "ride"
+      ],
+      "answerIndex": 0,
+      "hint": "file = ملف، website = موقع إلكتروني — شخص يتحدث عن نقل ملف إلى جهازه.",
+      "feedback": {
+        "correct": "أحسنت ✓ download تعني «يُنزّل  من الإنترنت» — نقل ملف من الإنترنت إلى الجهاز يسمى download.",
+        "incorrect": "الإجابة الصحيحة هي download (يُنزّل  من الإنترنت) — نقل ملف من الإنترنت إلى الجهاز يسمى download. أمّا feed تعني «يُطعم»، و wear تعني «يرتدي»، و ride تعني «يركب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q36",
+      "prompt": "You can ___ free books from this app, but you need Wi-Fi.",
+      "options": [
+        "feed",
+        "wear",
+        "avoid",
+        "download"
+      ],
+      "answerIndex": 3,
+      "hint": "free = مجانية، Wi-Fi = الواي فاي — الجملة تتحدث عن الحصول على كتب رقمية.",
+      "feedback": {
+        "correct": "أحسنت ✓ download تعني «يُنزّل  من الإنترنت» — نحتاج إلى الواي فاي لتنزيل الكتب من التطبيق.",
+        "incorrect": "الإجابة الصحيحة هي download (يُنزّل  من الإنترنت) — نحتاج إلى الواي فاي لتنزيل الكتب من التطبيق. أمّا feed تعني «يُطعم»، و wear تعني «يرتدي»، و avoid تعني «يتجنّب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q37",
+      "prompt": "If you don't study, you will ___ the exam.",
+      "options": [
+        "succeed",
+        "enjoy",
+        "fail",
+        "increase"
+      ],
+      "answerIndex": 2,
+      "hint": "study = تدرس، exam = اختبار — جملة شرطية عن نتيجة سيئة.",
+      "feedback": {
+        "correct": "أحسنت ✓ fail تعني «يرسب» — من لا يدرس يرسب في الاختبار.",
+        "incorrect": "الإجابة الصحيحة هي fail (يرسب) — من لا يدرس يرسب في الاختبار. أمّا succeed تعني «ينجح»، و enjoy تعني «يستمتع ب»، و increase تعني «يزيد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q38",
+      "prompt": "Many students ___ the test because it was too hard.",
+      "options": [
+        "passed",
+        "failed",
+        "fed",
+        "wore"
+      ],
+      "answerIndex": 1,
+      "hint": "test = اختبار، too hard = صعب جدًا — جملة تصف نتيجة طلاب بسبب صعوبة الاختبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ failed تعني «رسبوا» — صعوبة الاختبار تجعل كثيرًا من الطلاب يرسبون.",
+        "incorrect": "الإجابة الصحيحة هي failed (رسبوا) — صعوبة الاختبار تجعل كثيرًا من الطلاب يرسبون. أمّا passed تعني «نجحوا في»، و fed تعني «أطعموا»، و wore تعني «ارتدوا» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q39",
+      "prompt": "Today is my birthday, so it is a ___ day for me.",
+      "options": [
+        "special",
+        "run-down",
+        "unfriendly",
+        "noisy"
+      ],
+      "answerIndex": 0,
+      "hint": "birthday = عيد ميلاد — الجملة تصف يومًا مختلفًا عن الأيام العادية.",
+      "feedback": {
+        "correct": "أحسنت ✓ special تعني «مميّز» — عيد الميلاد يجعل اليوم مميزًا.",
+        "incorrect": "الإجابة الصحيحة هي special (مميّز) — عيد الميلاد يجعل اليوم مميزًا. أمّا run-down تعني «مُرهَق»، و unfriendly تعني «غير ودود»، و noisy تعني «صاخب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q40",
+      "prompt": "This restaurant has a ___ menu for Ramadan.",
+      "options": [
+        "run-down",
+        "noisy",
+        "unfriendly",
+        "special"
+      ],
+      "answerIndex": 3,
+      "hint": "menu = قائمة طعام، Ramadan = رمضان — الجملة تصف قائمة تُقدَّم في مناسبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ special تعني «مميّز» — القائمة التي تُقدَّم في رمضان فقط قائمة خاصة.",
+        "incorrect": "الإجابة الصحيحة هي special (مميّز) — القائمة التي تُقدَّم في رمضان فقط قائمة خاصة. أمّا run-down تعني «مُرهَق»، و noisy تعني «صاخب»، و unfriendly تعني «غير ودود» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q41",
+      "prompt": "The doctor says you should ___ fast food and sugary drinks.",
+      "options": [
+        "enjoy",
+        "increase",
+        "avoid",
+        "manage"
+      ],
+      "answerIndex": 2,
+      "hint": "doctor = طبيب، sugary = محلاة — نصيحة طبية عن أطعمة معينة.",
+      "feedback": {
+        "correct": "أحسنت ✓ avoid تعني «يتجنّب» — ينصح الطبيب بتجنب الوجبات السريعة والمشروبات المحلاة.",
+        "incorrect": "الإجابة الصحيحة هي avoid (يتجنّب) — ينصح الطبيب بتجنب الوجبات السريعة والمشروبات المحلاة. أمّا enjoy تعني «يستمتع ب»، و increase تعني «يزيد»، و manage تعني «يدير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q42",
+      "prompt": "Please ___ the main road. There is a lot of traffic.",
+      "options": [
+        "enjoy",
+        "avoid",
+        "feed",
+        "download"
+      ],
+      "answerIndex": 1,
+      "hint": "traffic = ازدحام مروري، main road = الطريق الرئيسي — شخص ينصح بخصوص الطريق.",
+      "feedback": {
+        "correct": "أحسنت ✓ avoid تعني «يتجنّب» — الازدحام يجعلنا نتجنب الطريق الرئيسي.",
+        "incorrect": "الإجابة الصحيحة هي avoid (يتجنّب) — الازدحام يجعلنا نتجنب الطريق الرئيسي. أمّا enjoy تعني «يستمتع ب»، و feed تعني «يُطعم»، و download تعني «يُنزّل  من الإنترنت» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q43",
+      "prompt": "The price of petrol will ___ next month. It will cost more.",
+      "options": [
+        "increase",
+        "avoid",
+        "enjoy",
+        "fail"
+      ],
+      "answerIndex": 0,
+      "hint": "price = سعر، petrol = بنزين — جملة عن تغير مستقبلي في السعر.",
+      "feedback": {
+        "correct": "أحسنت ✓ increase تعني «يزيد» — سيكلف أكثر، أي أن السعر سيزيد.",
+        "incorrect": "الإجابة الصحيحة هي increase (يزيد) — سيكلف أكثر، أي أن السعر سيزيد. أمّا avoid تعني «يتجنّب»، و enjoy تعني «يستمتع ب»، و fail تعني «يرسب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q44",
+      "prompt": "If you exercise more, your energy will ___.",
+      "options": [
+        "avoid",
+        "fail",
+        "manage",
+        "increase"
+      ],
+      "answerIndex": 3,
+      "hint": "exercise = تمارس الرياضة، energy = طاقة — جملة شرطية عن نتيجة جيدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ increase تعني «يزيد» — الرياضة تزيد الطاقة.",
+        "incorrect": "الإجابة الصحيحة هي increase (يزيد) — الرياضة تزيد الطاقة. أمّا avoid تعني «يتجنّب»، و fail تعني «يرسب»، و manage تعني «يدير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q45",
+      "prompt": "We pay the rent to our ___ on the first of every month.",
+      "options": [
+        "roommate",
+        "teacher",
+        "landlord",
+        "expert"
+      ],
+      "answerIndex": 2,
+      "hint": "pay = ندفع، rent = إيجار — الجملة تذكر شخصًا يستلم مبلغًا شهريًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ landlord تعني «المالك» — من يستلم الإيجار من المستأجرين هو مالك العقار (landlord).",
+        "incorrect": "الإجابة الصحيحة هي landlord (المالك) — من يستلم الإيجار من المستأجرين هو مالك العقار (landlord). أمّا roommate تعني «زميل السكن»، و teacher تعني «معلّم»، و expert تعني «خبير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q46",
+      "prompt": "The ___ fixed the broken air conditioner in our apartment.",
+      "options": [
+        "drawer",
+        "landlord",
+        "pill",
+        "flood"
+      ],
+      "answerIndex": 1,
+      "hint": "broken = معطل، air conditioner = مكيف — الجملة تصف من أصلح العطل في الشقة.",
+      "feedback": {
+        "correct": "أحسنت ✓ landlord تعني «المالك» — المالك هو المسؤول عن إصلاح أعطال الشقة المؤجرة.",
+        "incorrect": "الإجابة الصحيحة هي landlord (المالك) — المالك هو المسؤول عن إصلاح أعطال الشقة المؤجرة. أمّا drawer تعني «دُرج»، و pill تعني «حبّة دواء»، و flood تعني «فيضان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q47",
+      "prompt": "The ___ of our school is near the main road.",
+      "options": [
+        "location",
+        "flood",
+        "pill",
+        "drawer"
+      ],
+      "answerIndex": 0,
+      "hint": "near = قريب من، main road = الطريق الرئيسي — الجملة تصف مكان المدرسة.",
+      "feedback": {
+        "correct": "أحسنت ✓ location تعني «موقع» — مكان المدرسة بالنسبة للطريق هو موقعها (location).",
+        "incorrect": "الإجابة الصحيحة هي location (موقع) — مكان المدرسة بالنسبة للطريق هو موقعها (location). أمّا flood تعني «فيضان»، و pill تعني «حبّة دواء»، و drawer تعني «دُرج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q48",
+      "prompt": "This hotel is in a great ___. It is next to the beach.",
+      "options": [
+        "contest",
+        "drawer",
+        "pill",
+        "location"
+      ],
+      "answerIndex": 3,
+      "hint": "next to = بجانب، beach = الشاطئ — الجملة تمدح مكان الفندق.",
+      "feedback": {
+        "correct": "أحسنت ✓ location تعني «موقع» — الفندق بجانب الشاطئ، فموقعه رائع.",
+        "incorrect": "الإجابة الصحيحة هي location (موقع) — الفندق بجانب الشاطئ، فموقعه رائع. أمّا contest تعني «مسابقة»، و drawer تعني «دُرج»، و pill تعني «حبّة دواء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q49",
+      "prompt": "Can you ___ this big project alone? It has many parts.",
+      "options": [
+        "feed",
+        "wear",
+        "manage",
+        "download"
+      ],
+      "answerIndex": 2,
+      "hint": "project = مشروع، alone = وحدك — سؤال عن قدرة شخص على التعامل مع عمل كبير.",
+      "feedback": {
+        "correct": "أحسنت ✓ manage تعني «يدير» — نسأل هل تستطيع أن تدير المشروع الكبير وحدك؟",
+        "incorrect": "الإجابة الصحيحة هي manage (يدير) — نسأل هل تستطيع أن تدير المشروع الكبير وحدك؟ أمّا feed تعني «يُطعم»، و wear تعني «يرتدي»، و download تعني «يُنزّل  من الإنترنت» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q50",
+      "prompt": "She can ___ her time well. She always finishes her homework before dinner.",
+      "options": [
+        "avoid",
+        "manage",
+        "fail",
+        "increase"
+      ],
+      "answerIndex": 1,
+      "hint": "time = وقت، homework = الواجب — الجملة تصف طريقة تعامل الطالبة مع وقتها.",
+      "feedback": {
+        "correct": "أحسنت ✓ manage تعني «يدير» — من تنهي واجبها قبل العشاء تدير وقتها جيدًا.",
+        "incorrect": "الإجابة الصحيحة هي manage (يدير) — من تنهي واجبها قبل العشاء تدير وقتها جيدًا. أمّا avoid تعني «يتجنّب»، و fail تعني «يرسب»، و increase تعني «يزيد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q51",
+      "prompt": "The doctor gave me a ___ for my headache. I take one after lunch.",
+      "options": [
+        "pill",
+        "drawer",
+        "flood",
+        "contest"
+      ],
+      "answerIndex": 0,
+      "hint": "headache = صداع، lunch = الغداء — الجملة تتحدث عن علاج يُؤخذ بعد الأكل.",
+      "feedback": {
+        "correct": "أحسنت ✓ pill تعني «حبّة دواء» — ما نتناوله لعلاج الصداع بعد الغداء هو حبة دواء.",
+        "incorrect": "الإجابة الصحيحة هي pill (حبّة دواء) — ما نتناوله لعلاج الصداع بعد الغداء هو حبة دواء. أمّا drawer تعني «دُرج»، و flood تعني «فيضان»، و contest تعني «مسابقة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q52",
+      "prompt": "Take one ___ every morning. It has vitamin C.",
+      "options": [
+        "drawer",
+        "campus",
+        "flood",
+        "pill"
+      ],
+      "answerIndex": 3,
+      "hint": "vitamin C = فيتامين سي، every morning = كل صباح — تعليمات عن مكمّل يُؤخذ يوميًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ pill تعني «حبّة دواء» — الحبة الصغيرة التي تحتوي فيتامين C نتناولها كل صباح.",
+        "incorrect": "الإجابة الصحيحة هي pill (حبّة دواء) — الحبة الصغيرة التي تحتوي فيتامين C نتناولها كل صباح. أمّا drawer تعني «دُرج»، و campus تعني «الحرم الجامعي»، و flood تعني «فيضان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q53",
+      "prompt": "I worked too hard and slept too little this week. I feel ___.",
+      "options": [
+        "organic",
+        "special",
+        "run-down",
+        "academic"
+      ],
+      "answerIndex": 2,
+      "hint": "worked = عملت، slept = نمت — شخص يصف شعوره الجسدي.",
+      "feedback": {
+        "correct": "أحسنت ✓ run-down تعني «مُرهَق» — العمل الكثير والنوم القليل يجعلان الشخص مرهقًا.",
+        "incorrect": "الإجابة الصحيحة هي run-down (مُرهَق) — العمل الكثير والنوم القليل يجعلان الشخص مرهقًا. أمّا organic تعني «عضوي»، و special تعني «مميّز»، و academic تعني «أكاديمي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q54",
+      "prompt": "After weeks of stress and little sleep, he looked pale and ___.",
+      "options": [
+        "comfortable",
+        "run-down",
+        "organic",
+        "special"
+      ],
+      "answerIndex": 1,
+      "hint": "stress = توتر، pale = شاحب — الجملة تصف حال شخص بعد أسابيع صعبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ run-down تعني «مُرهَق» — الشحوب بعد أسابيع من التوتر وقلة النوم من علامات الإرهاق.",
+        "incorrect": "الإجابة الصحيحة هي run-down (مُرهَق) — الشحوب بعد أسابيع من التوتر وقلة النوم من علامات الإرهاق. أمّا comfortable تعني «مريح»، و organic تعني «عضوي»، و special تعني «مميّز» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q55",
+      "prompt": "Her ___ is to become a doctor. She studies medicine every night.",
+      "options": [
+        "goal",
+        "flavor",
+        "scene",
+        "building"
+      ],
+      "answerIndex": 0,
+      "hint": "become = تصبح، medicine = الطب — الجملة تصف شيئًا تريد تحقيقه.",
+      "feedback": {
+        "correct": "أحسنت ✓ goal تعني «هدف» — ما تريد أن تحققه في المستقبل هو هدفها.",
+        "incorrect": "الإجابة الصحيحة هي goal (هدف) — ما تريد أن تحققه في المستقبل هو هدفها. أمّا flavor تعني «نكهة»، و scene تعني «مشهد»، و building تعني «مبنى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q56",
+      "prompt": "I pay 2,000 riyals a month in ___ for my small apartment.",
+      "options": [
+        "demand",
+        "diet",
+        "stress",
+        "rent"
+      ],
+      "answerIndex": 3,
+      "hint": "riyals = ريالات، apartment = شقة — شخص يتحدث عما يدفعه شهريًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ rent تعني «إيجار» — المبلغ الذي ندفعه شهريًا للشقة هو الإيجار.",
+        "incorrect": "الإجابة الصحيحة هي rent (إيجار) — المبلغ الذي ندفعه شهريًا للشقة هو الإيجار. أمّا demand تعني «طلب»، و diet تعني «نظام غذائي»، و stress تعني «توتّر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q57",
+      "prompt": "Thank you for your ___. I couldn't finish without you.",
+      "options": [
+        "goal",
+        "skill",
+        "help",
+        "rent"
+      ],
+      "answerIndex": 2,
+      "hint": "finish = أنهي، without = بدون — شخص يشكر آخر.",
+      "feedback": {
+        "correct": "أحسنت ✓ help تعني «مساعدة» — نشكر من ساعدنا بقولنا thank you for your help.",
+        "incorrect": "الإجابة الصحيحة هي help (مساعدة) — نشكر من ساعدنا بقولنا thank you for your help. أمّا goal تعني «هدف»، و skill تعني «مهارة»، و rent تعني «إيجار» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q58",
+      "prompt": "Red and green ___ are small sweet fruits that grow in bunches.",
+      "options": [
+        "beans",
+        "grapes",
+        "onions",
+        "beef"
+      ],
+      "answerIndex": 1,
+      "hint": "bunches = عناقيد، sweet = حلو — الجملة تصف فاكهة صغيرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ grapes تعني «عنب» — الفاكهة الصغيرة الحلوة التي تنمو في عناقيد هي العنب.",
+        "incorrect": "الإجابة الصحيحة هي grapes (عنب) — الفاكهة الصغيرة الحلوة التي تنمو في عناقيد هي العنب. أمّا beans تعني «فاصوليا»، و onions تعني «بصل»، و beef تعني «لحم بقري» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q59",
+      "prompt": "Cooking is a useful ___. You can use it every day.",
+      "options": [
+        "skill",
+        "flavor",
+        "rent",
+        "event"
+      ],
+      "answerIndex": 0,
+      "hint": "useful = مفيد، every day = كل يوم — الجملة تصف قدرة مفيدة يتعلمها الإنسان.",
+      "feedback": {
+        "correct": "أحسنت ✓ skill تعني «مهارة» — القدرة التي نتعلمها ونستخدمها كل يوم مهارة.",
+        "incorrect": "الإجابة الصحيحة هي skill (مهارة) — القدرة التي نتعلمها ونستخدمها كل يوم مهارة. أمّا flavor تعني «نكهة»، و rent تعني «إيجار»، و event تعني «مناسبة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q60",
+      "prompt": "Too much work causes ___. You should rest and relax.",
+      "options": [
+        "space",
+        "demand",
+        "event",
+        "stress"
+      ],
+      "answerIndex": 3,
+      "hint": "rest = ترتاح، relax = تسترخي — نصيحة لحالة تسببها ضغوط العمل.",
+      "feedback": {
+        "correct": "أحسنت ✓ stress تعني «توتّر» — كثرة العمل تسبب توترًا، والراحة تخففه.",
+        "incorrect": "الإجابة الصحيحة هي stress (توتّر) — كثرة العمل تسبب توترًا، والراحة تخففه. أمّا space تعني «مساحة»، و demand تعني «طلب»، و event تعني «مناسبة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q61",
+      "prompt": "We fry ___ with garlic and tomato in many Arabic dishes.",
+      "options": [
+        "grapes",
+        "bananas",
+        "onions",
+        "lobster"
+      ],
+      "answerIndex": 2,
+      "hint": "fry = نقلي، garlic = ثوم — الجملة تذكر مكونات أطباق عربية.",
+      "feedback": {
+        "correct": "أحسنت ✓ onions تعني «بصل» — نقلي البصل مع الثوم والطماطم في كثير من الأطباق.",
+        "incorrect": "الإجابة الصحيحة هي onions (بصل) — نقلي البصل مع الثوم والطماطم في كثير من الأطباق. أمّا grapes تعني «عنب»، و bananas تعني «موز»، و lobster تعني «جراد البحر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q62",
+      "prompt": "Don't be selfish. ___ your toys with your little brother.",
+      "options": [
+        "Break",
+        "Share",
+        "Guess",
+        "Wear"
+      ],
+      "answerIndex": 1,
+      "hint": "selfish = أناني، toys = ألعاب — نصيحة لطفل.",
+      "feedback": {
+        "correct": "أحسنت ✓ Share تعني «شارك» — نصيحة الطفل الأناني أن يشارك ألعابه مع أخيه.",
+        "incorrect": "الإجابة الصحيحة هي Share (شارك) — نصيحة الطفل الأناني أن يشارك ألعابه مع أخيه. أمّا Break تعني «اكسر»، و Guess تعني «خمّن»، و Wear تعني «ارتدِ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q63",
+      "prompt": "Fresh fruit gives your body a lot of ___ and energy.",
+      "options": [
+        "vitamins",
+        "rents",
+        "drawers",
+        "contests"
+      ],
+      "answerIndex": 0,
+      "hint": "fresh = طازجة، energy = طاقة — الجملة تصف فائدة الفاكهة.",
+      "feedback": {
+        "correct": "أحسنت ✓ vitamins تعني «فيتامينات» — الفاكهة الطازجة تعطي الجسم الفيتامينات والطاقة.",
+        "incorrect": "الإجابة الصحيحة هي vitamins (فيتامينات) — الفاكهة الطازجة تعطي الجسم الفيتامينات والطاقة. أمّا rents تعني «إيجارات»، و drawers تعني «أدراج»، و contests تعني «مسابقات» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q64",
+      "prompt": "Do you want some ___ or some cake for dessert?",
+      "options": [
+        "beef",
+        "onions",
+        "lobster",
+        "fruit"
+      ],
+      "answerIndex": 3,
+      "hint": "dessert = تحلية، cake = كعكة — خيار بين طعامين بعد الوجبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ fruit تعني «فاكهة» — الفاكهة والكعك من أنواع الحلويات التي نتناولها بعد الوجبة.",
+        "incorrect": "الإجابة الصحيحة هي fruit (فاكهة) — الفاكهة والكعك من أنواع الحلويات التي نتناولها بعد الوجبة. أمّا beef تعني «لحم بقري»، و onions تعني «بصل»، و lobster تعني «جراد البحر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q65",
+      "prompt": "Sara cut six green ___ to make a pie.",
+      "options": [
+        "beans",
+        "lobster",
+        "apples",
+        "shrimp"
+      ],
+      "answerIndex": 2,
+      "hint": "cut = قطعت، pie = فطيرة — شخص يحضّر حلوى.",
+      "feedback": {
+        "correct": "أحسنت ✓ apples تعني «تفاح» — الفطيرة تُصنع عادةً من التفاح الأخضر.",
+        "incorrect": "الإجابة الصحيحة هي apples (تفاح) — الفطيرة تُصنع عادةً من التفاح الأخضر. أمّا beans تعني «فاصوليا»، و lobster تعني «جراد البحر»، و shrimp تعني «روبيان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q66",
+      "prompt": "I am allergic to milk, so I can't eat any ___ foods like yogurt.",
+      "options": [
+        "seafood",
+        "dairy",
+        "fruit",
+        "meat"
+      ],
+      "answerIndex": 1,
+      "hint": "allergic = لديه حساسية، yogurt = زبادي — شخص لا يستطيع تناول أطعمة معينة.",
+      "feedback": {
+        "correct": "أحسنت ✓ dairy تعني «منتجات الألبان» — من لديه حساسية من الحليب لا يتناول منتجات الألبان.",
+        "incorrect": "الإجابة الصحيحة هي dairy (منتجات الألبان) — من لديه حساسية من الحليب لا يتناول منتجات الألبان. أمّا seafood تعني «المأكولات البحرية»، و fruit تعني «فاكهة»، و meat تعني «لحم» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q67",
+      "prompt": "He solved the puzzle in two minutes. He is really ___.",
+      "options": [
+        "intelligent",
+        "unfriendly",
+        "run-down",
+        "thin"
+      ],
+      "answerIndex": 0,
+      "hint": "solved = حلّ، puzzle = لغز — الجملة تصف قدرة شخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ intelligent تعني «ذكي» — من يحل اللغز في دقيقتين ذكي.",
+        "incorrect": "الإجابة الصحيحة هي intelligent (ذكي) — من يحل اللغز في دقيقتين ذكي. أمّا unfriendly تعني «غير ودود»، و run-down تعني «مُرهَق»، و thin تعني «نحيف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q68",
+      "prompt": "I try to ___ three times a week at the gym.",
+      "options": [
+        "feed",
+        "avoid",
+        "fail",
+        "exercise"
+      ],
+      "answerIndex": 3,
+      "hint": "three times a week = ثلاث مرات في الأسبوع، gym = النادي — شخص يتحدث عن عادته الصحية.",
+      "feedback": {
+        "correct": "أحسنت ✓ exercise تعني «يتمرّن» — نذهب إلى النادي لنتمرن، ونقول exercise.",
+        "incorrect": "الإجابة الصحيحة هي exercise (يتمرّن) — نذهب إلى النادي لنتمرن، ونقول exercise. أمّا feed تعني «يُطعم»، و avoid تعني «يتجنّب»، و fail تعني «يرسب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q69",
+      "prompt": "Where do you want to ___ for lunch?",
+      "options": [
+        "make",
+        "do",
+        "go",
+        "take"
+      ],
+      "answerIndex": 2,
+      "hint": "lunch = الغداء، want = تريد — سؤال عن اختيار مكان.",
+      "feedback": {
+        "correct": "أحسنت ✓ go تعني «يذهب» — نسأل عن المكان بـ Where do you want to go?",
+        "incorrect": "الإجابة الصحيحة هي go (يذهب) — نسأل عن المكان بـ Where do you want to go? أمّا make تعني «يصنع»، و do تعني «يفعل»، و take تعني «يأخذ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q70",
+      "prompt": "Doctors say reading helps children develop their ___.",
+      "options": [
+        "rent",
+        "intelligence",
+        "flavor",
+        "flood"
+      ],
+      "answerIndex": 1,
+      "hint": "develop = ينمّي، children = أطفال — الجملة تتحدث عن قدرة عقلية.",
+      "feedback": {
+        "correct": "أحسنت ✓ intelligence تعني «ذكاء» — القراءة تنمّي ذكاء الأطفال.",
+        "incorrect": "الإجابة الصحيحة هي intelligence (ذكاء) — القراءة تنمّي ذكاء الأطفال. أمّا rent تعني «إيجار»، و flavor تعني «نكهة»، و flood تعني «فيضان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q71",
+      "prompt": "The ___ of this phone is beautiful. It is thin and light.",
+      "options": [
+        "design",
+        "goal",
+        "flavor",
+        "demand"
+      ],
+      "answerIndex": 0,
+      "hint": "phone = هاتف، beautiful = جميل — الجملة تمدح شكل الهاتف.",
+      "feedback": {
+        "correct": "أحسنت ✓ design تعني «تصميم» — شكل الهاتف الجميل هو تصميمه.",
+        "incorrect": "الإجابة الصحيحة هي design (تصميم) — شكل الهاتف الجميل هو تصميمه. أمّا goal تعني «هدف»، و flavor تعني «نكهة»، و demand تعني «طلب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q72",
+      "prompt": "Grandma lives alone, so she feels ___ in the evenings.",
+      "options": [
+        "popular",
+        "thin",
+        "noisy",
+        "lonely"
+      ],
+      "answerIndex": 3,
+      "hint": "alone = وحدها، evenings = المساء — الجملة تصف شعور الجدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ lonely تعني «وحيد» — من تعيش وحدها قد تشعر بالوحدة.",
+        "incorrect": "الإجابة الصحيحة هي lonely (وحيد) — من تعيش وحدها قد تشعر بالوحدة. أمّا popular تعني «شائع»، و thin تعني «نحيف»، و noisy تعني «صاخب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q73",
+      "prompt": "They fly to Switzerland every winter to ___ on the snowy Alps.",
+      "options": [
+        "go swimming",
+        "go shopping",
+        "go skiing",
+        "do aerobics"
+      ],
+      "answerIndex": 2,
+      "hint": "snowy = ثلجية، winter = الشتاء — الجملة تصف رياضة جبلية.",
+      "feedback": {
+        "correct": "أحسنت ✓ go skiing تعني «يذهب للتزلّج» — الجبال الثلجية في الشتاء تناسب التزلج.",
+        "incorrect": "الإجابة الصحيحة هي go skiing (يذهب للتزلّج) — الجبال الثلجية في الشتاء تناسب التزلج. أمّا go swimming تعني «يذهب للسباحة»، و go shopping تعني «يذهب للتسوّق»، و do aerobics تعني «يمارس التمارين الهوائية» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q74",
+      "prompt": "A healthy ___ has fruit, vegetables and little sugar.",
+      "options": [
+        "rent",
+        "diet",
+        "design",
+        "goal"
+      ],
+      "answerIndex": 1,
+      "hint": "fruit = فاكهة، sugar = سكر — الجملة تصف ما نأكله عادةً.",
+      "feedback": {
+        "correct": "أحسنت ✓ diet تعني «نظام غذائي» — ما نأكله عادةً يسمى النظام الغذائي.",
+        "incorrect": "الإجابة الصحيحة هي diet (نظام غذائي) — ما نأكله عادةً يسمى النظام الغذائي. أمّا rent تعني «إيجار»، و design تعني «تصميم»، و goal تعني «هدف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q75",
+      "prompt": "The new students are very ___. They talk to everyone.",
+      "options": [
+        "friendly",
+        "unfriendly",
+        "thin",
+        "run-down"
+      ],
+      "answerIndex": 0,
+      "hint": "talk = يتحدث، everyone = الجميع — الجملة تصف تعامل الطلاب.",
+      "feedback": {
+        "correct": "أحسنت ✓ friendly تعني «ودود» — من يتحدث مع الجميع شخص ودود.",
+        "incorrect": "الإجابة الصحيحة هي friendly (ودود) — من يتحدث مع الجميع شخص ودود. أمّا unfriendly تعني «غير ودود»، و thin تعني «نحيف»، و run-down تعني «مُرهَق» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q76",
+      "prompt": "They need a goalkeeper to ___ with eleven players on each team.",
+      "options": [
+        "play tennis",
+        "do judo",
+        "go hiking",
+        "play soccer"
+      ],
+      "answerIndex": 3,
+      "hint": "goalkeeper = حارس مرمى، eleven = أحد عشر — الجملة تصف لعبة جماعية.",
+      "feedback": {
+        "correct": "أحسنت ✓ play soccer تعني «يلعب كرة القدم» — حارس المرمى وأحد عشر لاعبًا في كل فريق هما كرة القدم.",
+        "incorrect": "الإجابة الصحيحة هي play soccer (يلعب كرة القدم) — حارس المرمى وأحد عشر لاعبًا في كل فريق هما كرة القدم. أمّا play tennis تعني «يلعب التنس»، و do judo تعني «يمارس الجودو»، و go hiking تعني «يذهب للمشي في الطبيعة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q77",
+      "prompt": "Honesty is one of his greatest ___.",
+      "options": [
+        "weaknesses",
+        "goals",
+        "strengths",
+        "flavors"
+      ],
+      "answerIndex": 2,
+      "hint": "honesty = الأمانة، greatest = أعظم — الجملة تصف جانبًا إيجابيًا في شخصيته.",
+      "feedback": {
+        "correct": "أحسنت ✓ strengths تعني «نقاط قوة» — الأمانة صفة إيجابية، فهي من نقاط قوته.",
+        "incorrect": "الإجابة الصحيحة هي strengths (نقاط قوة) — الأمانة صفة إيجابية، فهي من نقاط قوته. أمّا weaknesses تعني «نقاط ضعف»، و goals تعني «أهداف»، و flavors تعني «نكهات» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q78",
+      "prompt": "My brother ___ fixing computers. Everyone asks him for help.",
+      "options": [
+        "is afraid of",
+        "is good at",
+        "is late for",
+        "is tired of"
+      ],
+      "answerIndex": 1,
+      "hint": "fixing = إصلاح، asks = يطلب — الجملة تصف قدرة الأخ.",
+      "feedback": {
+        "correct": "أحسنت ✓ is good at تعني «ماهر في» — من يطلب الجميع مساعدته في الإصلاح ماهر فيه.",
+        "incorrect": "الإجابة الصحيحة هي is good at (ماهر في) — من يطلب الجميع مساعدته في الإصلاح ماهر فيه. أمّا is afraid of تعني «يخاف من»، و is late for تعني «متأخر عن»، و is tired of تعني «يملّ من» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q79",
+      "prompt": "Let's walk ___ taking the car. The weather is nice.",
+      "options": [
+        "instead of",
+        "because of",
+        "next to",
+        "in front of"
+      ],
+      "answerIndex": 0,
+      "hint": "walk = نمشي، weather = الطقس — اقتراح لاختيار وسيلة تنقل مختلفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ instead of تعني «بدلًا من» — نختار المشي بدلًا من السيارة لأن الطقس جميل.",
+        "incorrect": "الإجابة الصحيحة هي instead of (بدلًا من) — نختار المشي بدلًا من السيارة لأن الطقس جميل. أمّا because of تعني «بسبب»، و next to تعني «بجانب»، و in front of تعني «أمام» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q80",
+      "prompt": "Please ___ the children from school at three o'clock.",
+      "options": [
+        "give up",
+        "stay up",
+        "turn off",
+        "pick up"
+      ],
+      "answerIndex": 3,
+      "hint": "children = الأطفال، three o'clock = الساعة الثالثة — طلب لترتيب عودة الأطفال.",
+      "feedback": {
+        "correct": "أحسنت ✓ pick up تعني «يلتقط» — pick someone up تعني أن تأخذه من مكان ما.",
+        "incorrect": "الإجابة الصحيحة هي pick up (يلتقط) — pick someone up تعني أن تأخذه من مكان ما. أمّا give up تعني «يتوقّف عن»، و stay up تعني «يسهر»، و turn off تعني «يُطفئ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q81",
+      "prompt": "Our city has parks, cinemas and malls for ___.",
+      "options": [
+        "housing",
+        "demand",
+        "entertainment",
+        "stress"
+      ],
+      "answerIndex": 2,
+      "hint": "parks = حدائق، malls = مراكز تسوق — الجملة تذكر أماكن يزورها الناس في وقت الفراغ.",
+      "feedback": {
+        "correct": "أحسنت ✓ entertainment تعني «ترفيه» — الحدائق والسينما والمراكز التجارية أماكن للترفيه.",
+        "incorrect": "الإجابة الصحيحة هي entertainment (ترفيه) — الحدائق والسينما والمراكز التجارية أماكن للترفيه. أمّا housing تعني «السكن»، و demand تعني «طلب»، و stress تعني «توتّر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q82",
+      "prompt": "Eating fish and vegetables keeps you ___.",
+      "options": [
+        "unhealthy",
+        "healthy",
+        "noisy",
+        "run-down"
+      ],
+      "answerIndex": 1,
+      "hint": "fish = سمك، vegetables = خضروات — الجملة تصف نتيجة عادة غذائية.",
+      "feedback": {
+        "correct": "أحسنت ✓ healthy تعني «صحي» — الأكل الصحي يبقيك بصحة جيدة.",
+        "incorrect": "الإجابة الصحيحة هي healthy (صحي) — الأكل الصحي يبقيك بصحة جيدة. أمّا unhealthy تعني «غير صحي»، و noisy تعني «صاخب»، و run-down تعني «مُرهَق» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q83",
+      "prompt": "The farmer works in the ___ from morning until evening.",
+      "options": [
+        "field",
+        "drawer",
+        "pill",
+        "flood"
+      ],
+      "answerIndex": 0,
+      "hint": "farmer = مزارع، evening = المساء — الجملة تصف مكان عمل المزارع.",
+      "feedback": {
+        "correct": "أحسنت ✓ field تعني «حقل» — المزارع يعمل في الحقل من الصباح إلى المساء.",
+        "incorrect": "الإجابة الصحيحة هي field (حقل) — المزارع يعمل في الحقل من الصباح إلى المساء. أمّا drawer تعني «دُرج»، و pill تعني «حبّة دواء»، و flood تعني «فيضان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q84",
+      "prompt": "He hit the ball with a bat and ran to first base. He loves to ___.",
+      "options": [
+        "play tennis",
+        "do judo",
+        "play scrabble",
+        "play baseball"
+      ],
+      "answerIndex": 3,
+      "hint": "bat = مضرب خشبي، base = قاعدة — الجملة تذكر أدوات اللعبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ play baseball تعني «يلعب البيسبول» — المضرب الخشبي والقواعد من أدوات البيسبول.",
+        "incorrect": "الإجابة الصحيحة هي play baseball (يلعب البيسبول) — المضرب الخشبي والقواعد من أدوات البيسبول. أمّا play tennis تعني «يلعب التنس»، و do judo تعني «يمارس الجودو»، و play scrabble تعني «يلعب سكرابل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q85",
+      "prompt": "It is ___ to cross the street when the light is red.",
+      "options": [
+        "popular",
+        "thin",
+        "unsafe",
+        "special"
+      ],
+      "answerIndex": 2,
+      "hint": "cross = تعبر، red = أحمر — تحذير مروري.",
+      "feedback": {
+        "correct": "أحسنت ✓ unsafe تعني «غير آمن» — عبور الشارع عند الضوء الأحمر خطر وغير آمن.",
+        "incorrect": "الإجابة الصحيحة هي unsafe (غير آمن) — عبور الشارع عند الضوء الأحمر خطر وغير آمن. أمّا popular تعني «شائع»، و thin تعني «نحيف»، و special تعني «مميّز» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q86",
+      "prompt": "Don't forget to ___ your medicine after dinner.",
+      "options": [
+        "make",
+        "take",
+        "do",
+        "say"
+      ],
+      "answerIndex": 1,
+      "hint": "medicine = دواء، dinner = العشاء — تذكير بعد الوجبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ take تعني «يأخذ» — نقول take medicine بمعنى نتناول الدواء.",
+        "incorrect": "الإجابة الصحيحة هي take (يأخذ) — نقول take medicine بمعنى نتناول الدواء. أمّا make تعني «يصنع»، و do تعني «يفعل»، و say تعني «يقول» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q87",
+      "prompt": "We wear strong boots and climb the hills on Saturdays. We ___.",
+      "options": [
+        "go hiking",
+        "go skiing",
+        "go shopping",
+        "go swimming"
+      ],
+      "answerIndex": 0,
+      "hint": "boots = أحذية، hills = تلال — الجملة تصف نشاطًا في المرتفعات.",
+      "feedback": {
+        "correct": "أحسنت ✓ go hiking تعني «يذهب للمشي في الطبيعة» — ارتداء الأحذية القوية وتسلق التلال هو go hiking.",
+        "incorrect": "الإجابة الصحيحة هي go hiking (يذهب للمشي في الطبيعة) — ارتداء الأحذية القوية وتسلق التلال هو go hiking. أمّا go skiing تعني «يذهب للتزلّج»، و go shopping تعني «يذهب للتسوّق»، و go swimming تعني «يذهب للسباحة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q88",
+      "prompt": "This game has too many rules. It is very ___.",
+      "options": [
+        "simple",
+        "easy",
+        "safe",
+        "complicated"
+      ],
+      "answerIndex": 3,
+      "hint": "rules = قواعد، game = لعبة — الجملة تصف صعوبة فهم لعبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ complicated تعني «معقّد» — كثرة القواعد تجعل اللعبة معقدة.",
+        "incorrect": "الإجابة الصحيحة هي complicated (معقّد) — كثرة القواعد تجعل اللعبة معقدة. أمّا simple تعني «بسيط»، و easy تعني «سهل»، و safe تعني «آمن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q89",
+      "prompt": "Climbing that mountain is ___. Only experts can do it.",
+      "options": [
+        "easy",
+        "simple",
+        "difficult",
+        "relaxing"
+      ],
+      "answerIndex": 2,
+      "hint": "climbing = التسلق، experts = خبراء — الجملة تصف مهمة لا يقدر عليها الجميع.",
+      "feedback": {
+        "correct": "أحسنت ✓ difficult تعني «صعب» — ما لا يستطيعه إلا الخبراء صعب.",
+        "incorrect": "الإجابة الصحيحة هي difficult (صعب) — ما لا يستطيعه إلا الخبراء صعب. أمّا easy تعني «سهل»، و simple تعني «بسيط»، و relaxing تعني «يبعث على الاسترخاء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q90",
+      "prompt": "My grandma loves to ___ with her friends. She wins when she makes a long word.",
+      "options": [
+        "do crosswords",
+        "play scrabble",
+        "play soccer",
+        "play tennis"
+      ],
+      "answerIndex": 1,
+      "hint": "wins = تفوز، long word = كلمة طويلة — الجملة تصف لعبة كلمات.",
+      "feedback": {
+        "correct": "أحسنت ✓ play scrabble تعني «يلعب سكرابل» — تكوين كلمة طويلة للفوز هو لعبة سكرابل.",
+        "incorrect": "الإجابة الصحيحة هي play scrabble (يلعب سكرابل) — تكوين كلمة طويلة للفوز هو لعبة سكرابل. أمّا do crosswords تعني «يحلّ الكلمات المتقاطعة»، و play soccer تعني «يلعب كرة القدم»، و play tennis تعني «يلعب التنس» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q91",
+      "prompt": "He is wearing a white uniform and a black belt. He is going to ___.",
+      "options": [
+        "do judo",
+        "play tennis",
+        "go skiing",
+        "play baseball"
+      ],
+      "answerIndex": 0,
+      "hint": "uniform = زي موحد، belt = حزام — الجملة تصف رياضة قتالية.",
+      "feedback": {
+        "correct": "أحسنت ✓ do judo تعني «يمارس الجودو» — البدلة البيضاء والحزام الأسود من لباس الجودو.",
+        "incorrect": "الإجابة الصحيحة هي do judo (يمارس الجودو) — البدلة البيضاء والحزام الأسود من لباس الجودو. أمّا play tennis تعني «يلعب التنس»، و go skiing تعني «يذهب للتزلّج»، و play baseball تعني «يلعب البيسبول» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q92",
+      "prompt": "I can't find my keys in this ___ room. There are papers everywhere.",
+      "options": [
+        "neat",
+        "clean",
+        "bright",
+        "messy"
+      ],
+      "answerIndex": 3,
+      "hint": "papers = أوراق، everywhere = في كل مكان — الجملة تصف حال غرفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ messy تعني «فوضوي» — الأوراق في كل مكان تعني غرفة فوضوية.",
+        "incorrect": "الإجابة الصحيحة هي messy (فوضوي) — الأوراق في كل مكان تعني غرفة فوضوية. أمّا neat تعني «مرتّب»، و clean تعني «نظيف»، و bright تعني «ساطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q93",
+      "prompt": "Wait! I ___! Let's call Ali and ask him.",
+      "options": [
+        "make friends",
+        "take a vacation",
+        "have an idea",
+        "tell a joke"
+      ],
+      "answerIndex": 2,
+      "hint": "call = نتصل، ask = نسأل — شخص يقترح حلًّا فجأة.",
+      "feedback": {
+        "correct": "أحسنت ✓ have an idea تعني «لديه فكرة» — نقول I have an idea عندما يخطر لنا اقتراح.",
+        "incorrect": "الإجابة الصحيحة هي have an idea (لديه فكرة) — نقول I have an idea عندما يخطر لنا اقتراح. أمّا make friends تعني «يكوّن صداقات»، و take a vacation تعني «يأخذ إجازة»، و tell a joke تعني «يروي نكتة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q94",
+      "prompt": "We want to ___ our neighbors to dinner on Friday.",
+      "options": [
+        "guess",
+        "invite",
+        "spend",
+        "break"
+      ],
+      "answerIndex": 1,
+      "hint": "neighbors = جيران، dinner = عشاء — الجملة تصف رغبة في استضافة.",
+      "feedback": {
+        "correct": "أحسنت ✓ invite تعني «يدعو» — نقول invite someone to dinner أي نطلب منه الحضور.",
+        "incorrect": "الإجابة الصحيحة هي invite (يدعو) — نقول invite someone to dinner أي نطلب منه الحضور. أمّا guess تعني «يخمّن»، و spend تعني «يُنفق»، و break تعني «يكسر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q95",
+      "prompt": "I like to eat ___ in the garden when the weather is nice.",
+      "options": [
+        "outdoors",
+        "online",
+        "badly",
+        "below"
+      ],
+      "answerIndex": 0,
+      "hint": "garden = حديقة، weather = الطقس — شخص يفضّل مكان الأكل.",
+      "feedback": {
+        "correct": "أحسنت ✓ outdoors تعني «في الهواء الطلق» — الأكل في الحديقة يعني الأكل في الهواء الطلق.",
+        "incorrect": "الإجابة الصحيحة هي outdoors (في الهواء الطلق) — الأكل في الحديقة يعني الأكل في الهواء الطلق. أمّا online تعني «عبر الإنترنت»، و badly تعني «بشكل سيئ»، و below تعني «تحت» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q96",
+      "prompt": "Chocolate is my biggest ___. I can't say no to it.",
+      "options": [
+        "strength",
+        "skill",
+        "goal",
+        "weakness"
+      ],
+      "answerIndex": 3,
+      "hint": "chocolate = شوكولاتة، say no = أرفض — شخص يعترف بأمر لا يستطيع مقاومته.",
+      "feedback": {
+        "correct": "أحسنت ✓ weakness تعني «نقطة ضعف» — ما لا نستطيع مقاومته هو نقطة ضعفنا.",
+        "incorrect": "الإجابة الصحيحة هي weakness (نقطة ضعف) — ما لا نستطيع مقاومته هو نقطة ضعفنا. أمّا strength تعني «نقطة قوة»، و skill تعني «مهارة»، و goal تعني «هدف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q97",
+      "prompt": "He has fixed cars for thirty years. He is a car ___.",
+      "options": [
+        "roommate",
+        "landlord",
+        "expert",
+        "vegetarian"
+      ],
+      "answerIndex": 2,
+      "hint": "fixed = أصلح، thirty years = ثلاثون سنة — الجملة تصف مستوى معرفة رجل.",
+      "feedback": {
+        "correct": "أحسنت ✓ expert تعني «خبير» — من أصلح السيارات ثلاثين سنة خبير.",
+        "incorrect": "الإجابة الصحيحة هي expert (خبير) — من أصلح السيارات ثلاثين سنة خبير. أمّا roommate تعني «زميل السكن»، و landlord تعني «المالك»، و vegetarian تعني «شخص نباتي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q98",
+      "prompt": "The government is building new ___ for young families.",
+      "options": [
+        "vitamin",
+        "housing",
+        "ingredient",
+        "flavor"
+      ],
+      "answerIndex": 1,
+      "hint": "government = الحكومة، families = عائلات — الجملة تصف مشروعًا يخص العائلات.",
+      "feedback": {
+        "correct": "أحسنت ✓ housing تعني «السكن» — بناء مساكن جديدة للعائلات هو مشروع إسكان.",
+        "incorrect": "الإجابة الصحيحة هي housing (السكن) — بناء مساكن جديدة للعائلات هو مشروع إسكان. أمّا vitamin تعني «فيتامين»، و ingredient تعني «مكوّن»، و flavor تعني «نكهة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q99",
+      "prompt": "The little girl hid behind her mother when the guests came. She is ___.",
+      "options": [
+        "shy",
+        "friendly",
+        "funny",
+        "studious"
+      ],
+      "answerIndex": 0,
+      "hint": "hid = اختبأت، guests = ضيوف — الجملة تصف تصرف طفلة أمام الغرباء.",
+      "feedback": {
+        "correct": "أحسنت ✓ shy تعني «خجول» — من تختبئ عند قدوم الضيوف خجولة.",
+        "incorrect": "الإجابة الصحيحة هي shy (خجول) — من تختبئ عند قدوم الضيوف خجولة. أمّا friendly تعني «ودود»، و funny تعني «مضحك»، و studious تعني «مجتهد في الدراسة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q100",
+      "prompt": "We need more ___ in the classroom. It is too crowded.",
+      "options": [
+        "vitamin",
+        "goal",
+        "flavor",
+        "space"
+      ],
+      "answerIndex": 3,
+      "hint": "classroom = الفصل، crowded = مزدحم — الجملة تشتكي من ضيق المكان.",
+      "feedback": {
+        "correct": "أحسنت ✓ space تعني «مساحة» — الازدحام يعني أننا نحتاج مساحة أكبر.",
+        "incorrect": "الإجابة الصحيحة هي space (مساحة) — الازدحام يعني أننا نحتاج مساحة أكبر. أمّا vitamin تعني «فيتامين»، و goal تعني «هدف»، و flavor تعني «نكهة» — ولا تناسب معنى هذه الجملة."
+      }
+    }
+  ]
+}
