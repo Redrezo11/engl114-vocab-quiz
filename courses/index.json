@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    { "id": "engl114", "enabled": true },
+    { "id": "engl102", "enabled": true }
+  ]
+}

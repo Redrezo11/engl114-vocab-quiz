@@ -4,7 +4,7 @@
   "modules": [
     {
       "id": "engl114-starter-word-choice",
-      "file": "starter.json",
+      "file": "vocabulary/starter.json",
       "category": "vocabulary",
       "title": "Starter — Academic Word Choice",
       "description": "Sample module: choosing the right academic word in context. Bilingual hints & feedback.",
@@ -12,7 +12,7 @@
     },
     {
       "id": "engl114-core-vocabulary-test-1",
-      "file": "unit-vocab-test1.json",
+      "file": "vocabulary/unit-vocab-test1.json",
       "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 1",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 — اختر الكلمة الإنجليزية الصحيحة.",
@@ -20,7 +20,7 @@
     },
     {
       "id": "engl114-core-vocabulary-test-2",
-      "file": "unit-vocab-test2.json",
+      "file": "vocabulary/unit-vocab-test2.json",
       "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 2",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثاني) — اختر الكلمة المناسبة لإكمال الجملة.",
@@ -28,7 +28,7 @@
     },
     {
       "id": "engl114-core-vocabulary-test-3",
-      "file": "unit-vocab-test3.json",
+      "file": "vocabulary/unit-vocab-test3.json",
       "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 3",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الثالث) — اختر الكلمة المناسبة لإكمال الجملة.",
@@ -36,7 +36,7 @@
     },
     {
       "id": "engl114-core-vocabulary-test-4",
-      "file": "unit-vocab-test4.json",
+      "file": "vocabulary/unit-vocab-test4.json",
       "category": "vocabulary",
       "title": "ENGL114 — Core Vocabulary Test 4",
       "description": "اختبار المفردات الأساسية لمادة ENGL114 (الجزء الرابع) — اختر الكلمة المناسبة لإكمال الجملة.",
@@ -44,7 +44,7 @@
     },
     {
       "id": "engl114-marathon-vocabulary-test-1",
-      "file": "engl114-marathon-test1.json",
+      "file": "vocabulary/engl114-marathon-test1.json",
       "category": "vocabulary",
       "title": "ENGL114 — Vocabulary Marathon 1",
       "description": "اختبار شامل (ماراثوني) لمفردات ENGL114 — الجزء 1 من أصل 2 — اختر الكلمة المناسبة لإكمال الجملة.",
@@ -52,7 +52,7 @@
     },
     {
       "id": "engl114-marathon-vocabulary-test-2",
-      "file": "engl114-marathon-test2.json",
+      "file": "vocabulary/engl114-marathon-test2.json",
       "category": "vocabulary",
       "title": "ENGL114 — Vocabulary Marathon 2",
       "description": "اختبار شامل (ماراثوني) لمفردات ENGL114 — الجزء 2 من أصل 2 — اختر الكلمة المناسبة لإكمال الجملة.",
@@ -60,7 +60,7 @@
     },
     {
       "id": "engl114-grammar-starter",
-      "file": "grammar/grammar-starter.json",
+      "file": "grammar/modules/grammar-starter.json",
       "category": "grammar",
       "title": "Grammar — Core Midterm Topics",
       "description": "سؤال واحد لكل موضوع من مواضيع قواعد المنتصف الثلاثة عشر، مع رابط شرح لكل موضوع في زر Hint.",
@@ -68,7 +68,7 @@
     },
     {
       "id": "engl114-grammar-test1",
-      "file": "grammar/grammar-test1.json",
+      "file": "grammar/modules/grammar-test1.json",
       "category": "grammar",
       "title": "Grammar Practice Test 1 — Midterm Review",
       "description": "اختبار تدريبي شامل يغطي جميع نقاط القواعد الثلاث عشرة المقررة لاختبار المنتصف.",

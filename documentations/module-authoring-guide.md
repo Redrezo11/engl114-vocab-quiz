@@ -1,10 +1,12 @@
 # Module Authoring Guide
 
-**Audience:** an LLM (or a human) generating a quiz **module** file for the ENGL114 English
-multiple-choice quiz at [`modules.html`](../modules.html).
+**Audience:** an LLM (or a human) generating a quiz **module** file for one course's English
+multiple-choice quiz at [`modules.html`](../modules.html) (`modules.html?course=<courseId>`). The site
+hosts several courses; each has its own folder under [`courses/`](../courses/) — see
+[course-authoring-guide.md](course-authoring-guide.md).
 
 **Your job:** output **one JSON file** that contains a list of multiple-choice question objects.
-The app (`modules.js`) reads that file and renders the quiz. Follow this spec exactly — anything
+The app (`js/modules.js`) reads that file and renders the quiz. Follow this spec exactly — anything
 that doesn't match is silently skipped, and a whole file that isn't valid JSON won't load at all.
 
 ---
@@ -157,19 +159,23 @@ the vocabulary), but every explanation of meaning is in Arabic.
 A generated `.json` file is not enough on its own — GitHub Pages cannot list a directory, so the
 app finds modules through a registry. The webmaster must:
 
-1. Save your JSON as `modules/<name>.json` (e.g. `modules/unit4.json`).
-2. Add one entry to [`modules/manifest.json`](../modules/manifest.json):
+1. Save your JSON as `courses/<courseId>/vocabulary/<name>.json`
+   (e.g. `courses/engl114/vocabulary/unit4.json`).
+2. Add one entry to that course's manifest, `courses/<courseId>/modules.json`
+   (e.g. [`courses/engl114/modules.json`](../courses/engl114/modules.json)):
    ```json
    {
      "id": "engl114-unit4-collocations",
-     "file": "unit4.json",
+     "file": "vocabulary/unit4.json",
      "category": "vocabulary",
      "title": "Unit 4 — Collocations",
      "description": "اختيار الكلمة الصحيحة في السياق الأكاديمي.",
      "count": 30
    }
    ```
-   The manifest `id` **must match** the `id` inside the module file. `count` is the number of
+   `file` is **relative to the course folder** (`courses/<courseId>/`).
+   The manifest `id` **must match** the `id` inside the module file, and be unique within the course
+   (start it with the course id, e.g. `engl114-…`, by convention). `count` is the number of
    questions (used only for display). `category` is **`"vocabulary"` or `"grammar"`** — it decides
    which tab the module appears under on the modules page; if omitted it defaults to `"vocabulary"`.
 3. Commit and push. GitHub Pages rebuilds and the module appears in the list.

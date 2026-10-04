@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "engl114",
+  "code": "ENGL114",
+  "title_en": "ENGL114 Midterm Practice",
+  "title_ar": "التدريب على اختبار منتصف الفصل — ENGL114",
+  "description_en": "Core midterm vocabulary (English → Arabic), vocabulary and grammar modules, and a bilingual grammar reference.",
+  "description_ar": "مفردات اختبار المنتصف الأساسية، ووحدات تدريبية في المفردات والقواعد، ومرجع قواعد ثنائي اللغة.",
+  "level": "CEFR A1–A2",
+  "status": "live",
+  "ticker": {
+    "home": ["assume", "instinct", "authentic", "punctual", "burn", "local", "balanced", "principle", "firsthand", "unemployed", "limitation", "add up to", "merchandise", "acknowledge", "memorable", "encourage", "prove", "earn", "significant"],
+    "modules": ["conclusive", "clarify", "progress", "contradictory", "concise", "support", "punctual", "link", "significant", "evidence", "summary", "context"],
+    "grammar": ["do", "does", "did", "present continuous", "past continuous", "present perfect", "conditionals", "tag questions", "modals", "quantifiers", "adjectives", "parallel structure"]
+  },
+  "sections": {
+    "wordbank": { "file": "wordbank.json" },
+    "modules": { "manifest": "modules.json" },
+    "grammar": { "reference": "grammar/reference.json" }
+  }
+}

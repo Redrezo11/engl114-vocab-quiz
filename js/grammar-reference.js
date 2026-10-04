@@ -1,20 +1,12 @@
-/* ENGL114 grammar reference — bilingual study pane.
-   Reads grammar-reference.json and renders a jump index + an accordion of topics.
+/* Grammar reference — bilingual study pane for the course chosen by ?course=<id>.
+   Reads courses/<id>/grammar/reference.json and renders a jump index + an accordion of topics.
    Each topic's accordion item has id="<slug>" so it is deep-linkable
-   (e.g. grammar-reference.html#tag-questions); opening a topic updates the URL hash.
-   Forward-looking: future grammar hints link to these #slug anchors. */
+   (e.g. grammar-reference.html?course=engl114#tag-questions); opening a topic updates the URL hash.
+   Grammar hints in the modules link to these #slug anchors. */
 (function(){
   "use strict";
-  var $ = function(id){ return document.getElementById(id); };
-  function isStr(x){ return typeof x === "string" && x.trim().length>0; }
-
-  async function fetchJson(path){
-    var res = await fetch(path, { cache: "no-cache" });
-    if(!res.ok) throw new Error("HTTP "+res.status+" for "+path);
-    var text = await res.text();
-    try{ return JSON.parse(text); }
-    catch(e){ throw new Error("Invalid JSON in "+path+" — "+e.message); }
-  }
+  var $ = EC.$, isStr = EC.isStr, fetchJson = EC.fetchJson;
+  var CTX = null;   // { id, course, paths } from EC.loadCourse()
 
   var TOPICS = [], items = {};   // slug -> {head, body} for expand/collapse
 
@@ -115,9 +107,11 @@
   });
 
   async function init(){
+    CTX = await EC.loadCourse(); if(!CTX) return;
+    EC.applyChrome(CTX, { label: "Grammar Reference", tickerKey: "grammar" });
     var list = $("gref-list");
     var data;
-    try{ data = await fetchJson("grammar-reference.json"); }
+    try{ data = await fetchJson(CTX.paths.grammarRef); }
     catch(e){
       list.innerHTML="";
       var err=document.createElement("div"); err.className="modempty";
@@ -125,11 +119,17 @@
       list.appendChild(err); return;
     }
     TOPICS = (data && Array.isArray(data.topics)) ? data.topics : [];
+    if(!(CTX.course.ticker && CTX.course.ticker.grammar))
+      EC.setTicker(TOPICS.map(function(t){ return t.title_en; }));
     if(!TOPICS.length){
       list.innerHTML=""; var em=document.createElement("div"); em.className="modempty";
-      em.textContent="No grammar topics found."; list.appendChild(em); return;
+      em.textContent="No grammar topics yet · لا توجد مواضيع بعد"; list.appendChild(em); return;
     }
     render();
+    if(CTX.paths.grammarManifest){
+      /* Future: fetch the per-topic resource map (courses/<id>/grammar/manifest.json) and add a
+         .gref-actions row to each topic — Practice / Slides / CCQ — for the resources that exist. */
+    }
   }
 
   init();

@@ -1,0 +1,1140 @@
+{
+  "schemaVersion": 1,
+  "words": [
+    {
+      "t": "clothes",
+      "a": "ملابس",
+      "pos": "noun"
+    },
+    {
+      "t": "describe",
+      "a": "يصف",
+      "pos": "verb"
+    },
+    {
+      "t": "friendly",
+      "a": "ودود / لطيف",
+      "pos": "adjective"
+    },
+    {
+      "t": "funny",
+      "a": "مضحك",
+      "pos": "adjective"
+    },
+    {
+      "t": "helpful",
+      "a": "متعاون / يقدّم المساعدة",
+      "pos": "adjective"
+    },
+    {
+      "t": "intelligent",
+      "a": "ذكي",
+      "pos": "adjective"
+    },
+    {
+      "t": "meet",
+      "a": "يقابل / يلتقي بـ",
+      "pos": "verb"
+    },
+    {
+      "t": "messy",
+      "a": "فوضوي / غير مرتّب",
+      "pos": "adjective"
+    },
+    {
+      "t": "neat",
+      "a": "مرتّب / أنيق",
+      "pos": "adjective"
+    },
+    {
+      "t": "overweight",
+      "a": "زائد الوزن",
+      "pos": "adjective"
+    },
+    {
+      "t": "serious",
+      "a": "جادّ",
+      "pos": "adjective"
+    },
+    {
+      "t": "short",
+      "a": "قصير",
+      "pos": "adjective"
+    },
+    {
+      "t": "shy",
+      "a": "خجول",
+      "pos": "adjective"
+    },
+    {
+      "t": "tall",
+      "a": "طويل",
+      "pos": "adjective"
+    },
+    {
+      "t": "thin",
+      "a": "نحيف",
+      "pos": "adjective"
+    },
+    {
+      "t": "wear",
+      "a": "يرتدي / يلبس",
+      "pos": "verb"
+    },
+    {
+      "t": "be good at",
+      "a": "ماهر في / يُجيد",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "be interested in",
+      "a": "مهتم بـ",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "be on",
+      "a": "يكون عضوًا في (فريق)",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "get together with",
+      "a": "يجتمع مع",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "go",
+      "a": "يذهب (إلى)",
+      "pos": "verb"
+    },
+    {
+      "t": "go to",
+      "a": "يذهب (إلى)",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "listen to",
+      "a": "يستمع إلى",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "live in",
+      "a": "يسكن في",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "play",
+      "a": "يلعب",
+      "pos": "verb"
+    },
+    {
+      "t": "read",
+      "a": "يقرأ",
+      "pos": "verb"
+    },
+    {
+      "t": "ride",
+      "a": "يركب",
+      "pos": "verb"
+    },
+    {
+      "t": "take",
+      "a": "يأخذ",
+      "pos": "verb"
+    },
+    {
+      "t": "watch",
+      "a": "يشاهد",
+      "pos": "verb"
+    },
+    {
+      "t": "belong to",
+      "a": "ينتمي إلى",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "club",
+      "a": "نادٍ",
+      "pos": "noun"
+    },
+    {
+      "t": "collect",
+      "a": "يجمع (هواية الجمع)",
+      "pos": "verb"
+    },
+    {
+      "t": "good at",
+      "a": "ماهر في / يُجيد",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "hobbies",
+      "a": "هوايات",
+      "pos": "noun"
+    },
+    {
+      "t": "interested in",
+      "a": "مهتم بـ",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "team",
+      "a": "فريق",
+      "pos": "noun"
+    },
+    {
+      "t": "academic",
+      "a": "أكاديمي / دراسي",
+      "pos": "adjective"
+    },
+    {
+      "t": "academy",
+      "a": "أكاديمية",
+      "pos": "noun"
+    },
+    {
+      "t": "attend",
+      "a": "يحضر (الدروس أو المدرسة)",
+      "pos": "verb"
+    },
+    {
+      "t": "difficult",
+      "a": "صعب",
+      "pos": "adjective"
+    },
+    {
+      "t": "difficulty",
+      "a": "صعوبة",
+      "pos": "noun"
+    },
+    {
+      "t": "enjoy",
+      "a": "يستمتع بـ",
+      "pos": "verb"
+    },
+    {
+      "t": "enjoyable",
+      "a": "ممتع",
+      "pos": "adjective"
+    },
+    {
+      "t": "famous",
+      "a": "مشهور",
+      "pos": "adjective"
+    },
+    {
+      "t": "farm",
+      "a": "مزرعة",
+      "pos": "noun"
+    },
+    {
+      "t": "feed",
+      "a": "يُطعم",
+      "pos": "verb"
+    },
+    {
+      "t": "field",
+      "a": "حقل / ميدان",
+      "pos": "noun"
+    },
+    {
+      "t": "flood",
+      "a": "فيضان",
+      "pos": "noun"
+    },
+    {
+      "t": "friend",
+      "a": "صديق",
+      "pos": "noun"
+    },
+    {
+      "t": "help",
+      "a": "مساعدة",
+      "pos": "noun"
+    },
+    {
+      "t": "intelligence",
+      "a": "ذكاء",
+      "pos": "noun"
+    },
+    {
+      "t": "pick up",
+      "a": "يلتقط / يأخذ",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "student",
+      "a": "طالب",
+      "pos": "noun"
+    },
+    {
+      "t": "studious",
+      "a": "مجتهد في الدراسة",
+      "pos": "adjective"
+    },
+    {
+      "t": "study",
+      "a": "يدرس",
+      "pos": "verb"
+    },
+    {
+      "t": "teach",
+      "a": "يُدرّس / يعلّم",
+      "pos": "verb"
+    },
+    {
+      "t": "teachable",
+      "a": "قابل للتعلّم",
+      "pos": "adjective"
+    },
+    {
+      "t": "nondairy",
+      "a": "خالٍ من منتجات الألبان",
+      "pos": "adjective"
+    },
+    {
+      "t": "nonfat",
+      "a": "خالٍ من الدهون",
+      "pos": "adjective"
+    },
+    {
+      "t": "nutritious",
+      "a": "مغذٍّ",
+      "pos": "adjective"
+    },
+    {
+      "t": "organic",
+      "a": "عضوي (طبيعي بلا مواد كيميائية)",
+      "pos": "adjective"
+    },
+    {
+      "t": "salt-free",
+      "a": "خالٍ من الملح",
+      "pos": "adjective"
+    },
+    {
+      "t": "sugar-free",
+      "a": "خالٍ من السكر",
+      "pos": "adjective"
+    },
+    {
+      "t": "unfriendly",
+      "a": "غير ودود",
+      "pos": "adjective"
+    },
+    {
+      "t": "unhealthy",
+      "a": "غير صحي",
+      "pos": "adjective"
+    },
+    {
+      "t": "unsafe",
+      "a": "غير آمن",
+      "pos": "adjective"
+    },
+    {
+      "t": "vegetarian",
+      "a": "شخص نباتي",
+      "pos": "noun"
+    },
+    {
+      "t": "cost",
+      "a": "يكلّف",
+      "pos": "verb"
+    },
+    {
+      "t": "give a ride",
+      "a": "يوصل شخصًا بالسيارة",
+      "pos": "collocation"
+    },
+    {
+      "t": "guess",
+      "a": "يخمّن",
+      "pos": "verb"
+    },
+    {
+      "t": "have a snack",
+      "a": "يتناول وجبة خفيفة",
+      "pos": "collocation"
+    },
+    {
+      "t": "have an idea",
+      "a": "لديه فكرة",
+      "pos": "collocation"
+    },
+    {
+      "t": "have coffee",
+      "a": "يشرب القهوة",
+      "pos": "collocation"
+    },
+    {
+      "t": "have fun",
+      "a": "يمرح / يقضي وقتًا ممتعًا",
+      "pos": "collocation"
+    },
+    {
+      "t": "idea",
+      "a": "فكرة",
+      "pos": "noun"
+    },
+    {
+      "t": "invite",
+      "a": "يدعو",
+      "pos": "verb"
+    },
+    {
+      "t": "make friends",
+      "a": "يكوّن صداقات",
+      "pos": "collocation"
+    },
+    {
+      "t": "make plans",
+      "a": "يضع خططًا",
+      "pos": "collocation"
+    },
+    {
+      "t": "nature",
+      "a": "الطبيعة",
+      "pos": "noun"
+    },
+    {
+      "t": "program",
+      "a": "برنامج",
+      "pos": "noun"
+    },
+    {
+      "t": "sightseeing",
+      "a": "مشاهدة المعالم السياحية",
+      "pos": "noun"
+    },
+    {
+      "t": "spend",
+      "a": "يُنفق / يصرف",
+      "pos": "verb"
+    },
+    {
+      "t": "take a vacation",
+      "a": "يأخذ إجازة",
+      "pos": "collocation"
+    },
+    {
+      "t": "take a walk",
+      "a": "يتمشّى",
+      "pos": "collocation"
+    },
+    {
+      "t": "tell a joke",
+      "a": "يروي نكتة",
+      "pos": "collocation"
+    },
+    {
+      "t": "crowded",
+      "a": "مزدحم",
+      "pos": "adjective"
+    },
+    {
+      "t": "do aerobics",
+      "a": "يمارس التمارين الهوائية (الأيروبكس)",
+      "pos": "collocation"
+    },
+    {
+      "t": "do crosswords",
+      "a": "يحلّ الكلمات المتقاطعة",
+      "pos": "collocation"
+    },
+    {
+      "t": "do gymnastics",
+      "a": "يمارس الجمباز",
+      "pos": "collocation"
+    },
+    {
+      "t": "do judo",
+      "a": "يمارس الجودو",
+      "pos": "collocation"
+    },
+    {
+      "t": "do nothing",
+      "a": "لا يفعل شيئًا",
+      "pos": "collocation"
+    },
+    {
+      "t": "go hiking",
+      "a": "يذهب للمشي في الطبيعة",
+      "pos": "collocation"
+    },
+    {
+      "t": "go jogging",
+      "a": "يذهب للهرولة",
+      "pos": "collocation"
+    },
+    {
+      "t": "go shopping",
+      "a": "يذهب للتسوّق",
+      "pos": "collocation"
+    },
+    {
+      "t": "go skiing",
+      "a": "يذهب للتزلّج",
+      "pos": "collocation"
+    },
+    {
+      "t": "go swimming",
+      "a": "يذهب للسباحة",
+      "pos": "collocation"
+    },
+    {
+      "t": "modern",
+      "a": "حديث / عصري",
+      "pos": "adjective"
+    },
+    {
+      "t": "outdoors",
+      "a": "في الهواء الطلق",
+      "pos": "adverb"
+    },
+    {
+      "t": "play baseball",
+      "a": "يلعب البيسبول",
+      "pos": "collocation"
+    },
+    {
+      "t": "play scrabble",
+      "a": "يلعب سكرابل (لعبة تكوين الكلمات)",
+      "pos": "collocation"
+    },
+    {
+      "t": "play soccer",
+      "a": "يلعب كرة القدم",
+      "pos": "collocation"
+    },
+    {
+      "t": "play tennis",
+      "a": "يلعب التنس",
+      "pos": "collocation"
+    },
+    {
+      "t": "play video games",
+      "a": "يلعب ألعاب الفيديو",
+      "pos": "collocation"
+    },
+    {
+      "t": "provide",
+      "a": "يوفّر / يقدّم",
+      "pos": "verb"
+    },
+    {
+      "t": "relaxing",
+      "a": "يبعث على الاسترخاء",
+      "pos": "adjective"
+    },
+    {
+      "t": "scene",
+      "a": "مشهد",
+      "pos": "noun"
+    },
+    {
+      "t": "tradition",
+      "a": "تقليد / عادة متوارثة",
+      "pos": "noun"
+    },
+    {
+      "t": "bright",
+      "a": "ساطع / مشرق",
+      "pos": "adjective"
+    },
+    {
+      "t": "building",
+      "a": "مبنى",
+      "pos": "noun"
+    },
+    {
+      "t": "comfortable",
+      "a": "مريح",
+      "pos": "adjective"
+    },
+    {
+      "t": "contest",
+      "a": "مسابقة",
+      "pos": "noun"
+    },
+    {
+      "t": "design",
+      "a": "تصميم",
+      "pos": "noun"
+    },
+    {
+      "t": "drawer",
+      "a": "دُرج",
+      "pos": "noun"
+    },
+    {
+      "t": "electricity",
+      "a": "كهرباء",
+      "pos": "noun"
+    },
+    {
+      "t": "environment",
+      "a": "البيئة",
+      "pos": "noun"
+    },
+    {
+      "t": "teacher",
+      "a": "معلّم",
+      "pos": "noun"
+    },
+    {
+      "t": "unusual",
+      "a": "غير عادي / غريب",
+      "pos": "adjective"
+    },
+    {
+      "t": "above",
+      "a": "فوق",
+      "pos": "preposition"
+    },
+    {
+      "t": "badly",
+      "a": "بشكل سيئ",
+      "pos": "adverb"
+    },
+    {
+      "t": "below",
+      "a": "تحت / أسفل",
+      "pos": "preposition"
+    },
+    {
+      "t": "boring",
+      "a": "مملّ",
+      "pos": "adjective"
+    },
+    {
+      "t": "campus",
+      "a": "الحرم الجامعي",
+      "pos": "noun"
+    },
+    {
+      "t": "cheap",
+      "a": "رخيص",
+      "pos": "adjective"
+    },
+    {
+      "t": "clean",
+      "a": "نظيف",
+      "pos": "adjective"
+    },
+    {
+      "t": "community",
+      "a": "مجتمع",
+      "pos": "noun"
+    },
+    {
+      "t": "complicated",
+      "a": "معقّد",
+      "pos": "adjective"
+    },
+    {
+      "t": "dangerous",
+      "a": "خطير",
+      "pos": "adjective"
+    },
+    {
+      "t": "dirty",
+      "a": "متّسخ / وسخ",
+      "pos": "adjective"
+    },
+    {
+      "t": "download",
+      "a": "يُنزّل (يحمّل) من الإنترنت",
+      "pos": "verb"
+    },
+    {
+      "t": "easy",
+      "a": "سهل",
+      "pos": "adjective"
+    },
+    {
+      "t": "expensive",
+      "a": "غالٍ / مرتفع الثمن",
+      "pos": "adjective"
+    },
+    {
+      "t": "fail",
+      "a": "يرسب / يفشل",
+      "pos": "verb"
+    },
+    {
+      "t": "foreign language",
+      "a": "لغة أجنبية",
+      "pos": "noun phrase"
+    },
+    {
+      "t": "hard",
+      "a": "صعب",
+      "pos": "adjective"
+    },
+    {
+      "t": "interesting",
+      "a": "مثير للاهتمام",
+      "pos": "adjective"
+    },
+    {
+      "t": "negative",
+      "a": "سلبي",
+      "pos": "adjective"
+    },
+    {
+      "t": "off",
+      "a": "خارج / بعيدًا عن",
+      "pos": "preposition"
+    },
+    {
+      "t": "on",
+      "a": "على",
+      "pos": "preposition"
+    },
+    {
+      "t": "online",
+      "a": "عبر الإنترنت",
+      "pos": "adjective/adverb"
+    },
+    {
+      "t": "positive",
+      "a": "إيجابي",
+      "pos": "adjective"
+    },
+    {
+      "t": "professor",
+      "a": "أستاذ جامعي",
+      "pos": "noun"
+    },
+    {
+      "t": "safe",
+      "a": "آمن",
+      "pos": "adjective"
+    },
+    {
+      "t": "simple",
+      "a": "بسيط",
+      "pos": "adjective"
+    },
+    {
+      "t": "skill",
+      "a": "مهارة",
+      "pos": "noun"
+    },
+    {
+      "t": "special",
+      "a": "مميّز / استثنائي",
+      "pos": "adjective"
+    },
+    {
+      "t": "strength",
+      "a": "نقطة قوة",
+      "pos": "noun"
+    },
+    {
+      "t": "succeed",
+      "a": "ينجح",
+      "pos": "verb"
+    },
+    {
+      "t": "weakness",
+      "a": "نقطة ضعف",
+      "pos": "noun"
+    },
+    {
+      "t": "well",
+      "a": "جيدًا / بشكل جيد",
+      "pos": "adverb"
+    },
+    {
+      "t": "apples",
+      "a": "تفاح",
+      "pos": "noun"
+    },
+    {
+      "t": "bananas",
+      "a": "موز",
+      "pos": "noun"
+    },
+    {
+      "t": "beans",
+      "a": "فاصوليا / فول",
+      "pos": "noun"
+    },
+    {
+      "t": "beef",
+      "a": "لحم بقري",
+      "pos": "noun"
+    },
+    {
+      "t": "celebrate",
+      "a": "يحتفل",
+      "pos": "verb"
+    },
+    {
+      "t": "cheese",
+      "a": "جبن",
+      "pos": "noun"
+    },
+    {
+      "t": "chicken",
+      "a": "دجاج",
+      "pos": "noun"
+    },
+    {
+      "t": "dairy",
+      "a": "منتجات الألبان",
+      "pos": "noun"
+    },
+    {
+      "t": "delicious",
+      "a": "لذيذ",
+      "pos": "adjective"
+    },
+    {
+      "t": "event",
+      "a": "مناسبة / حدث",
+      "pos": "noun"
+    },
+    {
+      "t": "fresh",
+      "a": "طازج",
+      "pos": "adjective"
+    },
+    {
+      "t": "fruit",
+      "a": "فاكهة",
+      "pos": "noun"
+    },
+    {
+      "t": "grapes",
+      "a": "عنب",
+      "pos": "noun"
+    },
+    {
+      "t": "grow",
+      "a": "يزرع / ينمو",
+      "pos": "verb"
+    },
+    {
+      "t": "lobster",
+      "a": "جراد البحر (لوبستر)",
+      "pos": "noun"
+    },
+    {
+      "t": "meat",
+      "a": "لحم",
+      "pos": "noun"
+    },
+    {
+      "t": "milk",
+      "a": "حليب",
+      "pos": "noun"
+    },
+    {
+      "t": "onions",
+      "a": "بصل",
+      "pos": "noun"
+    },
+    {
+      "t": "popular",
+      "a": "شائع / محبوب",
+      "pos": "adjective"
+    },
+    {
+      "t": "potatoes",
+      "a": "بطاطس",
+      "pos": "noun"
+    },
+    {
+      "t": "prepare",
+      "a": "يُحضّر / يجهّز",
+      "pos": "verb"
+    },
+    {
+      "t": "seafood",
+      "a": "المأكولات البحرية",
+      "pos": "noun"
+    },
+    {
+      "t": "shrimp",
+      "a": "روبيان (جمبري)",
+      "pos": "noun"
+    },
+    {
+      "t": "vegetables",
+      "a": "خضروات",
+      "pos": "noun"
+    },
+    {
+      "t": "avoid",
+      "a": "يتجنّب",
+      "pos": "verb"
+    },
+    {
+      "t": "flavor",
+      "a": "نكهة",
+      "pos": "noun"
+    },
+    {
+      "t": "ingredient",
+      "a": "مكوّن (في الطبخ)",
+      "pos": "noun"
+    },
+    {
+      "t": "memory",
+      "a": "ذكرى / ذاكرة",
+      "pos": "noun"
+    },
+    {
+      "t": "extremely",
+      "a": "للغاية / جدًا جدًا",
+      "pos": "adverb"
+    },
+    {
+      "t": "own",
+      "a": "خاص به (مِلكه)",
+      "pos": "adjective"
+    },
+    {
+      "t": "share",
+      "a": "يتشارك / يشارك",
+      "pos": "verb"
+    },
+    {
+      "t": "space",
+      "a": "مساحة",
+      "pos": "noun"
+    },
+    {
+      "t": "spend time",
+      "a": "يقضي وقتًا",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "view",
+      "a": "منظر / إطلالة",
+      "pos": "noun"
+    },
+    {
+      "t": "affordable",
+      "a": "بسعر معقول",
+      "pos": "adjective"
+    },
+    {
+      "t": "condition",
+      "a": "حالة",
+      "pos": "noun"
+    },
+    {
+      "t": "demand",
+      "a": "طلب (على شيء)",
+      "pos": "noun"
+    },
+    {
+      "t": "entertainment",
+      "a": "ترفيه",
+      "pos": "noun"
+    },
+    {
+      "t": "housing",
+      "a": "السكن / المساكن",
+      "pos": "noun"
+    },
+    {
+      "t": "increase",
+      "a": "يزيد / يرتفع",
+      "pos": "verb"
+    },
+    {
+      "t": "landlord",
+      "a": "المالك (مؤجّر العقار)",
+      "pos": "noun"
+    },
+    {
+      "t": "location",
+      "a": "موقع",
+      "pos": "noun"
+    },
+    {
+      "t": "noisy",
+      "a": "صاخب / كثير الضوضاء",
+      "pos": "adjective"
+    },
+    {
+      "t": "private",
+      "a": "خاص (غير عام)",
+      "pos": "adjective"
+    },
+    {
+      "t": "problem",
+      "a": "مشكلة",
+      "pos": "noun"
+    },
+    {
+      "t": "public transportation",
+      "a": "المواصلات العامة",
+      "pos": "noun phrase"
+    },
+    {
+      "t": "rent",
+      "a": "إيجار",
+      "pos": "noun"
+    },
+    {
+      "t": "roommate",
+      "a": "زميل السكن",
+      "pos": "noun"
+    },
+    {
+      "t": "shortage",
+      "a": "نقص",
+      "pos": "noun"
+    },
+    {
+      "t": "be addicted to",
+      "a": "مدمن على",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "become",
+      "a": "يصبح",
+      "pos": "verb"
+    },
+    {
+      "t": "behavior",
+      "a": "سلوك",
+      "pos": "noun"
+    },
+    {
+      "t": "break",
+      "a": "يكسر / يتخلّص من (عادة)",
+      "pos": "verb"
+    },
+    {
+      "t": "expert",
+      "a": "خبير",
+      "pos": "noun"
+    },
+    {
+      "t": "give up",
+      "a": "يتوقّف عن / يتخلّى عن",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "goal",
+      "a": "هدف",
+      "pos": "noun"
+    },
+    {
+      "t": "instead of",
+      "a": "بدلًا من",
+      "pos": "preposition"
+    },
+    {
+      "t": "lose weight",
+      "a": "يخسر الوزن / ينقص وزنه",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "maybe",
+      "a": "ربما",
+      "pos": "adverb"
+    },
+    {
+      "t": "pay attention",
+      "a": "ينتبه",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "plan",
+      "a": "خطة",
+      "pos": "noun"
+    },
+    {
+      "t": "stay up",
+      "a": "يسهر",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "stress",
+      "a": "توتّر / ضغط نفسي",
+      "pos": "noun"
+    },
+    {
+      "t": "turn off",
+      "a": "يُطفئ",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "unfortunately",
+      "a": "للأسف",
+      "pos": "adverb"
+    },
+    {
+      "t": "control",
+      "a": "سيطرة / تحكّم",
+      "pos": "noun"
+    },
+    {
+      "t": "depends on",
+      "a": "يعتمد على",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "diet",
+      "a": "نظام غذائي",
+      "pos": "noun"
+    },
+    {
+      "t": "energy",
+      "a": "طاقة",
+      "pos": "noun"
+    },
+    {
+      "t": "exercise",
+      "a": "يتمرّن / يمارس الرياضة",
+      "pos": "verb"
+    },
+    {
+      "t": "healthy",
+      "a": "صحي",
+      "pos": "adjective"
+    },
+    {
+      "t": "lonely",
+      "a": "وحيد / يشعر بالوحدة",
+      "pos": "adjective"
+    },
+    {
+      "t": "manage",
+      "a": "يدير / يتدبّر",
+      "pos": "verb"
+    },
+    {
+      "t": "pill",
+      "a": "حبّة دواء",
+      "pos": "noun"
+    },
+    {
+      "t": "produce",
+      "a": "يُنتج",
+      "pos": "verb"
+    },
+    {
+      "t": "reduce",
+      "a": "يُقلّل",
+      "pos": "verb"
+    },
+    {
+      "t": "run-down",
+      "a": "مُرهَق / متعب",
+      "pos": "adjective"
+    },
+    {
+      "t": "vitamin",
+      "a": "فيتامين",
+      "pos": "noun"
+    }
+  ]
+}

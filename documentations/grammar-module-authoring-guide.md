@@ -1,16 +1,17 @@
 # Grammar Module Authoring & Import Guide
 
-**Audience:** an LLM (or human) that produces **grammar** multiple-choice modules for the ENGL114
-site and imports them so they appear under the **Grammar** tab on
-[modules.html](../modules.html).
+**Audience:** an LLM (or human) that produces **grammar** multiple-choice modules for one course
+on this site and imports them so they appear under the **Grammar** tab on
+[modules.html](../modules.html) (`modules.html?course=<courseId>`). Each course has its own folder under
+[`courses/`](../courses/) — see [course-authoring-guide.md](course-authoring-guide.md).
 
 Grammar modules use the **same JSON schema and quiz engine as vocabulary modules** — the shared,
 exhaustive field rules live in [module-authoring-guide.md](module-authoring-guide.md) and all apply
 here. This document adds the **three grammar-specific things**:
 
 1. Each question has a **`topicSlug`** linking it to a topic in the grammar reference.
-2. Grammar module files live in their **own directory, `modules/grammar/`** (kept separate from
-   vocabulary files so the two never get mixed up).
+2. Grammar module files live in the course's **grammar directory, `courses/<courseId>/grammar/modules/`**
+   (kept separate from vocabulary files so the two never get mixed up).
 3. The manifest entry sets **`"category": "grammar"`** and points `file` at the grammar subfolder.
 
 ---
@@ -64,7 +65,7 @@ others are wrong.
 | `feedback.incorrect` | ✅ | the universal explanation on any wrong pick; mainly Arabic. |
 
 **What `topicSlug` does:** when the learner presses **Hint**, the app shows the hint text **plus a
-link** "📖 Study this grammar topic →" that opens `grammar-reference.html#<topicSlug>` in a new tab,
+link** "📖 Study this grammar topic →" that opens `grammar-reference.html?course=<courseId>#<topicSlug>` in a new tab,
 jumping straight to that topic's explanation. The Hint button appears if a question has a `hint`, a
 `topicSlug`, or both.
 
@@ -73,9 +74,11 @@ Module-level fields (`schemaVersion`, `id`, `title`, `description`, `shuffleQues
 
 ---
 
-## 3. Valid `topicSlug` values (the 13 midterm topics)
+## 3. Valid `topicSlug` values
 
-Use an **exact** match from this list (source: [`grammar-reference.json`](../grammar-reference.json)).
+Slugs are **per course**: use an exact `slug` from that course's `courses/<courseId>/grammar/reference.json`.
+The table below is **ENGL114's** 13 midterm topics (source:
+[`courses/engl114/grammar/reference.json`](../courses/engl114/grammar/reference.json)).
 An unknown slug still links, but the reference page won't auto-open a topic.
 
 | slug | topic |
@@ -95,7 +98,7 @@ An unknown slug still links, but the reference page won't auto-open a topic.
 | `adjectives-use-placement` | Use and placement of adjectives |
 
 > If a question tests a point **not** in this list, a new topic must first be added to
-> `grammar-reference.json` (it auto-appears on the reference page); then questions can use its slug.
+> the course's `grammar/reference.json` (it auto-appears on the reference page); then questions can use its slug.
 
 ---
 
@@ -117,7 +120,7 @@ An unknown slug still links, but the reference page won't auto-open a topic.
 }
 ```
 
-See [`modules/grammar/grammar-starter.json`](../modules/grammar/grammar-starter.json) for a complete
+See [`courses/engl114/grammar/modules/grammar-starter.json`](../courses/engl114/grammar/modules/grammar-starter.json) for a complete
 working module (one question per topic).
 
 ---
@@ -126,25 +129,26 @@ working module (one question per topic).
 
 GitHub Pages can't list a directory, so a file only appears once it's **registered in the manifest**.
 
-1. **Save the JSON** into the **grammar directory**: `modules/grammar/<name>.json`
-   (e.g. `modules/grammar/grammar-unit1.json`). Keep grammar files here — vocabulary files live in
-   `modules/` and must not be mixed in.
-2. **Register it** in [`modules/manifest.json`](../modules/manifest.json) by adding one entry to the
-   `modules` array. For grammar, `category` is `"grammar"` and `file` includes the `grammar/`
-   subfolder:
+1. **Save the JSON** into the course's **grammar directory**: `courses/<courseId>/grammar/modules/<name>.json`
+   (e.g. `courses/engl114/grammar/modules/grammar-unit1.json`). Keep grammar files here — vocabulary
+   files live in `courses/<courseId>/vocabulary/` and must not be mixed in.
+2. **Register it** in the course's manifest, `courses/<courseId>/modules.json` (e.g.
+   [`courses/engl114/modules.json`](../courses/engl114/modules.json)), by adding one entry to the
+   `modules` array. For grammar, `category` is `"grammar"` and `file` points into `grammar/modules/`:
    ```json
    {
      "id": "engl114-grammar-unit1",
-     "file": "grammar/grammar-unit1.json",
+     "file": "grammar/modules/grammar-unit1.json",
      "category": "grammar",
      "title": "Grammar — Unit 1",
      "description": "…",
      "count": 20
    }
    ```
-   - The manifest `id` **must match** the `id` inside the module file, and be **unique** across all
-     modules (it namespaces saved progress).
-   - `file` is **relative to `modules/`**, so grammar files read `grammar/<name>.json`.
+   - The manifest `id` **must match** the `id` inside the module file, and be **unique** within the
+     course (it namespaces saved progress). Start it with the course id by convention.
+   - `file` is **relative to the course folder** (`courses/<courseId>/`), so grammar files read
+     `grammar/modules/<name>.json`.
    - `count` is the number of questions (display only).
 3. **Commit and push.** The Actions deploy publishes it, and the module appears under the **Grammar**
    tab.
@@ -158,7 +162,7 @@ GitHub Pages can't list a directory, so a file only appears once it's **register
 
 - [ ] Pure JSON — no fences, no comments, no trailing commas.
 - [ ] Every question has a unique `id`, English `prompt`/`options` (≥ 2), **0-based** `answerIndex`.
-- [ ] Every question has a **`topicSlug`** that exactly matches a slug in §3.
+- [ ] Every question has a **`topicSlug`** that exactly matches a slug in the course's `grammar/reference.json` (§3).
 - [ ] `feedback.incorrect` present on every question; `hint`/`feedback` are **mainly Arabic**.
-- [ ] File saved as `modules/grammar/<name>.json`; manifest entry has `"category": "grammar"` and
-      `"file": "grammar/<name>.json"`.
+- [ ] File saved as `courses/<courseId>/grammar/modules/<name>.json`; manifest entry has
+      `"category": "grammar"` and `"file": "grammar/modules/<name>.json"`.

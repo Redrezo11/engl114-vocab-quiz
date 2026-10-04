@@ -1,104 +1,99 @@
-# ENGL114 Midterm Practice
+# English Midterm Practice (multi-course)
 
-A small static web app for **ENGL114** midterm self-study. Two parts:
+A small static web app for midterm self-study in KSU English courses (Saudi EFL learners, A1–A2).
+The site hosts **several courses**. Each one gets the same sections:
 
-- **Word Bank** ([index.html](index.html)) — the core midterm vocabulary as English→Arabic
-  matching; missed words are saved to a **review pile** (in `localStorage`) to retest later.
-- **Practice Modules** ([modules.html](modules.html)) — English multiple-choice modules split into
-  **Vocabulary** and **Grammar** tabs, with bilingual (Arabic-dominant) hints and feedback.
+- **Course home / Word Bank** (`course.html?course=<id>`): the course's core vocabulary as
+  English→Arabic matching. Missed words go to a **review pile** that you can retest later.
+- **Practice Modules** (`modules.html?course=<id>`): English multiple-choice modules in
+  **Vocabulary** and **Grammar** tabs, with bilingual (mainly Arabic) hints and feedback.
+- **Grammar Reference** (`grammar-reference.html?course=<id>`): bilingual study notes, one per
+  grammar topic. Each topic can be linked to directly with `#<slug>`.
 
-Plain HTML, CSS, and JavaScript — no build step, no dependencies.
+The root, [index.html](index.html), is a **course picker**. Current courses are **ENGL114** (live)
+and **ENGL 102/103B** (scaffolded, content coming).
 
-## Files
-- `index.html` — page structure
-- `styles.css` — styling
-- `data.js` — the word list (English word + Arabic meaning)
-- `app.js` — quiz engine, scoring, review-pile logic
-- `modules.html` / `modules.js` — the separate **English multiple-choice modules** quiz (see below)
-- `modules/` — module JSON files + `manifest.json` registry
-- `.nojekyll` — serve files as-is on GitHub Pages
+Plain HTML, CSS, and JavaScript, with no build step and no dependencies.
+
+## How it's organised
+```
+index.html  course.html  modules.html  grammar-reference.html  styles.css  qr-home.svg
+js/
+  core.js               shared helpers + course loader (window.EC); loaded by every page
+  picker.js             index.html: course list + QR modal
+  wordbank.js           course.html: Word Bank quiz
+  modules.js            modules.html: module list + MCQ engine
+  grammar-reference.js  grammar-reference.html: accordion of topics
+courses/
+  index.json            registry of courses (GitHub Pages can't list folders)
+  <id>/course.json      titles, ticker words, section paths
+  <id>/wordbank.json    Word Bank words  { "words": [ { "t": "assume", "a": "يفترض" } ] }
+  <id>/modules.json     module manifest (vocabulary + grammar tabs)
+  <id>/vocabulary/      vocabulary module files
+  <id>/grammar/reference.json   grammar topics
+  <id>/grammar/modules/         grammar module files
+documentations/         authoring guides + dev notes
+```
+
+Every page reads `?course=<id>`, loads `courses/index.json` and `courses/<id>/course.json`, and
+fills in its own title, eyebrow, ticker, and links. A missing, unknown, or disabled course id
+sends the learner back to the picker. All links between pages keep `?course=`.
+
+**Adding a course, or filling in an existing one:** see
+[`documentations/course-authoring-guide.md`](documentations/course-authoring-guide.md).
 
 ## Run locally
-Open `index.html` in a browser. Everything is client-side.
+All pages load their content with `fetch()`, which browsers **block on `file://`**. Run a local
+server from the project root:
+```
+python -m http.server 8000
+```
+Then open `http://localhost:8000/`, or test on the live Pages site.
 
 ## Publish on GitHub Pages
-1. Create a repo, e.g. `engl114-vocab-quiz`.
-2. Put these files in the repo root and push:
-   ```bash
-   git init && git add . && git commit -m "Word Bank ENGL114 quiz"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/engl114-vocab-quiz.git
-   git push -u origin main
-   ```
-3. **Settings → Pages → Deploy from a branch → `main` / `(root)` → Save**.
-4. Live at `https://YOUR-USERNAME.github.io/engl114-vocab-quiz/` in ~1 minute.
+Pushing to `main` deploys automatically through
+[.github/workflows/deploy.yml](.github/workflows/deploy.yml) (GitHub Actions; `.nojekyll` serves
+files as-is). Live at `https://redrezo11.github.io/engl114-vocab-quiz/`. Pages caches assets for
+about 10 minutes, so when you change `.js` or `.css`, bump the `?v=` number on the `<script>` /
+`<link>` tags in all four HTML pages.
 
 ## Editing the words
-Edit `data.js`. Each card is `{ t: "assume", a: "يفترض" }` — `t` is the English word,
-`a` is the Arabic answer. Add/remove/edit freely.
+Edit `courses/<id>/wordbank.json`. Each entry is `{ "t": "assume", "a": "يفترض" }`: `t` is the
+English word and `a` is the Arabic answer (`pos` is optional and not used yet). The counts and the
+options update automatically.
 
 ---
 
-# English multiple-choice modules
+# Multiple-choice modules
 
-A second, separate quiz lives at [`modules.html`](modules.html) (linked from the home page). It
-runs **English-only multiple-choice** questions grouped into **modules** — each module is one JSON
-file in the [`modules/`](modules/) folder. It's aimed at **Saudi EFL learners**, so hints and
-feedback are written in a **mix of Arabic and English** to scaffold understanding. This is
-completely independent of the Arabic word-bank quiz (separate page, separate progress).
-
-## How loading works (and why there's a manifest)
-GitHub Pages is static — it **cannot list a directory** — so the app can't "find" your files on
-its own. Instead, [`modules/manifest.json`](modules/manifest.json) is a **registry** you edit: it
-lists every module so the app knows what exists. The module list is built from the manifest; each
-question file is only fetched when a learner opens that module.
+Each module is one JSON file inside a course folder, and is listed in that course's
+**`courses/<id>/modules.json`** manifest. The list on `modules.html` is built from the manifest; a
+module's questions are only fetched when a learner opens it.
 
 ## Vocabulary vs Grammar tabs
-The modules page has two tabs driven by each manifest entry's **`category`** field
-(`"vocabulary"` or `"grammar"`; missing defaults to `vocabulary`). Vocabulary and grammar modules
-use the **same** JSON schema and engine — grammar is just multiple-choice items about grammar
-(options can be words, forms, or whole sentences).
-
-**Grammar files live in their own folder, `modules/grammar/`** (kept separate from vocabulary files
-in `modules/`). To add a grammar module: save it as `modules/grammar/<name>.json`, and register it
-with `"category": "grammar"` and `"file": "grammar/<name>.json"`. Each grammar question also carries
-a `topicSlug` that links its **Hint** to the matching topic in
-[`grammar-reference.html`](grammar-reference.html). Full instructions:
-[`documentations/grammar-module-authoring-guide.md`](documentations/grammar-module-authoring-guide.md).
-
-## Grammar reference (study pane)
-[`grammar-reference.html`](grammar-reference.html) is a browsable, bilingual study page for the 13
-midterm grammar topics (jump index + accordion). Its data lives in
-[`grammar-reference.json`](grammar-reference.json) (the human-readable companion is
-[`documentations/engl114_grammar_a1a2_bilingual.md`](documentations/engl114_grammar_a1a2_bilingual.md)).
-Each topic's accordion item uses `id="<slug>"`, so it is **deep-linkable** — e.g.
-`grammar-reference.html#tag-questions` opens straight to that topic. Future grammar hints will link
-to these `#slug` anchors (open in a new tab to keep the quiz state).
+The tab is chosen by each manifest entry's **`category`** (`"vocabulary"` or `"grammar"`; it
+defaults to `vocabulary`). Both kinds use the **same** JSON schema and engine. Vocabulary files go
+in `courses/<id>/vocabulary/`, and grammar files go in `courses/<id>/grammar/modules/`. Each grammar
+question also has a `topicSlug`, which links its **Hint** to
+`grammar-reference.html?course=<id>#<slug>`.
 
 ## Add a new module (webmaster workflow)
-1. Have an LLM produce a `.json` file following the **schema** below (see the author prompt).
-2. **Validate the JSON** (paste into your editor / jsonlint) and remove any ```` ```json ```` code
-   fences — the file must be pure JSON.
-3. Drop the file into `modules/` (e.g. `modules/unit4.json`).
-4. Add one entry to `modules/manifest.json`:
+1. Have an LLM produce a `.json` file that follows the schema below. The full briefs are
+   [`documentations/module-authoring-guide.md`](documentations/module-authoring-guide.md) (vocabulary)
+   and [`documentations/grammar-module-authoring-guide.md`](documentations/grammar-module-authoring-guide.md)
+   (grammar).
+2. **Validate the JSON** and remove any ```` ```json ```` fences. The file must be pure JSON.
+3. Save it in the course folder, for example `courses/engl114/vocabulary/unit4.json`.
+4. Add one entry to `courses/<id>/modules.json`. The `file` path is **relative to the course folder**:
    ```json
-   { "id": "engl114-unit4", "file": "unit4.json", "category": "vocabulary",
+   { "id": "engl114-unit4", "file": "vocabulary/unit4.json", "category": "vocabulary",
      "title": "Unit 4 — Collocations", "description": "…", "count": 30 }
    ```
-   The `id` must be **unique** (it namespaces that module's saved progress — never reuse one).
+   The `id` must be **unique** within the course, because it namespaces that module's saved
+   progress. Never reuse one.
 5. `git add . && git commit && git push`. Pages rebuilds and the module appears in the list.
 
-> **Local testing:** the modules page uses `fetch()`, which browsers **block on `file://`**. So
-> double-clicking `modules.html` won't load modules. Run a quick local server from the project
-> root — `python -m http.server 8000`, then open `http://localhost:8000/modules.html` — or just
-> test on the live Pages site. (The Arabic quiz still works offline; only this page needs a server.)
-
-> **Full authoring spec for the LLM:** see
-> [`documentations/module-authoring-guide.md`](documentations/module-authoring-guide.md) — a
-> complete, copy-pasteable brief covering the schema, the 0-based `answerIndex`, validation rules,
-> and the Arabic-dominant language policy.
-
-## Module JSON schema
+## Module JSON schema (vocabulary + grammar)
 One file = one module = one quiz. `answerIndex` is **0-based** (0 = first option).
 
 ```json
@@ -163,13 +158,20 @@ plain text (no HTML), so quotes/apostrophes/Arabic are safe.
 > others don't fit. `answerIndex` is 0-based and must point to the correct option. Give each
 > question a unique `id`. Produce N questions.
 
-## Storage keys (important if you host more than one of these quizzes)
-`localStorage` is shared across all pages on the same domain. The Arabic word bank uses keys
-prefixed `engl114_`; the English modules use `engl114mc_miss_<moduleId>` /
-`engl114mc_stat_<moduleId>` (one review pile per module); the medical quiz uses `mvq_`. So all of
-these keep **separate** progress even under the same GitHub account. If you clone this for another
-deck, change the storage-key prefixes to keep its progress separate too.
+## Storage keys
+`localStorage` is shared by every page on the same domain, so all keys are namespaced by course:
+
+| What | Key |
+|---|---|
+| Word Bank review pile / stats | `ec:<course>:wb:miss` / `ec:<course>:wb:stat` |
+| Module review pile / stats | `ec:<course>:mod:<moduleId>:miss` / `ec:<course>:mod:<moduleId>:stat` |
+| Reserved (future grammar features) | `ec:<course>:ccq:<slug>:…`, `ec:<course>:pres:<slug>:seen` |
+
+Keys from before the multi-course change (`engl114_*`, `engl114mc_*`) are no longer read. The
+medical quiz on the same account uses `mvq_`.
 
 ## Notes
-- Progress is per-browser and per-device (no cross-device sync); clearing browser data resets it.
-- Fonts load from Google Fonts with system fallbacks. No tracking; nothing leaves the browser.
+- Progress is per-browser and per-device (no cross-device sync). Clearing browser data resets it.
+- Old links without `?course=` (for example `grammar-reference.html#tag-questions`) now land on the
+  course picker.
+- Fonts load from Google Fonts with system fallbacks. There is no tracking, and nothing leaves the browser.

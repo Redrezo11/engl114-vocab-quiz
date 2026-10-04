@@ -1,26 +1,16 @@
-/* ENGL114 English multiple-choice modules.
-   Loads modules/manifest.json (a registry), then per-module JSON files on demand.
-   Per-module review pile in localStorage (keys prefixed engl114mc_), in-memory fallback.
+/* English multiple-choice modules, for the course chosen by ?course=<id>.
+   Loads courses/<id>/modules.json (a registry), then per-module JSON files on demand.
+   Per-module review pile + stats in localStorage under ec:<course>:mod:<moduleId>:miss|stat.
    Feedback + hints are bilingual (Arabic + English) to scaffold Saudi EFL learners. */
 (function(){
   "use strict";
-  var $ = function(id){ return document.getElementById(id); };
-
-  /* ---- storage (mirrors app.js: localStorage with in-memory fallback) ---- */
-  var mem = {};
-  var LS = (function(){ try{ var k="__t"; localStorage.setItem(k,"1"); localStorage.removeItem(k); return true; }catch(e){ return false; } })();
-  function load(key, def){ if(!LS){ return (key in mem) ? mem[key] : def; }
-    try{ var v = localStorage.getItem(key); return v ? JSON.parse(v) : def; }catch(e){ return def; } }
-  function save(key, val){ mem[key] = val; if(!LS) return;
-    try{ localStorage.setItem(key, JSON.stringify(val)); }catch(e){} }
-  function missKey(id){ return "engl114mc_miss_" + id; }
-  function statKey(id){ return "engl114mc_stat_" + id; }
+  var $ = EC.$, isStr = EC.isStr, shuffle = EC.shuffle, toast = EC.toast, load = EC.load, save = EC.save, fetchJson = EC.fetchJson;
+  var CTX = null;   // { id, course, paths } from EC.loadCourse()
+  function missKey(id){ return EC.key(CTX.id, "mod", id, "miss"); }
+  function statKey(id){ return EC.key(CTX.id, "mod", id, "stat"); }
 
   /* ---- helpers ---- */
-  function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){ var j=Math.random()*(i+1)|0; var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
-  function toast(msg){ var t=$("toast"); t.textContent=msg; t.classList.add("show"); clearTimeout(t._t); t._t=setTimeout(function(){ t.classList.remove("show"); },2200); }
-  function show(screen){ ["list","quiz","results"].forEach(function(s){ $(s).classList.toggle("hide", s!==screen); }); }
-  function isStr(x){ return typeof x === "string" && x.trim().length>0; }
+  function show(screen){ EC.show(["list","quiz","results"], screen); }
   function accPct(stat){ return stat && stat.ans ? Math.round(stat.ok/stat.ans*100) : null; }
   function missCount(id){ var m = load(missKey(id), []); return Array.isArray(m) ? m.length : 0; }
 
@@ -71,18 +61,13 @@
   var MANIFEST = [];
   var curCat = "vocabulary";
   function catOf(m){ return isStr(m.category) ? m.category : "vocabulary"; }
-  async function fetchJson(path){
-    var res = await fetch(path, { cache: "no-cache" });
-    if(!res.ok) throw new Error("HTTP "+res.status+" for "+path);
-    var text = await res.text();
-    try{ return JSON.parse(text); }
-    catch(e){ throw new Error("Invalid JSON in "+path+" — "+e.message); }
-  }
 
   async function initList(){
     var box = $("modlist");
+    CTX = await EC.loadCourse(); if(!CTX) return;
+    EC.applyChrome(CTX, { label: "Modules", tickerKey: "modules" });
     var data;
-    try{ data = await fetchJson("modules/manifest.json"); }
+    try{ data = await fetchJson(CTX.paths.manifest); }
     catch(e){
       box.innerHTML = "";
       var err = document.createElement("div"); err.className="modempty";
@@ -93,6 +78,7 @@
     var seen = {}; MANIFEST = [];
     mods.forEach(function(m){
       if(!m || !isStr(m.id) || !isStr(m.file)) return;
+      if(m.file.charAt(0)==="/" || m.file.indexOf("..")>-1){ console.warn("Unsafe module path skipped: "+m.file); return; }
       if(seen[m.id]){ console.warn("Duplicate module id skipped: "+m.id); return; }
       seen[m.id]=1; MANIFEST.push(m);
     });
@@ -105,8 +91,8 @@
     if(!list.length){
       var empty = document.createElement("div"); empty.className="modempty";
       empty.textContent = MANIFEST.length
-        ? ("No "+curCat+" modules yet.")
-        : "No modules yet. Add a JSON file to /modules and register it in modules/manifest.json.";
+        ? ("No "+curCat+" modules yet · لا توجد وحدات بعد")
+        : "No modules yet · لا توجد وحدات بعد";
       box.appendChild(empty); return;
     }
     list.forEach(function(m){
@@ -147,7 +133,7 @@
 
   async function openModule(entry, mode){
     var raw;
-    try{ raw = await fetchJson("modules/"+entry.file); }
+    try{ raw = await fetchJson(CTX.paths.base + entry.file); }
     catch(e){ toast("Couldn't open \""+(entry.title||entry.id)+"\": "+e.message); return; }
     var mod;
     try{ mod = validateModule(raw, entry.file); }
@@ -231,7 +217,7 @@
     // grammar: link to the reference topic this question addresses (opens in a new tab to keep quiz state)
     if(q.topicSlug){
       var a=document.createElement("a"); a.className="hint-topic";
-      a.href="grammar-reference.html#"+encodeURIComponent(q.topicSlug);
+      a.href=EC.courseUrl("grammar-reference.html", CTX.id, q.topicSlug);
       a.target="_blank"; a.rel="noopener";
       a.textContent="📖 Study this grammar topic → · ادرس هذا الموضوع";
       hint.appendChild(a);

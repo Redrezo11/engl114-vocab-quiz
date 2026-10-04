@@ -3,25 +3,25 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ENGL114 Midterm Practice — Modules</title>
-<meta name="description" content="ENGL114 Midterm Practice: English multiple-choice vocabulary and grammar modules, with bilingual hints and feedback for Saudi EFL learners.">
+<title>Modules</title>
+<meta name="description" content="English multiple-choice vocabulary and grammar modules, with bilingual hints and feedback for Saudi EFL learners.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=2">
 </head>
 <body class="mc">
 <div class="wrap">
   <div class="ticker" aria-hidden="true">
     <div class="track">
-      <div class="strip">conclusive · clarify · progress · contradictory · concise · support · punctual · link · significant · evidence · summary · context · </div>
-      <div class="strip">conclusive · clarify · progress · contradictory · concise · support · punctual · link · significant · evidence · summary · context · </div>
+      <div class="strip"></div>
+      <div class="strip"></div>
     </div>
   </div>
 
   <!-- MODULE LIST -->
   <section id="list" class="card mt">
-    <div class="eyebrow">ENGL114 Midterm Practice · Modules</div>
+    <div class="eyebrow" data-ec="eyebrow">Modules</div>
     <h1>Practice Modules</h1>
     <p class="lede">Pick <b>Vocabulary</b> or <b>Grammar</b>, then choose a module. Each is a set of English multiple-choice questions. Wrong answers give you an explanation, and you can press <b>Hint</b> for help — feedback is in Arabic + English.</p>
     <div class="seg" id="cat-seg" role="group" aria-label="Module type">
@@ -34,10 +34,11 @@
       <button data-len="20" aria-pressed="false">20</button>
       <button data-len="0" aria-pressed="true">All</button>
     </div>
-    <div class="mt hide" id="gref-wrap"><a class="gref-link" href="grammar-reference.html">📖 Grammar reference →</a></div>
+    <div class="mt hide" id="gref-wrap"><a class="gref-link" data-course-link href="grammar-reference.html">📖 Grammar reference →</a></div>
     <div id="modlist" class="modlist mt"><div class="modloading">Loading modules…</div></div>
     <div class="footnote">
-      <a class="textbtn" href="index.html">← Arabic Word Bank</a>
+      <a class="textbtn" data-course-link href="course.html">← Course home</a>
+      <a class="textbtn" href="index.html">All courses</a>
     </div>
   </section>
 
@@ -80,6 +81,7 @@
   </section>
 </div>
 <div class="toast" id="toast"></div>
-<script src="modules.js"></script>
+<script src="js/core.js?v=2"></script>
+<script src="js/modules.js?v=2"></script>
 </body>
 </html>

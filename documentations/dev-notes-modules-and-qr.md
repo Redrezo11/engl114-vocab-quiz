@@ -120,3 +120,48 @@ behavior.
 7. **Browser/CDN cache will lie to you.** Confirm live with a cache-buster; hard-refresh before
    concluding a deploy failed. See the companion runbook
    [`github-pages-legacy-to-actions.md`](github-pages-legacy-to-actions.md).
+
+---
+
+## 4. The multi-course refactor
+
+**Goal:** host more than one course (ENGL114, then ENGL 102/103B, then more) with identical
+functionality, without copying pages for each course.
+
+### Decisions
+- **One copy of each page, course chosen by `?course=<id>`.** The pages are shells, and content
+  lives in `courses/<id>/`. This avoids duplicated HTML and `../` paths, and every URL stays shareable.
+- **Thin registry plus a `course.json` in each course folder.** `courses/index.json` only says which
+  ids exist and whether they're enabled. Everything about a course (titles, ticker words, section
+  paths) lives in its own folder, so a course folder is self-contained and can be copied.
+- **Shared `js/core.js` exposing one global, `EC`.** Helpers that used to be duplicated in three
+  scripts (`load/save`, `shuffle`, `toast`, `fetchJson`, …) live here, along with
+  `EC.loadCourse()`, `EC.applyChrome()` and `EC.key()`. Page scripts stay plain IIFEs, so there is
+  still no module loader or build step.
+- **Links carry the course automatically.** Write `<a data-course-link href="modules.html">` and
+  `applyChrome` appends `?course=<id>`, keeping any `#hash`.
+- **Redirect with `location.replace`, never `location.href`.** A bad or missing course id sends the
+  learner to `index.html?missing=<id>`, and Back doesn't bounce them into the redirect again. The
+  picker shows a toast and strips the parameter with `history.replaceState`.
+- **Fragment-only `replaceState("#slug")` keeps the query string.** The grammar reference's
+  existing hash handling worked unchanged under `?course=`.
+- **Word Bank moved from a `data.js` global to `wordbank.json` via `fetch`.** This makes it the same
+  as the other content. The cost is that the Word Bank no longer works from `file://`.
+- **All grammar content lives under `courses/<id>/grammar/`, keyed by topic slug.** That covers the
+  reference, the MCQ modules, and (reserved) presentations and CCQs, so the planned grammar
+  expansion has an obvious place to go.
+- **No progress migration.** New keys are `ec:<course>:…`, and the old `engl114_*` keys are ignored.
+- **Empty states instead of errors.** A course with an empty word bank, manifest, or reference
+  renders "coming soon" / "no … yet". That is how ENGL 102/103B ships before it has content.
+
+### Verification approach
+Static checks with `node -e` (all JSON parses; registry ↔ `course.json` ids; manifest ↔ module
+ids; every `topicSlug` ↔ a reference slug). Then a runtime pass in headless Chrome driven over the
+DevTools Protocol, using Node's built-in `WebSocket`: play a Word Bank round, check the
+`localStorage` keys, open a grammar module and read the hint link, click a reference chip and check
+the URL, and record all console errors and HTTP 4xx responses. No test dependencies were installed.
+
+### Cache gotcha, again
+Old `index.html` files referenced `data.js` and `app.js`, which no longer exist. Every `<script>`
+and `<link>` now has `?v=2`, so a stale cached page pairs with fresh assets for at most one cache
+window.

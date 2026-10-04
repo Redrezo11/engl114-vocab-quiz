@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "engl102",
+  "code": "ENGL 102/103B",
+  "title_en": "ENGL 102/103B Midterm Practice",
+  "title_ar": "التدريب على اختبار منتصف الفصل — ENGL 102/103B",
+  "description_en": "Midterm vocabulary, practice modules, and grammar reference for ENGL 102/103B (Q Skills 1, units 1–6).",
+  "description_ar": "مفردات اختبار المنتصف ووحدات تدريبية ومرجع قواعد لمقرر ENGL 102/103B (Q Skills 1، الوحدات 1–6).",
+  "level": "CEFR A1–A2",
+  "status": "live",
+  "ticker": {
+    "home": ["clothes", "describe", "friendly", "helpful", "intelligent", "messy", "serious", "make friends", "take a walk", "go hiking", "nutritious", "affordable", "roommate", "give up", "stay up"]
+  },
+  "sections": {
+    "wordbank": { "file": "wordbank.json" },
+    "modules": { "manifest": "modules.json" },
+    "grammar": { "reference": "grammar/reference.json" }
+  }
+}

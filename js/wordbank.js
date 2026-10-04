@@ -1,40 +1,46 @@
-/* Word Bank — ENGL114 vocab quiz. localStorage persistence (per browser), in-memory fallback. */
+/* Word Bank — course home for ?course=<id>. English word → pick its Arabic meaning.
+   Words come from courses/<id>/wordbank.json; review pile + stats in localStorage
+   under ec:<course>:wb:miss / ec:<course>:wb:stat (in-memory fallback). */
 (function(){
   "use strict";
-  var $ = function(id){ return document.getElementById(id); };
-  var ARABS = DATA.map(function(d){ return d.a; });
-  var K_MISS = "engl114_misses_v1", K_STAT = "engl114_stats_v1";
-  var mem = {};
-  var LS = (function(){ try{ var k="__t"; localStorage.setItem(k,"1"); localStorage.removeItem(k); return true; }catch(e){ return false; } })();
-  function load(key, def){ if(!LS){ return (key in mem) ? mem[key] : def; }
-    try{ var v = localStorage.getItem(key); return v ? JSON.parse(v) : def; }catch(e){ return def; } }
-  function save(key, val){ mem[key] = val; if(!LS) return;
-    try{ localStorage.setItem(key, JSON.stringify(val)); }catch(e){} }
-
-  var misses = load(K_MISS, []);
-  var stats  = load(K_STAT, {ans:0, ok:0});
+  var $ = EC.$, el = EC.el, shuffle = EC.shuffle, load = EC.load, save = EC.save;
+  var CTX = null, DATA = [], ARABS = [], K_MISS = "", K_STAT = "";
+  var misses = [], stats = {ans:0, ok:0};
   var lenChoice = 20;
 
-  function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){ var j=Math.random()*(i+1)|0; var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
+  function toast(msg){ EC.toast(msg, 1600); }
+  function show(screen){ EC.show(["home","quiz","results"], screen); }
+
+  // validate-and-skip: each word needs non-empty t (English) and a (Arabic); duplicate t skipped
+  function validateWords(raw){
+    var list = (raw && Array.isArray(raw.words)) ? raw.words : [], out = [], seen = {};
+    list.forEach(function(w){
+      if(!w || !EC.isStr(w.t) || !EC.isStr(w.a)) return;
+      if(seen[w.t]){ console.warn("Duplicate word skipped: "+w.t); return; }
+      seen[w.t] = 1; out.push({ t: String(w.t), a: String(w.a) });
+    });
+    return out;
+  }
+
   function byTerm(t){ for(var i=0;i<DATA.length;i++){ if(DATA[i].t===t) return DATA[i]; } return null; }
   function buildQuestions(mode){
     var pool = mode==="review" ? misses.map(byTerm).filter(Boolean) : DATA.slice();
     pool = shuffle(pool); if(lenChoice>0) pool = pool.slice(0, lenChoice);
+    var nDistract = Math.min(3, DATA.length-1);
     return pool.map(function(card){
-      var distract = shuffle(ARABS.filter(function(a){ return a!==card.a; })).slice(0,3);
+      var distract = shuffle(ARABS.filter(function(a){ return a!==card.a; })).slice(0, nDistract);
       return { term:card.t, correct:card.a, options:shuffle([card.a].concat(distract)) };
     });
   }
 
   var qs=[], idx=0, roundOk=0, roundMiss=[], answered=false, curMode="practice";
-  function toast(msg){ var t=$("toast"); t.textContent=msg; t.classList.add("show"); clearTimeout(t._t); t._t=setTimeout(function(){ t.classList.remove("show"); },1600); }
-  function show(screen){ ["home","quiz","results"].forEach(function(s){ $(s).classList.toggle("hide", s!==screen); }); }
   function refreshHome(){
     $("s-total").textContent = DATA.length;
     $("s-review").textContent = misses.length;
     $("s-acc").textContent = stats.ans ? Math.round(stats.ok/stats.ans*100)+"%" : "—";
+    $("start").disabled = DATA.length < 2;
     var rb=$("review"), rs=$("review-sub");
-    if(misses.length){ rb.disabled=false; rs.textContent = misses.length+(misses.length===1?" word saved":" words saved"); }
+    if(misses.length && DATA.length>=2){ rb.disabled=false; rs.textContent = misses.length+(misses.length===1?" word saved":" words saved"); }
     else{ rb.disabled=true; rs.textContent="nothing saved yet"; }
   }
   function startRound(mode){ curMode=mode; qs=buildQuestions(mode);
@@ -53,7 +59,8 @@
     q.options.forEach(function(opt,i){
       var b=document.createElement("button");
       b.className="opt"; b.type="button"; b.dataset.val=opt;
-      b.innerHTML='<span class="key">'+(i+1)+'</span><span class="txt" dir="rtl" lang="ar">'+opt+'</span>';
+      var txt=el("span","txt",opt); txt.setAttribute("dir","rtl"); txt.setAttribute("lang","ar");
+      b.appendChild(el("span","key",String(i+1))); b.appendChild(txt);
       b.onclick=function(){ choose(b,opt); }; box.appendChild(b);
     });
   }
@@ -88,13 +95,15 @@
     } else { note.innerHTML='<b>'+roundMiss.length+'</b> added to your review pile · <b>'+misses.length+'</b> saved in total.'; }
     var wrap=$("res-misswrap"), list=$("res-misslist");
     if(roundMiss.length){ wrap.classList.remove("hide"); list.innerHTML="";
-      roundMiss.forEach(function(t){ var c=byTerm(t);
-        var row=document.createElement("div"); row.className="miss";
-        row.innerHTML='<span class="en">'+c.t+'</span><span class="ar" dir="rtl" lang="ar">'+c.a+'</span>';
+      roundMiss.forEach(function(t){ var c=byTerm(t); if(!c) return;
+        var row=el("div","miss"), ar=el("span","ar",c.a);
+        ar.setAttribute("dir","rtl"); ar.setAttribute("lang","ar");
+        row.appendChild(el("span","en",c.t)); row.appendChild(ar);
         list.appendChild(row); });
     } else { wrap.classList.add("hide"); }
     $("res-review").disabled = misses.length===0; refreshHome(); show("results");
   }
+
   $("len-seg").addEventListener("click", function(e){
     var b=e.target.closest("button"); if(!b) return; var kids=$("len-seg").children;
     for(var i=0;i<kids.length;i++){ kids[i].setAttribute("aria-pressed", kids[i]===b); }
@@ -110,18 +119,30 @@
     misses=[]; save(K_MISS,misses); refreshHome(); toast("Review pile cleared"); };
   $("reset-all").onclick=function(){ misses=[]; stats={ans:0,ok:0};
     save(K_MISS,misses); save(K_STAT,stats); refreshHome(); toast("All progress reset"); };
-  var qrModal=$("qr-modal");
-  function openQR(){ qrModal.classList.remove("hide"); $("qr-close").focus(); }
-  function closeQR(){ qrModal.classList.add("hide"); $("qr-open").focus(); }
-  $("qr-open").onclick=openQR;
-  $("qr-close").onclick=closeQR;
-  qrModal.addEventListener("click", function(e){ if(e.target.hasAttribute("data-close")) closeQR(); });
   document.addEventListener("keydown", function(e){
-    if(!qrModal.classList.contains("hide")){ if(e.key==="Escape") closeQR(); return; }
     if(!$("quiz").classList.contains("hide")){
       if(["1","2","3","4"].indexOf(e.key)>-1 && !answered){
         var b=$("options").children[parseInt(e.key,10)-1]; if(b) b.click();
       } else if((e.key==="Enter"||e.key===" ") && answered){ e.preventDefault(); nextQ(); } }
   });
-  refreshHome();
+
+  async function init(){
+    CTX = await EC.loadCourse(); if(!CTX) return;
+    EC.applyChrome(CTX, { label: "Word Bank", tickerKey: "home" });
+    K_MISS = EC.key(CTX.id, "wb", "miss"); K_STAT = EC.key(CTX.id, "wb", "stat");
+    misses = load(K_MISS, []); if(!Array.isArray(misses)) misses = [];
+    stats  = load(K_STAT, {ans:0, ok:0});
+    var notice = $("wb-notice");
+    try{
+      DATA = validateWords(await EC.fetchJson(CTX.paths.wordbank));
+      if(DATA.length < 2) EC.emptyState(notice, "Word bank coming soon · قائمة الكلمات قريباً");
+    }catch(e){
+      DATA = []; console.warn(e.message);
+      EC.emptyState(notice, "Couldn't load the word list. If you're opening this file directly, run a local server (e.g. python -m http.server) or view it on GitHub Pages.");
+    }
+    if(DATA.length < 2) notice.classList.remove("hide");
+    ARABS = DATA.map(function(d){ return d.a; });
+    refreshHome();
+  }
+  init();
 })();
