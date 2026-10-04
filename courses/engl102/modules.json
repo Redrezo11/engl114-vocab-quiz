@@ -1,5 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": 1,
-  "modules": []
+  "version": 2,
+  "modules": [
+    {
+      "id": "engl102-vocab-bank-1",
+      "file": "vocabulary/vocab-bank1.json",
+      "category": "vocabulary",
+      "title": "ENGL 102/103B — Vocabulary Bank 1",
+      "description": "اختبار مفردات شامل (100 سؤال) من قائمة مفردات ENGL 102/103B — اختر الكلمة المناسبة لإكمال الجملة.",
+      "count": 100
+    }
+  ]
 }

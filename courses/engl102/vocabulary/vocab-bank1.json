@@ -1,0 +1,1610 @@
+{
+  "schemaVersion": 1,
+  "id": "engl102-vocab-bank-1",
+  "title": "ENGL 102/103B — Vocabulary Bank 1",
+  "description": "اختبار مفردات شامل (100 سؤال) من قائمة مفردات ENGL 102/103B — اختر الكلمة المناسبة لإكمال الجملة.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "It is very cold today. Put on some warm ___.",
+      "options": [
+        "fruit",
+        "clothes",
+        "music",
+        "furniture"
+      ],
+      "answerIndex": 1,
+      "hint": "warm = دافئ، cold = بارد — الجملة تتحدث عن الاستعداد لطقس بارد.",
+      "feedback": {
+        "correct": "أحسنت ✓ clothes تعني «ملابس» — الجو بارد، فنحتاج إلى شيء دافئ نرتديه.",
+        "incorrect": "الإجابة الصحيحة هي clothes (ملابس) — الجو بارد، فنحتاج إلى شيء دافئ نرتديه. أمّا fruit تعني «فاكهة»، وmusic تعني «موسيقى»، وfurniture تعني «أثاث» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q2",
+      "prompt": "Our new neighbor is very ___. She says hello to everyone and smiles a lot.",
+      "options": [
+        "friendly",
+        "shy",
+        "serious",
+        "messy"
+      ],
+      "answerIndex": 0,
+      "hint": "neighbor = جار، smiles = تبتسم — الجملة تصف طريقة تعامل الجارة مع الناس.",
+      "feedback": {
+        "correct": "أحسنت ✓ friendly تعني «ودود» — الجارة تُلقي التحية على الجميع وتبتسم، وهذا سلوك الشخص الودود.",
+        "incorrect": "الإجابة الصحيحة هي friendly (ودود) — الجارة تُلقي التحية على الجميع وتبتسم، وهذا سلوك الشخص الودود. أمّا shy تعني «خجول»، وserious تعني «جادّ»، وmessy تعني «فوضوي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q3",
+      "prompt": "My uncle tells jokes all the time. He is a very ___ man.",
+      "options": [
+        "serious",
+        "shy",
+        "angry",
+        "funny"
+      ],
+      "answerIndex": 3,
+      "hint": "jokes = نكت، all the time = طوال الوقت — الجملة تصف شخصية العم.",
+      "feedback": {
+        "correct": "أحسنت ✓ funny تعني «مضحك» — من يروي النكت دائمًا يُضحك الآخرين.",
+        "incorrect": "الإجابة الصحيحة هي funny (مضحك) — من يروي النكت دائمًا يُضحك الآخرين. أمّا serious تعني «جادّ»، وshy تعني «خجول»، وangry تعني «غاضب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q4",
+      "prompt": "Thank you for carrying my bags. You are very ___.",
+      "options": [
+        "rude",
+        "lazy",
+        "helpful",
+        "noisy"
+      ],
+      "answerIndex": 2,
+      "hint": "carrying = تحمل، bags = حقائب — شخص يشكر آخر على تصرّف قام به.",
+      "feedback": {
+        "correct": "أحسنت ✓ helpful تعني «متعاون» — يُشكَر من يحمل الحقائب عنك لأنه يقدّم المساعدة.",
+        "incorrect": "الإجابة الصحيحة هي helpful (متعاون) — يُشكَر من يحمل الحقائب عنك لأنه يقدّم المساعدة. أمّا rude تعني «وقح»، وlazy تعني «كسول»، وnoisy تعني «صاخب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q5",
+      "prompt": "Sara always gets the highest marks in her class. She is very ___.",
+      "options": [
+        "lazy",
+        "intelligent",
+        "shy",
+        "messy"
+      ],
+      "answerIndex": 1,
+      "hint": "marks = درجات، class = الصف — الجملة تتحدث عن نتائج طالبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ intelligent تعني «ذكي» — الحصول على أعلى الدرجات دائمًا يدل على الذكاء.",
+        "incorrect": "الإجابة الصحيحة هي intelligent (ذكي) — الحصول على أعلى الدرجات دائمًا يدل على الذكاء. أمّا lazy تعني «كسول»، وshy تعني «خجول»، وmessy تعني «فوضوي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q6",
+      "prompt": "Look at your room! Clothes are on the floor and books are under the bed. It is so ___.",
+      "options": [
+        "messy",
+        "neat",
+        "clean",
+        "safe"
+      ],
+      "answerIndex": 0,
+      "hint": "floor = أرضية، under = تحت — الجملة تصف حال الغرفة.",
+      "feedback": {
+        "correct": "أحسنت ✓ messy تعني «فوضوي» — ملابس على الأرض وكتب تحت السرير تعني غرفة غير مرتبة.",
+        "incorrect": "الإجابة الصحيحة هي messy (فوضوي) — ملابس على الأرض وكتب تحت السرير تعني غرفة غير مرتبة. أمّا neat تعني «مرتّب»، وclean تعني «نظيف»، وsafe تعني «آمن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q7",
+      "prompt": "Ali puts every book and pen in its place. His desk is always ___.",
+      "options": [
+        "messy",
+        "dirty",
+        "broken",
+        "neat"
+      ],
+      "answerIndex": 3,
+      "hint": "desk = مكتب، pen = قلم — الجملة تصف حال مكتب علي.",
+      "feedback": {
+        "correct": "أحسنت ✓ neat تعني «مرتّب» — وضع كل شيء في مكانه يجعل المكتب مرتبًا.",
+        "incorrect": "الإجابة الصحيحة هي neat (مرتّب) — وضع كل شيء في مكانه يجعل المكتب مرتبًا. أمّا messy تعني «فوضوي»، وdirty تعني «متّسخ»، وbroken تعني «مكسور» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q8",
+      "prompt": "The doctor did not smile or joke. He looked very ___ when he talked about the test results.",
+      "options": [
+        "funny",
+        "friendly",
+        "serious",
+        "lazy"
+      ],
+      "answerIndex": 2,
+      "hint": "joke = يمزح، test results = نتائج الفحص — طبيب يتحدث عن موضوع مهم.",
+      "feedback": {
+        "correct": "أحسنت ✓ serious تعني «جادّ» — الطبيب لا يبتسم ولا يمزح عند الحديث عن موضوع مهم.",
+        "incorrect": "الإجابة الصحيحة هي serious (جادّ) — الطبيب لا يبتسم ولا يمزح عند الحديث عن موضوع مهم. أمّا funny تعني «مضحك»، وfriendly تعني «ودود»، وlazy تعني «كسول» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q9",
+      "prompt": "Omar doesn't like talking to new people. He is very ___.",
+      "options": [
+        "friendly",
+        "shy",
+        "funny",
+        "helpful"
+      ],
+      "answerIndex": 1,
+      "hint": "talking = يتحدث، new people = أشخاص جدد — الجملة تصف شعور عمر عند مقابلة الغرباء.",
+      "feedback": {
+        "correct": "أحسنت ✓ shy تعني «خجول» — من لا يحب الحديث مع الغرباء يكون خجولًا.",
+        "incorrect": "الإجابة الصحيحة هي shy (خجول) — من لا يحب الحديث مع الغرباء يكون خجولًا. أمّا friendly تعني «ودود»، وfunny تعني «مضحك»، وhelpful تعني «متعاون» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q10",
+      "prompt": "Khalid wants to ___ English, so he studies every day.",
+      "options": [
+        "be good at",
+        "be afraid of",
+        "be late for",
+        "be tired of"
+      ],
+      "answerIndex": 0,
+      "hint": "wants = يريد، studies = يدرس — الجملة تصف هدف خالد وما يفعله لتحقيقه.",
+      "feedback": {
+        "correct": "أحسنت ✓ be good at تعني «ماهر في» — من يدرس كل يوم يريد أن يصبح ماهرًا في اللغة.",
+        "incorrect": "الإجابة الصحيحة هي be good at (ماهر في) — من يدرس كل يوم يريد أن يصبح ماهرًا في اللغة. أمّا be afraid of تعني «يخاف من»، وbe late for تعني «يتأخر عن»، وbe tired of تعني «يملّ من» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q11",
+      "prompt": "I like to ___ music when I study.",
+      "options": [
+        "look at",
+        "talk to",
+        "wait for",
+        "listen to"
+      ],
+      "answerIndex": 3,
+      "hint": "music = موسيقى، study = أذاكر — الجملة تتحدث عن عادة أثناء المذاكرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ listen to تعني «يستمع إلى» — الموسيقى نسمعها بآذاننا، ونقول listen to music.",
+        "incorrect": "الإجابة الصحيحة هي listen to (يستمع إلى) — الموسيقى نسمعها بآذاننا، ونقول listen to music. أمّا look at تعني «ينظر إلى»، وtalk to تعني «يتحدث إلى»، وwait for تعني «ينتظر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q12",
+      "prompt": "The children ___ football in the park every Friday.",
+      "options": [
+        "do",
+        "go",
+        "play",
+        "make"
+      ],
+      "answerIndex": 2,
+      "hint": "children = أطفال، park = حديقة — الجملة تصف نشاط الأطفال يوم الجمعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ play تعني «يلعب» — مع أسماء الألعاب مثل football نستخدم play.",
+        "incorrect": "الإجابة الصحيحة هي play (يلعب) — مع أسماء الألعاب مثل football نستخدم play. أمّا do تعني «يفعل»، وgo تعني «يذهب»، وmake تعني «يصنع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q13",
+      "prompt": "Please ___ an umbrella with you. It might rain.",
+      "options": [
+        "make",
+        "take",
+        "do",
+        "say"
+      ],
+      "answerIndex": 1,
+      "hint": "umbrella = مظلة، might rain = قد تمطر — نصيحة قبل الخروج من البيت.",
+      "feedback": {
+        "correct": "أحسنت ✓ take تعني «يأخذ» — نقول take an umbrella بمعنى نأخذ المظلة معنا.",
+        "incorrect": "الإجابة الصحيحة هي take (يأخذ) — نقول take an umbrella بمعنى نأخذ المظلة معنا. أمّا make تعني «يصنع»، وdo تعني «يفعل»، وsay تعني «يقول» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q14",
+      "prompt": "My family likes to ___ movies on Friday night.",
+      "options": [
+        "watch",
+        "hear",
+        "listen",
+        "read"
+      ],
+      "answerIndex": 0,
+      "hint": "movies = أفلام، Friday night = ليلة الجمعة — الجملة تصف نشاطًا عائليًا في المساء.",
+      "feedback": {
+        "correct": "أحسنت ✓ watch تعني «يشاهد» — الأفلام نشاهدها بأعيننا، ونستخدم watch مع الأفلام والتلفاز.",
+        "incorrect": "الإجابة الصحيحة هي watch (يشاهد) — الأفلام نشاهدها بأعيننا، ونستخدم watch مع الأفلام والتلفاز. أمّا hear تعني «يسمع»، وlisten تعني «يستمع»، وread تعني «يقرأ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q15",
+      "prompt": "This laptop doesn't ___ me. It is my brother's.",
+      "options": [
+        "listen to",
+        "depend on",
+        "look at",
+        "belong to"
+      ],
+      "answerIndex": 3,
+      "hint": "laptop = حاسوب محمول، brother's = لأخي — الجملة توضح لمن الجهاز.",
+      "feedback": {
+        "correct": "أحسنت ✓ belong to تعني «ينتمي إلى» — الحاسوب ليس لي بل لأخي، فنقول doesn't belong to me.",
+        "incorrect": "الإجابة الصحيحة هي belong to (ينتمي إلى) — الحاسوب ليس لي بل لأخي، فنقول doesn't belong to me. أمّا listen to تعني «يستمع إلى»، وdepend on تعني «يعتمد على»، وlook at تعني «ينظر إلى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q16",
+      "prompt": "Nora likes to ___ old coins. She has more than 200.",
+      "options": [
+        "paint",
+        "cook",
+        "collect",
+        "wear"
+      ],
+      "answerIndex": 2,
+      "hint": "coins = عملات معدنية، more than = أكثر من — الجملة تصف هواية نورة.",
+      "feedback": {
+        "correct": "أحسنت ✓ collect تعني «يجمع» — من لديها أكثر من 200 عملة قديمة تجمعها كهواية.",
+        "incorrect": "الإجابة الصحيحة هي collect (يجمع) — من لديها أكثر من 200 عملة قديمة تجمعها كهواية. أمّا paint تعني «يرسم»، وcook تعني «يطبخ»، وwear تعني «يرتدي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q17",
+      "prompt": "Are you ___ learning Spanish? There is a new class.",
+      "options": [
+        "famous for",
+        "interested in",
+        "full of",
+        "far from"
+      ],
+      "answerIndex": 1,
+      "hint": "Spanish = الإسبانية، class = دورة — سؤال عن شعور الشخص تجاه دورة جديدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ interested in تعني «مهتم ب» — السؤال يسأل عن اهتمامك بتعلّم الإسبانية.",
+        "incorrect": "الإجابة الصحيحة هي interested in (مهتم ب) — السؤال يسأل عن اهتمامك بتعلّم الإسبانية. أمّا famous for تعني «مشهور بـ»، وfull of تعني «مليء بـ»، وfar from تعني «بعيد عن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q18",
+      "prompt": "Our school football ___ won the game yesterday.",
+      "options": [
+        "team",
+        "farm",
+        "drawer",
+        "scene"
+      ],
+      "answerIndex": 0,
+      "hint": "school = مدرسة، won = فاز — الجملة تتحدث عن نتيجة مباراة.",
+      "feedback": {
+        "correct": "أحسنت ✓ team تعني «فريق» — المجموعة التي تلعب كرة القدم معًا تسمى team.",
+        "incorrect": "الإجابة الصحيحة هي team (فريق) — المجموعة التي تلعب كرة القدم معًا تسمى team. أمّا farm تعني «مزرعة»، وdrawer تعني «دُرج»، وscene تعني «مشهد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q19",
+      "prompt": "The trip to the beach was very ___. We all had a great time.",
+      "options": [
+        "boring",
+        "dangerous",
+        "difficult",
+        "enjoyable"
+      ],
+      "answerIndex": 3,
+      "hint": "trip = رحلة، beach = شاطئ — الجملة تصف تجربة رحلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ enjoyable تعني «ممتع» — قضينا وقتًا رائعًا، فالرحلة كانت ممتعة.",
+        "incorrect": "الإجابة الصحيحة هي enjoyable (ممتع) — قضينا وقتًا رائعًا، فالرحلة كانت ممتعة. أمّا boring تعني «مملّ»، وdangerous تعني «خطير»، وdifficult تعني «صعب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q20",
+      "prompt": "Sami and I are best ___. We play together every day.",
+      "options": [
+        "uncles",
+        "doctors",
+        "friends",
+        "classes"
+      ],
+      "answerIndex": 2,
+      "hint": "best = الأفضل، together = معًا — الجملة تصف علاقة بين شخصين.",
+      "feedback": {
+        "correct": "أحسنت ✓ friends تعني «أصدقاء» — نلعب معًا كل يوم لأننا أصدقاء مقرّبون (best friends).",
+        "incorrect": "الإجابة الصحيحة هي friends (أصدقاء) — نلعب معًا كل يوم لأننا أصدقاء مقرّبون (best friends). أمّا uncles تعني «أعمام»، وdoctors تعني «أطباء»، وclasses تعني «صفوف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q21",
+      "prompt": "I can't carry this box alone. I need your ___.",
+      "options": [
+        "money",
+        "help",
+        "name",
+        "address"
+      ],
+      "answerIndex": 1,
+      "hint": "carry = أحمل، alone = وحدي — شخص يطلب شيئًا من آخر.",
+      "feedback": {
+        "correct": "أحسنت ✓ help تعني «مساعدة» — لا أستطيع حمل الصندوق وحدي، فأحتاج إلى مساعدتك.",
+        "incorrect": "الإجابة الصحيحة هي help (مساعدة) — لا أستطيع حمل الصندوق وحدي، فأحتاج إلى مساعدتك. أمّا money تعني «مال»، وname تعني «اسم»، وaddress تعني «عنوان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q22",
+      "prompt": "Albert Einstein is famous for his great ___.",
+      "options": [
+        "intelligence",
+        "weakness",
+        "flavor",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "hint": "famous = مشهور، great = عظيم — الجملة تتحدث عن عالم مشهور.",
+      "feedback": {
+        "correct": "أحسنت ✓ intelligence تعني «ذكاء» — اشتهر أينشتاين بذكائه العظيم.",
+        "incorrect": "الإجابة الصحيحة هي intelligence (ذكاء) — اشتهر أينشتاين بذكائه العظيم. أمّا weakness تعني «نقطة ضعف»، وflavor تعني «نكهة»، وgarden تعني «حديقة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q23",
+      "prompt": "Can you ___ me at the airport at six o'clock?",
+      "options": [
+        "give up",
+        "stay up",
+        "turn off",
+        "pick up"
+      ],
+      "answerIndex": 3,
+      "hint": "airport = مطار، six o'clock = الساعة السادسة — شخص يطلب ترتيبًا للوصول إلى المطار.",
+      "feedback": {
+        "correct": "أحسنت ✓ pick up تعني «يلتقط» — pick someone up تعني أن تأخذه بسيارتك من مكان ما.",
+        "incorrect": "الإجابة الصحيحة هي pick up (يلتقط) — pick someone up تعني أن تأخذه بسيارتك من مكان ما. أمّا give up تعني «يتوقّف عن»، وstay up تعني «يسهر»، وturn off تعني «يُطفئ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q24",
+      "prompt": "Maha is in her first year at King Saud University. She is a new ___.",
+      "options": [
+        "building",
+        "vitamin",
+        "student",
+        "drawer"
+      ],
+      "answerIndex": 2,
+      "hint": "first year = السنة الأولى، university = جامعة — الجملة تعرّف بدور مها في الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ student تعني «طالب» — من هي في سنتها الأولى في الجامعة طالبة جديدة.",
+        "incorrect": "الإجابة الصحيحة هي student (طالب) — من هي في سنتها الأولى في الجامعة طالبة جديدة. أمّا building تعني «مبنى»، وvitamin تعني «فيتامين»، وdrawer تعني «دُرج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q25",
+      "prompt": "I have an exam tomorrow, so I must ___ tonight.",
+      "options": [
+        "celebrate",
+        "study",
+        "invite",
+        "guess"
+      ],
+      "answerIndex": 1,
+      "hint": "exam = اختبار، tomorrow = غدًا — الجملة تصف ما يجب على المتحدث فعله الليلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ study تعني «يدرس» — قبل الاختبار يجب أن ندرس.",
+        "incorrect": "الإجابة الصحيحة هي study (يدرس) — قبل الاختبار يجب أن ندرس. أمّا celebrate تعني «يحتفل»، وinvite تعني «يدعو»، وguess تعني «يخمّن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q26",
+      "prompt": "Children are very ___. They learn new things quickly.",
+      "options": [
+        "teachable",
+        "unusual",
+        "complicated",
+        "messy"
+      ],
+      "answerIndex": 0,
+      "hint": "quickly = بسرعة، new things = أشياء جديدة — الجملة تصف صفة مشتركة عند الأطفال.",
+      "feedback": {
+        "correct": "أحسنت ✓ teachable تعني «قابل للتعلّم» — الأطفال يتعلمون الأشياء الجديدة بسرعة، فهم قابلون للتعلّم.",
+        "incorrect": "الإجابة الصحيحة هي teachable (قابل للتعلّم) — الأطفال يتعلمون الأشياء الجديدة بسرعة، فهم قابلون للتعلّم. أمّا unusual تعني «غير عادي»، وcomplicated تعني «معقّد»، وmessy تعني «فوضوي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q27",
+      "prompt": "Ahmad cannot drink milk or eat cheese, so he buys ___ yogurt.",
+      "options": [
+        "sugar-free",
+        "salt-free",
+        "unsafe",
+        "nondairy"
+      ],
+      "answerIndex": 3,
+      "hint": "cannot = لا يستطيع، cheese = جبن — الجملة تصف نوع منتج يناسب شخصًا لا يتناول بعض الأطعمة.",
+      "feedback": {
+        "correct": "أحسنت ✓ nondairy تعني «خالٍ من منتجات الألبان» — أحمد لا يتناول الحليب ولا الجبن، فيشتري زبادي خاليًا من منتجات الألبان.",
+        "incorrect": "الإجابة الصحيحة هي nondairy (خالٍ من منتجات الألبان) — أحمد لا يتناول الحليب ولا الجبن، فيشتري زبادي خاليًا من منتجات الألبان. أمّا sugar-free تعني «خالٍ من السكر»، وsalt-free تعني «خالٍ من الملح»، وunsafe تعني «غير آمن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q28",
+      "prompt": "Eating too much fast food every day is ___ for your body.",
+      "options": [
+        "organic",
+        "nutritious",
+        "unhealthy",
+        "salt-free"
+      ],
+      "answerIndex": 2,
+      "hint": "fast food = وجبات سريعة، body = جسم — الجملة تحذّر من عادة غذائية.",
+      "feedback": {
+        "correct": "أحسنت ✓ unhealthy تعني «غير صحي» — الإكثار من الوجبات السريعة يضر الجسم.",
+        "incorrect": "الإجابة الصحيحة هي unhealthy (غير صحي) — الإكثار من الوجبات السريعة يضر الجسم. أمّا organic تعني «عضوي»، وnutritious تعني «مغذٍّ»، وsalt-free تعني «خالٍ من الملح» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q29",
+      "prompt": "I'm hungry, but dinner is at eight. I will ___ now.",
+      "options": [
+        "take a walk",
+        "have a snack",
+        "tell a joke",
+        "make plans"
+      ],
+      "answerIndex": 1,
+      "hint": "hungry = جائع، dinner = العشاء — الجملة تصف حلًّا مؤقتًا لشعور المتحدث.",
+      "feedback": {
+        "correct": "أحسنت ✓ have a snack تعني «يتناول وجبة خفيفة» — هو جائع والعشاء متأخر، فيتناول وجبة خفيفة الآن.",
+        "incorrect": "الإجابة الصحيحة هي have a snack (يتناول وجبة خفيفة) — هو جائع والعشاء متأخر، فيتناول وجبة خفيفة الآن. أمّا take a walk تعني «يتمشّى»، وtell a joke تعني «يروي نكتة»، وmake plans تعني «يضع خططًا» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q30",
+      "prompt": "Let's visit Mona on Friday. I ___ — we can bring her a cake!",
+      "options": [
+        "have an idea",
+        "make friends",
+        "take a vacation",
+        "do nothing"
+      ],
+      "answerIndex": 0,
+      "hint": "visit = نزور، bring = نحضر — شخص يقترح خطة لزيارة صديقة.",
+      "feedback": {
+        "correct": "أحسنت ✓ have an idea تعني «لديه فكرة» — المتكلم يقترح شيئًا جديدًا، فيقول I have an idea.",
+        "incorrect": "الإجابة الصحيحة هي have an idea (لديه فكرة) — المتكلم يقترح شيئًا جديدًا، فيقول I have an idea. أمّا make friends تعني «يكوّن صداقات»، وtake a vacation تعني «يأخذ إجازة»، وdo nothing تعني «لا يفعل شيئًا» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q31",
+      "prompt": "The children are at the amusement park. They ___ all day.",
+      "options": [
+        "do nothing",
+        "make plans",
+        "take a walk",
+        "have fun"
+      ],
+      "answerIndex": 3,
+      "hint": "amusement park = مدينة ألعاب، all day = طوال اليوم — الجملة تصف تجربة الأطفال في المكان.",
+      "feedback": {
+        "correct": "أحسنت ✓ have fun تعني «يمرح» — الأطفال في مدينة ألعاب، فهم يمرحون ويقضون وقتًا ممتعًا.",
+        "incorrect": "الإجابة الصحيحة هي have fun (يمرح) — الأطفال في مدينة ألعاب، فهم يمرحون ويقضون وقتًا ممتعًا. أمّا do nothing تعني «لا يفعل شيئًا»، وmake plans تعني «يضع خططًا»، وtake a walk تعني «يتمشّى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q32",
+      "prompt": "Does anyone have a good ___ for the school party?",
+      "options": [
+        "flood",
+        "farm",
+        "idea",
+        "drawer"
+      ],
+      "answerIndex": 2,
+      "hint": "anyone = أي شخص، party = حفلة — شخص يطلب اقتراحات.",
+      "feedback": {
+        "correct": "أحسنت ✓ idea تعني «فكرة» — نطلب من الجميع فكرة جيدة للحفلة.",
+        "incorrect": "الإجابة الصحيحة هي idea (فكرة) — نطلب من الجميع فكرة جيدة للحفلة. أمّا flood تعني «فيضان»، وfarm تعني «مزرعة»، وdrawer تعني «دُرج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q33",
+      "prompt": "I want to ___ all my friends to my birthday party.",
+      "options": [
+        "guess",
+        "invite",
+        "spend",
+        "collect"
+      ],
+      "answerIndex": 1,
+      "hint": "birthday = عيد ميلاد، party = حفلة — شخص يخطط لحفلته.",
+      "feedback": {
+        "correct": "أحسنت ✓ invite تعني «يدعو» — نقول invite someone to a party أي نطلب منه الحضور.",
+        "incorrect": "الإجابة الصحيحة هي invite (يدعو) — نقول invite someone to a party أي نطلب منه الحضور. أمّا guess تعني «يخمّن»، وspend تعني «يُنفق»، وcollect تعني «يجمع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q34",
+      "prompt": "Shy students sometimes find it hard to ___ at a new school.",
+      "options": [
+        "make friends",
+        "take a vacation",
+        "tell a joke",
+        "have coffee"
+      ],
+      "answerIndex": 0,
+      "hint": "shy = خجول، new school = مدرسة جديدة — الجملة تتحدث عن صعوبة تواجه طلابًا جددًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ make friends تعني «يكوّن صداقات» — الخجولون يجدون صعوبة في تكوين صداقات في مدرسة جديدة.",
+        "incorrect": "الإجابة الصحيحة هي make friends (يكوّن صداقات) — الخجولون يجدون صعوبة في تكوين صداقات في مدرسة جديدة. أمّا take a vacation تعني «يأخذ إجازة»، وtell a joke تعني «يروي نكتة»، وhave coffee تعني «يشرب القهوة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q35",
+      "prompt": "Visiting famous places in a city as a tourist is called ___.",
+      "options": [
+        "jogging",
+        "aerobics",
+        "gymnastics",
+        "sightseeing"
+      ],
+      "answerIndex": 3,
+      "hint": "tourist = سائح، famous = مشهور — الجملة تعرّف نشاطًا يقوم به السياح.",
+      "feedback": {
+        "correct": "أحسنت ✓ sightseeing تعني «مشاهدة المعالم السياحية» — زيارة الأماكن المشهورة في مدينة ما تسمى sightseeing.",
+        "incorrect": "الإجابة الصحيحة هي sightseeing (مشاهدة المعالم السياحية) — زيارة الأماكن المشهورة في مدينة ما تسمى sightseeing. أمّا jogging تعني «الهرولة»، وaerobics تعني «الأيروبكس»، وgymnastics تعني «الجمباز» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q36",
+      "prompt": "I am tired from work. Next month I will ___ and go to the beach.",
+      "options": [
+        "do crosswords",
+        "have coffee",
+        "take a vacation",
+        "tell a joke"
+      ],
+      "answerIndex": 2,
+      "hint": "tired = متعب، work = عمل — الجملة تصف قرارًا بعد الشعور بالتعب.",
+      "feedback": {
+        "correct": "أحسنت ✓ take a vacation تعني «يأخذ إجازة» — بعد التعب من العمل يقرر أن يأخذ إجازة ويذهب إلى الشاطئ.",
+        "incorrect": "الإجابة الصحيحة هي take a vacation (يأخذ إجازة) — بعد التعب من العمل يقرر أن يأخذ إجازة ويذهب إلى الشاطئ. أمّا do crosswords تعني «يحلّ الكلمات المتقاطعة»، وhave coffee تعني «يشرب القهوة»، وtell a joke تعني «يروي نكتة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q37",
+      "prompt": "Huda likes to ___ at the gym with loud music.",
+      "options": [
+        "play scrabble",
+        "do aerobics",
+        "do crosswords",
+        "go skiing"
+      ],
+      "answerIndex": 1,
+      "hint": "gym = نادٍ رياضي، loud = عالٍ — الجملة تصف نشاطًا في النادي.",
+      "feedback": {
+        "correct": "أحسنت ✓ do aerobics تعني «يمارس التمارين الهوائية» — التمارين الهوائية (aerobics) تُمارَس في النادي مع الموسيقى.",
+        "incorrect": "الإجابة الصحيحة هي do aerobics (يمارس التمارين الهوائية) — التمارين الهوائية (aerobics) تُمارَس في النادي مع الموسيقى. أمّا play scrabble تعني «يلعب سكرابل»، وdo crosswords تعني «يحلّ الكلمات المتقاطعة»، وgo skiing تعني «يذهب للتزلّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q38",
+      "prompt": "Ali is learning to ___. He wears a white uniform and practices with a partner.",
+      "options": [
+        "do judo",
+        "play tennis",
+        "go hiking",
+        "play baseball"
+      ],
+      "answerIndex": 0,
+      "hint": "uniform = زي موحد، partner = شريك — الجملة تصف رياضة تُمارس مع شريك.",
+      "feedback": {
+        "correct": "أحسنت ✓ do judo تعني «يمارس الجودو» — الجودو رياضة قتالية تُرتدى لها بدلة بيضاء وتُمارس مع شريك.",
+        "incorrect": "الإجابة الصحيحة هي do judo (يمارس الجودو) — الجودو رياضة قتالية تُرتدى لها بدلة بيضاء وتُمارس مع شريك. أمّا play tennis تعني «يلعب التنس»، وgo hiking تعني «يذهب للمشي في الطبيعة»، وplay baseball تعني «يلعب البيسبول» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q39",
+      "prompt": "I run slowly in the park every morning. I like to ___ before work.",
+      "options": [
+        "go shopping",
+        "go skiing",
+        "go swimming",
+        "go jogging"
+      ],
+      "answerIndex": 3,
+      "hint": "park = حديقة، before work = قبل العمل — شخص يصف عادته الصباحية.",
+      "feedback": {
+        "correct": "أحسنت ✓ go jogging تعني «يذهب للهرولة» — الجري البطيء في الحديقة صباحًا اسمه jogging.",
+        "incorrect": "الإجابة الصحيحة هي go jogging (يذهب للهرولة) — الجري البطيء في الحديقة صباحًا اسمه jogging. أمّا go shopping تعني «يذهب للتسوّق»، وgo skiing تعني «يذهب للتزلّج»، وgo swimming تعني «يذهب للسباحة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q40",
+      "prompt": "The water in the pool is warm today. Let's ___!",
+      "options": [
+        "go shopping",
+        "go skiing",
+        "go swimming",
+        "go hiking"
+      ],
+      "answerIndex": 2,
+      "hint": "pool = مسبح، warm = دافئ — شخص يقترح نشاطًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ go swimming تعني «يذهب للسباحة» — الماء الدافئ في المسبح يناسب السباحة.",
+        "incorrect": "الإجابة الصحيحة هي go swimming (يذهب للسباحة) — الماء الدافئ في المسبح يناسب السباحة. أمّا go shopping تعني «يذهب للتسوّق»، وgo skiing تعني «يذهب للتزلّج»، وgo hiking تعني «يذهب للمشي في الطبيعة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q41",
+      "prompt": "My grandfather lives in an old house, but my uncle lives in a very ___ apartment with smart lights.",
+      "options": [
+        "old",
+        "modern",
+        "dirty",
+        "noisy"
+      ],
+      "answerIndex": 1,
+      "hint": "grandfather = جد، smart lights = إضاءة ذكية — الجملة تقارن بين بيتين.",
+      "feedback": {
+        "correct": "أحسنت ✓ modern تعني «حديث» — الإضاءة الذكية تدل على شقة حديثة تختلف عن بيت الجد القديم.",
+        "incorrect": "الإجابة الصحيحة هي modern (حديث) — الإضاءة الذكية تدل على شقة حديثة تختلف عن بيت الجد القديم. أمّا old تعني «قديم»، وdirty تعني «متّسخ»، وnoisy تعني «صاخب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q42",
+      "prompt": "The weather is beautiful, so let's have our class ___ today.",
+      "options": [
+        "outdoors",
+        "below",
+        "badly",
+        "well"
+      ],
+      "answerIndex": 0,
+      "hint": "weather = الطقس، beautiful = جميل — الجملة تقترح مكانًا للدرس.",
+      "feedback": {
+        "correct": "أحسنت ✓ outdoors تعني «في الهواء الطلق» — الطقس جميل، فنقيم الدرس في الهواء الطلق.",
+        "incorrect": "الإجابة الصحيحة هي outdoors (في الهواء الطلق) — الطقس جميل، فنقيم الدرس في الهواء الطلق. أمّا below تعني «تحت»، وbadly تعني «بشكل سيئ»، وwell تعني «جيدًا» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q43",
+      "prompt": "In the USA, many children ___ in the summer. They use a bat and a ball.",
+      "options": [
+        "play tennis",
+        "play video games",
+        "do judo",
+        "play baseball"
+      ],
+      "answerIndex": 3,
+      "hint": "bat = مضرب خشبي، ball = كرة — الجملة تذكر أدوات تُستخدم في اللعبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ play baseball تعني «يلعب البيسبول» — المضرب الخشبي والكرة هما أدوات البيسبول.",
+        "incorrect": "الإجابة الصحيحة هي play baseball (يلعب البيسبول) — المضرب الخشبي والكرة هما أدوات البيسبول. أمّا play tennis تعني «يلعب التنس»، وplay video games تعني «يلعب ألعاب الفيديو»، وdo judo تعني «يمارس الجودو» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q44",
+      "prompt": "Hassan sits in front of the screen for hours and uses a controller. He loves to ___.",
+      "options": [
+        "do crosswords",
+        "play scrabble",
+        "play video games",
+        "go skiing"
+      ],
+      "answerIndex": 2,
+      "hint": "screen = شاشة، controller = ذراع تحكم — الجملة تصف جهازًا يستخدمه حسن.",
+      "feedback": {
+        "correct": "أحسنت ✓ play video games تعني «يلعب ألعاب الفيديو» — الجلوس أمام الشاشة مع ذراع التحكم هو لعب ألعاب الفيديو.",
+        "incorrect": "الإجابة الصحيحة هي play video games (يلعب ألعاب الفيديو) — الجلوس أمام الشاشة مع ذراع التحكم هو لعب ألعاب الفيديو. أمّا do crosswords تعني «يحلّ الكلمات المتقاطعة»، وplay scrabble تعني «يلعب سكرابل»، وgo skiing تعني «يذهب للتزلّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q45",
+      "prompt": "The last ___ of the film was sad. Many people cried.",
+      "options": [
+        "flood",
+        "scene",
+        "farm",
+        "drawer"
+      ],
+      "answerIndex": 1,
+      "hint": "film = فيلم، cried = بكوا — الجملة تتحدث عن نهاية فيلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ scene تعني «مشهد» — نقول scene للجزء المعروض من الفيلم.",
+        "incorrect": "الإجابة الصحيحة هي scene (مشهد) — نقول scene للجزء المعروض من الفيلم. أمّا flood تعني «فيضان»، وfarm تعني «مزرعة»، وdrawer تعني «دُرج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q46",
+      "prompt": "Drinking Arabic coffee with guests is an old ___ in my family.",
+      "options": [
+        "tradition",
+        "contest",
+        "drawer",
+        "vitamin"
+      ],
+      "answerIndex": 0,
+      "hint": "guests = ضيوف، old = قديم — الجملة تتحدث عن شيء يفعله أفراد العائلة منذ زمن.",
+      "feedback": {
+        "correct": "أحسنت ✓ tradition تعني «تقليد» — شرب القهوة العربية مع الضيوف عادة قديمة موروثة في العائلة.",
+        "incorrect": "الإجابة الصحيحة هي tradition (تقليد) — شرب القهوة العربية مع الضيوف عادة قديمة موروثة في العائلة. أمّا contest تعني «مسابقة»، وdrawer تعني «دُرج»، وvitamin تعني «فيتامين» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q47",
+      "prompt": "Turn off the light, please. It's too ___ and I can't sleep.",
+      "options": [
+        "safe",
+        "hard",
+        "fresh",
+        "bright"
+      ],
+      "answerIndex": 3,
+      "hint": "turn off = أطفئ، sleep = أنام — شخص يشتكي من شيء يمنعه من النوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ bright تعني «ساطع» — الضوء الشديد يمنع النوم، فنقول إنه ساطع جدًا.",
+        "incorrect": "الإجابة الصحيحة هي bright (ساطع) — الضوء الشديد يمنع النوم، فنقول إنه ساطع جدًا. أمّا safe تعني «آمن»، وhard تعني «صعب»، وfresh تعني «طازج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q48",
+      "prompt": "The new ___ in front of the university has ten floors.",
+      "options": [
+        "contest",
+        "vitamin",
+        "building",
+        "diet"
+      ],
+      "answerIndex": 2,
+      "hint": "floors = طوابق، in front of = أمام — الجملة تصف شيئًا بجانب الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ building تعني «مبنى» — الشيء الذي له عشرة طوابق هو مبنى.",
+        "incorrect": "الإجابة الصحيحة هي building (مبنى) — الشيء الذي له عشرة طوابق هو مبنى. أمّا contest تعني «مسابقة»، وvitamin تعني «فيتامين»، وdiet تعني «نظام غذائي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q49",
+      "prompt": "The architect showed us the ___ of the new house on paper.",
+      "options": [
+        "flavor",
+        "design",
+        "goal",
+        "energy"
+      ],
+      "answerIndex": 1,
+      "hint": "architect = مهندس معماري، paper = ورق — الجملة تتحدث عن عمل المهندس.",
+      "feedback": {
+        "correct": "أحسنت ✓ design تعني «تصميم» — يعرض المهندس تصميم البيت على الورق قبل بنائه.",
+        "incorrect": "الإجابة الصحيحة هي design (تصميم) — يعرض المهندس تصميم البيت على الورق قبل بنائه. أمّا flavor تعني «نكهة»، وgoal تعني «هدف»، وenergy تعني «طاقة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q50",
+      "prompt": "Zaid didn't study, so he did ___ on the test.",
+      "options": [
+        "badly",
+        "well",
+        "outdoors",
+        "below"
+      ],
+      "answerIndex": 0,
+      "hint": "didn't study = لم يذاكر، test = اختبار — الجملة تصف نتيجة اختبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ badly تعني «بشكل سيئ» — لم يذاكر زيد، فكانت نتيجته سيئة.",
+        "incorrect": "الإجابة الصحيحة هي badly (بشكل سيئ) — لم يذاكر زيد، فكانت نتيجته سيئة. أمّا well تعني «جيدًا»، وoutdoors تعني «في الهواء الطلق»، وbelow تعني «تحت» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q51",
+      "prompt": "The bedrooms are on the second floor. The kitchen is on the first floor, ___ the bedrooms.",
+      "options": [
+        "above",
+        "on",
+        "off",
+        "below"
+      ],
+      "answerIndex": 3,
+      "hint": "floor = طابق، first = الأول — الجملة تصف موقع المطبخ بالنسبة لغرف النوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ below تعني «تحت» — المطبخ في الطابق الأول، أي أسفل غرف النوم.",
+        "incorrect": "الإجابة الصحيحة هي below (تحت) — المطبخ في الطابق الأول، أي أسفل غرف النوم. أمّا above تعني «فوق»، وon تعني «على»، وoff تعني «خارج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q52",
+      "prompt": "I didn't like the lecture. It was very long and ___.",
+      "options": [
+        "interesting",
+        "enjoyable",
+        "boring",
+        "safe"
+      ],
+      "answerIndex": 2,
+      "hint": "lecture = محاضرة، long = طويلة — الجملة تعبّر عن رأي في محاضرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ boring تعني «مملّ» — لم تعجبني المحاضرة الطويلة لأنها مملة.",
+        "incorrect": "الإجابة الصحيحة هي boring (مملّ) — لم تعجبني المحاضرة الطويلة لأنها مملة. أمّا interesting تعني «مثير للاهتمام»، وenjoyable تعني «ممتع»، وsafe تعني «آمن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q53",
+      "prompt": "Please wash your hands before dinner. They must be ___.",
+      "options": [
+        "dirty",
+        "clean",
+        "messy",
+        "noisy"
+      ],
+      "answerIndex": 1,
+      "hint": "wash = اغسل، dinner = العشاء — طلب قبل الأكل.",
+      "feedback": {
+        "correct": "أحسنت ✓ clean تعني «نظيف» — نغسل اليدين لتصبح نظيفة قبل الأكل.",
+        "incorrect": "الإجابة الصحيحة هي clean (نظيف) — نغسل اليدين لتصبح نظيفة قبل الأكل. أمّا dirty تعني «متّسخ»، وmessy تعني «فوضوي»، وnoisy تعني «صاخب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q54",
+      "prompt": "I can't understand these instructions. They are too ___.",
+      "options": [
+        "complicated",
+        "simple",
+        "easy",
+        "safe"
+      ],
+      "answerIndex": 0,
+      "hint": "instructions = تعليمات، understand = أفهم — شخص لا يفهم التعليمات.",
+      "feedback": {
+        "correct": "أحسنت ✓ complicated تعني «معقّد» — لا أفهمها لأنها معقدة وليست بسيطة.",
+        "incorrect": "الإجابة الصحيحة هي complicated (معقّد) — لا أفهمها لأنها معقدة وليست بسيطة. أمّا simple تعني «بسيط»، وeasy تعني «سهل»، وsafe تعني «آمن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q55",
+      "prompt": "Don't swim in the sea during a storm. It's very ___.",
+      "options": [
+        "safe",
+        "popular",
+        "helpful",
+        "dangerous"
+      ],
+      "answerIndex": 3,
+      "hint": "storm = عاصفة، swim = تسبح — تحذير من فعل شيء في الطقس السيئ.",
+      "feedback": {
+        "correct": "أحسنت ✓ dangerous تعني «خطير» — السباحة أثناء العاصفة خطيرة.",
+        "incorrect": "الإجابة الصحيحة هي dangerous (خطير) — السباحة أثناء العاصفة خطيرة. أمّا safe تعني «آمن»، وpopular تعني «شائع»، وhelpful تعني «متعاون» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q56",
+      "prompt": "The kitchen smells bad because the dishes have not been washed for days. It is very ___.",
+      "options": [
+        "clean",
+        "neat",
+        "dirty",
+        "bright"
+      ],
+      "answerIndex": 2,
+      "hint": "dishes = أطباق، smells = رائحة — الجملة تصف حال المطبخ.",
+      "feedback": {
+        "correct": "أحسنت ✓ dirty تعني «متّسخ» — أطباق غير مغسولة لأيام ورائحة سيئة تعني مطبخًا متسخًا.",
+        "incorrect": "الإجابة الصحيحة هي dirty (متّسخ) — أطباق غير مغسولة لأيام ورائحة سيئة تعني مطبخًا متسخًا. أمّا clean تعني «نظيف»، وneat تعني «مرتّب»، وbright تعني «ساطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q57",
+      "prompt": "I got 100% on the quiz. The questions were very ___.",
+      "options": [
+        "hard",
+        "easy",
+        "complicated",
+        "dangerous"
+      ],
+      "answerIndex": 1,
+      "hint": "quiz = اختبار قصير، 100% = درجة كاملة — شخص يعلّق على أسئلة اختبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ easy تعني «سهل» — الدرجة الكاملة تدل على أن الأسئلة كانت سهلة.",
+        "incorrect": "الإجابة الصحيحة هي easy (سهل) — الدرجة الكاملة تدل على أن الأسئلة كانت سهلة. أمّا hard تعني «صعب»، وcomplicated تعني «معقّد»، وdangerous تعني «خطير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q58",
+      "prompt": "That watch costs 10,000 riyals. It's too ___ for me.",
+      "options": [
+        "expensive",
+        "cheap",
+        "simple",
+        "fresh"
+      ],
+      "answerIndex": 0,
+      "hint": "costs = يكلّف، riyals = ريالات — شخص يعلّق على سعر ساعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ expensive تعني «غالٍ» — ثمنها 10,000 ريال، فهي غالية جدًا.",
+        "incorrect": "الإجابة الصحيحة هي expensive (غالٍ) — ثمنها 10,000 ريال، فهي غالية جدًا. أمّا cheap تعني «رخيص»، وsimple تعني «بسيط»، وfresh تعني «طازج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q59",
+      "prompt": "Fatima speaks Arabic and English. She also wants to learn a ___, like French.",
+      "options": [
+        "school bag",
+        "private room",
+        "dairy product",
+        "foreign language"
+      ],
+      "answerIndex": 3,
+      "hint": "French = الفرنسية، Arabic = العربية — الجملة تذكر لغات مختلفة عن لغتها الأم.",
+      "feedback": {
+        "correct": "أحسنت ✓ foreign language تعني «لغة أجنبية» — الفرنسية ليست لغة فاطمة الأم، فهي لغة أجنبية.",
+        "incorrect": "الإجابة الصحيحة هي foreign language (لغة أجنبية) — الفرنسية ليست لغة فاطمة الأم، فهي لغة أجنبية. أمّا school bag تعني «حقيبة مدرسية»، وprivate room تعني «غرفة خاصة»، وdairy product تعني «منتج ألبان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q60",
+      "prompt": "I studied for hours, but the exam was very ___.",
+      "options": [
+        "easy",
+        "simple",
+        "hard",
+        "safe"
+      ],
+      "answerIndex": 2,
+      "hint": "hours = ساعات، exam = اختبار — شخص يصف اختبارًا بعد استعداد طويل.",
+      "feedback": {
+        "correct": "أحسنت ✓ hard تعني «صعب» — رغم المذاكرة الطويلة كان الاختبار صعبًا.",
+        "incorrect": "الإجابة الصحيحة هي hard (صعب) — رغم المذاكرة الطويلة كان الاختبار صعبًا. أمّا easy تعني «سهل»، وsimple تعني «بسيط»، وsafe تعني «آمن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q61",
+      "prompt": "I couldn't stop reading this book. It's really ___.",
+      "options": [
+        "boring",
+        "interesting",
+        "dirty",
+        "dangerous"
+      ],
+      "answerIndex": 1,
+      "hint": "couldn't stop = لم أستطع التوقف، reading = القراءة — شخص يصف كتابًا أعجبه.",
+      "feedback": {
+        "correct": "أحسنت ✓ interesting تعني «مثير للاهتمام» — لم أستطع التوقف عن القراءة لأن الكتاب مثير للاهتمام.",
+        "incorrect": "الإجابة الصحيحة هي interesting (مثير للاهتمام) — لم أستطع التوقف عن القراءة لأن الكتاب مثير للاهتمام. أمّا boring تعني «مملّ»، وdirty تعني «متّسخ»، وdangerous تعني «خطير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q62",
+      "prompt": "He always says \"I can't\" and \"It's impossible.\" He has a very ___ attitude.",
+      "options": [
+        "negative",
+        "positive",
+        "friendly",
+        "healthy"
+      ],
+      "answerIndex": 0,
+      "hint": "impossible = مستحيل، attitude = موقف / نظرة — الجملة تصف طريقة تفكير شخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ negative تعني «سلبي» — قول «لا أستطيع» و«مستحيل» دائمًا يدل على نظرة سلبية.",
+        "incorrect": "الإجابة الصحيحة هي negative (سلبي) — قول «لا أستطيع» و«مستحيل» دائمًا يدل على نظرة سلبية. أمّا positive تعني «إيجابي»، وfriendly تعني «ودود»، وhealthy تعني «صحي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q63",
+      "prompt": "Dr. Salman teaches chemistry at the university. He is a famous ___.",
+      "options": [
+        "roommate",
+        "vegetarian",
+        "landlord",
+        "professor"
+      ],
+      "answerIndex": 3,
+      "hint": "chemistry = الكيمياء، university = جامعة — الجملة تعرّف بوظيفة شخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ professor تعني «أستاذ جامعي» — من يدرّس الكيمياء في الجامعة أستاذ جامعي.",
+        "incorrect": "الإجابة الصحيحة هي professor (أستاذ جامعي) — من يدرّس الكيمياء في الجامعة أستاذ جامعي. أمّا roommate تعني «زميل السكن»، وvegetarian تعني «نباتي»، وlandlord تعني «المالك» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q64",
+      "prompt": "You can walk here at night. It's a very ___ neighborhood.",
+      "options": [
+        "dangerous",
+        "noisy",
+        "safe",
+        "crowded"
+      ],
+      "answerIndex": 2,
+      "hint": "neighborhood = حي، at night = في الليل — الجملة تصف حيًّا سكنيًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ safe تعني «آمن» — يمكن المشي ليلًا لأن الحي آمن.",
+        "incorrect": "الإجابة الصحيحة هي safe (آمن) — يمكن المشي ليلًا لأن الحي آمن. أمّا dangerous تعني «خطير»، وnoisy تعني «صاخب»، وcrowded تعني «مزدحم» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q65",
+      "prompt": "The recipe is very ___. You only need three things and ten minutes.",
+      "options": [
+        "complicated",
+        "simple",
+        "expensive",
+        "dangerous"
+      ],
+      "answerIndex": 1,
+      "hint": "recipe = وصفة طعام، ten minutes = عشر دقائق — شخص يصف وصفة طبخ.",
+      "feedback": {
+        "correct": "أحسنت ✓ simple تعني «بسيط» — ثلاثة مكونات وعشر دقائق فقط تعني وصفة بسيطة.",
+        "incorrect": "الإجابة الصحيحة هي simple (بسيط) — ثلاثة مكونات وعشر دقائق فقط تعني وصفة بسيطة. أمّا complicated تعني «معقّد»، وexpensive تعني «غالٍ»، وdangerous تعني «خطير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q66",
+      "prompt": "Speaking English fluently is one of Mona's ___. It is what she does best.",
+      "options": [
+        "strengths",
+        "weaknesses",
+        "goals",
+        "plans"
+      ],
+      "answerIndex": 0,
+      "hint": "fluently = بطلاقة، best = الأفضل — الجملة تصف جانبًا في شخصية منى.",
+      "feedback": {
+        "correct": "أحسنت ✓ strengths تعني «نقاط قوة» — ما تفعله منى بشكل أفضل هو إحدى نقاط قوتها.",
+        "incorrect": "الإجابة الصحيحة هي strengths (نقاط قوة) — ما تفعله منى بشكل أفضل هو إحدى نقاط قوتها. أمّا weaknesses تعني «نقاط ضعف»، وgoals تعني «أهداف»، وplans تعني «خطط» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q67",
+      "prompt": "Nora practices every day, so she speaks English very ___.",
+      "options": [
+        "good",
+        "bad",
+        "nice",
+        "well"
+      ],
+      "answerIndex": 3,
+      "hint": "practices = تتدرب، every day = كل يوم — الجملة تصف مستوى نورة في اللغة.",
+      "feedback": {
+        "correct": "أحسنت ✓ well تعني «جيدًا» — نستخدم الظرف well مع الفعل speak، أما good فصفة.",
+        "incorrect": "الإجابة الصحيحة هي well (جيدًا) — نستخدم الظرف well مع الفعل speak، أما good فصفة. أمّا good تعني «جيد»، وbad تعني «سيئ»، وnice تعني «لطيف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q68",
+      "prompt": "Ahmad bought some red ___ and put them in the fruit bowl.",
+      "options": [
+        "onions",
+        "beans",
+        "apples",
+        "shrimp"
+      ],
+      "answerIndex": 2,
+      "hint": "red = أحمر، bowl = وعاء — شخص اشترى شيئًا ليضعه في وعاء.",
+      "feedback": {
+        "correct": "أحسنت ✓ apples تعني «تفاح» — تُوضع التفاحات الحمراء في وعاء الفاكهة.",
+        "incorrect": "الإجابة الصحيحة هي apples (تفاح) — تُوضع التفاحات الحمراء في وعاء الفاكهة. أمّا onions تعني «بصل»، وbeans تعني «فاصوليا»، وshrimp تعني «روبيان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q69",
+      "prompt": "Monkeys love ___. They are long and yellow.",
+      "options": [
+        "grapes",
+        "bananas",
+        "apples",
+        "potatoes"
+      ],
+      "answerIndex": 1,
+      "hint": "monkeys = قرود، yellow = أصفر — الجملة تصف طعام القرود المفضل.",
+      "feedback": {
+        "correct": "أحسنت ✓ bananas تعني «موز» — الفاكهة الطويلة الصفراء هي الموز.",
+        "incorrect": "الإجابة الصحيحة هي bananas (موز) — الفاكهة الطويلة الصفراء هي الموز. أمّا grapes تعني «عنب»، وapples تعني «تفاح»، وpotatoes تعني «بطاطس» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q70",
+      "prompt": "My grandmother cooks ___ with tomato sauce and serves them with bread.",
+      "options": [
+        "beans",
+        "grapes",
+        "bananas",
+        "milk"
+      ],
+      "answerIndex": 0,
+      "hint": "sauce = صلصة، bread = خبز — الجملة تصف وجبة تطبخها الجدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ beans تعني «فاصوليا» — تُطبخ الفاصوليا بصلصة الطماطم وتُقدَّم مع الخبز.",
+        "incorrect": "الإجابة الصحيحة هي beans (فاصوليا) — تُطبخ الفاصوليا بصلصة الطماطم وتُقدَّم مع الخبز. أمّا grapes تعني «عنب»، وbananas تعني «موز»، وmilk تعني «حليب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q71",
+      "prompt": "We always ___ Eid with a big family dinner.",
+      "options": [
+        "collect",
+        "guess",
+        "avoid",
+        "celebrate"
+      ],
+      "answerIndex": 3,
+      "hint": "Eid = العيد، dinner = عشاء — الجملة تتحدث عن مناسبة سعيدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ celebrate تعني «يحتفل» — نحتفل بالعيد مع عشاء العائلة.",
+        "incorrect": "الإجابة الصحيحة هي celebrate (يحتفل) — نحتفل بالعيد مع عشاء العائلة. أمّا collect تعني «يجمع»، وguess تعني «يخمّن»، وavoid تعني «يتجنّب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q72",
+      "prompt": "I like to buy ___ bread from the bakery every morning. It's still hot.",
+      "options": [
+        "boring",
+        "dirty",
+        "fresh",
+        "dangerous"
+      ],
+      "answerIndex": 2,
+      "hint": "bakery = مخبز، still hot = ما زال ساخنًا — الجملة تصف خبزًا من المخبز.",
+      "feedback": {
+        "correct": "أحسنت ✓ fresh تعني «طازج» — الخبز الذي ما زال ساخنًا من المخبز طازج.",
+        "incorrect": "الإجابة الصحيحة هي fresh (طازج) — الخبز الذي ما زال ساخنًا من المخبز طازج. أمّا boring تعني «مملّ»، وdirty تعني «متّسخ»، وdangerous تعني «خطير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q73",
+      "prompt": "Raisins are dried ___.",
+      "options": [
+        "beans",
+        "grapes",
+        "potatoes",
+        "onions"
+      ],
+      "answerIndex": 1,
+      "hint": "raisins = زبيب، dried = مجفف — الجملة تتحدث عن مصدر نوع من الفاكهة المجففة.",
+      "feedback": {
+        "correct": "أحسنت ✓ grapes تعني «عنب» — الزبيب هو عنب مجفف.",
+        "incorrect": "الإجابة الصحيحة هي grapes (عنب) — الزبيب هو عنب مجفف. أمّا beans تعني «فاصوليا»، وpotatoes تعني «بطاطس»، وonions تعني «بصل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q74",
+      "prompt": "Babies need ___ to grow. Cows give us this white drink.",
+      "options": [
+        "milk",
+        "coffee",
+        "water",
+        "juice"
+      ],
+      "answerIndex": 0,
+      "hint": "cows = أبقار، babies = أطفال رضّع — الجملة تتحدث عن مشروب يحتاجه الأطفال.",
+      "feedback": {
+        "correct": "أحسنت ✓ milk تعني «حليب» — الأبقار تعطينا الحليب، وهو مشروب أبيض.",
+        "incorrect": "الإجابة الصحيحة هي milk (حليب) — الأبقار تعطينا الحليب، وهو مشروب أبيض. أمّا coffee تعني «قهوة»، وwater تعني «ماء»، وjuice تعني «عصير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q75",
+      "prompt": "Football is very ___ in Saudi Arabia. Millions of people watch it.",
+      "options": [
+        "unusual",
+        "private",
+        "dirty",
+        "popular"
+      ],
+      "answerIndex": 3,
+      "hint": "millions = ملايين، watch = يشاهدون — الجملة تتحدث عن لعبة وعدد متابعيها.",
+      "feedback": {
+        "correct": "أحسنت ✓ popular تعني «شائع» — ملايين يشاهدونها، فهي لعبة محبوبة.",
+        "incorrect": "الإجابة الصحيحة هي popular (شائع) — ملايين يشاهدونها، فهي لعبة محبوبة. أمّا unusual تعني «غير عادي»، وprivate تعني «خاص»، وdirty تعني «متّسخ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q76",
+      "prompt": "French fries are made from ___.",
+      "options": [
+        "grapes",
+        "bananas",
+        "potatoes",
+        "apples"
+      ],
+      "answerIndex": 2,
+      "hint": "made from = تُصنع من — سؤال عن مكوّن طعام سريع مشهور.",
+      "feedback": {
+        "correct": "أحسنت ✓ potatoes تعني «بطاطس» — البطاطس المقلية تُصنع من البطاطس.",
+        "incorrect": "الإجابة الصحيحة هي potatoes (بطاطس) — البطاطس المقلية تُصنع من البطاطس. أمّا grapes تعني «عنب»، وbananas تعني «موز»، وapples تعني «تفاح» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q77",
+      "prompt": "Shrimp, fish and crab are all types of ___.",
+      "options": [
+        "dairy",
+        "seafood",
+        "vegetables",
+        "fruit"
+      ],
+      "answerIndex": 1,
+      "hint": "shrimp = روبيان، crab = سلطعون — الجملة تجمع ثلاثة أطعمة تحت اسم واحد.",
+      "feedback": {
+        "correct": "أحسنت ✓ seafood تعني «المأكولات البحرية» — الروبيان والسمك والسلطعون كلها مأكولات بحرية.",
+        "incorrect": "الإجابة الصحيحة هي seafood (المأكولات البحرية) — الروبيان والسمك والسلطعون كلها مأكولات بحرية. أمّا dairy تعني «منتجات الألبان»، وvegetables تعني «خضروات»، وfruit تعني «فاكهة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q78",
+      "prompt": "Carrots, tomatoes and cucumbers are ___. Eat more of them every day.",
+      "options": [
+        "vegetables",
+        "grapes",
+        "apples",
+        "bananas"
+      ],
+      "answerIndex": 0,
+      "hint": "carrots = جزر، cucumbers = خيار — الجملة تصنّف ثلاثة أطعمة.",
+      "feedback": {
+        "correct": "أحسنت ✓ vegetables تعني «خضروات» — الجزر والطماطم والخيار خضروات.",
+        "incorrect": "الإجابة الصحيحة هي vegetables (خضروات) — الجزر والطماطم والخيار خضروات. أمّا grapes تعني «عنب»، وapples تعني «تفاح»، وbananas تعني «موز» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q79",
+      "prompt": "What ___ of ice cream do you want: chocolate or vanilla?",
+      "options": [
+        "building",
+        "team",
+        "view",
+        "flavor"
+      ],
+      "answerIndex": 3,
+      "hint": "chocolate = شوكولاتة، vanilla = فانيليا — سؤال عن اختيار نوع من الآيس كريم.",
+      "feedback": {
+        "correct": "أحسنت ✓ flavor تعني «نكهة» — الشوكولاتة والفانيليا نكهتان مختلفتان.",
+        "incorrect": "الإجابة الصحيحة هي flavor (نكهة) — الشوكولاتة والفانيليا نكهتان مختلفتان. أمّا building تعني «مبنى»، وteam تعني «فريق»، وview تعني «منظر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q80",
+      "prompt": "This photo gives me a happy ___ of my childhood.",
+      "options": [
+        "goal",
+        "plan",
+        "memory",
+        "condition"
+      ],
+      "answerIndex": 2,
+      "hint": "photo = صورة، childhood = الطفولة — الجملة تصف شعورًا تثيره صورة قديمة.",
+      "feedback": {
+        "correct": "أحسنت ✓ memory تعني «ذكرى» — الصورة تُذكّرني بالطفولة، فهي ذكرى سعيدة.",
+        "incorrect": "الإجابة الصحيحة هي memory (ذكرى) — الصورة تُذكّرني بالطفولة، فهي ذكرى سعيدة. أمّا goal تعني «هدف»، وplan تعني «خطة»، وcondition تعني «حالة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q81",
+      "prompt": "It's ___ hot in Riyadh in August. It can reach 48 degrees.",
+      "options": [
+        "badly",
+        "extremely",
+        "well",
+        "below"
+      ],
+      "answerIndex": 1,
+      "hint": "August = أغسطس، degrees = درجات — الجملة تصف شدة الحرارة.",
+      "feedback": {
+        "correct": "أحسنت ✓ extremely تعني «للغاية» — 48 درجة حرارة شديدة جدًا.",
+        "incorrect": "الإجابة الصحيحة هي extremely (للغاية) — 48 درجة حرارة شديدة جدًا. أمّا badly تعني «بشكل سيئ»، وwell تعني «جيدًا»، وbelow تعني «تحت» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q82",
+      "prompt": "Mariam doesn't share a room. She has her ___ room.",
+      "options": [
+        "own",
+        "same",
+        "other",
+        "next"
+      ],
+      "answerIndex": 0,
+      "hint": "share = تتشارك، room = غرفة — الجملة تصف غرفة لا تتشاركها مع أحد.",
+      "feedback": {
+        "correct": "أحسنت ✓ own تعني «خاص به» — نقول her own room للغرفة الخاصة بها وحدها.",
+        "incorrect": "الإجابة الصحيحة هي own (خاص به) — نقول her own room للغرفة الخاصة بها وحدها. أمّا same تعني «نفس»، وother تعني «آخر»، وnext تعني «التالي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q83",
+      "prompt": "I only have one pizza, but I'm happy to ___ it with you.",
+      "options": [
+        "celebrate",
+        "collect",
+        "guess",
+        "share"
+      ],
+      "answerIndex": 3,
+      "hint": "pizza = بيتزا، only = فقط — شخص يعرض شيئًا على صديقه.",
+      "feedback": {
+        "correct": "أحسنت ✓ share تعني «يتشارك» — عندي بيتزا واحدة وسأقاسمها معك.",
+        "incorrect": "الإجابة الصحيحة هي share (يتشارك) — عندي بيتزا واحدة وسأقاسمها معك. أمّا celebrate تعني «يحتفل»، وcollect تعني «يجمع»، وguess تعني «يخمّن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q84",
+      "prompt": "I like to ___ with my family on weekends.",
+      "options": [
+        "give up",
+        "stay up",
+        "spend time",
+        "turn off"
+      ],
+      "answerIndex": 2,
+      "hint": "family = عائلة، weekends = عطلة نهاية الأسبوع — شخص يتحدث عن كيفية قضاء عطلته.",
+      "feedback": {
+        "correct": "أحسنت ✓ spend time تعني «يقضي وقتًا» — نقول spend time with someone لقضاء الوقت معه.",
+        "incorrect": "الإجابة الصحيحة هي spend time (يقضي وقتًا) — نقول spend time with someone لقضاء الوقت معه. أمّا give up تعني «يتوقّف عن»، وstay up تعني «يسهر»، وturn off تعني «يُطفئ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q85",
+      "prompt": "From my hotel window, I have a beautiful ___ of the sea.",
+      "options": [
+        "design",
+        "view",
+        "team",
+        "vitamin"
+      ],
+      "answerIndex": 1,
+      "hint": "window = نافذة، hotel = فندق — الجملة تصف تجربة الإقامة في فندق.",
+      "feedback": {
+        "correct": "أحسنت ✓ view تعني «منظر» — ما نراه من النافذة هو المنظر.",
+        "incorrect": "الإجابة الصحيحة هي view (منظر) — ما نراه من النافذة هو المنظر. أمّا design تعني «تصميم»، وteam تعني «فريق»، وvitamin تعني «فيتامين» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q86",
+      "prompt": "The car is old, but it is in good ___. It runs very well.",
+      "options": [
+        "condition",
+        "scene",
+        "flavor",
+        "tradition"
+      ],
+      "answerIndex": 0,
+      "hint": "runs = يعمل، old = قديمة — الجملة تصف حال سيارة.",
+      "feedback": {
+        "correct": "أحسنت ✓ condition تعني «حالة» — السيارة تعمل جيدًا، أي حالتها جيدة.",
+        "incorrect": "الإجابة الصحيحة هي condition (حالة) — السيارة تعمل جيدًا، أي حالتها جيدة. أمّا scene تعني «مشهد»، وflavor تعني «نكهة»، وtradition تعني «تقليد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q87",
+      "prompt": "Cinemas and concerts are popular forms of ___.",
+      "options": [
+        "housing",
+        "energy",
+        "exercise",
+        "entertainment"
+      ],
+      "answerIndex": 3,
+      "hint": "cinemas = دور السينما، concerts = حفلات موسيقية — الجملة تجمع أنشطة يحبها الناس في وقت الفراغ.",
+      "feedback": {
+        "correct": "أحسنت ✓ entertainment تعني «ترفيه» — السينما والحفلات من وسائل الترفيه.",
+        "incorrect": "الإجابة الصحيحة هي entertainment (ترفيه) — السينما والحفلات من وسائل الترفيه. أمّا housing تعني «السكن»، وenergy تعني «طاقة»، وexercise تعني «يتمرّن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q88",
+      "prompt": "Khalid shares his apartment with another student. That student is his ___.",
+      "options": [
+        "landlord",
+        "professor",
+        "roommate",
+        "expert"
+      ],
+      "answerIndex": 2,
+      "hint": "shares = يتشارك، apartment = شقة — الجملة تصف علاقة خالد بطالب آخر.",
+      "feedback": {
+        "correct": "أحسنت ✓ roommate تعني «زميل السكن» — من يشاركك الشقة هو زميل السكن.",
+        "incorrect": "الإجابة الصحيحة هي roommate (زميل السكن) — من يشاركك الشقة هو زميل السكن. أمّا landlord تعني «المالك»، وprofessor تعني «أستاذ جامعي»، وexpert تعني «خبير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q89",
+      "prompt": "Many teenagers ___ their phones. They cannot stop using them.",
+      "options": [
+        "are interested in",
+        "are addicted to",
+        "are afraid of",
+        "are good at"
+      ],
+      "answerIndex": 1,
+      "hint": "teenagers = مراهقون، cannot stop = لا يستطيعون التوقف — الجملة تصف علاقة المراهقين بهواتفهم.",
+      "feedback": {
+        "correct": "أحسنت ✓ are addicted to تعني «مدمنون على» — من لا يستطيع التوقف عن استخدام هاتفه فهو مدمن عليه.",
+        "incorrect": "الإجابة الصحيحة هي are addicted to (مدمنون على) — من لا يستطيع التوقف عن استخدام هاتفه فهو مدمن عليه. أمّا are interested in تعني «مهتمون بـ»، وare afraid of تعني «يخافون من»، وare good at تعني «ماهرون في» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q90",
+      "prompt": "The teacher was angry about the students' bad ___ in class. They were very noisy.",
+      "options": [
+        "behavior",
+        "memory",
+        "diet",
+        "view"
+      ],
+      "answerIndex": 0,
+      "hint": "angry = غاضب، noisy = صاخب — الجملة تصف سبب غضب المعلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ behavior تعني «سلوك» — الضوضاء في الصف من سلوك الطلاب السيئ.",
+        "incorrect": "الإجابة الصحيحة هي behavior (سلوك) — الضوضاء في الصف من سلوك الطلاب السيئ. أمّا memory تعني «ذكرى»، وdiet تعني «نظام غذائي»، وview تعني «منظر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q91",
+      "prompt": "Dr. Noor has studied fish for thirty years. She is an ___ on sea animals.",
+      "options": [
+        "idea",
+        "event",
+        "exercise",
+        "expert"
+      ],
+      "answerIndex": 3,
+      "hint": "thirty years = ثلاثون سنة، fish = السمك — الجملة تصف مستوى معرفة شخص.",
+      "feedback": {
+        "correct": "أحسنت ✓ expert تعني «خبير» — من درس الأسماك ثلاثين سنة خبير بالحيوانات البحرية.",
+        "incorrect": "الإجابة الصحيحة هي expert (خبير) — من درس الأسماك ثلاثين سنة خبير بالحيوانات البحرية. أمّا idea تعني «فكرة»، وevent تعني «مناسبة»، وexercise تعني «يتمرّن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q92",
+      "prompt": "My ___ this year is to read twenty English books.",
+      "options": [
+        "flavor",
+        "scene",
+        "goal",
+        "building"
+      ],
+      "answerIndex": 2,
+      "hint": "twenty = عشرون، this year = هذا العام — شخص يتحدث عن شيء يريد تحقيقه.",
+      "feedback": {
+        "correct": "أحسنت ✓ goal تعني «هدف» — قراءة عشرين كتابًا هو ما يريد تحقيقه، أي هدفه.",
+        "incorrect": "الإجابة الصحيحة هي goal (هدف) — قراءة عشرين كتابًا هو ما يريد تحقيقه، أي هدفه. أمّا flavor تعني «نكهة»، وscene تعني «مشهد»، وbuilding تعني «مبنى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q93",
+      "prompt": "What is your ___ for the weekend? Are you going anywhere?",
+      "options": [
+        "vitamin",
+        "plan",
+        "roommate",
+        "diet"
+      ],
+      "answerIndex": 1,
+      "hint": "weekend = عطلة نهاية الأسبوع، going = ذاهب — سؤال عن ما ينوي الشخص فعله.",
+      "feedback": {
+        "correct": "أحسنت ✓ plan تعني «خطة» — السؤال عن خطتك لنهاية الأسبوع.",
+        "incorrect": "الإجابة الصحيحة هي plan (خطة) — السؤال عن خطتك لنهاية الأسبوع. أمّا vitamin تعني «فيتامين»، وroommate تعني «زميل السكن»، وdiet تعني «نظام غذائي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q94",
+      "prompt": "I have a big exam tomorrow, so I'll ___ late and study.",
+      "options": [
+        "stay up",
+        "give up",
+        "turn off",
+        "pick up"
+      ],
+      "answerIndex": 0,
+      "hint": "exam = اختبار، late = متأخرًا — شخص يصف قراره الليلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ stay up تعني «يسهر» — سيسهر ليدرس قبل الاختبار.",
+        "incorrect": "الإجابة الصحيحة هي stay up (يسهر) — سيسهر ليدرس قبل الاختبار. أمّا give up تعني «يتوقّف عن»، وturn off تعني «يُطفئ»، وpick up تعني «يلتقط» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q95",
+      "prompt": "A remote ___ lets you change the TV channel from the sofa.",
+      "options": [
+        "scene",
+        "design",
+        "vitamin",
+        "control"
+      ],
+      "answerIndex": 3,
+      "hint": "channel = قناة، sofa = أريكة — الجملة تصف جهازًا صغيرًا لتشغيل التلفاز.",
+      "feedback": {
+        "correct": "أحسنت ✓ control تعني «سيطرة» — remote control هو جهاز التحكم عن بُعد.",
+        "incorrect": "الإجابة الصحيحة هي control (سيطرة) — remote control هو جهاز التحكم عن بُعد. أمّا scene تعني «مشهد»، وdesign تعني «تصميم»، وvitamin تعني «فيتامين» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q96",
+      "prompt": "A: Will we go to the park? B: It ___ the weather.",
+      "options": [
+        "belongs to",
+        "listens to",
+        "depends on",
+        "picks up"
+      ],
+      "answerIndex": 2,
+      "hint": "park = حديقة، weather = الطقس — الجواب لا يقول نعم أو لا.",
+      "feedback": {
+        "correct": "أحسنت ✓ depends on تعني «يعتمد على» — يعتمد الذهاب على حالة الطقس.",
+        "incorrect": "الإجابة الصحيحة هي depends on (يعتمد على) — يعتمد الذهاب على حالة الطقس. أمّا belongs to تعني «يعود إلى»، وlistens to تعني «يستمع إلى»، وpicks up تعني «يلتقط» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q97",
+      "prompt": "I didn't sleep well, so I have no ___ today.",
+      "options": [
+        "goal",
+        "energy",
+        "tradition",
+        "building"
+      ],
+      "answerIndex": 1,
+      "hint": "sleep = أنام، today = اليوم — شخص يشرح حالته اليوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ energy تعني «طاقة» — قلة النوم تُنقص الطاقة.",
+        "incorrect": "الإجابة الصحيحة هي energy (طاقة) — قلة النوم تُنقص الطاقة. أمّا goal تعني «هدف»، وtradition تعني «تقليد»، وbuilding تعني «مبنى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q98",
+      "prompt": "The doctor says you should ___ for thirty minutes every day.",
+      "options": [
+        "exercise",
+        "celebrate",
+        "invite",
+        "guess"
+      ],
+      "answerIndex": 0,
+      "hint": "doctor = طبيب، thirty minutes = ثلاثون دقيقة — نصيحة من الطبيب.",
+      "feedback": {
+        "correct": "أحسنت ✓ exercise تعني «يتمرّن» — ينصح الطبيب بممارسة الرياضة نصف ساعة يوميًا.",
+        "incorrect": "الإجابة الصحيحة هي exercise (يتمرّن) — ينصح الطبيب بممارسة الرياضة نصف ساعة يوميًا. أمّا celebrate تعني «يحتفل»، وinvite تعني «يدعو»، وguess تعني «يخمّن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q99",
+      "prompt": "Fruit and vegetables are ___ food. They help your body stay strong.",
+      "options": [
+        "unhealthy",
+        "expensive",
+        "boring",
+        "healthy"
+      ],
+      "answerIndex": 3,
+      "hint": "strong = قوي، body = جسم — الجملة تصف فائدة الطعام.",
+      "feedback": {
+        "correct": "أحسنت ✓ healthy تعني «صحي» — تساعد على قوة الجسم، فهي غذاء صحي.",
+        "incorrect": "الإجابة الصحيحة هي healthy (صحي) — تساعد على قوة الجسم، فهي غذاء صحي. أمّا unhealthy تعني «غير صحي»، وexpensive تعني «غالٍ»، وboring تعني «مملّ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q100",
+      "prompt": "Nora lives alone in a new city and has no friends there. She feels very ___.",
+      "options": [
+        "popular",
+        "friendly",
+        "lonely",
+        "funny"
+      ],
+      "answerIndex": 2,
+      "hint": "alone = وحدها، new city = مدينة جديدة — الجملة تصف شعور نورة.",
+      "feedback": {
+        "correct": "أحسنت ✓ lonely تعني «وحيد» — تعيش وحدها بلا أصدقاء، فتشعر بالوحدة.",
+        "incorrect": "الإجابة الصحيحة هي lonely (وحيد) — تعيش وحدها بلا أصدقاء، فتشعر بالوحدة. أمّا popular تعني «شائع»، وfriendly تعني «ودود»، وfunny تعني «مضحك» — ولا تناسب معنى هذه الجملة."
+      }
+    }
+  ]
+}
