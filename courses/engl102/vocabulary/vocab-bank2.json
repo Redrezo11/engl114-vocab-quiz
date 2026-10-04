@@ -88,18 +88,18 @@
     },
     {
       "id": "q6",
-      "prompt": "Sara wants to ___ art, so she goes to a museum every weekend.",
+      "prompt": "Sara ___ art, so she goes to a museum every weekend.",
       "options": [
-        "be afraid of",
-        "be interested in",
-        "be late for",
-        "be tired of"
+        "is afraid of",
+        "is interested in",
+        "is late for",
+        "is tired of"
       ],
       "answerIndex": 1,
       "hint": "museum = متحف، weekend = عطلة نهاية الأسبوع — الجملة تصف سلوك سارة تجاه الفن.",
       "feedback": {
-        "correct": "أحسنت ✓ be interested in تعني «مهتم ب» — من تذهب إلى المتحف كل أسبوع تهتم بالفن.",
-        "incorrect": "الإجابة الصحيحة هي be interested in (مهتم ب) — من تذهب إلى المتحف كل أسبوع تهتم بالفن. أمّا be afraid of تعني «يخاف من»، و be late for تعني «يتأخر عن»، و be tired of تعني «يملّ من» — ولا تناسب معنى هذه الجملة."
+        "correct": "أحسنت ✓ is interested in تعني «مهتمة بـ» — من تذهب إلى المتحف كل أسبوع تهتم بالفن.",
+        "incorrect": "الإجابة الصحيحة هي is interested in (مهتمة بـ) — من تذهب إلى المتحف كل أسبوع تهتم بالفن. أمّا is afraid of تعني «تخاف من»، و is late for تعني «متأخرة عن»، و is tired of تعني «تملّ من» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -115,7 +115,7 @@
       "hint": "cousins = أبناء العم، lunch = الغداء — الجملة تصف لقاءً عائليًا.",
       "feedback": {
         "correct": "أحسنت ✓ get together with تعني «يجتمع مع» — نقول get together with someone أي نلتقي به ونقضي وقتًا معه.",
-        "incorrect": "الإجابة الصحيحة هي get together with (يجتمع مع) — نقول get together with someone أي نلتقي به ونقضي وقتًا معه. أمّا give up تعني «يتوقّف عن»، و stay up تعني «يسهر»، و turn off تعني «يُطفئ» — ولا تناسب معنى هذه الجملة."
+        "incorrect": "الإجابة الصحيحة هي get together with (يجتمع مع) — نقول get together with someone أي نلتقي به ونقضي وقتًا معه. أمّا give up تعني «يستسلم»، و stay up تعني «يسهر»، و turn off تعني «يُطفئ» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -147,7 +147,7 @@
       "hint": "Sunday to Thursday = من الأحد إلى الخميس، Saudi Arabia = السعودية — الفاعل جمع في جملة مثبتة عن عادة.",
       "feedback": {
         "correct": "أحسنت ✓ go to تعني «يذهب» — الفاعل Students جمع، فنستخدم go to بدون s.",
-        "incorrect": "الإجابة الصحيحة هي go to (يذهب) — الفاعل Students جمع، فنستخدم go to بدون s. أمّا goes to تعني «يذهب إلى»، و going to تعني «ذاهب إلى»، و gone to تعني «ذهب إلى» — ولا تناسب معنى هذه الجملة."
+        "incorrect": "الإجابة الصحيحة هي go to (يذهب) — الفاعل Students جمع، فنستخدم go to بدون s. أمّا goes to فتُستخدم مع الفاعل المفرد، و going to و gone to ليستا صيغة المضارع البسيط — ولا تصح هنا لأن الفاعل جمع والجملة عن عادة."
       }
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "id": "q14",
-      "prompt": "He studies football at a sports ___ in Riyadh.",
+      "prompt": "He trains at a football ___ in Riyadh.",
       "options": [
         "drawer",
         "academy",
@@ -224,7 +224,7 @@
         "event"
       ],
       "answerIndex": 1,
-      "hint": "sports = رياضة، studies = يدرس — الجملة تصف مكانًا للتعلّم والتدريب.",
+      "hint": "trains = يتدرب، football = كرة القدم — الجملة تصف مكانًا للتعلّم والتدريب.",
       "feedback": {
         "correct": "أحسنت ✓ academy تعني «أكاديمية» — المكان الذي يتعلم فيه الطلاب تدريبًا متخصصًا يسمى academy.",
         "incorrect": "الإجابة الصحيحة هي academy (أكاديمية) — المكان الذي يتعلم فيه الطلاب تدريبًا متخصصًا يسمى academy. أمّا drawer تعني «دُرج»، و space تعني «مساحة»، و event تعني «مناسبة» — ولا تناسب معنى هذه الجملة."
@@ -275,7 +275,7 @@
       "hint": "students = طلاب، spelling = التهجئة — الجملة تصف مشكلة تواجه المتعلمين.",
       "feedback": {
         "correct": "أحسنت ✓ difficulty تعني «صعوبة» — نقول have difficulty with something أي يجد صعوبة فيه.",
-        "incorrect": "الإجابة الصحيحة هي difficulty (صعوبة) — نقول have difficulty with something أي يجد صعوبة فيه. أمّا difficult تعني «صعب»، و difficultly تعني «بصعوبة»، و difficultness تعني «صعوبة (شكل غير صحيح)» — ولا تناسب معنى هذه الجملة."
+        "incorrect": "الإجابة الصحيحة هي difficulty (صعوبة) — نقول have difficulty with something أي يجد صعوبة فيه. أمّا difficult فصفة، و difficultly ظرف، و difficultness كلمة غير مستخدمة — ونحتاج هنا إلى اسم بعد have."
       }
     },
     {
@@ -322,8 +322,8 @@
       "answerIndex": 3,
       "hint": "players = لاعبون، match = مباراة — الجملة تصف مكان المباراة.",
       "feedback": {
-        "correct": "أحسنت ✓ field تعني «حقل» — اللاعبون يركضون في الميدان الأخضر قبل المباراة.",
-        "incorrect": "الإجابة الصحيحة هي field (حقل) — اللاعبون يركضون في الميدان الأخضر قبل المباراة. أمّا farm تعني «مزرعة»، و drawer تعني «دُرج»، و event تعني «مناسبة» — ولا تناسب معنى هذه الجملة."
+        "correct": "أحسنت ✓ field تعني «ملعب / ميدان» — اللاعبون يركضون في الميدان الأخضر قبل المباراة.",
+        "incorrect": "الإجابة الصحيحة هي field (ملعب / ميدان) — اللاعبون يركضون في الميدان الأخضر قبل المباراة. أمّا farm تعني «مزرعة»، و drawer تعني «دُرج»، و event تعني «مناسبة» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -354,8 +354,8 @@
       "answerIndex": 1,
       "hint": "drive = يقود، driver = سائق — شخص ينقل مهارة إلى آخر.",
       "feedback": {
-        "correct": "أحسنت ✓ teach تعني «يُدرّس» — نقول teach someone to do something أي يعلّمه إياه.",
-        "incorrect": "الإجابة الصحيحة هي teach (يُدرّس) — نقول teach someone to do something أي يعلّمه إياه. أمّا learn تعني «يتعلم»، و attend تعني «يحضر»، و guess تعني «يخمّن» — ولا تناسب معنى هذه الجملة."
+        "correct": "أحسنت ✓ teach تعني «يُعلّم» — نقول teach someone to do something أي يعلّمه إياه.",
+        "incorrect": "الإجابة الصحيحة هي teach (يُعلّم) — نقول teach someone to do something أي يعلّمه إياه. أمّا learn تعني «يتعلم»، و attend تعني «يحضر»، و guess تعني «يخمّن» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -1160,7 +1160,7 @@
     },
     {
       "id": "q73",
-      "prompt": "When you cut ___, your eyes start to cry.",
+      "prompt": "When you cut ___, your eyes water.",
       "options": [
         "grapes",
         "bananas",
@@ -1168,7 +1168,7 @@
         "apples"
       ],
       "answerIndex": 2,
-      "hint": "cut = تقطع، cry = تبكي — شخص يتحدث عن طعام يسبب البكاء.",
+      "hint": "cut = تقطع، eyes = عيون — شخص يتحدث عن طعام يسبب الدموع.",
       "feedback": {
         "correct": "أحسنت ✓ onions تعني «بصل» — قطع البصل يجعل العينين تدمعان.",
         "incorrect": "الإجابة الصحيحة هي onions (بصل) — قطع البصل يجعل العينين تدمعان. أمّا grapes تعني «عنب»، و bananas تعني «موز»، و apples تعني «تفاح» — ولا تناسب معنى هذه الجملة."
@@ -1426,8 +1426,8 @@
       "answerIndex": 2,
       "hint": "try again = حاول مرة أخرى — شخص يشجع آخر.",
       "feedback": {
-        "correct": "أحسنت ✓ give up تعني «يتوقّف عن» — Don't give up تعني لا تتوقف عن المحاولة.",
-        "incorrect": "الإجابة الصحيحة هي give up (يتوقّف عن) — Don't give up تعني لا تتوقف عن المحاولة. أمّا pick up تعني «يلتقط»، و turn off تعني «يُطفئ»، و stay up تعني «يسهر» — ولا تناسب معنى هذه الجملة."
+        "correct": "أحسنت ✓ give up تعني «يستسلم» — Don't give up تعني لا تتوقف عن المحاولة.",
+        "incorrect": "الإجابة الصحيحة هي give up (يستسلم) — Don't give up تعني لا تتوقف عن المحاولة. أمّا pick up تعني «يلتقط»، و turn off تعني «يُطفئ»، و stay up تعني «يسهر» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -1459,7 +1459,7 @@
       "hint": "healthy = صحي، exercises = يتمرن — شخص يتبع نظامًا يوميًا لهدف.",
       "feedback": {
         "correct": "أحسنت ✓ lose weight تعني «يخسر الوزن» — الأكل الصحي والتمرين اليومي يساعدان على إنقاص الوزن.",
-        "incorrect": "الإجابة الصحيحة هي lose weight (يخسر الوزن) — الأكل الصحي والتمرين اليومي يساعدان على إنقاص الوزن. أمّا gain weight تعني «يزيد وزنه»، و give up تعني «يتوقّف عن»، و pay attention تعني «ينتبه» — ولا تناسب معنى هذه الجملة."
+        "incorrect": "الإجابة الصحيحة هي lose weight (يخسر الوزن) — الأكل الصحي والتمرين اليومي يساعدان على إنقاص الوزن. أمّا gain weight تعني «يزيد وزنه»، و give up تعني «يستسلم»، و pay attention تعني «ينتبه» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -1491,7 +1491,7 @@
       "hint": "explaining = يشرح، important = مهم — طلب من الطلاب أثناء الدرس.",
       "feedback": {
         "correct": "أحسنت ✓ pay attention تعني «ينتبه» — عندما يشرح المعلم شيئًا مهمًا نحتاج أن ننتبه.",
-        "incorrect": "الإجابة الصحيحة هي pay attention (ينتبه) — عندما يشرح المعلم شيئًا مهمًا نحتاج أن ننتبه. أمّا give up تعني «يتوقّف عن»، و stay up تعني «يسهر»، و pick up تعني «يلتقط» — ولا تناسب معنى هذه الجملة."
+        "incorrect": "الإجابة الصحيحة هي pay attention (ينتبه) — عندما يشرح المعلم شيئًا مهمًا نحتاج أن ننتبه. أمّا give up تعني «يستسلم»، و stay up تعني «يسهر»، و pick up تعني «يلتقط» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -1523,7 +1523,7 @@
       "hint": "starting = يبدأ، noise = ضوضاء — طلب لمنع إزعاج الآخرين.",
       "feedback": {
         "correct": "أحسنت ✓ turn off تعني «يُطفئ» — نطفئ الهاتف حتى لا يصدر ضوضاء أثناء الفيلم.",
-        "incorrect": "الإجابة الصحيحة هي turn off (يُطفئ) — نطفئ الهاتف حتى لا يصدر ضوضاء أثناء الفيلم. أمّا turn on تعني «يشغّل»، و pick up تعني «يلتقط»، و give up تعني «يتوقّف عن» — ولا تناسب معنى هذه الجملة."
+        "incorrect": "الإجابة الصحيحة هي turn off (يُطفئ) — نطفئ الهاتف حتى لا يصدر ضوضاء أثناء الفيلم. أمّا turn on تعني «يشغّل»، و pick up تعني «يلتقط»، و give up تعني «يستسلم» — ولا تناسب معنى هذه الجملة."
       }
     },
     {
@@ -1562,16 +1562,16 @@
       "id": "q98",
       "prompt": "Saudi Arabia ___ a lot of oil. It sells it to many countries.",
       "options": [
-        "meet",
-        "produce",
-        "become",
-        "break"
+        "meets",
+        "produces",
+        "becomes",
+        "breaks"
       ],
       "answerIndex": 1,
       "hint": "oil = نفط، sells = تبيع — الجملة تتحدث عن مصدر النفط.",
       "feedback": {
-        "correct": "أحسنت ✓ produce تعني «يُنتج» — الدولة التي تبيع النفط لدول كثيرة تنتجه بكميات كبيرة.",
-        "incorrect": "الإجابة الصحيحة هي produce (يُنتج) — الدولة التي تبيع النفط لدول كثيرة تنتجه بكميات كبيرة. أمّا meet تعني «يقابل»، و become تعني «يصبح»، و break تعني «يكسر» — ولا تناسب معنى هذه الجملة."
+        "correct": "أحسنت ✓ produces تعني «يُنتج» — الدولة التي تبيع النفط لدول كثيرة تنتجه بكميات كبيرة.",
+        "incorrect": "الإجابة الصحيحة هي produces (يُنتج) — الدولة التي تبيع النفط لدول كثيرة تنتجه بكميات كبيرة. أمّا meets تعني «يقابل»، و becomes تعني «يصبح»، و breaks تعني «يكسر» — ولا تناسب معنى هذه الجملة."
       }
     },
     {

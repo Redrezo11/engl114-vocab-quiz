@@ -88,7 +88,7 @@
       "hint": "sister = أخت، doctor = طبيبة — سؤال بنعم أو لا عن شخص واحد.",
       "feedback": {
         "correct": "أحسنت ✓ Is — في السؤال نقدّم is على الفاعل المفرد الغائب.",
-        "incorrect": "الإجابة الصحيحة Is — في السؤال نقدّم is على الفاعل المفرد الغائب. Are للجمع أو you، أما Do و Does فلا تُستخدم مع الاسم بعد be."
+        "incorrect": "الإجابة الصحيحة Is — في السؤال نقدّم is على الفاعل المفرد الغائب. Are للجمع أو you، أما Do و Does فتحتاجان فعلًا رئيسيًا، ولا يوجد فعل رئيسي هنا."
       }
     },
     {
@@ -105,7 +105,7 @@
       "hint": "students = طلاب — السؤال يبدأ بالفعل (be) والفاعل جمع.",
       "feedback": {
         "correct": "أحسنت ✓ Are — الإجابة are تدل على أن السؤال يبدأ بـ Are مع they.",
-        "incorrect": "الإجابة الصحيحة Are — الإجابة are تدل على أن السؤال يبدأ بـ Are مع they. Is للمفرد، و Do لا يُستخدم قبل اسم، و Be لا تبدأ بها الأسئلة."
+        "incorrect": "الإجابة الصحيحة Are — الإجابة are تدل على أن السؤال يبدأ بـ Are مع they. Is للمفرد، و Do يحتاج فعلًا رئيسيًا ولا يوجد فعل رئيسي هنا (students اسم)، و Be لا تبدأ بها الأسئلة."
       }
     },
     {
@@ -989,7 +989,7 @@
       "hint": "lesson = درس، important = مهم — الكلمة قبل الصفة هنا ظرف.",
       "feedback": {
         "correct": "أحسنت ✓ extremely — الظرف extremely يأتي قبل الصفة important.",
-        "incorrect": "الإجابة الصحيحة extremely — الظرف extremely يأتي قبل الصفة important. extreme صفة لا تأتي قبل صفة أخرى دون فاصلة، و extremes و extremity اسمان."
+        "incorrect": "الإجابة الصحيحة extremely — الظرف extremely يأتي قبل الصفة important. extreme صفة، والصفة لا تُقوّي صفة أخرى؛ نحتاج ظرفًا (extremely). أما extremes و extremity فاسمان."
       }
     },
     {
@@ -1623,7 +1623,7 @@
     },
     {
       "id": "g96",
-      "prompt": "My apartment is ___ the campus. It's a two-minute walk.",
+      "prompt": "My apartment is ___ the campus. I can see the campus from my window.",
       "options": [
         "under",
         "above",
@@ -1634,8 +1634,8 @@
       "topicSlug": "prepositions-of-location",
       "hint": "apartment = شقة، campus = الحرم الجامعي — الشقة قريبة جدًا.",
       "feedback": {
-        "correct": "أحسنت ✓ next to — next to تعني بجانب، وهذا يناسب مسافة دقيقتين مشيًا.",
-        "incorrect": "الإجابة الصحيحة next to — next to تعني بجانب، وهذا يناسب مسافة دقيقتين مشيًا. under و above و on تعني مواضع رأسية لا تناسب مبنيين متجاورين."
+        "correct": "أحسنت ✓ next to — next to تعني بجانب، لذلك أرى الحرم الجامعي من نافذتي.",
+        "incorrect": "الإجابة الصحيحة next to — next to تعني بجانب، لذلك أرى الحرم الجامعي من نافذتي. under و above و on تعني مواضع رأسية لا تناسب مبنيين متجاورين."
       }
     },
     {

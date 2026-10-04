@@ -700,7 +700,7 @@
       "hint": "brother = أخ، boy = ولد — كلمة تصف الاسم تأتي قبله.",
       "feedback": {
         "correct": "أحسنت ✓ kind — الصفة kind تأتي قبل الاسم boy.",
-        "incorrect": "الإجابة الصحيحة kind — الصفة kind تأتي قبل الاسم boy. kindly ظرف، و kindness اسم، و kinds جمع خاطئ."
+        "incorrect": "الإجابة الصحيحة kind — الصفة kind تأتي قبل الاسم boy. kindly ظرف، و kindness اسم، و kinds اسم جمع (أنواع) وليست صفة."
       }
     },
     {
@@ -853,7 +853,7 @@
       "hint": "teacher = معلمة، helps = تساعد — كلمة تصف الشخص بعد (be).",
       "feedback": {
         "correct": "أحسنت ✓ friendly — بعد is very نحتاج صفة: friendly.",
-        "incorrect": "الإجابة الصحيحة friendly — بعد is very نحتاج صفة: friendly. friendliness اسم، و friendlily خطأ، و friendlies جمع خاطئ."
+        "incorrect": "الإجابة الصحيحة friendly — بعد is very نحتاج صفة: friendly. friendliness اسم، و friendlily ظرف نادر لا يأتي بعد is، و friendlies خطأ."
       }
     },
     {
@@ -926,7 +926,7 @@
     },
     {
       "id": "g55",
-      "prompt": "The test was ___ easy, but not too easy.",
+      "prompt": "The test was ___ easy. I finished it early.",
       "options": [
         "quiet",
         "quit",
@@ -1610,7 +1610,7 @@
       "options": [
         "behind",
         "under",
-        "at",
+        "inside",
         "in front of"
       ],
       "answerIndex": 3,
@@ -1618,7 +1618,7 @@
       "hint": "main gate = البوابة الرئيسية، see = ترى — الجملة تصف موقعًا واضحًا من الخارج.",
       "feedback": {
         "correct": "أحسنت ✓ in front of — نراه من البوابة، فهو أمام المدرسة: in front of.",
-        "incorrect": "الإجابة الصحيحة in front of — نراه من البوابة، فهو أمام المدرسة: in front of. behind تعني خلف فلا نراه، و under و at لا تناسبان."
+        "incorrect": "الإجابة الصحيحة in front of — نراه من البوابة، فهو أمام المدرسة: in front of. behind تعني خلف فلا نراه، و under تعني تحت، و inside تعني داخل المدرسة."
       }
     },
     {
