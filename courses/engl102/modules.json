@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 2,
+  "version": 3,
   "modules": [
     {
       "id": "engl102-vocab-bank-1",
@@ -8,6 +8,14 @@
       "category": "vocabulary",
       "title": "ENGL 102/103B — Vocabulary Bank 1",
       "description": "اختبار مفردات شامل (100 سؤال) من قائمة مفردات ENGL 102/103B — اختر الكلمة المناسبة لإكمال الجملة.",
+      "count": 100
+    },
+    {
+      "id": "engl102-grammar-bank-1",
+      "file": "grammar/modules/grammar-bank1.json",
+      "category": "grammar",
+      "title": "ENGL 102/103B — Grammar Practice 1",
+      "description": "اختبار تدريبي (100 سؤال) على نقاط القواعد الاثنتي عشرة لاختبار منتصف الفصل، مع رابط شرح لكل موضوع في زر Hint.",
       "count": 100
     }
   ]
