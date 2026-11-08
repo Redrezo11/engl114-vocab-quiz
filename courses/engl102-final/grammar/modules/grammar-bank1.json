@@ -731,7 +731,7 @@
       ],
       "answerIndex": 0,
       "topicSlug": "simple-past-negative",
-      "hint": "difficult = صعب، Everyone passed = نجح الجميع — جملة منفية عن الماضي، وبعد الفراغ صفة وليس فعلًا.",
+      "hint": "difficult = صعب، Everyone passed = نجح الجميع — جملة منفية عن اختبار في الماضي، والفاعل (the test) مفرد.",
       "feedback": {
         "correct": "أحسنت ✓ wasn't — لنفي be في الماضي مع الفاعل المفرد (the test) نستخدم wasn't + صفة.",
         "incorrect": "الإجابة الصحيحة wasn't — لنفي be في الماضي مع الفاعل المفرد (the test) نستخدم wasn't + صفة. didn't تحتاج فعلًا بعدها لا صفة، و weren't للجمع ومع you، و doesn't للمضارع وتحتاج فعلًا."
@@ -1227,7 +1227,7 @@
       "hint": "young = صغير في السن — الخيارات بالكلمات نفسها، فانتبه لمكان الفاصلة.",
       "feedback": {
         "correct": "أحسنت ✓ «When I was young, I played football.» — عندما تأتي جملة when في أول الجملة نضع فاصلة بعدها، وعندما تأتي في آخر الجملة لا نضع فاصلة.",
-        "incorrect": "الإجابة الصحيحة «When I was young, I played football.» — عندما تأتي جملة when في أول الجملة نضع فاصلة بعدها، وعندما تأتي في آخر الجملة لا نضع فاصلة. الجملة الثانية ينقصها الفاصلة، والثالثة وضعت الفاصلة بعد When مباشرة، والرابعة وضعت فاصلة قبل when وهي في آخر الجملة."
+        "incorrect": "الإجابة الصحيحة «When I was young, I played football.» — عندما تأتي جملة when في أول الجملة نضع فاصلة بعدها، وعندما تأتي في آخر الجملة لا نضع فاصلة. «When I was young I played football.» ينقصها الفاصلة بعد جملة when، و «When, I was young…» وضعت الفاصلة بعد When مباشرة، و «I played football, when I was young.» وضعت فاصلة قبل when وهي في آخر الجملة."
       }
     },
     {
@@ -1244,7 +1244,7 @@
       "hint": "tough = صعب، nervous = متوتر — انتبه للفاصلة ولاكتمال الجملة.",
       "feedback": {
         "correct": "أحسنت ✓ «Because the test was tough, many students felt nervous.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها.",
-        "incorrect": "الإجابة الصحيحة «Because the test was tough, many students felt nervous.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها. الثانية ينقصها الفاصلة، والثالثة فيها جملة because وحدها وهي جملة ناقصة، والرابعة وضعت الفواصل في غير مكانها."
+        "incorrect": "الإجابة الصحيحة «Because the test was tough, many students felt nervous.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها. «Because the test was tough many students…» ينقصها الفاصلة، و «Because the test was tough.» وحدها جملة ناقصة، و «…, because, the test was tough.» وضعت الفواصل في غير مكانها."
       }
     },
     {
@@ -1261,7 +1261,7 @@
       "hint": "went to bed = ذهب إلى النوم، tired = متعب — ابحث عن الجملة الكاملة الصحيحة.",
       "feedback": {
         "correct": "أحسنت ✓ «I went to bed early because I was tired.» — جملة because تحتاج جملة رئيسية معها، وإذا جاءت في آخر الجملة فلا نضع فاصلة.",
-        "incorrect": "الإجابة الصحيحة «I went to bed early because I was tired.» — جملة because تحتاج جملة رئيسية معها، وإذا جاءت في آخر الجملة فلا نضع فاصلة. «Because I was tired.» وحدها جملة ناقصة، و because tired ينقصها الفاعل والفعل، والرابعة ينقصها فاصلة بعد جملة because في أول الجملة."
+        "incorrect": "الإجابة الصحيحة «I went to bed early because I was tired.» — جملة because تحتاج جملة رئيسية معها، وإذا جاءت في آخر الجملة فلا نضع فاصلة. «Because I was tired.» وحدها جملة ناقصة، و because tired ينقصها الفاعل والفعل، و «Because I was tired I went to bed early.» ينقصها فاصلة بعد جملة because لأنها في أول الجملة."
       }
     },
     {
@@ -1380,7 +1380,7 @@
       "hint": "hungry = جائع، sandwich = شطيرة — فكّر في العلاقة بين الجوع والأكل، وانتبه لمكان الفاصلة.",
       "feedback": {
         "correct": "أحسنت ✓ «I was hungry, so I ate a sandwich.» — نستخدم so لبيان النتيجة، ونضع فاصلة قبل so عند ربط جملتين كاملتين.",
-        "incorrect": "الإجابة الصحيحة «I was hungry, so I ate a sandwich.» — نستخدم so لبيان النتيجة، ونضع فاصلة قبل so عند ربط جملتين كاملتين. but للتعارض ولا تعارض هنا، والثالثة وضعت الفاصلة بعد so بدل قبلها، و because تجعل الأكل سببًا للجوع."
+        "incorrect": "الإجابة الصحيحة «I was hungry, so I ate a sandwich.» — نستخدم so لبيان النتيجة، ونضع فاصلة قبل so عند ربط جملتين كاملتين. but للتعارض ولا تعارض هنا، و «hungry so, I ate» وضعت الفاصلة بعد so بدل قبلها، و because تجعل الأكل سببًا للجوع."
       }
     },
     {
@@ -1530,7 +1530,7 @@
       ],
       "answerIndex": 3,
       "topicSlug": "parts-of-speech",
-      "hint": "professional = احترافي — لاحظ أن الكلمة تأتي بعد Her وهي فاعل الجملة.",
+      "hint": "decision = قرار، professional = احترافي — انظر إلى موقع الكلمة في الجملة: ماذا يأتي قبلها، وما دورها؟",
       "feedback": {
         "correct": "أحسنت ✓ noun — decision اسم (قرار)، فهي تأتي بعد Her وهي فاعل الجملة.",
         "incorrect": "الإجابة الصحيحة noun — decision اسم (قرار)، فهي تأتي بعد Her وهي فاعل الجملة. الفعل في الجملة هو was، والصفة هي professional، و decision لا تصف فعلًا فليست ظرفًا."
@@ -1703,7 +1703,7 @@
       "hint": "graduate = تتخرّج، next year = العام القادم — خطة مستقبلية، والفاعل مفرد غائب.",
       "feedback": {
         "correct": "أحسنت ✓ «My sister is going to graduate next year.» — مع she نستخدم is + going to + الفعل في صورته الأصلية.",
-        "incorrect": "الإجابة الصحيحة «My sister is going to graduate next year.» — مع she نستخدم is + going to + الفعل في صورته الأصلية. الثانية ينقصها is، والثالثة أضافت -s إلى الفعل بعد going to، والرابعة استخدمت go بدل going."
+        "incorrect": "الإجابة الصحيحة «My sister is going to graduate next year.» — مع she نستخدم is + going to + الفعل في صورته الأصلية. «My sister going to…» ينقصها is، و «is going to graduates» أضافت -s إلى الفعل بعد going to، و «is go to» استخدمت go بدل going."
       }
     }
   ]

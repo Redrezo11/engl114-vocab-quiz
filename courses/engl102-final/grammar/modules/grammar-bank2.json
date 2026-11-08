@@ -374,7 +374,7 @@
       ],
       "answerIndex": 2,
       "topicSlug": "verbs-with-infinitives",
-      "hint": "news = الأخبار — بعد الفعل (likes) يأتي فعل ثانٍ، و -s في likes تكفي للفاعل.",
+      "hint": "news = الأخبار، Arabic and English = العربية والإنجليزية — الجملة عن شيء يحب الأب فعله، ولاحظ الفعل likes قبل الفراغ.",
       "feedback": {
         "correct": "أحسنت ✓ to read — بعد like نستخدم to + الفعل في صورته الأصلية: likes to read.",
         "incorrect": "الإجابة الصحيحة to read — بعد like نستخدم to + الفعل في صورته الأصلية: likes to read. read و reads بدون to خطأ بعد likes، و to reads خطأ لأن الفعل بعد to لا يأخذ -s."
@@ -416,7 +416,7 @@
     },
     {
       "id": "g25",
-      "prompt": "Ramadan is a good time ___ old relatives.",
+      "prompt": "Ramadan is a good time ___ our relatives.",
       "options": [
         "for visit",
         "to visit",
@@ -1113,7 +1113,7 @@
     },
     {
       "id": "g66",
-      "prompt": "I was late for class ___ the traffic was terrible.",
+      "prompt": "A: Why were you late for class? B: I was late ___ the traffic was terrible.",
       "options": [
         "when",
         "because",
@@ -1122,10 +1122,10 @@
       ],
       "answerIndex": 1,
       "topicSlug": "because-when",
-      "hint": "late = متأخر، traffic = حركة المرور، terrible = سيئة جدًا — فكّر: هل الجزء الثاني يجيب عن «لماذا؟» أم «متى؟».",
+      "hint": "late = متأخر، traffic = حركة المرور، terrible = سيئة جدًا — A يسأل بـ Why (لماذا؟).",
       "feedback": {
-        "correct": "أحسنت ✓ because — الجزء الثاني يبيّن سبب التأخر (يجيب عن «لماذا؟»)، فنستخدم because.",
-        "incorrect": "الإجابة الصحيحة because — الجزء الثاني يبيّن سبب التأخر (يجيب عن «لماذا؟»)، فنستخدم because. when تبيّن الوقت لا السبب، و so تأتي قبل النتيجة لا السبب، و but للتعارض ولا تعارض هنا."
+        "correct": "أحسنت ✓ because — A يسأل بـ Why، والجزء الثاني يبيّن سبب التأخر، فنستخدم because.",
+        "incorrect": "الإجابة الصحيحة because — A يسأل بـ Why، والجزء الثاني يبيّن سبب التأخر، فنستخدم because. when تبيّن الوقت ولا تجيب عن «لماذا؟»، و so تأتي قبل النتيجة لا السبب، و but للتعارض ولا تعارض هنا."
       }
     },
     {
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "g68",
-      "prompt": "Please call me ___ you arrive at the airport.",
+      "prompt": "Please send me a message ___ your plane lands in Riyadh.",
       "options": [
         "because",
         "when",
@@ -1156,15 +1156,15 @@
       ],
       "answerIndex": 1,
       "topicSlug": "because-when",
-      "hint": "call = اتصل، arrive = تصل، airport = المطار — فكّر: هل الجزء الثاني يحدد وقت الاتصال أم سببه؟",
+      "hint": "send = أرسل، message = رسالة، plane lands = تهبط الطائرة — فكّر: هل الجزء الثاني يحدد وقت إرسال الرسالة أم سببه؟",
       "feedback": {
-        "correct": "أحسنت ✓ when — الجزء الثاني يحدد وقت الاتصال (يجيب عن «متى؟»)، فنستخدم when.",
-        "incorrect": "الإجابة الصحيحة when — الجزء الثاني يحدد وقت الاتصال (يجيب عن «متى؟»)، فنستخدم when. because تبيّن السبب ولا يصح المعنى، و so للنتيجة، و but للتعارض."
+        "correct": "أحسنت ✓ when — الجزء الثاني يحدد وقت إرسال الرسالة (يجيب عن «متى؟»)، فنستخدم when.",
+        "incorrect": "الإجابة الصحيحة when — الجزء الثاني يحدد وقت إرسال الرسالة (يجيب عن «متى؟»)، فنستخدم when. because تبيّن السبب ولا يصح المعنى، و so للنتيجة، و but للتعارض."
       }
     },
     {
       "id": "g69",
-      "prompt": "Saad didn't go to the match ___ he had a lot of homework.",
+      "prompt": "Saad didn't go to the match last night ___ he had a lot of homework.",
       "options": [
         "when",
         "so",
@@ -1227,24 +1227,24 @@
       "hint": "very hot = حار جدًا، stayed inside = بقينا داخل، mall = المجمّع التجاري — انتبه إلى الفاصلة وإلى أيّ جزء هو السبب.",
       "feedback": {
         "correct": "أحسنت ✓ «Because it was very hot, we stayed inside the mall.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها، والسبب هو الحرارة: Because it was very hot, we stayed inside the mall.",
-        "incorrect": "الإجابة الصحيحة «Because it was very hot, we stayed inside the mall.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها، والسبب هو الحرارة: Because it was very hot, we stayed inside the mall. الفاصلة بعد Because مباشرة خطأ، و Because it was very hot وحدها جملة ناقصة، والجملة الأخيرة تجعل البقاء في المجمّع سببًا للحرارة وهذا غير منطقي."
+        "incorrect": "الإجابة الصحيحة «Because it was very hot, we stayed inside the mall.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها، والسبب هو الحرارة: Because it was very hot, we stayed inside the mall. الفاصلة بعد Because مباشرة خطأ، و «Because it was very hot.» وحدها جملة ناقصة، و «It was very hot because we stayed inside the mall.» تجعل البقاء في المجمّع سببًا للحرارة وهذا غير منطقي."
       }
     },
     {
       "id": "g73",
-      "prompt": "A: Why did you leave the party early? B: ___ I had a terrible headache.",
+      "prompt": "A: Why did you leave the party early? B: I left early ___ I had a terrible headache.",
       "options": [
-        "When",
-        "Because",
-        "So",
-        "But"
+        "when",
+        "because",
+        "so",
+        "but"
       ],
       "answerIndex": 1,
       "topicSlug": "because-when",
-      "hint": "leave = تغادر، party = الحفلة، headache = صداع — السؤال يبدأ بـ Why.",
+      "hint": "leave = تغادر، party = الحفلة، headache = صداع — A يسأل بـ Why (لماذا؟).",
       "feedback": {
-        "correct": "أحسنت ✓ Because — السؤال بـ Why يطلب سببًا، فنجيب بـ Because. في الحوار يصح الجواب القصير بـ Because عن سؤال Why.",
-        "incorrect": "الإجابة الصحيحة Because — السؤال بـ Why يطلب سببًا، فنجيب بـ Because. في الحوار يصح الجواب القصير بـ Because عن سؤال Why. When تجيب عن «متى؟» لا «لماذا؟»، و So للنتيجة، و But للتعارض."
+        "correct": "أحسنت ✓ because — السؤال بـ Why يطلب سببًا، والجزء الثاني (الصداع) هو سبب المغادرة، فنستخدم because.",
+        "incorrect": "الإجابة الصحيحة because — السؤال بـ Why يطلب سببًا، والجزء الثاني (الصداع) هو سبب المغادرة، فنستخدم because. when تجيب عن «متى؟» لا «لماذا؟»، و so للنتيجة لا السبب، و but للتعارض ولا تعارض هنا."
       }
     },
     {
@@ -1504,7 +1504,7 @@
     },
     {
       "id": "g89",
-      "prompt": "Which word is an adjective?",
+      "prompt": "Which of these words is an adjective?",
       "options": [
         "nervously",
         "nervous",
@@ -1521,7 +1521,7 @@
     },
     {
       "id": "g90",
-      "prompt": "Which word is a verb?",
+      "prompt": "Which of these words is a verb?",
       "options": [
         "history",
         "patient",
@@ -1533,7 +1533,7 @@
       "hint": "فكّر في كل كلمة: هل هي حدث يقوم به شخص، أم شيء، أم صفة، أم ظرف؟",
       "feedback": {
         "correct": "أحسنت ✓ discover — discover (يكتشف) فعل يدل على حدث، مثل They discover new places.",
-        "incorrect": "الإجابة الصحيحة discover — discover (يكتشف) فعل يدل على حدث، مثل They discover new places. history اسم (تاريخ)، و patient صفة (صبور)، و probably ظرف (على الأرجح)."
+        "incorrect": "الإجابة الصحيحة discover — discover (يكتشف) فعل يدل على حدث، مثل They discover new places. history اسم (تاريخ)، و patient صفة (صبور) وقد تكون اسمًا (مريض) لكنها ليست فعلًا، و probably ظرف (على الأرجح)."
       }
     },
     {

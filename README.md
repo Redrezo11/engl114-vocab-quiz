@@ -10,8 +10,9 @@ The site hosts **several courses**. Each one gets the same sections:
 - **Grammar Reference** (`grammar-reference.html?course=<id>`): bilingual study notes, one per
   grammar topic. Each topic can be linked to directly with `#<slug>`.
 
-The root, [index.html](index.html), is a **course picker**. Current courses are **ENGL114** (live)
-and **ENGL 102/103B** (scaffolded, content coming).
+The root, [index.html](index.html), is a **course picker**. Current courses are **ENGL114** (live),
+**ENGL 102/103B** midterm (`engl102`, live) and **ENGL 102/103B Final** (`engl102-final`, live). The midterm and final
+packages are separate courses, and each has its own word bank, modules and grammar reference.
 
 Plain HTML, CSS, and JavaScript, with no build step and no dependencies.
 

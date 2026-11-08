@@ -113,6 +113,24 @@ An unknown slug still links, but the reference page won't auto-open a topic.
 | `capitalization-punctuation` | Capitalization and punctuation |
 | `prepositions-of-location` | Prepositions of location |
 
+**ENGL 102/103B Final** slugs (separate course `engl102-final`; source:
+[`courses/engl102-final/grammar/reference.json`](../courses/engl102-final/grammar/reference.json)).
+Some slugs have the same names as midterm slugs, but they belong to this course's own reference:
+
+| slug | topic |
+|---|---|
+| `simple-present-verbs` | Simple present with regular verbs (affirmative/negative) + informal narratives |
+| `simple-present-have` | Simple present with *have* (has / don't have / doesn't have) |
+| `verbs-with-infinitives` | like / want / need + to-infinitive; noun phrase + infinitive |
+| `simple-past` | Simple past, regular and irregular verbs |
+| `simple-past-negative` | Simple past negatives (didn't + base verb; wasn't / weren't) |
+| `should-shouldnt` | *should / shouldn't* + base verb (advice) |
+| `its-adjective-infinitive` | It's + adjective + to-infinitive |
+| `because-when` | Sentences with *because* (reason) and *when* (time) |
+| `but-so` | Sentences with *but* (contrast) and *so* (result) |
+| `parts-of-speech` | Noun, verb, adjective, adverb (word forms) |
+| `be-going-to` | *be going to* for future plans (statements, negatives, questions) |
+
 > If a question tests a point **not** in this list, a new topic must first be added to
 > the course's `grammar/reference.json` (it auto-appears on the reference page); then questions can use its slug.
 

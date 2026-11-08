@@ -72,7 +72,7 @@
     },
     {
       "id": "q5",
-      "prompt": "Swimming is my favourite summer ___.",
+      "prompt": "Swimming is my favorite summer ___.",
       "options": [
         "population",
         "section",
@@ -80,7 +80,7 @@
         "weight"
       ],
       "answerIndex": 2,
-      "hint": "favourite = المفضّل، summer = الصيف — المتحدث يذكر السباحة كمثال على ما يحبه في الصيف.",
+      "hint": "favorite = المفضّل، summer = الصيف — المتحدث يذكر السباحة كمثال على ما يحبه في الصيف.",
       "feedback": {
         "correct": "أحسنت ✓ activity تعني «نشاط» — السباحة شيء نفعله في وقت الفراغ، فهي نشاط.",
         "incorrect": "الإجابة الصحيحة هي activity (نشاط) — السباحة شيء نفعله في وقت الفراغ، فهي نشاط. أمّا population تعني «عدد السكان»، و section تعني «قسم / جزء»، و weight تعني «وزن» — ولا تناسب معنى هذه الجملة."
@@ -1360,7 +1360,7 @@
         "survey"
       ],
       "answerIndex": 1,
-      "hint": "Princess Nourah University = جامعة الأميرة نورة — سارة أنهت دراستها في الجامعة.",
+      "hint": "Princess Nourah University = جامعة الأميرة نورة، in English = في اللغة الإنجليزية — الجملة تذكر مجال دراسة سارة والجامعة التي درست فيها.",
       "feedback": {
         "correct": "أحسنت ✓ degree تعني «شهادة جامعية» — ما تحصل عليه بعد إنهاء الدراسة في الجامعة هو الشهادة الجامعية، ونقول a degree in English.",
         "incorrect": "الإجابة الصحيحة هي degree (شهادة جامعية) — ما تحصل عليه بعد إنهاء الدراسة في الجامعة هو الشهادة الجامعية، ونقول a degree in English. أمّا routine تعني «روتين»، و crowd تعني «حشد / زحام»، و survey تعني «استطلاع رأي / استبيان» — ولا تناسب معنى هذه الجملة."
