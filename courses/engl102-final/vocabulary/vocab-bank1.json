@@ -1,0 +1,1610 @@
+{
+  "schemaVersion": 1,
+  "id": "engl102-final-vocab-bank-1",
+  "title": "ENGL 102/103B — Final Vocabulary Bank 1",
+  "description": "اختبار مفردات شامل (100 سؤال) من قائمة مفردات الاختبار النهائي لمقرر ENGL 102/103B — اختر الكلمة المناسبة لإكمال الجملة أو المعنى.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "The company spends a lot of money on ___ on TV and Instagram.",
+      "options": [
+        "advertising",
+        "pollution",
+        "attention",
+        "difficulty"
+      ],
+      "answerIndex": 0,
+      "hint": "spends = تنفق، company = شركة — الجملة تتحدث عن المكان الذي تصرف فيه الشركة أموالها: التلفاز وإنستغرام.",
+      "feedback": {
+        "correct": "أحسنت ✓ advertising تعني «الإعلان / الدعاية» — الشركة تدفع المال لعرض إعلاناتها على التلفاز وإنستغرام حتى يعرف الناس منتجاتها.",
+        "incorrect": "الإجابة الصحيحة هي advertising (الإعلان / الدعاية) — الشركة تدفع المال لعرض إعلاناتها على التلفاز وإنستغرام حتى يعرف الناس منتجاتها. أمّا pollution تعني «تلوّث»، و attention تعني «انتباه»، و difficulty تعني «صعوبة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q2",
+      "prompt": "My little sister is ___ of the dark, so she sleeps with the light on.",
+      "options": [
+        "afraid",
+        "calm",
+        "organized",
+        "local"
+      ],
+      "answerIndex": 0,
+      "hint": "dark = الظلام، light on = الضوء مضاء — طفلة لا تحب أن تنام والغرفة مظلمة.",
+      "feedback": {
+        "correct": "أحسنت ✓ afraid تعني «خائف» — عبارة afraid of تعني «خائف من»، والطفلة تترك الضوء مضاءً لأنها تخاف الظلام.",
+        "incorrect": "الإجابة الصحيحة هي afraid (خائف) — عبارة afraid of تعني «خائف من»، والطفلة تترك الضوء مضاءً لأنها تخاف الظلام. أمّا calm تعني «هادئ»، و organized تعني «منظَّم»، و local تعني «محلي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q3",
+      "prompt": "A person who helps another person in their job, for example by answering the phone or planning meetings",
+      "options": [
+        "athlete",
+        "assistant",
+        "consumer",
+        "tourist"
+      ],
+      "answerIndex": 1,
+      "hint": "answering = الرد على، meetings = الاجتماعات — التعريف يصف شخصًا يعمل في مكتب مع شخص آخر.",
+      "feedback": {
+        "correct": "أحسنت ✓ assistant تعني «مساعد» — هذا الشخص يعمل مع شخص آخر في وظيفته، فيرد على الهاتف وينظّم الاجتماعات.",
+        "incorrect": "الإجابة الصحيحة هي assistant (مساعد) — هذا الشخص يعمل مع شخص آخر في وظيفته، فيرد على الهاتف وينظّم الاجتماعات. أمّا athlete تعني «رياضي»، و consumer تعني «مستهلك»، و tourist تعني «سائح» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q4",
+      "prompt": "A person who is good at sports and often takes part in competitions",
+      "options": [
+        "assistant",
+        "athlete",
+        "tourist",
+        "consumer"
+      ],
+      "answerIndex": 1,
+      "hint": "takes part in = يشارك في، competitions = مسابقات — التعريف يصف شخصًا تراه في البطولات والمباريات.",
+      "feedback": {
+        "correct": "أحسنت ✓ athlete تعني «رياضي» — من يتقن الرياضة ويشارك في المسابقات هو الرياضي.",
+        "incorrect": "الإجابة الصحيحة هي athlete (رياضي) — من يتقن الرياضة ويشارك في المسابقات هو الرياضي. أمّا assistant تعني «مساعد»، و tourist تعني «سائح»، و consumer تعني «مستهلك» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q5",
+      "prompt": "Please pay ___ in class. The teacher is explaining something important.",
+      "options": [
+        "difficulty",
+        "research",
+        "success",
+        "attention"
+      ],
+      "answerIndex": 3,
+      "hint": "explaining = يشرح، important = مهم — طالب في الفصل والمعلم يقول شيئًا مهمًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ attention تعني «انتباه» — عبارة pay attention تعني «انتبه»، والمعلم يشرح شيئًا مهمًا فيجب الانتباه.",
+        "incorrect": "الإجابة الصحيحة هي attention (انتباه) — عبارة pay attention تعني «انتبه»، والمعلم يشرح شيئًا مهمًا فيجب الانتباه. أمّا difficulty تعني «صعوبة»، و research تعني «بحث»، و success تعني «نجاح» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q6",
+      "prompt": "Khalid always smiles and never gives up. He has a great ___.",
+      "options": [
+        "attitude",
+        "pollution",
+        "crowd",
+        "data"
+      ],
+      "answerIndex": 0,
+      "hint": "smiles = يبتسم، gives up = يستسلم — الجملة تصف طريقة خالد في التعامل مع الحياة.",
+      "feedback": {
+        "correct": "أحسنت ✓ attitude تعني «موقف / طريقة تفكير» — خالد يبتسم دائمًا ولا يستسلم، فطريقة تفكيره ونظرته للأمور رائعة.",
+        "incorrect": "الإجابة الصحيحة هي attitude (موقف / طريقة تفكير) — خالد يبتسم دائمًا ولا يستسلم، فطريقة تفكيره ونظرته للأمور رائعة. أمّا pollution تعني «تلوّث»، و crowd تعني «حشد / زحام»، و data تعني «بيانات» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q7",
+      "prompt": "Three students got 70, 80 and 90 on the test, so their ___ score was 80.",
+      "options": [
+        "basic",
+        "local",
+        "social",
+        "average"
+      ],
+      "answerIndex": 3,
+      "hint": "score = درجة، test = اختبار — ثلاثة طلاب حصلوا على درجات مختلفة في الاختبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ average تعني «متوسط» — مجموع الدرجات 240 مقسومًا على 3 يساوي 80، وهذه هي الدرجة المتوسطة.",
+        "incorrect": "الإجابة الصحيحة هي average (متوسط) — مجموع الدرجات 240 مقسومًا على 3 يساوي 80، وهذه هي الدرجة المتوسطة. أمّا basic تعني «أساسي»، و local تعني «محلي»، و social تعني «اجتماعي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q8",
+      "prompt": "My father has a heart problem, so he tries to ___ fatty food.",
+      "options": [
+        "promote",
+        "repeat",
+        "avoid",
+        "connect"
+      ],
+      "answerIndex": 2,
+      "hint": "heart = القلب، fatty food = الطعام الدسم — أب لديه مشكلة صحية ويهتم بما يأكله.",
+      "feedback": {
+        "correct": "أحسنت ✓ avoid تعني «يتجنّب» — مريض القلب يبتعد عن الطعام الدسم ولا يأكله حفاظًا على صحته.",
+        "incorrect": "الإجابة الصحيحة هي avoid (يتجنّب) — مريض القلب يبتعد عن الطعام الدسم ولا يأكله حفاظًا على صحته. أمّا promote تعني «يروّج لـ»، و repeat تعني «يكرّر»، و connect تعني «يربط / يوصل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q9",
+      "prompt": "Something that you buy for a much lower price than usual",
+      "options": [
+        "bargain",
+        "variety",
+        "survey",
+        "treatment"
+      ],
+      "answerIndex": 0,
+      "hint": "lower = أقل، price = سعر، usual = المعتاد — التعريف يتحدث عن التسوق والأسعار.",
+      "feedback": {
+        "correct": "أحسنت ✓ bargain تعني «صفقة رابحة / شيء بسعر رخيص» — الشيء الذي تشتريه بسعر أقل بكثير من سعره المعتاد هو صفقة رابحة.",
+        "incorrect": "الإجابة الصحيحة هي bargain (صفقة رابحة / شيء بسعر رخيص) — الشيء الذي تشتريه بسعر أقل بكثير من سعره المعتاد هو صفقة رابحة. أمّا variety تعني «تنوّع / تشكيلة»، و survey تعني «استطلاع رأي / استبيان»، و treatment تعني «علاج» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q10",
+      "prompt": "This is a ___ computer course for beginners. You only learn how to use email and Word.",
+      "options": [
+        "basic",
+        "complex",
+        "professional",
+        "talented"
+      ],
+      "answerIndex": 0,
+      "hint": "beginners = المبتدئين، course = دورة — الدورة لمن يبدأ تعلّم الحاسب لأول مرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ basic تعني «أساسي» — الدورة للمبتدئين وتعلّم أشياء أولية فقط مثل البريد الإلكتروني وبرنامج Word.",
+        "incorrect": "الإجابة الصحيحة هي basic (أساسي) — الدورة للمبتدئين وتعلّم أشياء أولية فقط مثل البريد الإلكتروني وبرنامج Word. أمّا complex تعني «معقّد»، و professional تعني «محترف / مهني»، و talented تعني «موهوب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q11",
+      "prompt": "The exam is hard, but try to stay ___. Take a deep breath and read the questions slowly.",
+      "options": [
+        "upset",
+        "confused",
+        "calm",
+        "nervous"
+      ],
+      "answerIndex": 2,
+      "hint": "deep breath = نفس عميق، slowly = ببطء — نصيحة لطالب قبل اختبار صعب.",
+      "feedback": {
+        "correct": "أحسنت ✓ calm تعني «هادئ» — أخذ نفس عميق والقراءة ببطء يساعدان الطالب على أن يبقى هادئًا.",
+        "incorrect": "الإجابة الصحيحة هي calm (هادئ) — أخذ نفس عميق والقراءة ببطء يساعدان الطالب على أن يبقى هادئًا. أمّا upset تعني «منزعج / مستاء»، و confused تعني «مرتبك / محتار»، و nervous تعني «متوتر / قلق» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q12",
+      "prompt": "The job or kind of work that you do for a long part of your life",
+      "options": [
+        "degree",
+        "routine",
+        "career",
+        "attitude"
+      ],
+      "answerIndex": 2,
+      "hint": "kind of = نوع من، long part = جزء طويل — التعريف يتحدث عن العمل عبر سنوات كثيرة من عمرك.",
+      "feedback": {
+        "correct": "أحسنت ✓ career تعني «مهنة / مسيرة مهنية» — العمل الذي تقوم به لسنوات طويلة من حياتك هو مسيرتك المهنية.",
+        "incorrect": "الإجابة الصحيحة هي career (مهنة / مسيرة مهنية) — العمل الذي تقوم به لسنوات طويلة من حياتك هو مسيرتك المهنية. أمّا degree تعني «شهادة جامعية»، و routine تعني «روتين»، و attitude تعني «موقف / طريقة تفكير» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q13",
+      "prompt": "I'm ___ that the meeting is at 10. I checked the email this morning.",
+      "options": [
+        "certain",
+        "local",
+        "complex",
+        "natural"
+      ],
+      "answerIndex": 0,
+      "hint": "checked = تحققتُ من، meeting = الاجتماع — المتحدث قرأ البريد الإلكتروني صباحًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ certain تعني «متأكد» — المتحدث قرأ البريد صباحًا، فهو متأكد من موعد الاجتماع.",
+        "incorrect": "الإجابة الصحيحة هي certain (متأكد) — المتحدث قرأ البريد صباحًا، فهو متأكد من موعد الاجتماع. أمّا local تعني «محلي»، و complex تعني «معقّد»، و natural تعني «طبيعي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q14",
+      "prompt": "A person who trains a sports team or a player",
+      "options": [
+        "coach",
+        "consumer",
+        "assistant",
+        "tourist"
+      ],
+      "answerIndex": 0,
+      "hint": "team = فريق، player = لاعب — التعريف يصف شخصًا يعمل مع الرياضيين في التمارين.",
+      "feedback": {
+        "correct": "أحسنت ✓ coach تعني «مدرّب» — الشخص الذي يدرّب فريقًا رياضيًا أو لاعبًا هو المدرّب.",
+        "incorrect": "الإجابة الصحيحة هي coach (مدرّب) — الشخص الذي يدرّب فريقًا رياضيًا أو لاعبًا هو المدرّب. أمّا consumer تعني «مستهلك»، و assistant تعني «مساعد»، و tourist تعني «سائح» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q15",
+      "prompt": "Today, people can ___ with friends all over the world through WhatsApp.",
+      "options": [
+        "destroy",
+        "escape",
+        "require",
+        "communicate"
+      ],
+      "answerIndex": 3,
+      "hint": "all over the world = في كل أنحاء العالم، through = عن طريق — الجملة عن استخدام تطبيق واتساب مع الأصدقاء.",
+      "feedback": {
+        "correct": "أحسنت ✓ communicate تعني «يتواصل» — واتساب يسمح للناس بالحديث وتبادل الرسائل مع أصدقائهم في كل مكان.",
+        "incorrect": "الإجابة الصحيحة هي communicate (يتواصل) — واتساب يسمح للناس بالحديث وتبادل الرسائل مع أصدقائهم في كل مكان. أمّا destroy تعني «يدمّر»، و escape تعني «يهرب»، و require تعني «يتطلّب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q16",
+      "prompt": "Twenty teams from different universities ___ in the football tournament every year.",
+      "options": [
+        "compete",
+        "connect",
+        "describe",
+        "pretend"
+      ],
+      "answerIndex": 0,
+      "hint": "tournament = بطولة، different = مختلفة — فرق من جامعات عدة تلعب في البطولة لتفوز بها.",
+      "feedback": {
+        "correct": "أحسنت ✓ compete تعني «يتنافس» — الفرق تلعب ضد بعضها في البطولة وكل فريق يريد الفوز، أي أنها تتنافس.",
+        "incorrect": "الإجابة الصحيحة هي compete (يتنافس) — الفرق تلعب ضد بعضها في البطولة وكل فريق يريد الفوز، أي أنها تتنافس. أمّا connect تعني «يربط / يوصل»، و describe تعني «يصف»، و pretend تعني «يتظاهر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q17",
+      "prompt": "This math problem is very ___. Even the teacher needed an hour to solve it.",
+      "options": [
+        "calm",
+        "pretty",
+        "complex",
+        "local"
+      ],
+      "answerIndex": 2,
+      "hint": "Even = حتى، needed = احتاج، hour = ساعة — المعلم نفسه احتاج وقتًا طويلًا مع هذه المسألة.",
+      "feedback": {
+        "correct": "أحسنت ✓ complex تعني «معقّد» — إذا احتاج المعلم ساعة كاملة لحل المسألة فهي معقّدة جدًا.",
+        "incorrect": "الإجابة الصحيحة هي complex (معقّد) — إذا احتاج المعلم ساعة كاملة لحل المسألة فهي معقّدة جدًا. أمّا calm تعني «هادئ»، و pretty تعني «جميل»، و local تعني «محلي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q18",
+      "prompt": "The teacher explained the rule too fast, and many students felt ___.",
+      "options": [
+        "confused",
+        "optimistic",
+        "talented",
+        "organized"
+      ],
+      "answerIndex": 0,
+      "hint": "explained = شرح، rule = القاعدة، too fast = بسرعة كبيرة — الطلاب لم يتابعوا الشرح جيدًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ confused تعني «مرتبك / محتار» — عندما يكون الشرح سريعًا جدًا يشعر الطلاب بالارتباك وعدم الفهم.",
+        "incorrect": "الإجابة الصحيحة هي confused (مرتبك / محتار) — عندما يكون الشرح سريعًا جدًا يشعر الطلاب بالارتباك وعدم الفهم. أمّا optimistic تعني «متفائل»، و talented تعني «موهوب»، و organized تعني «منظَّم» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q19",
+      "prompt": "You need a password to ___ to the university Wi-Fi.",
+      "options": [
+        "compete",
+        "connect",
+        "escape",
+        "avoid"
+      ],
+      "answerIndex": 1,
+      "hint": "password = كلمة المرور، Wi-Fi = الشبكة اللاسلكية — طالب يريد استخدام الإنترنت في الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ connect تعني «يربط / يوصل» — كلمة المرور تسمح لجهازك بالاتصال بشبكة الجامعة، و connect to تعني «يتصل بـ».",
+        "incorrect": "الإجابة الصحيحة هي connect (يربط / يوصل) — كلمة المرور تسمح لجهازك بالاتصال بشبكة الجامعة، و connect to تعني «يتصل بـ». أمّا compete تعني «يتنافس»، و escape تعني «يهرب»، و avoid تعني «يتجنّب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q20",
+      "prompt": "A person who buys and uses products or services",
+      "options": [
+        "athlete",
+        "coach",
+        "consumer",
+        "expert"
+      ],
+      "answerIndex": 2,
+      "hint": "uses = يستخدم، services = خدمات — التعريف يتعلق بالتسوق والأسواق.",
+      "feedback": {
+        "correct": "أحسنت ✓ consumer تعني «مستهلك» — الشخص الذي يشتري المنتجات والخدمات ويستخدمها هو المستهلك.",
+        "incorrect": "الإجابة الصحيحة هي consumer (مستهلك) — الشخص الذي يشتري المنتجات والخدمات ويستخدمها هو المستهلك. أمّا athlete تعني «رياضي»، و coach تعني «مدرّب»، و expert تعني «خبير» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q21",
+      "prompt": "My brother gets angry quickly. He needs to learn to ___ his anger.",
+      "options": [
+        "connect",
+        "promote",
+        "shake",
+        "control"
+      ],
+      "answerIndex": 3,
+      "hint": "angry = غاضب، quickly = بسرعة، anger = الغضب — أخ يغضب بسرعة ويحتاج أن يغيّر ذلك.",
+      "feedback": {
+        "correct": "أحسنت ✓ control تعني «يتحكّم في» — من يغضب بسرعة يحتاج أن يتعلّم كيف يتحكّم في غضبه.",
+        "incorrect": "الإجابة الصحيحة هي control (يتحكّم في) — من يغضب بسرعة يحتاج أن يتعلّم كيف يتحكّم في غضبه. أمّا connect تعني «يربط / يوصل»، و promote تعني «يروّج لـ»، و shake تعني «يهزّ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q22",
+      "prompt": "Noura draws beautiful pictures and writes her own stories. She is very ___.",
+      "options": [
+        "certain",
+        "local",
+        "creative",
+        "similar"
+      ],
+      "answerIndex": 2,
+      "hint": "draws = ترسم، her own = خاصة بها، stories = قصص — الجملة تصف هوايات نورة.",
+      "feedback": {
+        "correct": "أحسنت ✓ creative تعني «مبدع» — نورة ترسم وتكتب قصصها بنفسها، وهذا يدل على أنها مبدعة.",
+        "incorrect": "الإجابة الصحيحة هي creative (مبدع) — نورة ترسم وتكتب قصصها بنفسها، وهذا يدل على أنها مبدعة. أمّا certain تعني «متأكد»، و local تعني «محلي»، و similar تعني «مشابه» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q23",
+      "prompt": "A large group of people in one place",
+      "options": [
+        "data",
+        "survey",
+        "crowd",
+        "routine"
+      ],
+      "answerIndex": 2,
+      "hint": "large = كبيرة، group = مجموعة — فكّر في الملعب يوم مباراة مهمة.",
+      "feedback": {
+        "correct": "أحسنت ✓ crowd تعني «حشد / زحام» — المجموعة الكبيرة من الناس في مكان واحد هي الحشد أو الزحام.",
+        "incorrect": "الإجابة الصحيحة هي crowd (حشد / زحام) — المجموعة الكبيرة من الناس في مكان واحد هي الحشد أو الزحام. أمّا data تعني «بيانات»، و survey تعني «استطلاع رأي / استبيان»، و routine تعني «روتين» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q24",
+      "prompt": "Facts and numbers that people collect and study, often on a computer",
+      "options": [
+        "data",
+        "debate",
+        "attitude",
+        "crowd"
+      ],
+      "answerIndex": 0,
+      "hint": "facts = حقائق، collect = يجمع — التعريف يتعلق بالعمل على الحاسب والأرقام.",
+      "feedback": {
+        "correct": "أحسنت ✓ data تعني «بيانات» — الحقائق والأرقام التي نجمعها وندرسها على الحاسب هي البيانات.",
+        "incorrect": "الإجابة الصحيحة هي data (بيانات) — الحقائق والأرقام التي نجمعها وندرسها على الحاسب هي البيانات. أمّا debate تعني «نقاش / مناظرة»، و attitude تعني «موقف / طريقة تفكير»، و crowd تعني «حشد / زحام» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q25",
+      "prompt": "In our English class, we had a ___ about social media: is it good or bad for teenagers?",
+      "options": [
+        "bargain",
+        "treatment",
+        "debate",
+        "pollution"
+      ],
+      "answerIndex": 2,
+      "hint": "social media = وسائل التواصل الاجتماعي، teenagers = المراهقين — الطلاب لديهم آراء مختلفة حول سؤال واحد.",
+      "feedback": {
+        "correct": "أحسنت ✓ debate تعني «نقاش / مناظرة» — الطلاب ناقشوا سؤالًا له رأيان (جيد أم سيئ)، وهذا هو النقاش أو المناظرة.",
+        "incorrect": "الإجابة الصحيحة هي debate (نقاش / مناظرة) — الطلاب ناقشوا سؤالًا له رأيان (جيد أم سيئ)، وهذا هو النقاش أو المناظرة. أمّا bargain تعني «صفقة رابحة / شيء بسعر رخيص»، و treatment تعني «علاج»، و pollution تعني «تلوّث» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q26",
+      "prompt": "What you get from a university when you finish your studies",
+      "options": [
+        "career",
+        "degree",
+        "bargain",
+        "treatment"
+      ],
+      "answerIndex": 1,
+      "hint": "finish = تُنهي، studies = دراستك — التعريف يتحدث عن نهاية الحياة الجامعية.",
+      "feedback": {
+        "correct": "أحسنت ✓ degree تعني «شهادة جامعية» — ما تحصل عليه من الجامعة بعد إنهاء دراستك هو الشهادة الجامعية.",
+        "incorrect": "الإجابة الصحيحة هي degree (شهادة جامعية) — ما تحصل عليه من الجامعة بعد إنهاء دراستك هو الشهادة الجامعية. أمّا career تعني «مهنة / مسيرة مهنية»، و bargain تعني «صفقة رابحة / شيء بسعر رخيص»، و treatment تعني «علاج» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q27",
+      "prompt": "Can you ___ the man you saw? Was he tall or short?",
+      "options": [
+        "prevent",
+        "describe",
+        "store",
+        "solve"
+      ],
+      "answerIndex": 1,
+      "hint": "saw = رأيتَ، tall = طويل، short = قصير — شخص يسأل عن شكل رجل رآه صديقه.",
+      "feedback": {
+        "correct": "أحسنت ✓ describe تعني «يصف» — السؤال عن طول الرجل يعني أنه يريد أن تصف له شكله.",
+        "incorrect": "الإجابة الصحيحة هي describe (يصف) — السؤال عن طول الرجل يعني أنه يريد أن تصف له شكله. أمّا prevent تعني «يمنع»، و store تعني «يخزّن / يحفظ»، و solve تعني «يحلّ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q28",
+      "prompt": "The strong storm ___ many houses in the village last year.",
+      "options": [
+        "connected",
+        "destroyed",
+        "repeated",
+        "practiced"
+      ],
+      "answerIndex": 1,
+      "hint": "storm = عاصفة، village = قرية، last year = العام الماضي — عاصفة قوية مرّت على قرية.",
+      "feedback": {
+        "correct": "أحسنت ✓ destroyed تعني «يدمّر» — العاصفة القوية هدمت البيوت وخرّبتها، والفعل في الماضي destroyed.",
+        "incorrect": "الإجابة الصحيحة هي destroyed (يدمّر) — العاصفة القوية هدمت البيوت وخرّبتها، والفعل في الماضي destroyed. أمّا connected تعني «يربط / يوصل»، و repeated تعني «يكرّر»، و practiced تعني «يتدرّب / يمارس» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q29",
+      "prompt": "Plants ___ if you don't give them water.",
+      "options": [
+        "lie",
+        "compete",
+        "communicate",
+        "die"
+      ],
+      "answerIndex": 3,
+      "hint": "Plants = النباتات، give = تعطي — ماذا يحدث للنباتات إذا لم تسقِها؟",
+      "feedback": {
+        "correct": "أحسنت ✓ die تعني «يموت» — النباتات تموت إذا لم تحصل على الماء.",
+        "incorrect": "الإجابة الصحيحة هي die (يموت) — النباتات تموت إذا لم تحصل على الماء. أمّا lie تعني «يكذب»، و compete تعني «يتنافس»، و communicate تعني «يتواصل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q30",
+      "prompt": "Ali has ___ reading small words, so he needs new glasses.",
+      "options": [
+        "difficulty",
+        "success",
+        "bargain",
+        "emotion"
+      ],
+      "answerIndex": 0,
+      "hint": "glasses = نظارة، small = صغيرة — علي سيذهب إلى طبيب العيون.",
+      "feedback": {
+        "correct": "أحسنت ✓ difficulty تعني «صعوبة» — عبارة have difficulty doing تعني «يجد صعوبة في»، وعلي لا يرى الكلمات الصغيرة جيدًا.",
+        "incorrect": "الإجابة الصحيحة هي difficulty (صعوبة) — عبارة have difficulty doing تعني «يجد صعوبة في»، وعلي لا يرى الكلمات الصغيرة جيدًا. أمّا success تعني «نجاح»، و bargain تعني «صفقة رابحة / شيء بسعر رخيص»، و emotion تعني «عاطفة / شعور» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q31",
+      "prompt": "Fahad called his teacher \"Mom\" by mistake. Everyone laughed, and he felt very ___.",
+      "options": [
+        "optimistic",
+        "embarrassed",
+        "organized",
+        "talented"
+      ],
+      "answerIndex": 1,
+      "hint": "by mistake = بالخطأ، laughed = ضحكوا — طالب قال كلمة غير مقصودة أمام زملائه.",
+      "feedback": {
+        "correct": "أحسنت ✓ embarrassed تعني «محرَج» — عندما يضحك الجميع من خطأ قمت به تشعر بالإحراج.",
+        "incorrect": "الإجابة الصحيحة هي embarrassed (محرَج) — عندما يضحك الجميع من خطأ قمت به تشعر بالإحراج. أمّا optimistic تعني «متفائل»، و organized تعني «منظَّم»، و talented تعني «موهوب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q32",
+      "prompt": "Happiness, anger and fear are all examples of human ___.",
+      "options": [
+        "emotions",
+        "products",
+        "insects",
+        "degrees"
+      ],
+      "answerIndex": 0,
+      "hint": "Happiness = السعادة، anger = الغضب، fear = الخوف — الجملة تذكر ثلاثة أمثلة ثم تطلب الاسم العام لها.",
+      "feedback": {
+        "correct": "أحسنت ✓ emotions تعني «عاطفة / شعور» — السعادة والغضب والخوف كلها مشاعر يحسّ بها الإنسان.",
+        "incorrect": "الإجابة الصحيحة هي emotions (عاطفة / شعور) — السعادة والغضب والخوف كلها مشاعر يحسّ بها الإنسان. أمّا products تعني «منتَج»، و insects تعني «حشرة»، و degrees تعني «شهادة جامعية» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q33",
+      "prompt": "A person who works for a company and gets money from it every month",
+      "options": [
+        "consumer",
+        "volunteer",
+        "tourist",
+        "employee"
+      ],
+      "answerIndex": 3,
+      "hint": "company = شركة، every month = كل شهر — التعريف يصف شخصًا يأخذ راتبًا شهريًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ employee تعني «موظف» — الشخص الذي يعمل في شركة ويأخذ منها راتبًا كل شهر هو الموظف.",
+        "incorrect": "الإجابة الصحيحة هي employee (موظف) — الشخص الذي يعمل في شركة ويأخذ منها راتبًا كل شهر هو الموظف. أمّا consumer تعني «مستهلك»، و volunteer تعني «متطوّع»، و tourist تعني «سائح» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q34",
+      "prompt": "To get away from a place or a dangerous situation",
+      "options": [
+        "connect",
+        "escape",
+        "compete",
+        "require"
+      ],
+      "answerIndex": 1,
+      "hint": "place = مكان، situation = موقف — فكّر في طائر خرج من قفصه أو شخص خرج من بيت فيه حريق.",
+      "feedback": {
+        "correct": "أحسنت ✓ escape تعني «يهرب» — الخروج من مكان أو موقف خطير والابتعاد عنه هو الهروب.",
+        "incorrect": "الإجابة الصحيحة هي escape (يهرب) — الخروج من مكان أو موقف خطير والابتعاد عنه هو الهروب. أمّا connect تعني «يربط / يوصل»، و compete تعني «يتنافس»، و require تعني «يتطلّب» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q35",
+      "prompt": "The football match was very ___. Both teams scored in the last five minutes.",
+      "options": [
+        "basic",
+        "exciting",
+        "afraid",
+        "certain"
+      ],
+      "answerIndex": 1,
+      "hint": "scored = سجّل، last five minutes = آخر خمس دقائق — مباراة فيها أهداف في نهايتها.",
+      "feedback": {
+        "correct": "أحسنت ✓ exciting تعني «مثير / مشوّق» — الأهداف في آخر دقائق تجعل المباراة مثيرة ومشوّقة.",
+        "incorrect": "الإجابة الصحيحة هي exciting (مثير / مشوّق) — الأهداف في آخر دقائق تجعل المباراة مثيرة ومشوّقة. أمّا basic تعني «أساسي»، و afraid تعني «خائف»، و certain تعني «متأكد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q36",
+      "prompt": "Dr. Saad is an ___ on computers. Many companies ask him for advice.",
+      "options": [
+        "insect",
+        "athlete",
+        "assistant",
+        "expert"
+      ],
+      "answerIndex": 3,
+      "hint": "advice = نصيحة، companies = شركات — شركات كثيرة تحتاج رأي الدكتور سعد في الحاسب.",
+      "feedback": {
+        "correct": "أحسنت ✓ expert تعني «خبير» — الشركات تطلب نصيحته لأنه يعرف الكثير عن الحاسب، فهو خبير.",
+        "incorrect": "الإجابة الصحيحة هي expert (خبير) — الشركات تطلب نصيحته لأنه يعرف الكثير عن الحاسب، فهو خبير. أمّا insect تعني «حشرة»، و athlete تعني «رياضي»، و assistant تعني «مساعد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q37",
+      "prompt": "The look on your face that shows how you feel, like a smile",
+      "options": [
+        "attitude",
+        "facial expression",
+        "treatment",
+        "technology"
+      ],
+      "answerIndex": 1,
+      "hint": "look = مظهر، smile = ابتسامة — التعريف يتحدث عن شيء يراه الآخرون عندما تفرح أو تحزن.",
+      "feedback": {
+        "correct": "أحسنت ✓ facial expression تعني «تعبير الوجه» — الابتسامة مثال على تعبير الوجه، وهو ما يظهر على وجهك ويدل على شعورك.",
+        "incorrect": "الإجابة الصحيحة هي facial expression (تعبير الوجه) — الابتسامة مثال على تعبير الوجه، وهو ما يظهر على وجهك ويدل على شعورك. أمّا attitude تعني «موقف / طريقة تفكير»، و treatment تعني «علاج»، و technology تعني «تقنية» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q38",
+      "prompt": "Turn off your phone so you can ___ on your homework.",
+      "options": [
+        "focus",
+        "compete",
+        "escape",
+        "reach"
+      ],
+      "answerIndex": 0,
+      "hint": "Turn off = أطفئ، homework = الواجب — الهاتف يشغلك أثناء الدراسة.",
+      "feedback": {
+        "correct": "أحسنت ✓ focus تعني «يركّز» — إطفاء الهاتف يساعدك على التركيز في الواجب، و focus on تعني «يركّز على».",
+        "incorrect": "الإجابة الصحيحة هي focus (يركّز) — إطفاء الهاتف يساعدك على التركيز في الواجب، و focus on تعني «يركّز على». أمّا compete تعني «يتنافس»، و escape تعني «يهرب»، و reach تعني «يصل إلى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q39",
+      "prompt": "Don't ___ to bring your student ID card to the exam.",
+      "options": [
+        "pretend",
+        "forget",
+        "repeat",
+        "store"
+      ],
+      "answerIndex": 1,
+      "hint": "bring = تُحضِر معك، ID card = البطاقة الجامعية — نصيحة للطلاب يوم الاختبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ forget تعني «ينسى» — عبارة Don't forget to تعني «لا تنسَ أن»، والطالب يحتاج بطاقته في الاختبار.",
+        "incorrect": "الإجابة الصحيحة هي forget (ينسى) — عبارة Don't forget to تعني «لا تنسَ أن»، والطالب يحتاج بطاقته في الاختبار. أمّا pretend تعني «يتظاهر»، و repeat تعني «يكرّر»، و store تعني «يخزّن / يحفظ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q40",
+      "prompt": "Five students ___ a study group to prepare for the final exam.",
+      "options": [
+        "reduced",
+        "described",
+        "repeated",
+        "formed"
+      ],
+      "answerIndex": 3,
+      "hint": "study group = مجموعة دراسية، final exam = الاختبار النهائي — طلاب قرروا الدراسة معًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ formed تعني «يُكوِّن / يُشكِّل» — الطلاب كوّنوا مجموعة دراسية جديدة، والفعل في الماضي formed.",
+        "incorrect": "الإجابة الصحيحة هي formed (يُكوِّن / يُشكِّل) — الطلاب كوّنوا مجموعة دراسية جديدة، والفعل في الماضي formed. أمّا reduced تعني «يقلّل»، و described تعني «يصف»، و repeated تعني «يكرّر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q41",
+      "prompt": "I wanted to go to the beach in Jeddah. ___, it rained all day.",
+      "options": [
+        "However",
+        "Probably",
+        "On purpose",
+        "A little bit"
+      ],
+      "answerIndex": 0,
+      "hint": "beach = الشاطئ، rained = أمطرت، all day = طوال اليوم — المتحدث كانت لديه خطة، ثم حدث شيء آخر.",
+      "feedback": {
+        "correct": "أحسنت ✓ However تعني «ومع ذلك» — الجملة الثانية تخالف ما أراده المتحدث، فنستخدم However للربط بين فكرتين متعاكستين.",
+        "incorrect": "الإجابة الصحيحة هي However (ومع ذلك) — الجملة الثانية تخالف ما أراده المتحدث، فنستخدم However للربط بين فكرتين متعاكستين. أمّا Probably تعني «على الأرجح»، و On purpose تعني «عمدًا / عن قصد»، و A little bit تعني «قليلًا / بعض الشيء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q42",
+      "prompt": "A man, woman or child; a person, not an animal",
+      "options": [
+        "insect",
+        "product",
+        "human",
+        "technology"
+      ],
+      "answerIndex": 2,
+      "hint": "child = طفل، animal = حيوان — التعريف يذكر الرجل والمرأة والطفل ويقارنهم بالحيوان.",
+      "feedback": {
+        "correct": "أحسنت ✓ human تعني «إنسان» — الرجل والمرأة والطفل كلهم بشر، أي human.",
+        "incorrect": "الإجابة الصحيحة هي human (إنسان) — الرجل والمرأة والطفل كلهم بشر، أي human. أمّا insect تعني «حشرة»، و product تعني «منتَج»، و technology تعني «تقنية» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q43",
+      "prompt": "Reading English stories every day will ___ your vocabulary.",
+      "options": [
+        "improve",
+        "interrupt",
+        "pretend",
+        "escape"
+      ],
+      "answerIndex": 0,
+      "hint": "stories = قصص، vocabulary = المفردات — عادة يومية تفيد الطالب في اللغة.",
+      "feedback": {
+        "correct": "أحسنت ✓ improve تعني «يحسّن / يتحسّن» — قراءة القصص يوميًا تجعل مفرداتك أفضل، أي تحسّنها.",
+        "incorrect": "الإجابة الصحيحة هي improve (يحسّن / يتحسّن) — قراءة القصص يوميًا تجعل مفرداتك أفضل، أي تحسّنها. أمّا interrupt تعني «يقاطع»، و pretend تعني «يتظاهر»، و escape تعني «يهرب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q44",
+      "prompt": "The number of cars in Riyadh ___ every year, so the traffic is getting worse.",
+      "options": [
+        "describes",
+        "pretends",
+        "interrupts",
+        "increases"
+      ],
+      "answerIndex": 3,
+      "hint": "number = عدد، traffic = حركة المرور — الطرق في الرياض أصبحت مزدحمة أكثر من قبل.",
+      "feedback": {
+        "correct": "أحسنت ✓ increases تعني «يزيد / يرتفع» — حركة المرور تسوء لأن عدد السيارات يرتفع كل سنة، والفعل increases مع the number (مفرد).",
+        "incorrect": "الإجابة الصحيحة هي increases (يزيد / يرتفع) — حركة المرور تسوء لأن عدد السيارات يرتفع كل سنة، والفعل increases مع the number (مفرد). أمّا describes تعني «يصف»، و pretends تعني «يتظاهر»، و interrupts تعني «يقاطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q45",
+      "prompt": "A small animal with six legs, like an ant or a fly",
+      "options": [
+        "human",
+        "crowd",
+        "product",
+        "insect"
+      ],
+      "answerIndex": 3,
+      "hint": "legs = أرجل، ant = نملة، fly = ذبابة — التعريف يصف مخلوقًا صغيرًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ insect تعني «حشرة» — النملة والذبابة لهما ست أرجل، وهما من الحشرات.",
+        "incorrect": "الإجابة الصحيحة هي insect (حشرة) — النملة والذبابة لهما ست أرجل، وهما من الحشرات. أمّا human تعني «إنسان»، و crowd تعني «حشد / زحام»، و product تعني «منتَج» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q46",
+      "prompt": "To stop someone while they are speaking by saying something",
+      "options": [
+        "pretend",
+        "describe",
+        "interrupt",
+        "forget"
+      ],
+      "answerIndex": 2,
+      "hint": "while = أثناء، speaking = يتكلّم — التعريف يصف تصرّفًا غير مهذّب في المحادثة.",
+      "feedback": {
+        "correct": "أحسنت ✓ interrupt تعني «يقاطع» — أن توقف شخصًا وهو يتكلّم بكلامك أنت هو المقاطعة.",
+        "incorrect": "الإجابة الصحيحة هي interrupt (يقاطع) — أن توقف شخصًا وهو يتكلّم بكلامك أنت هو المقاطعة. أمّا pretend تعني «يتظاهر»، و describe تعني «يصف»، و forget تعني «ينسى» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q47",
+      "prompt": "Look at the dark clouds. It ___ rain this afternoon.",
+      "options": [
+        "according to",
+        "is likely to",
+        "in order to",
+        "except for"
+      ],
+      "answerIndex": 1,
+      "hint": "dark clouds = غيوم داكنة، afternoon = بعد الظهر — المتحدث ينظر إلى السماء ويفكّر في الطقس.",
+      "feedback": {
+        "correct": "أحسنت ✓ is likely to تعني «من المحتمل أن» — الغيوم الداكنة تعني أن المطر محتمل، و It is likely to rain جملة صحيحة لأن بعدها فعل (rain).",
+        "incorrect": "الإجابة الصحيحة هي is likely to (من المحتمل أن) — الغيوم الداكنة تعني أن المطر محتمل، و It is likely to rain جملة صحيحة لأن بعدها فعل (rain). أمّا according to تعني «وفقًا لـ / حسب»، و in order to تعني «من أجل / لكي»، و except for تعني «ما عدا / باستثناء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q48",
+      "prompt": "Our captain will ___ the team onto the field before the match.",
+      "options": [
+        "store",
+        "lead",
+        "solve",
+        "repeat"
+      ],
+      "answerIndex": 1,
+      "hint": "captain = الكابتن، field = الملعب — الفريق يدخل إلى الملعب قبل بداية المباراة.",
+      "feedback": {
+        "correct": "أحسنت ✓ lead تعني «يقود» — الكابتن يمشي أمام الفريق ويقوده إلى الملعب.",
+        "incorrect": "الإجابة الصحيحة هي lead (يقود) — الكابتن يمشي أمام الفريق ويقوده إلى الملعب. أمّا store تعني «يخزّن / يحفظ»، و solve تعني «يحلّ»، و repeat تعني «يكرّر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q49",
+      "prompt": "My English ___ is B1, so I can join the intermediate class.",
+      "options": [
+        "routine",
+        "success",
+        "level",
+        "crowd"
+      ],
+      "answerIndex": 2,
+      "hint": "join = ينضم إلى، intermediate = المتوسط — طالب أجرى اختبارًا ليعرف أي صف يناسبه.",
+      "feedback": {
+        "correct": "أحسنت ✓ level تعني «مستوى» — B1 يدل على مستوى الطالب في اللغة الإنجليزية.",
+        "incorrect": "الإجابة الصحيحة هي level (مستوى) — B1 يدل على مستوى الطالب في اللغة الإنجليزية. أمّا routine تعني «روتين»، و success تعني «نجاح»، و crowd تعني «حشد / زحام» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q50",
+      "prompt": "To say something that you know is not true",
+      "options": [
+        "repeat",
+        "lie",
+        "describe",
+        "forget"
+      ],
+      "answerIndex": 1,
+      "hint": "know = تعرف، true = صحيح — التعريف يصف تصرّفًا سيئًا عند الكلام.",
+      "feedback": {
+        "correct": "أحسنت ✓ lie تعني «يكذب» — أن تقول شيئًا تعرف أنه غير صحيح هو الكذب.",
+        "incorrect": "الإجابة الصحيحة هي lie (يكذب) — أن تقول شيئًا تعرف أنه غير صحيح هو الكذب. أمّا repeat تعني «يكرّر»، و describe تعني «يصف»، و forget تعني «ينسى» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q51",
+      "prompt": "We buy our vegetables from a ___ farm near our town, not from another country.",
+      "options": [
+        "complex",
+        "nervous",
+        "local",
+        "optimistic"
+      ],
+      "answerIndex": 2,
+      "hint": "vegetables = خضروات، farm = مزرعة، another country = دولة أخرى — العائلة تشتري الخضار من مكان قريب منها.",
+      "feedback": {
+        "correct": "أحسنت ✓ local تعني «محلي» — المزرعة قريبة من البلدة وليست في دولة أخرى، فهي محلية.",
+        "incorrect": "الإجابة الصحيحة هي local (محلي) — المزرعة قريبة من البلدة وليست في دولة أخرى، فهي محلية. أمّا complex تعني «معقّد»، و nervous تعني «متوتر / قلق»، و optimistic تعني «متفائل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q52",
+      "prompt": "Your shoes don't ___ your dress. Try the black ones.",
+      "options": [
+        "reach",
+        "store",
+        "match",
+        "solve"
+      ],
+      "answerIndex": 2,
+      "hint": "shoes = حذاء، dress = فستان، Try = جرّبي — امرأة تختار ملابسها لحفلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ match تعني «يتناسب مع» — الحذاء لا يتناسب مع لون الفستان، لذلك تقترح عليها حذاءً أسود.",
+        "incorrect": "الإجابة الصحيحة هي match (يتناسب مع) — الحذاء لا يتناسب مع لون الفستان، لذلك تقترح عليها حذاءً أسود. أمّا reach تعني «يصل إلى»، و store تعني «يخزّن / يحفظ»، و solve تعني «يحلّ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q53",
+      "prompt": "I made a ___ in my email. I wrote \"Freiday\" instead of \"Friday\".",
+      "options": [
+        "degree",
+        "crowd",
+        "routine",
+        "mistake"
+      ],
+      "answerIndex": 3,
+      "hint": "instead of = بدلًا من، wrote = كتبتُ — المتحدث كتب كلمة بحروف زائدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ mistake تعني «خطأ» — كتابة Freiday بدل Friday خطأ إملائي، و make a mistake تعني «يرتكب خطأ».",
+        "incorrect": "الإجابة الصحيحة هي mistake (خطأ) — كتابة Freiday بدل Friday خطأ إملائي، و make a mistake تعني «يرتكب خطأ». أمّا degree تعني «شهادة جامعية»، و crowd تعني «حشد / زحام»، و routine تعني «روتين» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q54",
+      "prompt": "My family will ___ from Riyadh to Jeddah because my father has a new job there.",
+      "options": [
+        "rest",
+        "shake",
+        "lie",
+        "move"
+      ],
+      "answerIndex": 3,
+      "hint": "new job = وظيفة جديدة، there = هناك — الأب حصل على عمل في مدينة أخرى.",
+      "feedback": {
+        "correct": "أحسنت ✓ move تعني «يتحرّك / ينتقل» — الأسرة ستنتقل للعيش في جدة بسبب عمل الأب، و move from … to تعني «ينتقل من … إلى».",
+        "incorrect": "الإجابة الصحيحة هي move (يتحرّك / ينتقل) — الأسرة ستنتقل للعيش في جدة بسبب عمل الأب، و move from … to تعني «ينتقل من … إلى». أمّا rest تعني «يرتاح»، و shake تعني «يهزّ»، و lie تعني «يكذب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q55",
+      "prompt": "This juice is 100% ___. There is no sugar or color added.",
+      "options": [
+        "social",
+        "complex",
+        "professional",
+        "natural"
+      ],
+      "answerIndex": 3,
+      "hint": "sugar = سكر، color = لون صناعي، added = مُضاف — الجملة تتحدث عن مكوّنات العصير.",
+      "feedback": {
+        "correct": "أحسنت ✓ natural تعني «طبيعي» — العصير بدون سكر أو ألوان مضافة، فهو طبيعي.",
+        "incorrect": "الإجابة الصحيحة هي natural (طبيعي) — العصير بدون سكر أو ألوان مضافة، فهو طبيعي. أمّا social تعني «اجتماعي»، و complex تعني «معقّد»، و professional تعني «محترف / مهني» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q56",
+      "prompt": "Before my job interview, I was very ___. My hands were shaking.",
+      "options": [
+        "calm",
+        "creative",
+        "nervous",
+        "talented"
+      ],
+      "answerIndex": 2,
+      "hint": "job interview = مقابلة عمل، hands = يداي — المتحدث يصف شعوره قبل المقابلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ nervous تعني «متوتر / قلق» — اهتزاز اليدين قبل المقابلة يدل على التوتر والقلق.",
+        "incorrect": "الإجابة الصحيحة هي nervous (متوتر / قلق) — اهتزاز اليدين قبل المقابلة يدل على التوتر والقلق. أمّا calm تعني «هادئ»، و creative تعني «مبدع»، و talented تعني «موهوب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q57",
+      "prompt": "He didn't break the glass ___. It was an accident.",
+      "options": [
+        "probably",
+        "on purpose",
+        "a little bit",
+        "in order to"
+      ],
+      "answerIndex": 1,
+      "hint": "break = يكسر، accident = شيء حدث صدفة — ولد كسر كوبًا وأمه تسأل عمّا حدث.",
+      "feedback": {
+        "correct": "أحسنت ✓ on purpose تعني «عمدًا / عن قصد» — كان الأمر حادثًا، أي أنه لم يكسر الكوب عمدًا.",
+        "incorrect": "الإجابة الصحيحة هي on purpose (عمدًا / عن قصد) — كان الأمر حادثًا، أي أنه لم يكسر الكوب عمدًا. أمّا probably تعني «على الأرجح»، و a little bit تعني «قليلًا / بعض الشيء»، و in order to تعني «من أجل / لكي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q58",
+      "prompt": "Hoping and believing that good things will happen in the future",
+      "options": [
+        "nervous",
+        "embarrassed",
+        "confused",
+        "optimistic"
+      ],
+      "answerIndex": 3,
+      "hint": "hoping = يأمل، believing = يعتقد، future = المستقبل — التعريف يصف نظرة الشخص إلى الأيام القادمة.",
+      "feedback": {
+        "correct": "أحسنت ✓ optimistic تعني «متفائل» — من يأمل ويعتقد أن المستقبل سيكون جيدًا هو شخص متفائل.",
+        "incorrect": "الإجابة الصحيحة هي optimistic (متفائل) — من يأمل ويعتقد أن المستقبل سيكون جيدًا هو شخص متفائل. أمّا nervous تعني «متوتر / قلق»، و embarrassed تعني «محرَج»، و confused تعني «مرتبك / محتار» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q59",
+      "prompt": "Maha's desk is always ___. Her books and pens are in the right place.",
+      "options": [
+        "confused",
+        "upset",
+        "local",
+        "organized"
+      ],
+      "answerIndex": 3,
+      "hint": "desk = مكتب، right place = المكان الصحيح — الجملة تصف مكتب مها.",
+      "feedback": {
+        "correct": "أحسنت ✓ organized تعني «منظَّم» — كل شيء على مكتب مها في مكانه الصحيح، فهو منظَّم.",
+        "incorrect": "الإجابة الصحيحة هي organized (منظَّم) — كل شيء على مكتب مها في مكانه الصحيح، فهو منظَّم. أمّا confused تعني «مرتبك / محتار»، و upset تعني «منزعج / مستاء»، و local تعني «محلي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q60",
+      "prompt": "We are ___ a trip to AlUla during the winter holiday.",
+      "options": [
+        "interrupting",
+        "planning",
+        "shaking",
+        "solving"
+      ],
+      "answerIndex": 1,
+      "hint": "trip = رحلة، winter holiday = إجازة الشتاء — عائلة تفكّر في سفر قادم.",
+      "feedback": {
+        "correct": "أحسنت ✓ planning تعني «يخطّط» — العائلة تجهّز فكرة الرحلة وتفاصيلها مسبقًا، أي أنها تخطّط لها.",
+        "incorrect": "الإجابة الصحيحة هي planning (يخطّط) — العائلة تجهّز فكرة الرحلة وتفاصيلها مسبقًا، أي أنها تخطّط لها. أمّا interrupting تعني «يقاطع»، و shaking تعني «يهزّ»، و solving تعني «يحلّ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q61",
+      "prompt": "Dirty air, water or land, often caused by cars and factories",
+      "options": [
+        "technology",
+        "treatment",
+        "variety",
+        "pollution"
+      ],
+      "answerIndex": 3,
+      "hint": "land = الأرض، caused by = بسبب، factories = مصانع — التعريف يتحدث عن مشكلة بيئية.",
+      "feedback": {
+        "correct": "أحسنت ✓ pollution تعني «تلوّث» — الهواء والماء والأرض غير النظيفة بسبب السيارات والمصانع هي التلوّث.",
+        "incorrect": "الإجابة الصحيحة هي pollution (تلوّث) — الهواء والماء والأرض غير النظيفة بسبب السيارات والمصانع هي التلوّث. أمّا technology تعني «تقنية»، و treatment تعني «علاج»، و variety تعني «تنوّع / تشكيلة» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q62",
+      "prompt": "If you want to be a good swimmer, you need to ___ every day.",
+      "options": [
+        "pretend",
+        "interrupt",
+        "destroy",
+        "practice"
+      ],
+      "answerIndex": 3,
+      "hint": "swimmer = سبّاح، every day = كل يوم — نصيحة لشخص يريد أن يتقدّم في رياضة.",
+      "feedback": {
+        "correct": "أحسنت ✓ practice تعني «يتدرّب / يمارس» — لكي تصبح سبّاحًا جيدًا يجب أن تتدرّب كل يوم.",
+        "incorrect": "الإجابة الصحيحة هي practice (يتدرّب / يمارس) — لكي تصبح سبّاحًا جيدًا يجب أن تتدرّب كل يوم. أمّا pretend تعني «يتظاهر»، و interrupt تعني «يقاطع»، و destroy تعني «يدمّر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q63",
+      "prompt": "My mother is ___ dinner for our guests in the kitchen.",
+      "options": [
+        "preventing",
+        "preparing",
+        "interrupting",
+        "reaching"
+      ],
+      "answerIndex": 1,
+      "hint": "guests = الضيوف، kitchen = المطبخ — الأم مشغولة قبل وصول الضيوف.",
+      "feedback": {
+        "correct": "أحسنت ✓ preparing تعني «يُعِدّ / يستعدّ» — الأم في المطبخ تُعِدّ العشاء للضيوف.",
+        "incorrect": "الإجابة الصحيحة هي preparing (يُعِدّ / يستعدّ) — الأم في المطبخ تُعِدّ العشاء للضيوف. أمّا preventing تعني «يمنع»، و interrupting تعني «يقاطع»، و reaching تعني «يصل إلى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q64",
+      "prompt": "My little brother closed his eyes and ___ to be asleep, but he was awake.",
+      "options": [
+        "competed",
+        "pretended",
+        "described",
+        "connected"
+      ],
+      "answerIndex": 1,
+      "hint": "closed = أغمض، asleep = نائم، awake = مستيقظ — الأخ لم يكن نائمًا في الحقيقة.",
+      "feedback": {
+        "correct": "أحسنت ✓ pretended تعني «يتظاهر» — أغمض عينيه ليجعلنا نظن أنه نائم وهو مستيقظ، أي أنه تظاهر بالنوم.",
+        "incorrect": "الإجابة الصحيحة هي pretended (يتظاهر) — أغمض عينيه ليجعلنا نظن أنه نائم وهو مستيقظ، أي أنه تظاهر بالنوم. أمّا competed تعني «يتنافس»، و described تعني «يصف»، و connected تعني «يربط / يوصل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q65",
+      "prompt": "What a ___ garden! There are so many colorful flowers.",
+      "options": [
+        "nervous",
+        "confused",
+        "pretty",
+        "certain"
+      ],
+      "answerIndex": 2,
+      "hint": "garden = حديقة، colorful = ملوّنة، flowers = زهور — شخص يرى حديقة مليئة بالزهور.",
+      "feedback": {
+        "correct": "أحسنت ✓ pretty تعني «جميل» — الزهور الملوّنة الكثيرة تجعل الحديقة جميلة.",
+        "incorrect": "الإجابة الصحيحة هي pretty (جميل) — الزهور الملوّنة الكثيرة تجعل الحديقة جميلة. أمّا nervous تعني «متوتر / قلق»، و confused تعني «مرتبك / محتار»، و certain تعني «متأكد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q66",
+      "prompt": "Washing your hands often can ___ colds and other illnesses.",
+      "options": [
+        "promote",
+        "describe",
+        "prevent",
+        "connect"
+      ],
+      "answerIndex": 2,
+      "hint": "Washing = غسل، colds = نزلات البرد، illnesses = أمراض — نصيحة صحية.",
+      "feedback": {
+        "correct": "أحسنت ✓ prevent تعني «يمنع» — غسل اليدين يمنع الإصابة بالبرد والأمراض الأخرى.",
+        "incorrect": "الإجابة الصحيحة هي prevent (يمنع) — غسل اليدين يمنع الإصابة بالبرد والأمراض الأخرى. أمّا promote تعني «يروّج لـ»، و describe تعني «يصف»، و connect تعني «يربط / يوصل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q67",
+      "prompt": "This new phone is the company's most popular ___. Everyone wants to buy it.",
+      "options": [
+        "insect",
+        "degree",
+        "product",
+        "attitude"
+      ],
+      "answerIndex": 2,
+      "hint": "company = شركة، popular = مشهور — شركة تبيع جهازًا يحبه الناس كثيرًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ product تعني «منتَج» — الهاتف شيء تصنعه الشركة وتبيعه، فهو منتَج.",
+        "incorrect": "الإجابة الصحيحة هي product (منتَج) — الهاتف شيء تصنعه الشركة وتبيعه، فهو منتَج. أمّا insect تعني «حشرة»، و degree تعني «شهادة جامعية»، و attitude تعني «موقف / طريقة تفكير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q68",
+      "prompt": "Salem plays for Al-Hilal. He is a ___ football player, and football is his job.",
+      "options": [
+        "nervous",
+        "professional",
+        "confused",
+        "social"
+      ],
+      "answerIndex": 1,
+      "hint": "plays for = يلعب لـ، job = عمل — سالم لاعب في نادي الهلال.",
+      "feedback": {
+        "correct": "أحسنت ✓ professional تعني «محترف / مهني» — كرة القدم هي عمل سالم ومصدر رزقه، فهو لاعب محترف.",
+        "incorrect": "الإجابة الصحيحة هي professional (محترف / مهني) — كرة القدم هي عمل سالم ومصدر رزقه، فهو لاعب محترف. أمّا nervous تعني «متوتر / قلق»، و confused تعني «مرتبك / محتار»، و social تعني «اجتماعي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q69",
+      "prompt": "The company uses famous Saudi singers to ___ its new perfume on social media.",
+      "options": [
+        "prevent",
+        "promote",
+        "interrupt",
+        "destroy"
+      ],
+      "answerIndex": 1,
+      "hint": "famous = مشهورين، singers = مغنّين، perfume = عطر — شركة تريد أن تزيد مبيعاتها.",
+      "feedback": {
+        "correct": "أحسنت ✓ promote تعني «يروّج لـ» — الشركة تستخدم المشاهير ليروّجوا للعطر ويعرفه الناس.",
+        "incorrect": "الإجابة الصحيحة هي promote (يروّج لـ) — الشركة تستخدم المشاهير ليروّجوا للعطر ويعرفه الناس. أمّا prevent تعني «يمنع»، و interrupt تعني «يقاطع»، و destroy تعني «يدمّر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q70",
+      "prompt": "The university ___ free buses for students from the dorms to the classes.",
+      "options": [
+        "describes",
+        "pretends",
+        "interrupts",
+        "provides"
+      ],
+      "answerIndex": 3,
+      "hint": "free = مجانية، dorms = السكن الجامعي — الجامعة تساعد الطلاب في التنقّل.",
+      "feedback": {
+        "correct": "أحسنت ✓ provides تعني «يوفّر / يقدّم» — الجامعة تقدّم حافلات مجانية للطلاب، والفعل provides مع the university (مفرد).",
+        "incorrect": "الإجابة الصحيحة هي provides (يوفّر / يقدّم) — الجامعة تقدّم حافلات مجانية للطلاب، والفعل provides مع the university (مفرد). أمّا describes تعني «يصف»، و pretends تعني «يتظاهر»، و interrupts تعني «يقاطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q71",
+      "prompt": "The success ___ of this test is high. About 90% of students pass it.",
+      "options": [
+        "rate",
+        "attitude",
+        "emotion",
+        "routine"
+      ],
+      "answerIndex": 0,
+      "hint": "success = نجاح، pass = ينجح في — الجملة فيها رقم مئوي عن الطلاب.",
+      "feedback": {
+        "correct": "أحسنت ✓ rate تعني «نسبة / معدّل» — 90% من الطلاب ينجحون، وهذه نسبة النجاح، و success rate تعني «نسبة النجاح».",
+        "incorrect": "الإجابة الصحيحة هي rate (نسبة / معدّل) — 90% من الطلاب ينجحون، وهذه نسبة النجاح، و success rate تعني «نسبة النجاح». أمّا attitude تعني «موقف / طريقة تفكير»، و emotion تعني «عاطفة / شعور»، و routine تعني «روتين» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q72",
+      "prompt": "We left Riyadh at 8 a.m. and ___ Makkah at 4 p.m.",
+      "options": [
+        "reached",
+        "described",
+        "repeated",
+        "interrupted"
+      ],
+      "answerIndex": 0,
+      "hint": "left = غادرنا — رحلة بالسيارة بين مدينتين.",
+      "feedback": {
+        "correct": "أحسنت ✓ reached تعني «يصل إلى» — خرجوا من الرياض الساعة 8 ووصلوا إلى مكة الساعة 4، والفعل في الماضي reached.",
+        "incorrect": "الإجابة الصحيحة هي reached (يصل إلى) — خرجوا من الرياض الساعة 8 ووصلوا إلى مكة الساعة 4، والفعل في الماضي reached. أمّا described تعني «يصف»، و repeated تعني «يكرّر»، و interrupted تعني «يقاطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q73",
+      "prompt": "Turn off the lights when you leave the room to ___ your electricity bill.",
+      "options": [
+        "reduce",
+        "increase",
+        "repeat",
+        "describe"
+      ],
+      "answerIndex": 0,
+      "hint": "Turn off = أطفئ، electricity bill = فاتورة الكهرباء — نصيحة لتوفير المال.",
+      "feedback": {
+        "correct": "أحسنت ✓ reduce تعني «يقلّل» — إطفاء الأنوار يجعل فاتورة الكهرباء أقل، أي يقلّلها.",
+        "incorrect": "الإجابة الصحيحة هي reduce (يقلّل) — إطفاء الأنوار يجعل فاتورة الكهرباء أقل، أي يقلّلها. أمّا increase تعني «يزيد / يرتفع»، و repeat تعني «يكرّر»، و describe تعني «يصف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q74",
+      "prompt": "To say or do something again",
+      "options": [
+        "interrupt",
+        "forget",
+        "avoid",
+        "repeat"
+      ],
+      "answerIndex": 3,
+      "hint": "say or do = يقول أو يفعل — التعريف يصف ما تطلبه من المعلم عندما لا تسمع جملته جيدًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ repeat تعني «يكرّر» — أن تقول الشيء أو تفعله مرة ثانية هو التكرار.",
+        "incorrect": "الإجابة الصحيحة هي repeat (يكرّر) — أن تقول الشيء أو تفعله مرة ثانية هو التكرار. أمّا interrupt تعني «يقاطع»، و forget تعني «ينسى»، و avoid تعني «يتجنّب» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q75",
+      "prompt": "This job ___ a university degree and two years of experience.",
+      "options": [
+        "pretends",
+        "escapes",
+        "interrupts",
+        "requires"
+      ],
+      "answerIndex": 3,
+      "hint": "job = وظيفة، experience = خبرة — إعلان وظيفة يذكر ما يجب أن يكون لدى المتقدّم.",
+      "feedback": {
+        "correct": "أحسنت ✓ requires تعني «يتطلّب» — الوظيفة تتطلّب شهادة وخبرة، والفعل requires مع this job (مفرد).",
+        "incorrect": "الإجابة الصحيحة هي requires (يتطلّب) — الوظيفة تتطلّب شهادة وخبرة، والفعل requires مع this job (مفرد). أمّا pretends تعني «يتظاهر»، و escapes تعني «يهرب»، و interrupts تعني «يقاطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q76",
+      "prompt": "Passing English 101 is a ___ for this course. You cannot take it without passing.",
+      "options": [
+        "bargain",
+        "debate",
+        "treatment",
+        "requirement"
+      ],
+      "answerIndex": 3,
+      "hint": "Passing = النجاح في، without = بدون، course = مقرر — قاعدة للتسجيل في مقرر جامعي.",
+      "feedback": {
+        "correct": "أحسنت ✓ requirement تعني «متطلَّب / شرط» — لا يمكنك التسجيل في المقرر بدون النجاح في English 101، فهو شرط ومتطلَّب له.",
+        "incorrect": "الإجابة الصحيحة هي requirement (متطلَّب / شرط) — لا يمكنك التسجيل في المقرر بدون النجاح في English 101، فهو شرط ومتطلَّب له. أمّا bargain تعني «صفقة رابحة / شيء بسعر رخيص»، و debate تعني «نقاش / مناظرة»، و treatment تعني «علاج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q77",
+      "prompt": "Scientists are doing ___ to find a new medicine for cancer.",
+      "options": [
+        "research",
+        "advertising",
+        "pollution",
+        "attention"
+      ],
+      "answerIndex": 0,
+      "hint": "Scientists = العلماء، medicine = دواء، cancer = السرطان — العلماء يعملون في المختبر.",
+      "feedback": {
+        "correct": "أحسنت ✓ research تعني «بحث» — العلماء يدرسون ويجرّبون ليجدوا دواءً جديدًا، و do research تعني «يُجري بحثًا».",
+        "incorrect": "الإجابة الصحيحة هي research (بحث) — العلماء يدرسون ويجرّبون ليجدوا دواءً جديدًا، و do research تعني «يُجري بحثًا». أمّا advertising تعني «الإعلان / الدعاية»، و pollution تعني «تلوّث»، و attention تعني «انتباه» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q78",
+      "prompt": "Taking care of the baby is my ___ when my parents go out.",
+      "options": [
+        "bargain",
+        "technology",
+        "pollution",
+        "responsibility"
+      ],
+      "answerIndex": 3,
+      "hint": "Taking care of = الاهتمام بـ، parents = والداي، go out = يخرجان — الأخ الكبير في البيت مع الطفل.",
+      "feedback": {
+        "correct": "أحسنت ✓ responsibility تعني «مسؤولية» — عندما يخرج الوالدان يصبح الاهتمام بالطفل واجب المتحدث ومسؤوليته.",
+        "incorrect": "الإجابة الصحيحة هي responsibility (مسؤولية) — عندما يخرج الوالدان يصبح الاهتمام بالطفل واجب المتحدث ومسؤوليته. أمّا bargain تعني «صفقة رابحة / شيء بسعر رخيص»، و technology تعني «تقنية»، و pollution تعني «تلوّث» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q79",
+      "prompt": "You look tired. Sit down and ___ for a few minutes.",
+      "options": [
+        "compete",
+        "shake",
+        "solve",
+        "rest"
+      ],
+      "answerIndex": 3,
+      "hint": "tired = متعب، a few minutes = بضع دقائق — صديق يرى صديقه متعبًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ rest تعني «يرتاح» — المتعب يحتاج أن يجلس ويرتاح قليلًا.",
+        "incorrect": "الإجابة الصحيحة هي rest (يرتاح) — المتعب يحتاج أن يجلس ويرتاح قليلًا. أمّا compete تعني «يتنافس»، و shake تعني «يهزّ»، و solve تعني «يحلّ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q80",
+      "prompt": "The things you usually do every day in the same order",
+      "options": [
+        "survey",
+        "treatment",
+        "routine",
+        "debate"
+      ],
+      "answerIndex": 2,
+      "hint": "usually = عادةً، same order = نفس الترتيب — التعريف يتحدث عن يومك العادي.",
+      "feedback": {
+        "correct": "أحسنت ✓ routine تعني «روتين» — الأشياء التي تفعلها كل يوم بنفس الترتيب هي روتينك اليومي.",
+        "incorrect": "الإجابة الصحيحة هي routine (روتين) — الأشياء التي تفعلها كل يوم بنفس الترتيب هي روتينك اليومي. أمّا survey تعني «استطلاع رأي / استبيان»، و treatment تعني «علاج»، و debate تعني «نقاش / مناظرة» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q81",
+      "prompt": "Car accidents are a ___ problem in many cities. Many people get hurt every year.",
+      "options": [
+        "pretty",
+        "calm",
+        "serious",
+        "talented"
+      ],
+      "answerIndex": 2,
+      "hint": "accidents = حوادث، get hurt = يُصابون — الجملة تتحدث عن مشكلة في المدن.",
+      "feedback": {
+        "correct": "أحسنت ✓ serious تعني «خطير / جادّ» — إصابة كثير من الناس كل سنة تجعل الحوادث مشكلة خطيرة.",
+        "incorrect": "الإجابة الصحيحة هي serious (خطير / جادّ) — إصابة كثير من الناس كل سنة تجعل الحوادث مشكلة خطيرة. أمّا pretty تعني «جميل»، و calm تعني «هادئ»، و talented تعني «موهوب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q82",
+      "prompt": "I called you ___ times yesterday, but you didn't answer.",
+      "options": [
+        "basic",
+        "similar",
+        "several",
+        "natural"
+      ],
+      "answerIndex": 2,
+      "hint": "called = اتصلتُ بك، answer = تردّ — صديق لم يردّ على الهاتف.",
+      "feedback": {
+        "correct": "أحسنت ✓ several تعني «عدّة» — المتحدث اتصل أكثر من مرة، و several times تعني «عدّة مرات».",
+        "incorrect": "الإجابة الصحيحة هي several (عدّة) — المتحدث اتصل أكثر من مرة، و several times تعني «عدّة مرات». أمّا basic تعني «أساسي»، و similar تعني «مشابه»، و natural تعني «طبيعي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q83",
+      "prompt": "In Saudi Arabia, men usually ___ hands when they meet.",
+      "options": [
+        "reach",
+        "shake",
+        "store",
+        "lead"
+      ],
+      "answerIndex": 1,
+      "hint": "usually = عادةً، meet = يلتقون — الجملة عن طريقة التحية بين الرجال.",
+      "feedback": {
+        "correct": "أحسنت ✓ shake تعني «يهزّ» — عبارة shake hands تعني «يتصافحون»، وهي طريقة التحية عند اللقاء.",
+        "incorrect": "الإجابة الصحيحة هي shake (يهزّ) — عبارة shake hands تعني «يتصافحون»، وهي طريقة التحية عند اللقاء. أمّا reach تعني «يصل إلى»، و store تعني «يخزّن / يحفظ»، و lead تعني «يقود» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q84",
+      "prompt": "My phone and my brother's phone are very ___. They have the same color and size.",
+      "options": [
+        "similar",
+        "tough",
+        "nervous",
+        "social"
+      ],
+      "answerIndex": 0,
+      "hint": "same = نفس، size = الحجم — مقارنة بين هاتفين.",
+      "feedback": {
+        "correct": "أحسنت ✓ similar تعني «مشابه» — الهاتفان لهما نفس اللون والحجم، فهما متشابهان.",
+        "incorrect": "الإجابة الصحيحة هي similar (مشابه) — الهاتفان لهما نفس اللون والحجم، فهما متشابهان. أمّا tough تعني «صعب / قاسٍ»، و nervous تعني «متوتر / قلق»، و social تعني «اجتماعي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q85",
+      "prompt": "The instructions are ___. Even a child can follow them.",
+      "options": [
+        "complex",
+        "simple",
+        "professional",
+        "nervous"
+      ],
+      "answerIndex": 1,
+      "hint": "instructions = التعليمات، follow = يتّبع — حتى طفل صغير يستطيع استخدامها.",
+      "feedback": {
+        "correct": "أحسنت ✓ simple تعني «بسيط / سهل» — إذا كان الطفل يستطيع اتّباع التعليمات فهي بسيطة وسهلة.",
+        "incorrect": "الإجابة الصحيحة هي simple (بسيط / سهل) — إذا كان الطفل يستطيع اتّباع التعليمات فهي بسيطة وسهلة. أمّا complex تعني «معقّد»، و professional تعني «محترف / مهني»، و nervous تعني «متوتر / قلق» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q86",
+      "prompt": "Instagram and Snapchat are popular ___ media apps.",
+      "options": [
+        "natural",
+        "average",
+        "social",
+        "calm"
+      ],
+      "answerIndex": 2,
+      "hint": "popular = مشهورة، apps = تطبيقات — الجملة تذكر تطبيقين مشهورين على الهاتف.",
+      "feedback": {
+        "correct": "أحسنت ✓ social تعني «اجتماعي» — إنستغرام وسناب شات من وسائل التواصل الاجتماعي، و social media تعني «وسائل التواصل الاجتماعي».",
+        "incorrect": "الإجابة الصحيحة هي social (اجتماعي) — إنستغرام وسناب شات من وسائل التواصل الاجتماعي، و social media تعني «وسائل التواصل الاجتماعي». أمّا natural تعني «طبيعي»، و average تعني «متوسط»، و calm تعني «هادئ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q87",
+      "prompt": "Can you help me ___ this math problem? I don't understand it.",
+      "options": [
+        "store",
+        "shake",
+        "solve",
+        "lead"
+      ],
+      "answerIndex": 2,
+      "hint": "math problem = مسألة رياضيات، understand = أفهم — طالب يطلب مساعدة زميله.",
+      "feedback": {
+        "correct": "أحسنت ✓ solve تعني «يحلّ» — الطالب لا يفهم المسألة ويريد من يساعده في إيجاد حلها.",
+        "incorrect": "الإجابة الصحيحة هي solve (يحلّ) — الطالب لا يفهم المسألة ويريد من يساعده في إيجاد حلها. أمّا store تعني «يخزّن / يحفظ»، و shake تعني «يهزّ»، و lead تعني «يقود» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q88",
+      "prompt": "There is ___ problem with my car. It makes a strange noise.",
+      "options": [
+        "some kind of",
+        "according to",
+        "except for",
+        "in order to"
+      ],
+      "answerIndex": 0,
+      "hint": "strange = غريب، noise = صوت — السائق لا يعرف ما المشكلة بالضبط.",
+      "feedback": {
+        "correct": "أحسنت ✓ some kind of تعني «نوع من» — السائق لا يعرف نوع المشكلة بالتحديد، فيقول some kind of problem أي «مشكلة ما».",
+        "incorrect": "الإجابة الصحيحة هي some kind of (نوع من) — السائق لا يعرف نوع المشكلة بالتحديد، فيقول some kind of problem أي «مشكلة ما». أمّا according to تعني «وفقًا لـ / حسب»، و except for تعني «ما عدا / باستثناء»، و in order to تعني «من أجل / لكي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q89",
+      "prompt": "You can ___ your photos on the cloud so you don't lose them.",
+      "options": [
+        "shake",
+        "store",
+        "solve",
+        "lead"
+      ],
+      "answerIndex": 1,
+      "hint": "cloud = السحابة الإلكترونية، lose = تفقد — صاحب الهاتف قلق على صوره.",
+      "feedback": {
+        "correct": "أحسنت ✓ store تعني «يخزّن / يحفظ» — يمكنك أن تخزّن صورك على السحابة الإلكترونية حتى لا تضيع.",
+        "incorrect": "الإجابة الصحيحة هي store (يخزّن / يحفظ) — يمكنك أن تخزّن صورك على السحابة الإلكترونية حتى لا تضيع. أمّا shake تعني «يهزّ»، و solve تعني «يحلّ»، و lead تعني «يقود» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q90",
+      "prompt": "Studying hard every day is the key to ___ at university.",
+      "options": [
+        "pollution",
+        "insect",
+        "success",
+        "data"
+      ],
+      "answerIndex": 2,
+      "hint": "key = مفتاح، hard = بجدّ — نصيحة للطلاب الجامعيين.",
+      "feedback": {
+        "correct": "أحسنت ✓ success تعني «نجاح» — الدراسة بجد كل يوم هي طريق النجاح في الجامعة.",
+        "incorrect": "الإجابة الصحيحة هي success (نجاح) — الدراسة بجد كل يوم هي طريق النجاح في الجامعة. أمّا pollution تعني «تلوّث»، و insect تعني «حشرة»، و data تعني «بيانات» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q91",
+      "prompt": "A set of questions that you ask many people to learn what they think",
+      "options": [
+        "survey",
+        "treatment",
+        "routine",
+        "technology"
+      ],
+      "answerIndex": 0,
+      "hint": "set = مجموعة، think = يفكّرون — التعريف يتحدث عن عمل تقوم به الشركات أو الطلاب لجمع المعلومات.",
+      "feedback": {
+        "correct": "أحسنت ✓ survey تعني «استطلاع رأي / استبيان» — مجموعة الأسئلة التي تسألها لكثير من الناس لتعرف آراءهم هي الاستبيان.",
+        "incorrect": "الإجابة الصحيحة هي survey (استطلاع رأي / استبيان) — مجموعة الأسئلة التي تسألها لكثير من الناس لتعرف آراءهم هي الاستبيان. أمّا treatment تعني «علاج»، و routine تعني «روتين»، و technology تعني «تقنية» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q92",
+      "prompt": "Having a natural ability to do something very well",
+      "options": [
+        "organized",
+        "embarrassed",
+        "calm",
+        "talented"
+      ],
+      "answerIndex": 3,
+      "hint": "ability = قدرة، natural = طبيعية — التعريف يصف شخصًا يتقن شيئًا مثل الرسم أو الغناء منذ صغره.",
+      "feedback": {
+        "correct": "أحسنت ✓ talented تعني «موهوب» — من يملك قدرة طبيعية على فعل شيء بشكل ممتاز هو شخص موهوب.",
+        "incorrect": "الإجابة الصحيحة هي talented (موهوب) — من يملك قدرة طبيعية على فعل شيء بشكل ممتاز هو شخص موهوب. أمّا organized تعني «منظَّم»، و embarrassed تعني «محرَج»، و calm تعني «هادئ» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q93",
+      "prompt": "Scientific knowledge used to make useful machines and tools, like computers and phones",
+      "options": [
+        "pollution",
+        "advertising",
+        "technology",
+        "training"
+      ],
+      "answerIndex": 2,
+      "hint": "machines = آلات، tools = أدوات، useful = مفيدة — التعريف يذكر أمثلة نستخدمها كل يوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ technology تعني «تقنية» — العلم الذي نصنع به الأجهزة والأدوات مثل الحاسب والهاتف هو التقنية.",
+        "incorrect": "الإجابة الصحيحة هي technology (تقنية) — العلم الذي نصنع به الأجهزة والأدوات مثل الحاسب والهاتف هو التقنية. أمّا pollution تعني «تلوّث»، و advertising تعني «الإعلان / الدعاية»، و training تعني «تدريب» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q94",
+      "prompt": "The final exam was really ___. I studied for weeks, but I still found it hard.",
+      "options": [
+        "pretty",
+        "social",
+        "tough",
+        "local"
+      ],
+      "answerIndex": 2,
+      "hint": "final exam = الاختبار النهائي، weeks = أسابيع، still = رغم ذلك — طالب يتحدث عن اختبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ tough تعني «صعب / قاسٍ» — الطالب درس أسابيع ومع ذلك وجد الاختبار صعبًا، فهو اختبار tough.",
+        "incorrect": "الإجابة الصحيحة هي tough (صعب / قاسٍ) — الطالب درس أسابيع ومع ذلك وجد الاختبار صعبًا، فهو اختبار tough. أمّا pretty تعني «جميل»، و social تعني «اجتماعي»، و local تعني «محلي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q95",
+      "prompt": "New employees get two weeks of ___ before they start work.",
+      "options": [
+        "pollution",
+        "variety",
+        "debate",
+        "training"
+      ],
+      "answerIndex": 3,
+      "hint": "employees = الموظفون، start work = يبدؤون العمل — شركة تجهّز موظفيها الجدد.",
+      "feedback": {
+        "correct": "أحسنت ✓ training تعني «تدريب» — الموظفون الجدد يتعلّمون مهارات العمل لمدة أسبوعين قبل البدء، وهذا هو التدريب.",
+        "incorrect": "الإجابة الصحيحة هي training (تدريب) — الموظفون الجدد يتعلّمون مهارات العمل لمدة أسبوعين قبل البدء، وهذا هو التدريب. أمّا pollution تعني «تلوّث»، و variety تعني «تنوّع / تشكيلة»، و debate تعني «نقاش / مناظرة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q96",
+      "prompt": "The care and medicine that a doctor gives to a sick person",
+      "options": [
+        "training",
+        "treatment",
+        "technology",
+        "variety"
+      ],
+      "answerIndex": 1,
+      "hint": "care = رعاية، sick = مريض — التعريف يتحدث عن المستشفى والطبيب.",
+      "feedback": {
+        "correct": "أحسنت ✓ treatment تعني «علاج» — الرعاية والدواء اللذان يقدّمهما الطبيب للمريض هما العلاج.",
+        "incorrect": "الإجابة الصحيحة هي treatment (علاج) — الرعاية والدواء اللذان يقدّمهما الطبيب للمريض هما العلاج. أمّا training تعني «تدريب»، و technology تعني «تقنية»، و variety تعني «تنوّع / تشكيلة» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q97",
+      "prompt": "Reem was ___ because she lost her new phone.",
+      "options": [
+        "upset",
+        "organized",
+        "pretty",
+        "talented"
+      ],
+      "answerIndex": 0,
+      "hint": "lost = فقدت، new = جديد — ريم مرّت بيوم سيئ.",
+      "feedback": {
+        "correct": "أحسنت ✓ upset تعني «منزعج / مستاء» — فقدان الهاتف الجديد يجعل ريم منزعجة وحزينة.",
+        "incorrect": "الإجابة الصحيحة هي upset (منزعج / مستاء) — فقدان الهاتف الجديد يجعل ريم منزعجة وحزينة. أمّا organized تعني «منظَّم»، و pretty تعني «جميل»، و talented تعني «موهوب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q98",
+      "prompt": "This restaurant in Jeddah has a wide ___ of food: Indian, Italian and Arabic.",
+      "options": [
+        "variety",
+        "crowd",
+        "routine",
+        "survey"
+      ],
+      "answerIndex": 0,
+      "hint": "wide = واسعة، restaurant = مطعم — المطعم يقدّم أطباقًا من بلاد كثيرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ variety تعني «تنوّع / تشكيلة» — المطعم يقدّم أنواعًا مختلفة من الطعام، و a wide variety of تعني «تشكيلة واسعة من».",
+        "incorrect": "الإجابة الصحيحة هي variety (تنوّع / تشكيلة) — المطعم يقدّم أنواعًا مختلفة من الطعام، و a wide variety of تعني «تشكيلة واسعة من». أمّا crowd تعني «حشد / زحام»، و routine تعني «روتين»، و survey تعني «استطلاع رأي / استبيان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q99",
+      "prompt": "A person who works for free to help other people",
+      "options": [
+        "employee",
+        "volunteer",
+        "consumer",
+        "tourist"
+      ],
+      "answerIndex": 1,
+      "hint": "for free = مجانًا، other people = الآخرين — التعريف يذكر شخصًا تراه مثلًا في الجمعيات الخيرية.",
+      "feedback": {
+        "correct": "أحسنت ✓ volunteer تعني «متطوّع» — الشخص الذي يعمل بدون أجر لمساعدة الآخرين هو المتطوّع.",
+        "incorrect": "الإجابة الصحيحة هي volunteer (متطوّع) — الشخص الذي يعمل بدون أجر لمساعدة الآخرين هو المتطوّع. أمّا employee تعني «موظف»، و consumer تعني «مستهلك»، و tourist تعني «سائح» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q100",
+      "prompt": "Sorry, you have the ___ number. There is no Ahmed here.",
+      "options": [
+        "wrong",
+        "social",
+        "calm",
+        "similar"
+      ],
+      "answerIndex": 0,
+      "hint": "Sorry = آسف، number = رقم — شخص اتصل برقم، والذي ردّ عليه لا يعرف أحمد.",
+      "feedback": {
+        "correct": "أحسنت ✓ wrong تعني «خاطئ» — لا يوجد أحمد هنا، فالمتصل طلب رقمًا خاطئًا.",
+        "incorrect": "الإجابة الصحيحة هي wrong (خاطئ) — لا يوجد أحمد هنا، فالمتصل طلب رقمًا خاطئًا. أمّا social تعني «اجتماعي»، و calm تعني «هادئ»، و similar تعني «مشابه» — ولا تناسب معنى هذه الجملة."
+      }
+    }
+  ]
+}
