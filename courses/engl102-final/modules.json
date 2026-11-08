@@ -17,6 +17,14 @@
       "title": "ENGL 102/103B — Final Vocabulary Bank 2",
       "description": "اختبار مفردات شامل (100 سؤال) — الجزء الثاني من قائمة مفردات الاختبار النهائي لمقرر ENGL 102/103B مع مراجعة لكلمات من البنك الأول.",
       "count": 100
+    },
+    {
+      "id": "engl102-final-grammar-bank-2",
+      "file": "grammar/modules/grammar-bank2.json",
+      "category": "grammar",
+      "title": "ENGL 102/103B — Final Grammar Practice 2",
+      "description": "اختبار تدريبي ثانٍ (100 سؤال) على نقاط القواعد الأربع عشرة للاختبار النهائي، مع رابط شرح لكل موضوع في زر Hint.",
+      "count": 100
     }
   ]
 }

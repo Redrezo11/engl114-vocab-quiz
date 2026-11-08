@@ -1,0 +1,1710 @@
+{
+  "schemaVersion": 1,
+  "id": "engl102-final-grammar-bank-2",
+  "title": "ENGL 102/103B — Final Grammar Practice 2",
+  "description": "اختبار تدريبي ثانٍ (100 سؤال) على نقاط القواعد الأربع عشرة للاختبار النهائي، مع رابط شرح لكل موضوع في زر Hint.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "g1",
+      "prompt": "Every Friday, my uncle ___ his family to his farm.",
+      "options": [
+        "takes",
+        "take",
+        "taking",
+        "is take"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-verbs",
+      "hint": "Every Friday = كل يوم جمعة، uncle = عمّ أو خال، farm = مزرعة — عادة أسبوعية، والفاعل مفرد غائب (he).",
+      "feedback": {
+        "correct": "أحسنت ✓ takes — عادة متكررة (Every Friday) والفاعل my uncle مفرد غائب، فنضيف -s إلى الفعل في المضارع البسيط.",
+        "incorrect": "الإجابة الصحيحة takes — عادة متكررة (Every Friday) والفاعل my uncle مفرد غائب، فنضيف -s إلى الفعل في المضارع البسيط. take بدون -s تأتي مع I / you / we / they، و taking تحتاج is قبلها، و is take تركيب خاطئ لأننا لا نضع is قبل الفعل في المضارع البسيط."
+      }
+    },
+    {
+      "id": "g2",
+      "prompt": "My cousins ___ in a small village near Abha.",
+      "options": [
+        "live",
+        "lives",
+        "living",
+        "are live"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-verbs",
+      "hint": "cousins = أبناء العم أو الخال، village = قرية، near = قرب — حقيقة ثابتة، والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ live — الفاعل my cousins جمع (they)، فيأتي الفعل في المضارع البسيط في صورته الأصلية بدون -s.",
+        "incorrect": "الإجابة الصحيحة live — الفاعل my cousins جمع (they)، فيأتي الفعل في المضارع البسيط في صورته الأصلية بدون -s. lives بـ -s للمفرد الغائب فقط، و living وحدها ليست فعلًا كاملًا، و are live خطأ لأننا لا نضع are قبل الفعل في المضارع البسيط."
+      }
+    },
+    {
+      "id": "g3",
+      "prompt": "Nora ___ English videos every night to improve her listening.",
+      "options": [
+        "watch",
+        "watchs",
+        "watches",
+        "watching"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-verbs",
+      "hint": "every night = كل ليلة، improve = تحسّن، listening = مهارة الاستماع — عادة يومية، والفاعل مفرد غائب (she)، والفعل ينتهي بـ ch.",
+      "feedback": {
+        "correct": "أحسنت ✓ watches — الفاعل Nora مفرد غائب (she)، والفعل ينتهي بـ ch، فنضيف -es: watch → watches.",
+        "incorrect": "الإجابة الصحيحة watches — الفاعل Nora مفرد غائب (she)، والفعل ينتهي بـ ch، فنضيف -es: watch → watches. watch بدون نهاية تأتي مع I / you / we / they، و watchs تهجئة خاطئة (بعد ch نضيف -es)، و watching تحتاج is قبلها."
+      }
+    },
+    {
+      "id": "g4",
+      "prompt": "Our coach ___ late. He always arrives on time.",
+      "options": [
+        "don't come",
+        "doesn't comes",
+        "doesn't come",
+        "not comes"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-verbs",
+      "hint": "coach = مدرّب، always = دائمًا، on time = في الوقت المحدد — جملة منفية عن عادة، والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ doesn't come — للنفي مع he / she / it نستخدم doesn't + الفعل في صورته الأصلية بدون -s.",
+        "incorrect": "الإجابة الصحيحة doesn't come — للنفي مع he / she / it نستخدم doesn't + الفعل في صورته الأصلية بدون -s. don't تأتي مع I / you / we / they وليس مع our coach، و doesn't comes خطأ لأن الفعل بعد doesn't لا يأخذ -s، و not comes خطأ لأن النفي يحتاج doesn't."
+      }
+    },
+    {
+      "id": "g5",
+      "prompt": "We ___ fast food at home. My mother cooks every day.",
+      "options": [
+        "doesn't eat",
+        "don't eats",
+        "not eat",
+        "don't eat"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-present-verbs",
+      "hint": "fast food = الوجبات السريعة، cooks = تطبخ — جملة منفية عن عادة، والفاعل (we).",
+      "feedback": {
+        "correct": "أحسنت ✓ don't eat — للنفي مع I / you / we / they نستخدم don't + الفعل في صورته الأصلية.",
+        "incorrect": "الإجابة الصحيحة don't eat — للنفي مع I / you / we / they نستخدم don't + الفعل في صورته الأصلية. doesn't تأتي مع he / she / it فقط، و don't eats خطأ لأن الفعل بعد don't لا يأخذ -s، و not eat خطأ لأن النفي يحتاج don't."
+      }
+    },
+    {
+      "id": "g6",
+      "prompt": "This is my morning routine. I wake up at 5:30, and my brother ___ the coffee. Then we drive to the university together.",
+      "options": [
+        "make",
+        "making",
+        "is make",
+        "makes"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-present-verbs",
+      "hint": "morning routine = الروتين الصباحي، wake up = أستيقظ، together = معًا — قصة قصيرة عن يوم عادي، والفاعل في الفراغ (my brother).",
+      "feedback": {
+        "correct": "أحسنت ✓ makes — نستخدم المضارع البسيط لسرد الروتين اليومي، ومع my brother (he) نضيف -s: makes.",
+        "incorrect": "الإجابة الصحيحة makes — نستخدم المضارع البسيط لسرد الروتين اليومي، ومع my brother (he) نضيف -s: makes. make بدون -s لا تناسب he، و making تحتاج is قبلها، و is make تركيب خاطئ في المضارع البسيط."
+      }
+    },
+    {
+      "id": "g7",
+      "prompt": "Every evening, my father ___ home from work, changes his clothes, and goes for a walk.",
+      "options": [
+        "come",
+        "coming",
+        "comes",
+        "is come"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-verbs",
+      "hint": "Every evening = كل مساء، changes his clothes = يغيّر ملابسه، goes for a walk = يخرج للمشي — سرد لعادة يومية، والأفعال الأخرى في الجملة تساعدك.",
+      "feedback": {
+        "correct": "أحسنت ✓ comes — سرد لعادة يومية (Every evening) والفاعل my father مفرد غائب، فنضيف -s: comes مثل changes و goes.",
+        "incorrect": "الإجابة الصحيحة comes — سرد لعادة يومية (Every evening) والفاعل my father مفرد غائب، فنضيف -s: comes مثل changes و goes. come بدون -s لا تناسب he، و coming تحتاج is قبلها، و is come تركيب خاطئ في المضارع البسيط."
+      }
+    },
+    {
+      "id": "g8",
+      "prompt": "Choose the correct sentence about Faisal.",
+      "options": [
+        "Faisal don't trust online stores.",
+        "Faisal doesn't trusts online stores.",
+        "Faisal doesn't trust online stores.",
+        "Faisal not trust online stores."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-verbs",
+      "hint": "trust = يثق بـ، online stores = المتاجر الإلكترونية — جملة منفية، والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Faisal doesn't trust online stores.» — مع Faisal (he) ننفي بـ doesn't + الفعل في صورته الأصلية: doesn't trust.",
+        "incorrect": "الإجابة الصحيحة «Faisal doesn't trust online stores.» — مع Faisal (he) ننفي بـ doesn't + الفعل في صورته الأصلية: doesn't trust. don't لا تناسب he، و trusts بعد doesn't خطأ، و not وحدها قبل الفعل لا تكفي للنفي."
+      }
+    },
+    {
+      "id": "g9",
+      "prompt": "My sister is a nurse. She ___ at night three days a week.",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "is work"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-verbs",
+      "hint": "nurse = ممرضة، three days a week = ثلاثة أيام في الأسبوع — عادة عمل متكررة، والفاعل (she).",
+      "feedback": {
+        "correct": "أحسنت ✓ works — عادة متكررة (three days a week) والفاعل she، فنضيف -s إلى الفعل: works.",
+        "incorrect": "الإجابة الصحيحة works — عادة متكررة (three days a week) والفاعل she، فنضيف -s إلى الفعل: works. work بدون -s لا تناسب she، و working تحتاج is قبلها، و is work تركيب خاطئ في المضارع البسيط."
+      }
+    },
+    {
+      "id": "g10",
+      "prompt": "Choose the correct sentence about my friends.",
+      "options": [
+        "My friends usually study in the library.",
+        "My friends usually studies in the library.",
+        "My friends usually studys in the library.",
+        "My friends usually studying in the library."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-verbs",
+      "hint": "usually = عادةً، library = المكتبة — عادة متكررة، والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ «My friends usually study in the library.» — الفاعل my friends جمع (they)، فيأتي الفعل في صورته الأصلية بدون -s: study.",
+        "incorrect": "الإجابة الصحيحة «My friends usually study in the library.» — الفاعل my friends جمع (they)، فيأتي الفعل في صورته الأصلية بدون -s: study. studies بـ -s للمفرد الغائب فقط، و studys تهجئة خاطئة، و studying وحدها تحتاج are قبلها."
+      }
+    },
+    {
+      "id": "g11",
+      "prompt": "My manager ___ a meeting with the customers every Tuesday.",
+      "options": [
+        "has",
+        "have",
+        "haves",
+        "is have"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-have",
+      "hint": "manager = مدير، meeting = اجتماع، customers = العملاء — نشاط أسبوعي، والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ has — مع he / she / it نستخدم has، والفاعل my manager مفرد غائب.",
+        "incorrect": "الإجابة الصحيحة has — مع he / she / it نستخدم has، والفاعل my manager مفرد غائب. have تأتي مع I / you / we / they، و haves كلمة غير موجودة، و is have خطأ لأننا لا نضع is قبل have في المضارع البسيط."
+      }
+    },
+    {
+      "id": "g12",
+      "prompt": "The students ___ a physical education class on Wednesday.",
+      "options": [
+        "has",
+        "having",
+        "have",
+        "are have"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-have",
+      "hint": "physical education = التربية البدنية، Wednesday = الأربعاء — جدول ثابت، والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ have — الفاعل the students جمع (they)، فنستخدم have.",
+        "incorrect": "الإجابة الصحيحة have — الفاعل the students جمع (they)، فنستخدم have. has للمفرد الغائب فقط، و having وحدها ليست فعلًا كاملًا، و are have خطأ لأننا لا نضع are قبل have."
+      }
+    },
+    {
+      "id": "g13",
+      "prompt": "Khalid ___ a car, so he takes the metro to work.",
+      "options": [
+        "don't have",
+        "doesn't have",
+        "doesn't has",
+        "not have"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-have",
+      "hint": "car = سيارة، takes the metro = يركب المترو — جملة منفية، والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ doesn't have — النفي مع he / she / it هو doesn't have، ولا نقول أبدًا doesn't has.",
+        "incorrect": "الإجابة الصحيحة doesn't have — النفي مع he / she / it هو doesn't have، ولا نقول أبدًا doesn't has. don't have مع I / you / we / they فقط، و doesn't has خطأ لأن بعد doesn't نستخدم have دائمًا، و not have بدون doesn't خطأ."
+      }
+    },
+    {
+      "id": "g14",
+      "prompt": "We ___ any free time on Sunday. We have three classes.",
+      "options": [
+        "doesn't have",
+        "don't has",
+        "don't have",
+        "aren't have"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-have",
+      "hint": "free time = وقت فراغ، classes = محاضرات — جملة منفية، والفاعل (we).",
+      "feedback": {
+        "correct": "أحسنت ✓ don't have — النفي مع I / you / we / they هو don't have.",
+        "incorrect": "الإجابة الصحيحة don't have — النفي مع I / you / we / they هو don't have. doesn't have مع he / she / it فقط، و don't has خطأ لأن has لا تأتي بعد don't، و aren't have خطأ لأننا لا نستخدم be مع have."
+      }
+    },
+    {
+      "id": "g15",
+      "prompt": "Choose the correct sentence about my grandfather.",
+      "options": [
+        "My grandfather have a beautiful garden.",
+        "My grandfather is have a beautiful garden.",
+        "My grandfather has a beautiful garden.",
+        "My grandfather haves a beautiful garden."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-present-have",
+      "hint": "grandfather = جدّ، beautiful = جميل، garden = حديقة — جملة عن شيء يملكه، والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ «My grandfather has a beautiful garden.» — مع he / she / it نستخدم has: My grandfather has.",
+        "incorrect": "الإجابة الصحيحة «My grandfather has a beautiful garden.» — مع he / she / it نستخدم has: My grandfather has. have لا تناسب المفرد الغائب، و is have خطأ لأننا لا نضع is قبل have، و haves كلمة غير موجودة."
+      }
+    },
+    {
+      "id": "g16",
+      "prompt": "I ___ a headache, so I want to rest for a little bit.",
+      "options": [
+        "have",
+        "has",
+        "am have",
+        "having"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-present-have",
+      "hint": "headache = صداع، rest = أرتاح، a little bit = قليلًا — نتحدث عن مرض، والفاعل (I).",
+      "feedback": {
+        "correct": "أحسنت ✓ have — مع I نستخدم have، ونستخدمها للأمراض مثل have a headache.",
+        "incorrect": "الإجابة الصحيحة have — مع I نستخدم have، ونستخدمها للأمراض مثل have a headache. has مع he / she / it فقط، و am have خطأ لأننا لا نضع am قبل have، و having وحدها ليست فعلًا كاملًا."
+      }
+    },
+    {
+      "id": "g17",
+      "prompt": "I ___ my résumé with me. I left it at home.",
+      "options": [
+        "doesn't have",
+        "don't have",
+        "don't has",
+        "am not have"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-have",
+      "hint": "résumé = سيرة ذاتية، left = تركت — جملة منفية، والفاعل (I).",
+      "feedback": {
+        "correct": "أحسنت ✓ don't have — النفي مع I هو don't have.",
+        "incorrect": "الإجابة الصحيحة don't have — النفي مع I هو don't have. doesn't have مع he / she / it فقط، و don't has خطأ لأن has لا تأتي بعد don't، و am not have خطأ لأننا لا نستخدم am مع have."
+      }
+    },
+    {
+      "id": "g18",
+      "prompt": "Choose the correct sentence about this area.",
+      "options": [
+        "This area don't have a good hospital.",
+        "This area doesn't has a good hospital.",
+        "This area not has a good hospital.",
+        "This area doesn't have a good hospital."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-present-have",
+      "hint": "area = منطقة، hospital = مستشفى — جملة منفية، والفاعل مفرد (it).",
+      "feedback": {
+        "correct": "أحسنت ✓ «This area doesn't have a good hospital.» — الفاعل this area مفرد (it)، والنفي هو doesn't have.",
+        "incorrect": "الإجابة الصحيحة «This area doesn't have a good hospital.» — الفاعل this area مفرد (it)، والنفي هو doesn't have. don't لا تناسب it، و doesn't has خطأ لأن بعد doesn't نستخدم have، و not has بدون doesn't خطأ."
+      }
+    },
+    {
+      "id": "g19",
+      "prompt": "Our university ___ a big library with a variety of books.",
+      "options": [
+        "have",
+        "has",
+        "having",
+        "is have"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-present-have",
+      "hint": "university = جامعة، library = مكتبة، a variety of = تشكيلة من — جملة عن شيء تملكه الجامعة، والفاعل مفرد (it).",
+      "feedback": {
+        "correct": "أحسنت ✓ has — الفاعل our university مفرد (it)، فنستخدم has.",
+        "incorrect": "الإجابة الصحيحة has — الفاعل our university مفرد (it)، فنستخدم has. have مع I / you / we / they، و having وحدها ليست فعلًا كاملًا، و is have خطأ لأننا لا نضع is قبل have."
+      }
+    },
+    {
+      "id": "g20",
+      "prompt": "I want ___ a volunteer at the local hospital.",
+      "options": [
+        "become",
+        "becoming",
+        "to becoming",
+        "to become"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "volunteer = متطوّع، local = محلي، hospital = مستشفى — بعد الفعل (want) يأتي فعل ثانٍ.",
+      "feedback": {
+        "correct": "أحسنت ✓ to become — بعد want نستخدم to + الفعل في صورته الأصلية: want to become.",
+        "incorrect": "الإجابة الصحيحة to become — بعد want نستخدم to + الفعل في صورته الأصلية: want to become. become بدون to خطأ بعد want، و becoming لا تأتي بعد want، و to becoming خطأ لأن بعد to يأتي الفعل بدون -ing."
+      }
+    },
+    {
+      "id": "g21",
+      "prompt": "My sister needs ___ her application before Thursday.",
+      "options": [
+        "send",
+        "to send",
+        "sends",
+        "to sends"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "application = طلب التقديم، before = قبل، Thursday = الخميس — بعد الفعل (needs) يأتي فعل ثانٍ.",
+      "feedback": {
+        "correct": "أحسنت ✓ to send — بعد need نستخدم to + الفعل في صورته الأصلية: needs to send.",
+        "incorrect": "الإجابة الصحيحة to send — بعد need نستخدم to + الفعل في صورته الأصلية: needs to send. send و sends بدون to خطأ بعد needs، و to sends خطأ لأن الفعل بعد to لا يأخذ -s."
+      }
+    },
+    {
+      "id": "g22",
+      "prompt": "My father likes ___ the news in Arabic and English.",
+      "options": [
+        "read",
+        "reads",
+        "to read",
+        "to reads"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "news = الأخبار — بعد الفعل (likes) يأتي فعل ثانٍ، و -s في likes تكفي للفاعل.",
+      "feedback": {
+        "correct": "أحسنت ✓ to read — بعد like نستخدم to + الفعل في صورته الأصلية: likes to read.",
+        "incorrect": "الإجابة الصحيحة to read — بعد like نستخدم to + الفعل في صورته الأصلية: likes to read. read و reads بدون to خطأ بعد likes، و to reads خطأ لأن الفعل بعد to لا يأخذ -s."
+      }
+    },
+    {
+      "id": "g23",
+      "prompt": "The students need ___ their writing skills before the final exam.",
+      "options": [
+        "improve",
+        "to improve",
+        "improves",
+        "to improving"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "writing skills = مهارات الكتابة، final exam = الاختبار النهائي — بعد الفعل (need) يأتي فعل ثانٍ.",
+      "feedback": {
+        "correct": "أحسنت ✓ to improve — بعد need نستخدم to + الفعل في صورته الأصلية: need to improve.",
+        "incorrect": "الإجابة الصحيحة to improve — بعد need نستخدم to + الفعل في صورته الأصلية: need to improve. improve و improves بدون to خطأ بعد need، و to improving خطأ لأن بعد to يأتي الفعل بدون -ing."
+      }
+    },
+    {
+      "id": "g24",
+      "prompt": "Cooking together is a good way ___ time with your family.",
+      "options": [
+        "spend",
+        "spends",
+        "for spend",
+        "to spend"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "Cooking together = الطبخ معًا، a good way = طريقة جيدة — بعد الاسم (way) نحتاج تركيبًا يبيّن الغرض.",
+      "feedback": {
+        "correct": "أحسنت ✓ to spend — بعد شبه الجملة الاسمية (a good way) نستخدم to + الفعل لبيان الغرض: a good way to spend.",
+        "incorrect": "الإجابة الصحيحة to spend — بعد شبه الجملة الاسمية (a good way) نستخدم to + الفعل لبيان الغرض: a good way to spend. spend و spends بدون to لا تأتي بعد الاسم، و for spend خطأ لأن for لا يأتي بعدها فعل في صورته الأصلية."
+      }
+    },
+    {
+      "id": "g25",
+      "prompt": "Ramadan is a good time ___ old relatives.",
+      "options": [
+        "for visit",
+        "to visit",
+        "visit",
+        "visits"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "Ramadan = رمضان، a good time = وقت مناسب، relatives = الأقارب — بعد الاسم (time) نحتاج تركيبًا يبيّن الغرض.",
+      "feedback": {
+        "correct": "أحسنت ✓ to visit — بعد شبه الجملة الاسمية (a good time) نستخدم to + الفعل: a good time to visit.",
+        "incorrect": "الإجابة الصحيحة to visit — بعد شبه الجملة الاسمية (a good time) نستخدم to + الفعل: a good time to visit. for visit خطأ لأن for لا يأتي بعدها فعل في صورته الأصلية، و visit و visits بدون to لا تأتي بعد الاسم."
+      }
+    },
+    {
+      "id": "g26",
+      "prompt": "Choose the correct sentence about Ahmed.",
+      "options": [
+        "Ahmed wants to buy a new laptop.",
+        "Ahmed wants buy a new laptop.",
+        "Ahmed wants to buys a new laptop.",
+        "Ahmed want to buy a new laptop."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "laptop = حاسوب محمول — بعد (want) يأتي فعل ثانٍ، والفاعل مفرد غائب.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Ahmed wants to buy a new laptop.» — بعد want نستخدم to + الفعل في صورته الأصلية، ومع Ahmed نقول wants: wants to buy.",
+        "incorrect": "الإجابة الصحيحة «Ahmed wants to buy a new laptop.» — بعد want نستخدم to + الفعل في صورته الأصلية، ومع Ahmed نقول wants: wants to buy. wants buy ينقصها to، و to buys خطأ لأن الفعل بعد to لا يأخذ -s، و want بدون -s لا تناسب Ahmed."
+      }
+    },
+    {
+      "id": "g27",
+      "prompt": "A: What do you want ___ after you graduate? B: I want to work in a bank.",
+      "options": [
+        "to do",
+        "do",
+        "doing",
+        "to doing"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "graduate = تتخرّج، bank = بنك — سؤال عن خطة بعد الدراسة، وبعد (want) يأتي فعل ثانٍ.",
+      "feedback": {
+        "correct": "أحسنت ✓ to do — بعد want نستخدم to + الفعل في صورته الأصلية: What do you want to do?",
+        "incorrect": "الإجابة الصحيحة to do — بعد want نستخدم to + الفعل في صورته الأصلية: What do you want to do? do بدون to خطأ بعد want، و doing لا تأتي بعد want، و to doing خطأ لأن بعد to يأتي الفعل بدون -ing."
+      }
+    },
+    {
+      "id": "g28",
+      "prompt": "The library is the best place ___ for the final exam.",
+      "options": [
+        "to study",
+        "study",
+        "studies",
+        "to studied"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "verbs-with-infinitives",
+      "hint": "library = المكتبة، the best place = أفضل مكان، final exam = الاختبار النهائي — بعد الاسم (place) نحتاج تركيبًا يبيّن الغرض.",
+      "feedback": {
+        "correct": "أحسنت ✓ to study — بعد شبه الجملة الاسمية (the best place) نستخدم to + الفعل: the best place to study.",
+        "incorrect": "الإجابة الصحيحة to study — بعد شبه الجملة الاسمية (the best place) نستخدم to + الفعل: the best place to study. study و studies بدون to لا تأتي بعد الاسم، و to studied خطأ لأن بعد to يأتي الفعل في صورته الأصلية لا الماضي."
+      }
+    },
+    {
+      "id": "g29",
+      "prompt": "Last summer, we ___ to Taif and visited a traditional market.",
+      "options": [
+        "go",
+        "goed",
+        "went",
+        "gone"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-past",
+      "hint": "Last summer = الصيف الماضي، traditional market = سوق تقليدي — حدث انتهى في الماضي، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ went — مع Last summer نستخدم الماضي البسيط، و go فعل غير منتظم ماضيه went.",
+        "incorrect": "الإجابة الصحيحة went — مع Last summer نستخدم الماضي البسيط، و go فعل غير منتظم ماضيه went. go مضارع، و goed خطأ لأن go لا يأخذ -ed، و gone تصريف ثالث لا يأتي وحده بعد we."
+      }
+    },
+    {
+      "id": "g30",
+      "prompt": "Yesterday, I ___ my old teacher at the mall.",
+      "options": [
+        "met",
+        "meet",
+        "meeted",
+        "meets"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-past",
+      "hint": "Yesterday = أمس، old teacher = معلمي القديم، mall = المجمّع التجاري — حدث انتهى أمس، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ met — مع Yesterday نستخدم الماضي البسيط، و meet فعل غير منتظم ماضيه met.",
+        "incorrect": "الإجابة الصحيحة met — مع Yesterday نستخدم الماضي البسيط، و meet فعل غير منتظم ماضيه met. meet و meets مضارع، و meeted خطأ لأن meet لا يأخذ -ed."
+      }
+    },
+    {
+      "id": "g31",
+      "prompt": "My brother ___ a nice watch for my father last week. It was a real bargain.",
+      "options": [
+        "buyed",
+        "bought",
+        "buys",
+        "buy"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-past",
+      "hint": "watch = ساعة يد، last week = الأسبوع الماضي، bargain = صفقة رابحة — حدث انتهى، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ bought — مع last week نستخدم الماضي البسيط، و buy فعل غير منتظم ماضيه bought.",
+        "incorrect": "الإجابة الصحيحة bought — مع last week نستخدم الماضي البسيط، و buy فعل غير منتظم ماضيه bought. buyed خطأ لأن buy لا يأخذ -ed، و buys و buy مضارع لا يناسب last week."
+      }
+    },
+    {
+      "id": "g32",
+      "prompt": "Sami ___ a long email to the manager two days ago.",
+      "options": [
+        "writed",
+        "writes",
+        "wrote",
+        "written"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-past",
+      "hint": "email = بريد إلكتروني، manager = مدير، two days ago = قبل يومين — حدث انتهى، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ wrote — مع two days ago نستخدم الماضي البسيط، و write فعل غير منتظم ماضيه wrote.",
+        "incorrect": "الإجابة الصحيحة wrote — مع two days ago نستخدم الماضي البسيط، و write فعل غير منتظم ماضيه wrote. writed خطأ لأن write لا يأخذ -ed، و writes مضارع، و written تصريف ثالث لا يأتي وحده بعد الفاعل."
+      }
+    },
+    {
+      "id": "g33",
+      "prompt": "I ___ my keys in the car this morning, so I called my brother.",
+      "options": [
+        "left",
+        "leaved",
+        "leave",
+        "leaves"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-past",
+      "hint": "keys = المفاتيح، this morning = هذا الصباح، called = اتصلت — حدث انتهى صباح اليوم، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ left — الحدث انتهى (this morning و called في الماضي)، و leave فعل غير منتظم ماضيه left.",
+        "incorrect": "الإجابة الصحيحة left — الحدث انتهى (this morning و called في الماضي)، و leave فعل غير منتظم ماضيه left. leaved خطأ لأن leave لا يأخذ -ed، و leave و leaves مضارع لا يناسب الحدث المنتهي."
+      }
+    },
+    {
+      "id": "g34",
+      "prompt": "My mother ___ a delicious kabsa for the guests yesterday.",
+      "options": [
+        "made",
+        "maked",
+        "make",
+        "makes"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "simple-past",
+      "hint": "delicious = لذيذ، guests = الضيوف، yesterday = أمس — حدث انتهى أمس، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ made — مع yesterday نستخدم الماضي البسيط، و make فعل غير منتظم ماضيه made.",
+        "incorrect": "الإجابة الصحيحة made — مع yesterday نستخدم الماضي البسيط، و make فعل غير منتظم ماضيه made. maked خطأ لأن make لا يأخذ -ed، و make و makes مضارع لا يناسب yesterday."
+      }
+    },
+    {
+      "id": "g35",
+      "prompt": "After the match last night, the players ___ tired but happy.",
+      "options": [
+        "feeled",
+        "felt",
+        "feel",
+        "fell"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-past",
+      "hint": "match = مباراة، last night = الليلة الماضية، players = اللاعبون — حدث انتهى، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ felt — مع last night نستخدم الماضي البسيط، و feel فعل غير منتظم ماضيه felt.",
+        "incorrect": "الإجابة الصحيحة felt — مع last night نستخدم الماضي البسيط، و feel فعل غير منتظم ماضيه felt. feeled خطأ لأن feel لا يأخذ -ed، و feel مضارع، و fell ماضي فعل آخر هو fall (يسقط)."
+      }
+    },
+    {
+      "id": "g36",
+      "prompt": "Choose the correct sentence about Reem.",
+      "options": [
+        "Reem studyed hard and graduated in 2023.",
+        "Reem studied hard and graduate in 2023.",
+        "Reem was study hard and graduated in 2023.",
+        "Reem studied hard and graduated in 2023."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-past",
+      "hint": "hard = بجدّ، graduated = تخرّجت، in 2023 = في عام 2023 — حدثان انتهيا في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Reem studied hard and graduated in 2023.» — الفعلان في الماضي البسيط: study → studied (الياء بعد حرف ساكن تصبح -ied)، و graduate → graduated.",
+        "incorrect": "الإجابة الصحيحة «Reem studied hard and graduated in 2023.» — الفعلان في الماضي البسيط: study → studied (الياء بعد حرف ساكن تصبح -ied)، و graduate → graduated. studyed تهجئة خاطئة، و graduate بدون -ed مضارع لا يناسب 2023، و was study خطأ لأننا لا نستخدم was لتكوين الماضي البسيط."
+      }
+    },
+    {
+      "id": "g37",
+      "prompt": "A: What did you do last weekend? B: I ___ a great movie with my cousins.",
+      "options": [
+        "see",
+        "saw",
+        "seed",
+        "seen"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-past",
+      "hint": "last weekend = عطلة نهاية الأسبوع الماضية، cousins = أبناء العم — السؤال عن الماضي، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ saw — السؤال عن last weekend، فنجيب بالماضي البسيط، و see فعل غير منتظم ماضيه saw.",
+        "incorrect": "الإجابة الصحيحة saw — السؤال عن last weekend، فنجيب بالماضي البسيط، و see فعل غير منتظم ماضيه saw. see مضارع، و seed خطأ لأن see لا يأخذ -ed، و seen تصريف ثالث لا يأتي وحده بعد I."
+      }
+    },
+    {
+      "id": "g38",
+      "prompt": "Choose the correct sentence about the coach.",
+      "options": [
+        "The coach leaded the team to success last year.",
+        "The coach lead the team to success last year.",
+        "The coach led the team to success last year.",
+        "The coach leads the team to success last year."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-past",
+      "hint": "coach = المدرّب، team = الفريق، success = النجاح، last year = العام الماضي — حدث انتهى، والفعل غير منتظم.",
+      "feedback": {
+        "correct": "أحسنت ✓ «The coach led the team to success last year.» — مع last year نستخدم الماضي البسيط، و lead فعل غير منتظم ماضيه led.",
+        "incorrect": "الإجابة الصحيحة «The coach led the team to success last year.» — مع last year نستخدم الماضي البسيط، و lead فعل غير منتظم ماضيه led. leaded خطأ لأن lead لا يأخذ -ed، و lead و leads مضارع لا يناسب last year."
+      }
+    },
+    {
+      "id": "g39",
+      "prompt": "I ___ the question, so I asked the teacher again.",
+      "options": [
+        "didn't understood",
+        "wasn't understand",
+        "not understood",
+        "didn't understand"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-past-negative",
+      "hint": "question = السؤال، asked = سألت، again = مرة أخرى — جملة منفية في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ didn't understand — النفي في الماضي البسيط: didn't + الفعل في صورته الأصلية: didn't understand.",
+        "incorrect": "الإجابة الصحيحة didn't understand — النفي في الماضي البسيط: didn't + الفعل في صورته الأصلية: didn't understand. didn't understood خطأ لأن بعد didn't يأتي الفعل الأصلي لا الماضي، و wasn't لا تُستخدم لنفي الأفعال العادية، و not وحدها لا تكفي للنفي."
+      }
+    },
+    {
+      "id": "g40",
+      "prompt": "My roommate ___ to class yesterday because he was sick.",
+      "options": [
+        "didn't came",
+        "wasn't come",
+        "doesn't come",
+        "didn't come"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-past-negative",
+      "hint": "roommate = زميل السكن، yesterday = أمس، sick = مريض — جملة منفية عن حدث في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ didn't come — مع yesterday ننفي بـ didn't + الفعل الأصلي: didn't come.",
+        "incorrect": "الإجابة الصحيحة didn't come — مع yesterday ننفي بـ didn't + الفعل الأصلي: didn't come. didn't came خطأ لأن بعد didn't يأتي الفعل الأصلي، و wasn't come خطأ لأن wasn't لا تنفي الأفعال العادية، و doesn't come مضارع لا يناسب yesterday."
+      }
+    },
+    {
+      "id": "g41",
+      "prompt": "We ___ the bus this morning. Our father drove us to school.",
+      "options": [
+        "didn't took",
+        "didn't take",
+        "weren't take",
+        "not took"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-past-negative",
+      "hint": "bus = الحافلة، drove = أوصلنا بالسيارة — جملة منفية عن حدث انتهى صباح اليوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ didn't take — النفي في الماضي البسيط: didn't + الفعل الأصلي: didn't take.",
+        "incorrect": "الإجابة الصحيحة didn't take — النفي في الماضي البسيط: didn't + الفعل الأصلي: didn't take. didn't took خطأ لأن بعد didn't يأتي الفعل الأصلي، و weren't take خطأ لأن weren't لا تنفي الأفعال العادية، و not took ينقصها didn't."
+      }
+    },
+    {
+      "id": "g42",
+      "prompt": "Hessa ___ her lunch yesterday. She wasn't hungry.",
+      "options": [
+        "didn't ate",
+        "wasn't eat",
+        "didn't eat",
+        "doesn't ate"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-past-negative",
+      "hint": "lunch = الغداء، hungry = جائعة — جملة منفية عن حدث في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ didn't eat — مع yesterday ننفي بـ didn't + الفعل الأصلي: didn't eat.",
+        "incorrect": "الإجابة الصحيحة didn't eat — مع yesterday ننفي بـ didn't + الفعل الأصلي: didn't eat. didn't ate خطأ لأن بعد didn't يأتي الفعل الأصلي، و wasn't eat خطأ لأن wasn't لا تنفي الأفعال العادية، و doesn't ate خطأ مرتين: doesn't للمضارع و ate ماضٍ."
+      }
+    },
+    {
+      "id": "g43",
+      "prompt": "Choose the correct sentence about Fahad.",
+      "options": [
+        "Fahad didn't gave me his phone number.",
+        "Fahad not gave me his phone number.",
+        "Fahad wasn't give me his phone number.",
+        "Fahad didn't give me his phone number."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-past-negative",
+      "hint": "phone number = رقم الهاتف — جملة منفية في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Fahad didn't give me his phone number.» — النفي في الماضي البسيط: didn't + الفعل الأصلي: didn't give.",
+        "incorrect": "الإجابة الصحيحة «Fahad didn't give me his phone number.» — النفي في الماضي البسيط: didn't + الفعل الأصلي: didn't give. didn't gave خطأ لأن بعد didn't يأتي الفعل الأصلي، و not gave ينقصها didn't، و wasn't لا تنفي الأفعال العادية."
+      }
+    },
+    {
+      "id": "g44",
+      "prompt": "The interview ___ difficult. The questions were simple.",
+      "options": [
+        "weren't",
+        "didn't",
+        "not was",
+        "wasn't"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-past-negative",
+      "hint": "interview = المقابلة، questions = الأسئلة، simple = بسيطة — جملة منفية في الماضي مع صفة، والفاعل مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ wasn't — مع الصفة (difficult) ننفي فعل be في الماضي، والفاعل مفرد فنستخدم wasn't.",
+        "incorrect": "الإجابة الصحيحة wasn't — مع الصفة (difficult) ننفي فعل be في الماضي، والفاعل مفرد فنستخدم wasn't. weren't للجمع ومع you، و didn't لا تأتي قبل الصفة مباشرة، و not was ترتيب خاطئ (not تأتي بعد was)."
+      }
+    },
+    {
+      "id": "g45",
+      "prompt": "The tourists ___ happy with the hotel because it was dirty.",
+      "options": [
+        "wasn't",
+        "didn't",
+        "weren't",
+        "not were"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "simple-past-negative",
+      "hint": "tourists = السيّاح، hotel = الفندق، dirty = متّسخ — جملة منفية في الماضي مع صفة، والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ weren't — مع الصفة (happy) ننفي فعل be في الماضي، والفاعل the tourists جمع فنستخدم weren't.",
+        "incorrect": "الإجابة الصحيحة weren't — مع الصفة (happy) ننفي فعل be في الماضي، والفاعل the tourists جمع فنستخدم weren't. wasn't للمفرد، و didn't لا تأتي قبل الصفة مباشرة، و not were ترتيب خاطئ (not تأتي بعد were)."
+      }
+    },
+    {
+      "id": "g46",
+      "prompt": "A: Did you buy the shoes? B: No, I ___. They were too expensive.",
+      "options": [
+        "wasn't",
+        "don't",
+        "not",
+        "didn't"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "simple-past-negative",
+      "hint": "shoes = الحذاء، too expensive = غالٍ جدًا — إجابة قصيرة منفية على سؤال يبدأ بـ Did.",
+      "feedback": {
+        "correct": "أحسنت ✓ didn't — السؤال بـ Did عن فعل عادي في الماضي، فالإجابة القصيرة المنفية No, I didn't.",
+        "incorrect": "الإجابة الصحيحة didn't — السؤال بـ Did عن فعل عادي في الماضي، فالإجابة القصيرة المنفية No, I didn't. wasn't لنفي be وليس buy، و don't مضارع لا يناسب Did، و not وحدها لا تكوّن إجابة قصيرة."
+      }
+    },
+    {
+      "id": "g47",
+      "prompt": "Choose the correct sentence about last night.",
+      "options": [
+        "I didn't saw your message last night.",
+        "I didn't see your message last night.",
+        "I wasn't see your message last night.",
+        "I not saw your message last night."
+      ],
+      "answerIndex": 1,
+      "topicSlug": "simple-past-negative",
+      "hint": "message = رسالة، last night = الليلة الماضية — جملة منفية في الماضي.",
+      "feedback": {
+        "correct": "أحسنت ✓ «I didn't see your message last night.» — النفي في الماضي البسيط: didn't + الفعل الأصلي: didn't see.",
+        "incorrect": "الإجابة الصحيحة «I didn't see your message last night.» — النفي في الماضي البسيط: didn't + الفعل الأصلي: didn't see. didn't saw خطأ لأن بعد didn't يأتي الفعل الأصلي، و wasn't لا تنفي الأفعال العادية، و not saw ينقصها didn't."
+      }
+    },
+    {
+      "id": "g48",
+      "prompt": "You ___ your password with other people. It's dangerous.",
+      "options": [
+        "should share",
+        "shouldn't to share",
+        "shouldn't sharing",
+        "shouldn't share"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "should-shouldnt",
+      "hint": "password = كلمة المرور، other people = الآخرون، dangerous = خطير — الجملة الثانية تقول إن الأمر سيئ.",
+      "feedback": {
+        "correct": "أحسنت ✓ shouldn't share — الأمر خطير، فهو فكرة سيئة: نستخدم shouldn't + الفعل الأصلي: shouldn't share.",
+        "incorrect": "الإجابة الصحيحة shouldn't share — الأمر خطير، فهو فكرة سيئة: نستخدم shouldn't + الفعل الأصلي: shouldn't share. should share معناها عكس المطلوب (نصيحة بفعل شيء خطير)، و shouldn't to share خطأ لأننا لا نضع to بعد shouldn't، و shouldn't sharing خطأ لأن الفعل بعدها بدون -ing."
+      }
+    },
+    {
+      "id": "g49",
+      "prompt": "You look tired. You ___ for a little bit.",
+      "options": [
+        "should to rest",
+        "should resting",
+        "should rest",
+        "should rests"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "should-shouldnt",
+      "hint": "look tired = تبدو متعبًا، a little bit = قليلًا — نصيحة لشخص متعب.",
+      "feedback": {
+        "correct": "أحسنت ✓ should rest — للنصيحة نستخدم should + الفعل في صورته الأصلية: should rest.",
+        "incorrect": "الإجابة الصحيحة should rest — للنصيحة نستخدم should + الفعل في صورته الأصلية: should rest. should to rest خطأ لأننا لا نضع to بعد should، و should resting خطأ لأن الفعل بدون -ing، و should rests خطأ لأن الفعل بدون -s."
+      }
+    },
+    {
+      "id": "g50",
+      "prompt": "Students ___ their phones during the exam.",
+      "options": [
+        "should use",
+        "shouldn't using",
+        "shouldn't uses",
+        "shouldn't use"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "should-shouldnt",
+      "hint": "phones = الهواتف، during = أثناء، exam = الاختبار — نصيحة عن شيء غير مسموح في الاختبار.",
+      "feedback": {
+        "correct": "أحسنت ✓ shouldn't use — استخدام الهاتف في الاختبار فكرة سيئة: shouldn't + الفعل الأصلي: shouldn't use.",
+        "incorrect": "الإجابة الصحيحة shouldn't use — استخدام الهاتف في الاختبار فكرة سيئة: shouldn't + الفعل الأصلي: shouldn't use. should use معناها عكس المطلوب، و shouldn't using خطأ لأن الفعل بدون -ing، و shouldn't uses خطأ لأن الفعل بدون -s."
+      }
+    },
+    {
+      "id": "g51",
+      "prompt": "My brother has a job interview tomorrow. He ___ his résumé tonight.",
+      "options": [
+        "should prepares",
+        "should to prepare",
+        "shoulds prepare",
+        "should prepare"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "should-shouldnt",
+      "hint": "job interview = مقابلة عمل، résumé = سيرة ذاتية، tonight = الليلة — نصيحة قبل المقابلة، والفاعل (he).",
+      "feedback": {
+        "correct": "أحسنت ✓ should prepare — للنصيحة نستخدم should + الفعل الأصلي، و should واحدة مع جميع الضمائر: He should prepare.",
+        "incorrect": "الإجابة الصحيحة should prepare — للنصيحة نستخدم should + الفعل الأصلي، و should واحدة مع جميع الضمائر: He should prepare. should prepares خطأ لأن الفعل بعد should بدون -s، و should to prepare خطأ لأننا لا نضع to، و shoulds خطأ لأن should لا تأخذ -s مع he."
+      }
+    },
+    {
+      "id": "g52",
+      "prompt": "Choose the correct sentence about Ali.",
+      "options": [
+        "Ali should drink more water in summer.",
+        "Ali shoulds drink more water in summer.",
+        "Ali should drinks more water in summer.",
+        "Ali should to drink more water in summer."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "should-shouldnt",
+      "hint": "more water = ماء أكثر، summer = الصيف — نصيحة لشخص واحد (he).",
+      "feedback": {
+        "correct": "أحسنت ✓ «Ali should drink more water in summer.» — للنصيحة نستخدم should + الفعل الأصلي، و should لا تتغير مع he: Ali should drink.",
+        "incorrect": "الإجابة الصحيحة «Ali should drink more water in summer.» — للنصيحة نستخدم should + الفعل الأصلي، و should لا تتغير مع he: Ali should drink. shoulds خطأ لأن should لا تأخذ -s، و should drinks خطأ لأن الفعل بعدها بدون -s، و should to drink خطأ لأننا لا نضع to بعد should."
+      }
+    },
+    {
+      "id": "g53",
+      "prompt": "Omar always feels nervous before presentations. He ___ more at home.",
+      "options": [
+        "should practicing",
+        "should to practice",
+        "should practices",
+        "should practice"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "should-shouldnt",
+      "hint": "nervous = متوتر، presentations = العروض التقديمية، at home = في البيت — نصيحة لطالب متوتر.",
+      "feedback": {
+        "correct": "أحسنت ✓ should practice — للنصيحة نستخدم should + الفعل الأصلي: should practice.",
+        "incorrect": "الإجابة الصحيحة should practice — للنصيحة نستخدم should + الفعل الأصلي: should practice. should practicing خطأ لأن الفعل بدون -ing، و should to practice خطأ لأننا لا نضع to، و should practices خطأ لأن الفعل بدون -s."
+      }
+    },
+    {
+      "id": "g54",
+      "prompt": "You ___ to your parents. Honesty is very important.",
+      "options": [
+        "should lie",
+        "shouldn't lying",
+        "shouldn't to lie",
+        "shouldn't lie"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "should-shouldnt",
+      "hint": "parents = الوالدان، Honesty = الصدق، important = مهم — الجملة الثانية تبيّن أن الأمر فكرة سيئة.",
+      "feedback": {
+        "correct": "أحسنت ✓ shouldn't lie — الكذب فكرة سيئة لأن الصدق مهم: shouldn't + الفعل الأصلي: shouldn't lie.",
+        "incorrect": "الإجابة الصحيحة shouldn't lie — الكذب فكرة سيئة لأن الصدق مهم: shouldn't + الفعل الأصلي: shouldn't lie. should lie معناها عكس المطلوب، و shouldn't lying خطأ لأن الفعل بدون -ing، و shouldn't to lie خطأ لأننا لا نضع to بعد shouldn't."
+      }
+    },
+    {
+      "id": "g55",
+      "prompt": "Choose the correct sentence about children.",
+      "options": [
+        "Children shouldn't eat a lot of sugar.",
+        "Children shouldn't to eat a lot of sugar.",
+        "Children don't should eat a lot of sugar.",
+        "Children shouldn't eats a lot of sugar."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "should-shouldnt",
+      "hint": "Children = الأطفال، a lot of sugar = الكثير من السكر — نصيحة بعدم فعل شيء.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Children shouldn't eat a lot of sugar.» — النصيحة بعدم فعل شيء: shouldn't + الفعل الأصلي: shouldn't eat.",
+        "incorrect": "الإجابة الصحيحة «Children shouldn't eat a lot of sugar.» — النصيحة بعدم فعل شيء: shouldn't + الفعل الأصلي: shouldn't eat. shouldn't to eat خطأ لأننا لا نضع to، و don't should خطأ لأن نفي should هو shouldn't، و shouldn't eats خطأ لأن الفعل بدون -s."
+      }
+    },
+    {
+      "id": "g56",
+      "prompt": "Your English is getting better every week. You ___ give up now.",
+      "options": [
+        "shouldn't",
+        "should",
+        "shouldn't to",
+        "don't should"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "should-shouldnt",
+      "hint": "getting better = يتحسّن، every week = كل أسبوع، give up = تستسلم — المستوى يتحسن، فالاستسلام الآن فكرة سيئة.",
+      "feedback": {
+        "correct": "أحسنت ✓ shouldn't — الاستسلام فكرة سيئة، فنستخدم shouldn't + الفعل الأصلي: shouldn't give up.",
+        "incorrect": "الإجابة الصحيحة shouldn't — الاستسلام فكرة سيئة، فنستخدم shouldn't + الفعل الأصلي: shouldn't give up. should معناها عكس المطلوب، و shouldn't to خطأ لأننا لا نضع to بعد shouldn't، و don't should خطأ لأن نفي should هو shouldn't."
+      }
+    },
+    {
+      "id": "g57",
+      "prompt": "It's dangerous ___ in the sea when the weather is bad.",
+      "options": [
+        "swim",
+        "for swim",
+        "to swims",
+        "to swim"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "dangerous = خطير، sea = البحر، weather = الطقس — رأي في نشاط بعد (It's + صفة).",
+      "feedback": {
+        "correct": "أحسنت ✓ to swim — التركيب It's + صفة + to + الفعل الأصلي: It's dangerous to swim.",
+        "incorrect": "الإجابة الصحيحة to swim — التركيب It's + صفة + to + الفعل الأصلي: It's dangerous to swim. swim بدون to خطأ بعد الصفة، و for swim خطأ لأن for لا يأتي بعدها الفعل الأصلي، و to swims خطأ لأن الفعل بعد to بدون -s."
+      }
+    },
+    {
+      "id": "g58",
+      "prompt": "___ to make new friends at a new university.",
+      "options": [
+        "Isn't easy",
+        "It isn't easily",
+        "It isn't easy",
+        "It not easy"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "make new friends = تكوين صداقات جديدة، university = جامعة — رأي منفي في نشاط، والجملة تحتاج فاعلًا في أولها.",
+      "feedback": {
+        "correct": "أحسنت ✓ It isn't easy — النفي في هذا التركيب: It isn't + صفة + to + الفعل: It isn't easy to make.",
+        "incorrect": "الإجابة الصحيحة It isn't easy — النفي في هذا التركيب: It isn't + صفة + to + الفعل: It isn't easy to make. Isn't easy ينقصها الفاعل It، و easily ظرف وليس صفة، و It not easy ينقصها فعل be (isn't)."
+      }
+    },
+    {
+      "id": "g59",
+      "prompt": "It's important ___ breakfast every morning.",
+      "options": [
+        "have",
+        "to have",
+        "to has",
+        "for have"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "important = مهم، breakfast = الإفطار، every morning = كل صباح — رأي في عادة صحية بعد (It's + صفة).",
+      "feedback": {
+        "correct": "أحسنت ✓ to have — التركيب It's + صفة + to + الفعل الأصلي: It's important to have.",
+        "incorrect": "الإجابة الصحيحة to have — التركيب It's + صفة + to + الفعل الأصلي: It's important to have. have بدون to خطأ بعد الصفة، و to has خطأ لأن بعد to يأتي الفعل الأصلي (have)، و for have خطأ لأن for لا يأتي بعدها الفعل."
+      }
+    },
+    {
+      "id": "g60",
+      "prompt": "It is ___ to understand a complex text in a new language.",
+      "options": [
+        "difficult",
+        "difficulty",
+        "difficultly",
+        "difficulties"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "understand = يفهم، complex text = نص معقّد، language = لغة — بعد (It is) وقبل (to) نحتاج كلمة تصف النشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ difficult — التركيب It is + صفة + to + الفعل، والصفة هنا difficult.",
+        "incorrect": "الإجابة الصحيحة difficult — التركيب It is + صفة + to + الفعل، والصفة هنا difficult. difficulty و difficulties اسمان وليسا صفة، و difficultly كلمة غير مستخدمة."
+      }
+    },
+    {
+      "id": "g61",
+      "prompt": "Choose the correct sentence about ancient places.",
+      "options": [
+        "It's enjoyable to visit ancient places.",
+        "Is enjoyable to visit ancient places.",
+        "It's enjoyable visit ancient places.",
+        "It's enjoyable to visited ancient places."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "enjoyable = ممتع، ancient places = الأماكن الأثرية — رأي في نشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ «It's enjoyable to visit ancient places.» — التركيب It's + صفة + to + الفعل الأصلي: It's enjoyable to visit.",
+        "incorrect": "الإجابة الصحيحة «It's enjoyable to visit ancient places.» — التركيب It's + صفة + to + الفعل الأصلي: It's enjoyable to visit. Is enjoyable ينقصها الفاعل It، و enjoyable visit ينقصها to، و to visited خطأ لأن بعد to يأتي الفعل الأصلي لا الماضي."
+      }
+    },
+    {
+      "id": "g62",
+      "prompt": "It's nice ___ with a friendly team. I love my job.",
+      "options": [
+        "to work",
+        "work",
+        "for work",
+        "to works"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "nice = جميل، friendly team = فريق ودود، job = وظيفة — رأي في نشاط بعد (It's + صفة).",
+      "feedback": {
+        "correct": "أحسنت ✓ to work — التركيب It's + صفة + to + الفعل الأصلي: It's nice to work.",
+        "incorrect": "الإجابة الصحيحة to work — التركيب It's + صفة + to + الفعل الأصلي: It's nice to work. work بدون to خطأ بعد الصفة هنا، و for work تجعل work اسمًا ولا يكتمل المعنى، و to works خطأ لأن الفعل بعد to بدون -s."
+      }
+    },
+    {
+      "id": "g63",
+      "prompt": "It isn't healthy ___ up late every night.",
+      "options": [
+        "stay",
+        "stays",
+        "to stay",
+        "to stayed"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "healthy = صحي، late = متأخرًا، every night = كل ليلة — رأي منفي في عادة.",
+      "feedback": {
+        "correct": "أحسنت ✓ to stay — النفي في هذا التركيب: It isn't + صفة + to + الفعل الأصلي: It isn't healthy to stay up.",
+        "incorrect": "الإجابة الصحيحة to stay — النفي في هذا التركيب: It isn't + صفة + to + الفعل الأصلي: It isn't healthy to stay up. stay و stays بدون to خطأ بعد الصفة، و to stayed خطأ لأن بعد to يأتي الفعل الأصلي لا الماضي."
+      }
+    },
+    {
+      "id": "g64",
+      "prompt": "It's ___ to protect the environment from pollution.",
+      "options": [
+        "necessary",
+        "necessarily",
+        "necessity",
+        "need"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "protect = يحمي، environment = البيئة، pollution = التلوث — بعد (It's) وقبل (to) نحتاج كلمة تصف النشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ necessary — التركيب It's + صفة + to + الفعل، والصفة هنا necessary (ضروري).",
+        "incorrect": "الإجابة الصحيحة necessary — التركيب It's + صفة + to + الفعل، والصفة هنا necessary (ضروري). necessarily ظرف، و necessity اسم، و need فعل أو اسم — ولا تأتي أيٌّ منها في هذا الموضع."
+      }
+    },
+    {
+      "id": "g65",
+      "prompt": "Choose the correct sentence about winter.",
+      "options": [
+        "It's hard to wake up early in winter.",
+        "It's hard wake up early in winter.",
+        "It hard to wake up early in winter.",
+        "Is hard to wake up early in winter."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "its-adjective-infinitive",
+      "hint": "hard = صعب، wake up = يستيقظ، winter = الشتاء — رأي في نشاط.",
+      "feedback": {
+        "correct": "أحسنت ✓ «It's hard to wake up early in winter.» — التركيب It's + صفة + to + الفعل الأصلي: It's hard to wake up.",
+        "incorrect": "الإجابة الصحيحة «It's hard to wake up early in winter.» — التركيب It's + صفة + to + الفعل الأصلي: It's hard to wake up. hard wake up ينقصها to، و It hard ينقصها فعل be (is)، و Is hard ينقصها الفاعل It."
+      }
+    },
+    {
+      "id": "g66",
+      "prompt": "I was late for class ___ the traffic was terrible.",
+      "options": [
+        "when",
+        "because",
+        "so",
+        "but"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "because-when",
+      "hint": "late = متأخر، traffic = حركة المرور، terrible = سيئة جدًا — فكّر: هل الجزء الثاني يجيب عن «لماذا؟» أم «متى؟».",
+      "feedback": {
+        "correct": "أحسنت ✓ because — الجزء الثاني يبيّن سبب التأخر (يجيب عن «لماذا؟»)، فنستخدم because.",
+        "incorrect": "الإجابة الصحيحة because — الجزء الثاني يبيّن سبب التأخر (يجيب عن «لماذا؟»)، فنستخدم because. when تبيّن الوقت لا السبب، و so تأتي قبل النتيجة لا السبب، و but للتعارض ولا تعارض هنا."
+      }
+    },
+    {
+      "id": "g67",
+      "prompt": "___ my father was twenty years old, he graduated from university.",
+      "options": [
+        "Because",
+        "So",
+        "But",
+        "When"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "because-when",
+      "hint": "twenty years old = عمره عشرون عامًا، graduated = تخرّج — فكّر: هل الجزء الأول يجيب عن «لماذا؟» أم «متى؟».",
+      "feedback": {
+        "correct": "أحسنت ✓ When — الجزء الأول يبيّن وقت التخرج (يجيب عن «متى؟»)، فنستخدم When، ونضع فاصلة بعده لأنه في أول الجملة.",
+        "incorrect": "الإجابة الصحيحة When — الجزء الأول يبيّن وقت التخرج (يجيب عن «متى؟»)، فنستخدم When، ونضع فاصلة بعده لأنه في أول الجملة. Because تبيّن السبب، والعمر ليس سبب التخرج، و So و But لا تبدأ بهما جملة الوقت."
+      }
+    },
+    {
+      "id": "g68",
+      "prompt": "Please call me ___ you arrive at the airport.",
+      "options": [
+        "because",
+        "when",
+        "so",
+        "but"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "because-when",
+      "hint": "call = اتصل، arrive = تصل، airport = المطار — فكّر: هل الجزء الثاني يحدد وقت الاتصال أم سببه؟",
+      "feedback": {
+        "correct": "أحسنت ✓ when — الجزء الثاني يحدد وقت الاتصال (يجيب عن «متى؟»)، فنستخدم when.",
+        "incorrect": "الإجابة الصحيحة when — الجزء الثاني يحدد وقت الاتصال (يجيب عن «متى؟»)، فنستخدم when. because تبيّن السبب ولا يصح المعنى، و so للنتيجة، و but للتعارض."
+      }
+    },
+    {
+      "id": "g69",
+      "prompt": "Saad didn't go to the match ___ he had a lot of homework.",
+      "options": [
+        "when",
+        "so",
+        "because",
+        "but"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "because-when",
+      "hint": "match = المباراة، homework = الواجبات — فكّر: هل الجزء الثاني يجيب عن «لماذا؟» أم «متى؟».",
+      "feedback": {
+        "correct": "أحسنت ✓ because — كثرة الواجبات هي سبب عدم الذهاب (تجيب عن «لماذا؟»)، فنستخدم because.",
+        "incorrect": "الإجابة الصحيحة because — كثرة الواجبات هي سبب عدم الذهاب (تجيب عن «لماذا؟»)، فنستخدم because. when تبيّن الوقت لا السبب، و so تأتي قبل النتيجة، و but للتعارض ولا تعارض هنا."
+      }
+    },
+    {
+      "id": "g70",
+      "prompt": "Choose the correct sentence about the exam.",
+      "options": [
+        "When I finished the exam I felt relaxed,",
+        "When, I finished the exam I felt relaxed.",
+        "When I finished the exam, I felt relaxed.",
+        "When I finished, the exam I felt relaxed."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "because-when",
+      "hint": "finished = أنهيت، relaxed = مرتاح — انتبه إلى مكان الفاصلة عندما تبدأ الجملة بأداة الوقت.",
+      "feedback": {
+        "correct": "أحسنت ✓ «When I finished the exam, I felt relaxed.» — عندما تأتي جملة when في أول الجملة نضع الفاصلة بعدها مباشرة، قبل الجملة الرئيسية.",
+        "incorrect": "الإجابة الصحيحة «When I finished the exam, I felt relaxed.» — عندما تأتي جملة when في أول الجملة نضع الفاصلة بعدها مباشرة، قبل الجملة الرئيسية. الفاصلة في آخر الجملة خطأ، والفاصلة بعد When مباشرة خطأ، والفاصلة بعد finished تقطع جملة when في منتصفها."
+      }
+    },
+    {
+      "id": "g71",
+      "prompt": "Choose the correct sentence about the phone.",
+      "options": [
+        "I bought this phone because it was a bargain.",
+        "Because it was a bargain.",
+        "I bought this phone because, it was a bargain.",
+        "I bought because this phone was a bargain."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "because-when",
+      "hint": "bought = اشتريت، bargain = صفقة رابحة — الجملة الصحيحة فيها جملة رئيسية وسبب كامل.",
+      "feedback": {
+        "correct": "أحسنت ✓ «I bought this phone because it was a bargain.» — جملة because في آخر الجملة تأتي بعد جملة رئيسية كاملة وبدون فاصلة: I bought this phone because it was a bargain.",
+        "incorrect": "الإجابة الصحيحة «I bought this phone because it was a bargain.» — جملة because في آخر الجملة تأتي بعد جملة رئيسية كاملة وبدون فاصلة: I bought this phone because it was a bargain. Because it was a bargain وحدها جملة ناقصة، والفاصلة بعد because خطأ، و I bought because this phone ترتيب خاطئ ينقص مفعول bought."
+      }
+    },
+    {
+      "id": "g72",
+      "prompt": "Choose the correct sentence about the hot weather.",
+      "options": [
+        "Because, it was very hot we stayed inside the mall.",
+        "Because it was very hot.",
+        "Because it was very hot, we stayed inside the mall.",
+        "It was very hot because we stayed inside the mall."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "because-when",
+      "hint": "very hot = حار جدًا، stayed inside = بقينا داخل، mall = المجمّع التجاري — انتبه إلى الفاصلة وإلى أيّ جزء هو السبب.",
+      "feedback": {
+        "correct": "أحسنت ✓ «Because it was very hot, we stayed inside the mall.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها، والسبب هو الحرارة: Because it was very hot, we stayed inside the mall.",
+        "incorrect": "الإجابة الصحيحة «Because it was very hot, we stayed inside the mall.» — عندما تأتي جملة because في أول الجملة نضع فاصلة بعدها، والسبب هو الحرارة: Because it was very hot, we stayed inside the mall. الفاصلة بعد Because مباشرة خطأ، و Because it was very hot وحدها جملة ناقصة، والجملة الأخيرة تجعل البقاء في المجمّع سببًا للحرارة وهذا غير منطقي."
+      }
+    },
+    {
+      "id": "g73",
+      "prompt": "A: Why did you leave the party early? B: ___ I had a terrible headache.",
+      "options": [
+        "When",
+        "Because",
+        "So",
+        "But"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "because-when",
+      "hint": "leave = تغادر، party = الحفلة، headache = صداع — السؤال يبدأ بـ Why.",
+      "feedback": {
+        "correct": "أحسنت ✓ Because — السؤال بـ Why يطلب سببًا، فنجيب بـ Because. في الحوار يصح الجواب القصير بـ Because عن سؤال Why.",
+        "incorrect": "الإجابة الصحيحة Because — السؤال بـ Why يطلب سببًا، فنجيب بـ Because. في الحوار يصح الجواب القصير بـ Because عن سؤال Why. When تجيب عن «متى؟» لا «لماذا؟»، و So للنتيجة، و But للتعارض."
+      }
+    },
+    {
+      "id": "g74",
+      "prompt": "___ we reached the hotel, it was already midnight.",
+      "options": [
+        "Because",
+        "When",
+        "So",
+        "But"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "because-when",
+      "hint": "reached = وصلنا إلى، hotel = الفندق، already midnight = منتصف الليل بالفعل — فكّر: هل الجزء الأول يجيب عن «لماذا؟» أم «متى؟».",
+      "feedback": {
+        "correct": "أحسنت ✓ When — الجزء الأول يبيّن الوقت (يجيب عن «متى؟»)، فنستخدم When مع فاصلة بعد جملتها.",
+        "incorrect": "الإجابة الصحيحة When — الجزء الأول يبيّن الوقت (يجيب عن «متى؟»)، فنستخدم When مع فاصلة بعد جملتها. Because تبيّن السبب، والوصول ليس سبب منتصف الليل، و So و But لا تبدأ بهما جملة الوقت."
+      }
+    },
+    {
+      "id": "g75",
+      "prompt": "The test was very long, ___ I finished it on time.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "when"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "but-so",
+      "hint": "very long = طويل جدًا، finished = أنهيت، on time = في الوقت المحدد — فكّر: هل الفكرة الثانية نتيجة للأولى أم عكس المتوقع؟",
+      "feedback": {
+        "correct": "أحسنت ✓ but — الاختبار طويل ومع ذلك أنهيته في الوقت: فكرتان متعارضتان، فنستخدم but.",
+        "incorrect": "الإجابة الصحيحة but — الاختبار طويل ومع ذلك أنهيته في الوقت: فكرتان متعارضتان، فنستخدم but. so للنتيجة، وطول الاختبار ليس سبب الإنهاء في الوقت، و because و when لا يناسبان المعنى بعد الفاصلة هنا."
+      }
+    },
+    {
+      "id": "g76",
+      "prompt": "I forgot my umbrella, ___ I got wet in the rain.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "when"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "but-so",
+      "hint": "forgot = نسيت، umbrella = مظلة، got wet = تبلّلت — فكّر: هل الفكرة الثانية نتيجة للأولى أم عكسها؟",
+      "feedback": {
+        "correct": "أحسنت ✓ so — البلل نتيجة لنسيان المظلة، فنستخدم so.",
+        "incorrect": "الإجابة الصحيحة so — البلل نتيجة لنسيان المظلة، فنستخدم so. but للتعارض ولا تعارض هنا، و because تجعل البلل سببًا للنسيان، و when لا تناسب المعنى."
+      }
+    },
+    {
+      "id": "g77",
+      "prompt": "Hamad is very talented, ___ he doesn't practice much.",
+      "options": [
+        "so",
+        "because",
+        "when",
+        "but"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "but-so",
+      "hint": "talented = موهوب، practice = يتدرّب، much = كثيرًا — فكّر: هل الفكرة الثانية نتيجة للأولى أم عكس المتوقع؟",
+      "feedback": {
+        "correct": "أحسنت ✓ but — الموهوب يُتوقع أن يتدرّب، لكنه لا يتدرب: فكرتان متعارضتان، فنستخدم but.",
+        "incorrect": "الإجابة الصحيحة but — الموهوب يُتوقع أن يتدرّب، لكنه لا يتدرب: فكرتان متعارضتان، فنستخدم but. so للنتيجة، والموهبة ليست سببًا لقلة التدريب، و because و when لا يناسبان المعنى."
+      }
+    },
+    {
+      "id": "g78",
+      "prompt": "The store had a big sale, ___ we bought a lot of things.",
+      "options": [
+        "but",
+        "because",
+        "when",
+        "so"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "but-so",
+      "hint": "store = المتجر، big sale = تخفيضات كبيرة، a lot of things = أشياء كثيرة — فكّر: هل الفكرة الثانية نتيجة للأولى أم عكسها؟",
+      "feedback": {
+        "correct": "أحسنت ✓ so — الشراء الكثير نتيجة للتخفيضات، فنستخدم so.",
+        "incorrect": "الإجابة الصحيحة so — الشراء الكثير نتيجة للتخفيضات، فنستخدم so. but للتعارض ولا تعارض هنا، و because تجعل الشراء سببًا للتخفيضات، و when لا تناسب المعنى."
+      }
+    },
+    {
+      "id": "g79",
+      "prompt": "Choose the correct sentence about dinner.",
+      "options": [
+        "The weather was nice, but we ate dinner outside.",
+        "The weather was nice, so we ate dinner outside.",
+        "The weather was nice so, we ate dinner outside.",
+        "The weather was nice, because we ate dinner outside."
+      ],
+      "answerIndex": 1,
+      "topicSlug": "but-so",
+      "hint": "weather = الطقس، nice = لطيف، outside = في الخارج — انتبه إلى المعنى وإلى مكان الفاصلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ «The weather was nice, so we ate dinner outside.» — العشاء في الخارج نتيجة للطقس اللطيف، فنستخدم so مع فاصلة قبلها.",
+        "incorrect": "الإجابة الصحيحة «The weather was nice, so we ate dinner outside.» — العشاء في الخارج نتيجة للطقس اللطيف، فنستخدم so مع فاصلة قبلها. but للتعارض ولا تعارض هنا، و الفاصلة بعد so خطأ (مكانها قبلها)، و because تجعل العشاء سببًا للطقس وهذا غير منطقي."
+      }
+    },
+    {
+      "id": "g80",
+      "prompt": "Sultan wanted to join the team, ___ the coach said no.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "when"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "but-so",
+      "hint": "join = ينضم إلى، team = الفريق، coach = المدرّب — فكّر: هل الفكرة الثانية نتيجة للأولى أم عكس ما أراده؟",
+      "feedback": {
+        "correct": "أحسنت ✓ but — سلطان أراد الانضمام، والمدرب رفض: فكرتان متعارضتان، فنستخدم but.",
+        "incorrect": "الإجابة الصحيحة but — سلطان أراد الانضمام، والمدرب رفض: فكرتان متعارضتان، فنستخدم but. so للنتيجة، ورغبة سلطان ليست سبب الرفض، و because و when لا يناسبان المعنى."
+      }
+    },
+    {
+      "id": "g81",
+      "prompt": "The movie was boring, ___ we left after thirty minutes.",
+      "options": [
+        "but",
+        "because",
+        "when",
+        "so"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "but-so",
+      "hint": "boring = ممل، left = غادرنا، after thirty minutes = بعد ثلاثين دقيقة — فكّر: هل الفكرة الثانية نتيجة للأولى أم عكسها؟",
+      "feedback": {
+        "correct": "أحسنت ✓ so — المغادرة نتيجة لملل الفيلم، فنستخدم so.",
+        "incorrect": "الإجابة الصحيحة so — المغادرة نتيجة لملل الفيلم، فنستخدم so. but للتعارض ولا تعارض هنا، و because تجعل المغادرة سببًا للملل، و when لا تناسب المعنى."
+      }
+    },
+    {
+      "id": "g82",
+      "prompt": "Choose the correct sentence about the shops.",
+      "options": [
+        "It was late but, the shops were still open.",
+        "It was late, so the shops were still open.",
+        "It was late, but the shops was still open.",
+        "It was late, but the shops were still open."
+      ],
+      "answerIndex": 3,
+      "topicSlug": "but-so",
+      "hint": "late = متأخر، shops = المحلات، still open = ما زالت مفتوحة — انتبه إلى المعنى وإلى مكان الفاصلة.",
+      "feedback": {
+        "correct": "أحسنت ✓ «It was late, but the shops were still open.» — الوقت متأخر ومع ذلك المحلات مفتوحة: تعارض، فنستخدم but مع فاصلة قبلها.",
+        "incorrect": "الإجابة الصحيحة «It was late, but the shops were still open.» — الوقت متأخر ومع ذلك المحلات مفتوحة: تعارض، فنستخدم but مع فاصلة قبلها. الفاصلة بعد but خطأ (مكانها قبلها)، و so تجعل التأخر سببًا لفتح المحلات وهذا غير منطقي، و the shops was خطأ لأن shops جمع."
+      }
+    },
+    {
+      "id": "g83",
+      "prompt": "The trip was tiring, ___ it was really enjoyable.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "when"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "but-so",
+      "hint": "trip = الرحلة، tiring = مُتعبة، enjoyable = ممتعة — فكّر: هل الفكرة الثانية نتيجة للأولى أم عكسها؟",
+      "feedback": {
+        "correct": "أحسنت ✓ but — الرحلة متعبة لكنها ممتعة: فكرتان مختلفتان، فنستخدم but.",
+        "incorrect": "الإجابة الصحيحة but — الرحلة متعبة لكنها ممتعة: فكرتان مختلفتان، فنستخدم but. so للنتيجة، والتعب ليس سبب المتعة، و because و when لا يناسبان المعنى."
+      }
+    },
+    {
+      "id": "g84",
+      "prompt": "Hard work and patience lead to ___.",
+      "options": [
+        "success",
+        "succeed",
+        "successful",
+        "successfully"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "parts-of-speech",
+      "hint": "Hard work = العمل الجاد، patience = الصبر، lead to = تؤدّي إلى — بعد حرف الجر (to) هنا نحتاج شيئًا أو فكرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ success — بعد lead to نحتاج اسمًا (noun)، والاسم هو success.",
+        "incorrect": "الإجابة الصحيحة success — بعد lead to نحتاج اسمًا (noun)، والاسم هو success. succeed فعل، و successful صفة، و successfully ظرف — ولا يأتي أيٌّ منها في موضع الاسم."
+      }
+    },
+    {
+      "id": "g85",
+      "prompt": "My sister is a very ___ designer. Her ideas are always new.",
+      "options": [
+        "create",
+        "creativity",
+        "creative",
+        "creatively"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "parts-of-speech",
+      "hint": "designer = مصمّمة، ideas = أفكار، always new = جديدة دائمًا — الكلمة الناقصة تأتي قبل اسم (designer) وتصفه.",
+      "feedback": {
+        "correct": "أحسنت ✓ creative — قبل الاسم (designer) نحتاج صفة (adjective)، والصفة هي creative.",
+        "incorrect": "الإجابة الصحيحة creative — قبل الاسم (designer) نحتاج صفة (adjective)، والصفة هي creative. create فعل، و creativity اسم، و creatively ظرف — ولا يأتي أيٌّ منها قبل الاسم لوصفه."
+      }
+    },
+    {
+      "id": "g86",
+      "prompt": "The teacher explained the lesson ___, so everyone understood it.",
+      "options": [
+        "clear",
+        "clearness",
+        "clears",
+        "clearly"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "parts-of-speech",
+      "hint": "explained = شرح، lesson = الدرس، understood = فهم — الكلمة الناقصة تصف طريقة الشرح (الفعل explained).",
+      "feedback": {
+        "correct": "أحسنت ✓ clearly — لوصف الفعل (explained) نحتاج ظرفًا (adverb)، والظرف هو clearly.",
+        "incorrect": "الإجابة الصحيحة clearly — لوصف الفعل (explained) نحتاج ظرفًا (adverb)، والظرف هو clearly. clear صفة لا تصف الفعل هنا، و clearness اسم، و clears فعل."
+      }
+    },
+    {
+      "id": "g87",
+      "prompt": "In 'The tourists observed the old buildings carefully,' carefully is a(n) ___.",
+      "options": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "parts-of-speech",
+      "hint": "tourists = السيّاح، observed = لاحظوا وراقبوا، buildings = المباني — انظر إلى الكلمة: ماذا تصف، وبماذا تنتهي؟",
+      "feedback": {
+        "correct": "أحسنت ✓ adverb — carefully تصف الفعل observed (كيف راقبوا) وتنتهي بـ -ly، فهي ظرف (adverb).",
+        "incorrect": "الإجابة الصحيحة adverb — carefully تصف الفعل observed (كيف راقبوا) وتنتهي بـ -ly، فهي ظرف (adverb). الصفة (adjective) تصف الاسم مثل careful، والاسم (noun) شخص أو شيء، والفعل (verb) حدث مثل observed."
+      }
+    },
+    {
+      "id": "g88",
+      "prompt": "In 'We need a quick solution to this problem,' quick is a(n) ___.",
+      "options": [
+        "adverb",
+        "adjective",
+        "noun",
+        "verb"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "parts-of-speech",
+      "hint": "need = نحتاج، solution = حلّ، problem = مشكلة — انظر إلى الكلمة: هل تأتي قبل اسم أم بعد فعل؟",
+      "feedback": {
+        "correct": "أحسنت ✓ adjective — quick تأتي قبل الاسم solution وتصفه، فهي صفة (adjective).",
+        "incorrect": "الإجابة الصحيحة adjective — quick تأتي قبل الاسم solution وتصفه، فهي صفة (adjective). الظرف (adverb) يصف الفعل مثل quickly، والاسم (noun) مثل solution، والفعل (verb) مثل need."
+      }
+    },
+    {
+      "id": "g89",
+      "prompt": "Which word is an adjective?",
+      "options": [
+        "nervously",
+        "nervous",
+        "emotion",
+        "communicate"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "parts-of-speech",
+      "hint": "فكّر في كل كلمة: هل تصف اسمًا، أم تصف فعلًا، أم هي شيء، أم حدث؟",
+      "feedback": {
+        "correct": "أحسنت ✓ nervous — nervous (متوتر) صفة تصف الاسم، مثل a nervous student.",
+        "incorrect": "الإجابة الصحيحة nervous — nervous (متوتر) صفة تصف الاسم، مثل a nervous student. nervously ظرف ينتهي بـ -ly، و emotion اسم (شعور)، و communicate فعل (يتواصل)."
+      }
+    },
+    {
+      "id": "g90",
+      "prompt": "Which word is a verb?",
+      "options": [
+        "history",
+        "patient",
+        "discover",
+        "probably"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "parts-of-speech",
+      "hint": "فكّر في كل كلمة: هل هي حدث يقوم به شخص، أم شيء، أم صفة، أم ظرف؟",
+      "feedback": {
+        "correct": "أحسنت ✓ discover — discover (يكتشف) فعل يدل على حدث، مثل They discover new places.",
+        "incorrect": "الإجابة الصحيحة discover — discover (يكتشف) فعل يدل على حدث، مثل They discover new places. history اسم (تاريخ)، و patient صفة (صبور)، و probably ظرف (على الأرجح)."
+      }
+    },
+    {
+      "id": "g91",
+      "prompt": "The new manager made an important ___ yesterday.",
+      "options": [
+        "decide",
+        "decision",
+        "decisive",
+        "decisively"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "parts-of-speech",
+      "hint": "manager = مدير، made = اتّخذ، important = مهم — بعد (an important) نحتاج شيئًا أو فكرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ decision — بعد الصفة important نحتاج اسمًا (noun)، والاسم هو decision.",
+        "incorrect": "الإجابة الصحيحة decision — بعد الصفة important نحتاج اسمًا (noun)، والاسم هو decision. decide فعل، و decisive صفة، و decisively ظرف — ولا يأتي أيٌّ منها بعد an important."
+      }
+    },
+    {
+      "id": "g92",
+      "prompt": "In 'The team played well and won the match,' team is a(n) ___.",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "answerIndex": 0,
+      "topicSlug": "parts-of-speech",
+      "hint": "played = لعب، won = فاز، match = المباراة — انظر إلى الكلمة بعد (The): هل هي شخص أو شيء، أم حدث، أم وصف؟",
+      "feedback": {
+        "correct": "أحسنت ✓ noun — team تأتي بعد the وهي الفاعل (مجموعة أشخاص)، فهي اسم (noun).",
+        "incorrect": "الإجابة الصحيحة noun — team تأتي بعد the وهي الفاعل (مجموعة أشخاص)، فهي اسم (noun). الفعل (verb) مثل played و won، والصفة (adjective) تصف الاسم، والظرف (adverb) مثل well."
+      }
+    },
+    {
+      "id": "g93",
+      "prompt": "My cousin ___ marketing at King Saud University next year.",
+      "options": [
+        "are going to study",
+        "is going to study",
+        "is going to studies",
+        "going to study"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "be-going-to",
+      "hint": "cousin = ابن العم، marketing = التسويق، next year = العام القادم — خطة مستقبلية، والفاعل مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ is going to study — للخطة المستقبلية: is + going to + الفعل الأصلي، و my cousin مفرد فنستخدم is.",
+        "incorrect": "الإجابة الصحيحة is going to study — للخطة المستقبلية: is + going to + الفعل الأصلي، و my cousin مفرد فنستخدم is. are للجمع، و going to studies خطأ لأن الفعل بعد going to بدون -s، و going to study ينقصها is."
+      }
+    },
+    {
+      "id": "g94",
+      "prompt": "I ___ to the party tonight. I have an exam tomorrow.",
+      "options": [
+        "not going to go",
+        "am not going to went",
+        "don't going to go",
+        "am not going to go"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "be-going-to",
+      "hint": "party = الحفلة، tonight = الليلة، exam = اختبار — قرار منفي عن المستقبل، والفاعل (I).",
+      "feedback": {
+        "correct": "أحسنت ✓ am not going to go — النفي في be going to: am / is / are + not + going to + الفعل الأصلي: I am not going to go.",
+        "incorrect": "الإجابة الصحيحة am not going to go — النفي في be going to: am / is / are + not + going to + الفعل الأصلي: I am not going to go. not going to go ينقصها am، و going to went خطأ لأن الفعل بعد going to في صورته الأصلية، و don't going to خطأ لأن النفي يكون بـ not بعد am."
+      }
+    },
+    {
+      "id": "g95",
+      "prompt": "A: Where ___ the vacation? B: In Abha with my family.",
+      "options": [
+        "you are going to spend",
+        "are you going to spending",
+        "do you going to spend",
+        "are you going to spend"
+      ],
+      "answerIndex": 3,
+      "topicSlug": "be-going-to",
+      "hint": "vacation = الإجازة، family = العائلة — سؤال عن خطة مستقبلية يبدأ بـ Where.",
+      "feedback": {
+        "correct": "أحسنت ✓ are you going to spend — في السؤال نقدّم are على الفاعل: Where + are + you + going to + الفعل الأصلي.",
+        "incorrect": "الإجابة الصحيحة are you going to spend — في السؤال نقدّم are على الفاعل: Where + are + you + going to + الفعل الأصلي. you are going to ترتيب جملة خبرية لا سؤال، و going to spending خطأ لأن الفعل بعد going to بدون -ing، و do you going خطأ لأن السؤال هنا يكون بـ are."
+      }
+    },
+    {
+      "id": "g96",
+      "prompt": "A: What ___ after graduation? B: She is going to look for a job.",
+      "options": [
+        "she is going to do",
+        "is she going to does",
+        "is she going to do",
+        "does she going to do"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "be-going-to",
+      "hint": "graduation = التخرّج، look for a job = تبحث عن عمل — سؤال عن خطة مستقبلية يبدأ بـ What، والفاعل (she).",
+      "feedback": {
+        "correct": "أحسنت ✓ is she going to do — في السؤال نقدّم is على الفاعل: What + is + she + going to + الفعل الأصلي.",
+        "incorrect": "الإجابة الصحيحة is she going to do — في السؤال نقدّم is على الفاعل: What + is + she + going to + الفعل الأصلي. she is going to ترتيب جملة خبرية لا سؤال، و going to does خطأ لأن الفعل بعد going to بدون -s، و does she going خطأ لأن السؤال يكون بـ is."
+      }
+    },
+    {
+      "id": "g97",
+      "prompt": "Choose the correct sentence about the bridge.",
+      "options": [
+        "They are going to repair the old bridge next month.",
+        "They going to repair the old bridge next month.",
+        "They are going to repairs the old bridge next month.",
+        "They are go to repair the old bridge next month."
+      ],
+      "answerIndex": 0,
+      "topicSlug": "be-going-to",
+      "hint": "repair = يُصلح، bridge = جسر، next month = الشهر القادم — خطة مستقبلية، والفاعل جمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ «They are going to repair the old bridge next month.» — للخطة المستقبلية: are + going to + الفعل الأصلي، و they جمع فنستخدم are.",
+        "incorrect": "الإجابة الصحيحة «They are going to repair the old bridge next month.» — للخطة المستقبلية: are + going to + الفعل الأصلي، و they جمع فنستخدم are. They going to ينقصها are، و going to repairs خطأ لأن الفعل بعد going to بدون -s، و are go to خطأ لأن التركيب هو going to."
+      }
+    },
+    {
+      "id": "g98",
+      "prompt": "Faisal ___ his grandparents this weekend. He already bought the bus tickets.",
+      "options": [
+        "is going to visited",
+        "are going to visit",
+        "is going to visit",
+        "is going visit"
+      ],
+      "answerIndex": 2,
+      "topicSlug": "be-going-to",
+      "hint": "grandparents = الجدّ والجدّة، this weekend = نهاية هذا الأسبوع، tickets = التذاكر — خطة قرّرها مسبقًا، والفاعل مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ is going to visit — للخطة المقرّرة مسبقًا: is + going to + الفعل الأصلي: Faisal is going to visit.",
+        "incorrect": "الإجابة الصحيحة is going to visit — للخطة المقرّرة مسبقًا: is + going to + الفعل الأصلي: Faisal is going to visit. going to visited خطأ لأن الفعل بعد going to في صورته الأصلية، و are للجمع، و going visit ينقصها to."
+      }
+    },
+    {
+      "id": "g99",
+      "prompt": "___ your sister going to join the volunteer team?",
+      "options": [
+        "Are",
+        "Is",
+        "Does",
+        "Do"
+      ],
+      "answerIndex": 1,
+      "topicSlug": "be-going-to",
+      "hint": "join = تنضمّ إلى، volunteer team = فريق المتطوعين — سؤال بنعم أو لا عن خطة، والفاعل مفرد.",
+      "feedback": {
+        "correct": "أحسنت ✓ Is — في سؤال be going to نقدّم am / is / are على الفاعل، و your sister مفرد فنستخدم Is.",
+        "incorrect": "الإجابة الصحيحة Is — في سؤال be going to نقدّم am / is / are على الفاعل، و your sister مفرد فنستخدم Is. Are للجمع ومع you، و Does و Do لا تُستخدمان مع going to في هذا التركيب."
+      }
+    },
+    {
+      "id": "g100",
+      "prompt": "Choose the correct sentence about Dammam.",
+      "options": [
+        "She doesn't going to drive to Dammam tomorrow.",
+        "She isn't going to drives to Dammam tomorrow.",
+        "She isn't going to drive to Dammam tomorrow.",
+        "She not going to drive to Dammam tomorrow."
+      ],
+      "answerIndex": 2,
+      "topicSlug": "be-going-to",
+      "hint": "drive = تقود السيارة، tomorrow = غدًا — جملة منفية عن خطة مستقبلية، والفاعل (she).",
+      "feedback": {
+        "correct": "أحسنت ✓ «She isn't going to drive to Dammam tomorrow.» — النفي في be going to: is + not + going to + الفعل الأصلي: She isn't going to drive.",
+        "incorrect": "الإجابة الصحيحة «She isn't going to drive to Dammam tomorrow.» — النفي في be going to: is + not + going to + الفعل الأصلي: She isn't going to drive. doesn't going خطأ لأن النفي يكون بـ isn't، و going to drives خطأ لأن الفعل بعد going to بدون -s، و She not going ينقصها is."
+      }
+    }
+  ]
+}
