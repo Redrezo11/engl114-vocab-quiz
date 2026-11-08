@@ -1,0 +1,1610 @@
+{
+  "schemaVersion": 1,
+  "id": "engl102-final-vocab-bank-2",
+  "title": "ENGL 102/103B — Final Vocabulary Bank 2",
+  "description": "اختبار مفردات شامل (100 سؤال) — الجزء الثاني من قائمة مفردات الاختبار النهائي لمقرر ENGL 102/103B مع مراجعة لكلمات من البنك الأول.",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "I am ___ tired today, so I will go to bed early.",
+      "options": [
+        "some kind of",
+        "except for",
+        "a little bit",
+        "according to"
+      ],
+      "answerIndex": 2,
+      "hint": "tired = متعب، go to bed early = ينام مبكرًا — المتحدث يصف كيف يشعر في نهاية اليوم.",
+      "feedback": {
+        "correct": "أحسنت ✓ a little bit تعني «قليلًا / بعض الشيء» — المتحدث متعب بدرجة بسيطة، و a little bit تأتي قبل الصفة مثل tired، أمّا البقية فلا تأتي قبل الصفة بهذا الشكل.",
+        "incorrect": "الإجابة الصحيحة هي a little bit (قليلًا / بعض الشيء) — المتحدث متعب بدرجة بسيطة، و a little bit تأتي قبل الصفة مثل tired، أمّا البقية فلا تأتي قبل الصفة بهذا الشكل. أمّا some kind of تعني «نوع من»، و except for تعني «ما عدا / باستثناء»، و according to تعني «وفقًا لـ / حسب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q2",
+      "prompt": "Which word means: the power to do something, for example to swim or to speak a language?",
+      "options": [
+        "activity",
+        "effect",
+        "area",
+        "ability"
+      ],
+      "answerIndex": 3,
+      "hint": "power = قوة، language = لغة — التعريف يذكر أمثلة على أشياء يتعلّمها الإنسان مثل السباحة واللغات.",
+      "feedback": {
+        "correct": "أحسنت ✓ ability تعني «قدرة» — التعريف يتحدث عن أن الشخص يستطيع فعل شيء مثل السباحة أو التحدث بلغة.",
+        "incorrect": "الإجابة الصحيحة هي ability (قدرة) — التعريف يتحدث عن أن الشخص يستطيع فعل شيء مثل السباحة أو التحدث بلغة. أمّا activity تعني «نشاط»، و effect تعني «تأثير / أثر»، و area تعني «منطقة» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q3",
+      "prompt": "___ the weather report, it will rain in Riyadh tomorrow.",
+      "options": [
+        "among",
+        "except for",
+        "according to",
+        "in order to"
+      ],
+      "answerIndex": 2,
+      "hint": "weather report = نشرة الطقس، rain = تمطر — الجملة تنقل خبرًا عن طقس الغد في الرياض.",
+      "feedback": {
+        "correct": "أحسنت ✓ according to تعني «وفقًا لـ / حسب» — المعلومة عن المطر جاءت من نشرة الطقس، فنقول according to the weather report أي «حسب نشرة الطقس».",
+        "incorrect": "الإجابة الصحيحة هي according to (وفقًا لـ / حسب) — المعلومة عن المطر جاءت من نشرة الطقس، فنقول according to the weather report أي «حسب نشرة الطقس». أمّا among تعني «بين / من بين»، و except for تعني «ما عدا / باستثناء»، و in order to تعني «من أجل / لكي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q4",
+      "prompt": "My grandfather is 70, but he is still very ___. He walks every morning and plays football with us.",
+      "options": [
+        "ancient",
+        "dangerous",
+        "active",
+        "enjoyable"
+      ],
+      "answerIndex": 2,
+      "hint": "grandfather = جدّ، every morning = كل صباح — الجملة تصف جدًّا كبيرًا في السن يمشي ويلعب الكرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ active تعني «نشيط» — الجدّ كبير في السن لكنه يمشي ويلعب كرة القدم، أي أنه ما زال نشيطًا.",
+        "incorrect": "الإجابة الصحيحة هي active (نشيط) — الجدّ كبير في السن لكنه يمشي ويلعب كرة القدم، أي أنه ما زال نشيطًا. أمّا ancient تعني «قديم جدًا / أثري»، و dangerous تعني «خطير»، و enjoyable تعني «ممتع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q5",
+      "prompt": "Swimming is my favourite summer ___.",
+      "options": [
+        "population",
+        "section",
+        "activity",
+        "weight"
+      ],
+      "answerIndex": 2,
+      "hint": "favourite = المفضّل، summer = الصيف — المتحدث يذكر السباحة كمثال على ما يحبه في الصيف.",
+      "feedback": {
+        "correct": "أحسنت ✓ activity تعني «نشاط» — السباحة شيء نفعله في وقت الفراغ، فهي نشاط.",
+        "incorrect": "الإجابة الصحيحة هي activity (نشاط) — السباحة شيء نفعله في وقت الفراغ، فهي نشاط. أمّا population تعني «عدد السكان»، و section تعني «قسم / جزء»، و weight تعني «وزن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q6",
+      "prompt": "Noura was ___ the top ten students in her class this year.",
+      "options": [
+        "according to",
+        "except for",
+        "in order to",
+        "among"
+      ],
+      "answerIndex": 3,
+      "hint": "top ten = العشرة الأوائل، class = الصف — الجملة تتحدث عن مكان نورة في ترتيب الطلاب.",
+      "feedback": {
+        "correct": "أحسنت ✓ among تعني «بين / من بين» — نورة واحدة من العشرة الأوائل، فهي «من بين» هؤلاء الطلاب.",
+        "incorrect": "الإجابة الصحيحة هي among (بين / من بين) — نورة واحدة من العشرة الأوائل، فهي «من بين» هؤلاء الطلاب. أمّا according to تعني «وفقًا لـ / حسب»، و except for تعني «ما عدا / باستثناء»، و in order to تعني «من أجل / لكي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q7",
+      "prompt": "Which word means: very, very old, from thousands of years ago?",
+      "options": [
+        "active",
+        "patient",
+        "ancient",
+        "flexible"
+      ],
+      "answerIndex": 2,
+      "hint": "thousands = آلاف، years ago = سنوات مضت — فكّر في الأماكن التاريخية في العلا ومدائن صالح.",
+      "feedback": {
+        "correct": "أحسنت ✓ ancient تعني «قديم جدًا / أثري» — التعريف يصف شيئًا عمره آلاف السنين، مثل آثار العلا.",
+        "incorrect": "الإجابة الصحيحة هي ancient (قديم جدًا / أثري) — التعريف يصف شيئًا عمره آلاف السنين، مثل آثار العلا. أمّا active تعني «نشيط»، و patient تعني «صبور»، و flexible تعني «مرن» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q8",
+      "prompt": "Which word means: a form that you fill in to ask for a job or a place at a university?",
+      "options": [
+        "interview",
+        "application",
+        "résumé",
+        "major"
+      ],
+      "answerIndex": 1,
+      "hint": "fill in = تملأ، job = وظيفة — التعريف يتحدث عن خطوة أولى قبل الحصول على عمل أو مقعد جامعي.",
+      "feedback": {
+        "correct": "أحسنت ✓ application تعني «طلب تقديم / تطبيق» — الاستمارة التي تملؤها لتطلب وظيفة أو قبولًا في الجامعة هي application.",
+        "incorrect": "الإجابة الصحيحة هي application (طلب تقديم / تطبيق) — الاستمارة التي تملؤها لتطلب وظيفة أو قبولًا في الجامعة هي application. أمّا interview تعني «مقابلة»، و résumé تعني «سيرة ذاتية»، و major تعني «تخصص جامعي» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q9",
+      "prompt": "This ___ of Jeddah has many restaurants and shops.",
+      "options": [
+        "effect",
+        "purpose",
+        "trend",
+        "area"
+      ],
+      "answerIndex": 3,
+      "hint": "restaurants = مطاعم، shops = محلات — الجملة تصف مكانًا معيّنًا في مدينة جدة.",
+      "feedback": {
+        "correct": "أحسنت ✓ area تعني «منطقة» — الجملة تتحدث عن مكان في جدة فيه مطاعم ومحلات، أي منطقة.",
+        "incorrect": "الإجابة الصحيحة هي area (منطقة) — الجملة تتحدث عن مكان في جدة فيه مطاعم ومحلات، أي منطقة. أمّا effect تعني «تأثير / أثر»، و purpose تعني «هدف / غرض»، و trend تعني «اتجاه / موضة رائجة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q10",
+      "prompt": "The teacher was happy with the students' good ___ in class. They were quiet and polite.",
+      "options": [
+        "behavior",
+        "weight",
+        "history",
+        "population"
+      ],
+      "answerIndex": 0,
+      "hint": "quiet = هادئين، polite = مؤدّبين — المعلم سعيد بطريقة الطلاب داخل الصف.",
+      "feedback": {
+        "correct": "أحسنت ✓ behavior تعني «سلوك / تصرّف» — الطلاب كانوا هادئين ومؤدّبين، وهذا يصف تصرّفهم في الصف.",
+        "incorrect": "الإجابة الصحيحة هي behavior (سلوك / تصرّف) — الطلاب كانوا هادئين ومؤدّبين، وهذا يصف تصرّفهم في الصف. أمّا weight تعني «وزن»، و history تعني «تاريخ»، و population تعني «عدد السكان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q11",
+      "prompt": "One ___ of walking every day is a healthy heart.",
+      "options": [
+        "section",
+        "history",
+        "trend",
+        "benefit"
+      ],
+      "answerIndex": 3,
+      "hint": "walking = المشي، healthy heart = قلب سليم — الجملة تربط المشي اليومي بصحة القلب.",
+      "feedback": {
+        "correct": "أحسنت ✓ benefit تعني «فائدة» — القلب السليم شيء جيد نحصل عليه من المشي، فهو فائدة من فوائد المشي.",
+        "incorrect": "الإجابة الصحيحة هي benefit (فائدة) — القلب السليم شيء جيد نحصل عليه من المشي، فهو فائدة من فوائد المشي. أمّا section تعني «قسم / جزء»، و history تعني «تاريخ»، و trend تعني «اتجاه / موضة رائجة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q12",
+      "prompt": "You can have tea or coffee. It's your ___.",
+      "options": [
+        "effort",
+        "choice",
+        "weight",
+        "section"
+      ],
+      "answerIndex": 1,
+      "hint": "tea = شاي، coffee = قهوة — المضيف يترك الأمر للضيف.",
+      "feedback": {
+        "correct": "أحسنت ✓ choice تعني «اختيار» — الضيف يستطيع أن يأخذ الشاي أو القهوة، والأمر يعود إليه، فنقول It's your choice أي «الاختيار لك».",
+        "incorrect": "الإجابة الصحيحة هي choice (اختيار) — الضيف يستطيع أن يأخذ الشاي أو القهوة، والأمر يعود إليه، فنقول It's your choice أي «الاختيار لك». أمّا effort تعني «جهد»، و weight تعني «وزن»، و section تعني «قسم / جزء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q13",
+      "prompt": "Which word means: two or more different things mixed or put together?",
+      "options": [
+        "combination",
+        "population",
+        "opinion",
+        "section"
+      ],
+      "answerIndex": 0,
+      "hint": "different = مختلفة، two or more = اثنان أو أكثر — فكّر في الشاي بالحليب أو في ألوان العلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ combination تعني «مزيج» — عندما نضع شيئين أو أكثر معًا نحصل على مزيج.",
+        "incorrect": "الإجابة الصحيحة هي combination (مزيج) — عندما نضع شيئين أو أكثر معًا نحصل على مزيج. أمّا population تعني «عدد السكان»، و opinion تعني «رأي»، و section تعني «قسم / جزء» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q14",
+      "prompt": "My brother works for a big oil ___ in Dammam.",
+      "options": [
+        "section",
+        "company",
+        "event",
+        "population"
+      ],
+      "answerIndex": 1,
+      "hint": "oil = نفط، works for = يعمل لدى — الجملة تتحدث عن مكان عمل الأخ في الدمام.",
+      "feedback": {
+        "correct": "أحسنت ✓ company تعني «شركة» — الأخ يعمل لدى جهة كبيرة في مجال النفط، أي شركة.",
+        "incorrect": "الإجابة الصحيحة هي company (شركة) — الأخ يعمل لدى جهة كبيرة في مجال النفط، أي شركة. أمّا section تعني «قسم / جزء»، و event تعني «حدث / فعالية»، و population تعني «عدد السكان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q15",
+      "prompt": "Which word means: someone who buys things from a shop or a company?",
+      "options": [
+        "manager",
+        "employee",
+        "customer",
+        "coach"
+      ],
+      "answerIndex": 2,
+      "hint": "shop = محل، buys = يشتري — فكّر في الشخص الذي يقف عند الكاشير ليدفع.",
+      "feedback": {
+        "correct": "أحسنت ✓ customer تعني «عميل / زبون» — الشخص الذي يشتري من المحل أو الشركة هو الزبون.",
+        "incorrect": "الإجابة الصحيحة هي customer (عميل / زبون) — الشخص الذي يشتري من المحل أو الشركة هو الزبون. أمّا manager تعني «مدير»، و employee تعني «موظف»، و coach تعني «مدرّب» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q16",
+      "prompt": "It is ___ to use your phone while you are driving.",
+      "options": [
+        "enjoyable",
+        "ancient",
+        "dangerous",
+        "patient"
+      ],
+      "answerIndex": 2,
+      "hint": "phone = هاتف، driving = القيادة — الجملة تحذّر من عادة سيئة عند السائقين.",
+      "feedback": {
+        "correct": "أحسنت ✓ dangerous تعني «خطير» — استخدام الهاتف أثناء القيادة قد يسبب حادثًا، فهو خطير.",
+        "incorrect": "الإجابة الصحيحة هي dangerous (خطير) — استخدام الهاتف أثناء القيادة قد يسبب حادثًا، فهو خطير. أمّا enjoyable تعني «ممتع»، و ancient تعني «قديم جدًا / أثري»، و patient تعني «صبور» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q17",
+      "prompt": "After a long talk with his family, Khalid made a ___ to study medicine.",
+      "options": [
+        "result",
+        "benefit",
+        "decision",
+        "weight"
+      ],
+      "answerIndex": 2,
+      "hint": "long talk = حديث طويل، medicine = الطب — خالد تحدّث مع أسرته قبل أن يبدأ دراسة الطب.",
+      "feedback": {
+        "correct": "أحسنت ✓ decision تعني «قرار» — نقول make a decision أي «يتخذ قرارًا»، وخالد قرّر أن يدرس الطب.",
+        "incorrect": "الإجابة الصحيحة هي decision (قرار) — نقول make a decision أي «يتخذ قرارًا»، وخالد قرّر أن يدرس الطب. أمّا result تعني «نتيجة»، و benefit تعني «فائدة»، و weight تعني «وزن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q18",
+      "prompt": "Scientists hope to ___ new animals in the deep sea.",
+      "options": [
+        "repair",
+        "respect",
+        "discover",
+        "graduate"
+      ],
+      "answerIndex": 2,
+      "hint": "scientists = علماء، deep sea = أعماق البحر — العلماء يغوصون في البحر ولديهم أمل كبير.",
+      "feedback": {
+        "correct": "أحسنت ✓ discover تعني «يكتشف» — العلماء يريدون أن يجدوا حيوانات جديدة لا يعرفها أحد، أي أن يكتشفوها.",
+        "incorrect": "الإجابة الصحيحة هي discover (يكتشف) — العلماء يريدون أن يجدوا حيوانات جديدة لا يعرفها أحد، أي أن يكتشفوها. أمّا repair تعني «يُصلِح»، و respect تعني «يحترم»، و graduate تعني «يتخرّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q19",
+      "prompt": "Too much sugar has a bad ___ on your teeth.",
+      "options": [
+        "effect",
+        "section",
+        "choice",
+        "trend"
+      ],
+      "answerIndex": 0,
+      "hint": "sugar = سكر، teeth = أسنان — الجملة تتحدث عمّا يحدث للأسنان بسبب السكر.",
+      "feedback": {
+        "correct": "أحسنت ✓ effect تعني «تأثير / أثر» — نقول have an effect on أي «له تأثير على»، والسكر يؤثر في الأسنان بشكل سيئ.",
+        "incorrect": "الإجابة الصحيحة هي effect (تأثير / أثر) — نقول have an effect on أي «له تأثير على»، والسكر يؤثر في الأسنان بشكل سيئ. أمّا section تعني «قسم / جزء»، و choice تعني «اختيار»، و trend تعني «اتجاه / موضة رائجة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q20",
+      "prompt": "Saad put a lot of ___ into his project, and he got an A+.",
+      "options": [
+        "effort",
+        "area",
+        "history",
+        "population"
+      ],
+      "answerIndex": 0,
+      "hint": "project = مشروع، got an A+ = حصل على درجة ممتازة — الجملة تشرح سبب نجاح سعد في مشروعه.",
+      "feedback": {
+        "correct": "أحسنت ✓ effort تعني «جهد» — نقول put effort into أي «يبذل جهدًا في»، وسعد تعب كثيرًا فحصل على درجة ممتازة.",
+        "incorrect": "الإجابة الصحيحة هي effort (جهد) — نقول put effort into أي «يبذل جهدًا في»، وسعد تعب كثيرًا فحصل على درجة ممتازة. أمّا area تعني «منطقة»، و history تعني «تاريخ»، و population تعني «عدد السكان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q21",
+      "prompt": "The trip to Abha was very ___. We had a great time.",
+      "options": [
+        "dangerous",
+        "ancient",
+        "enjoyable",
+        "physical"
+      ],
+      "answerIndex": 2,
+      "hint": "trip = رحلة، great time = وقت رائع — الأسرة تتحدث عن رحلتها إلى أبها.",
+      "feedback": {
+        "correct": "أحسنت ✓ enjoyable تعني «ممتع» — قضوا وقتًا رائعًا، فالرحلة كانت ممتعة.",
+        "incorrect": "الإجابة الصحيحة هي enjoyable (ممتع) — قضوا وقتًا رائعًا، فالرحلة كانت ممتعة. أمّا dangerous تعني «خطير»، و ancient تعني «قديم جدًا / أثري»، و physical تعني «جسدي / بدني» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q22",
+      "prompt": "Riyadh Season is a big ___ with concerts, shows and games.",
+      "options": [
+        "opinion",
+        "weight",
+        "effort",
+        "event"
+      ],
+      "answerIndex": 3,
+      "hint": "concerts = حفلات موسيقية، shows = عروض — الجملة تصف موسم الرياض.",
+      "feedback": {
+        "correct": "أحسنت ✓ event تعني «حدث / فعالية» — موسم الرياض فيه حفلات وعروض وألعاب، فهو فعالية كبيرة.",
+        "incorrect": "الإجابة الصحيحة هي event (حدث / فعالية) — موسم الرياض فيه حفلات وعروض وألعاب، فهو فعالية كبيرة. أمّا opinion تعني «رأي»، و weight تعني «وزن»، و effort تعني «جهد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q23",
+      "prompt": "The library is open every day ___ Friday.",
+      "options": [
+        "according to",
+        "among",
+        "except for",
+        "in order to"
+      ],
+      "answerIndex": 2,
+      "hint": "library = مكتبة، open = مفتوحة — الجملة تتحدث عن أيام عمل المكتبة خلال الأسبوع.",
+      "feedback": {
+        "correct": "أحسنت ✓ except for تعني «ما عدا / باستثناء» — المكتبة مفتوحة كل الأيام إلا يوم الجمعة، فنستخدم except for أي «ما عدا».",
+        "incorrect": "الإجابة الصحيحة هي except for (ما عدا / باستثناء) — المكتبة مفتوحة كل الأيام إلا يوم الجمعة، فنستخدم except for أي «ما عدا». أمّا according to تعني «وفقًا لـ / حسب»، و among تعني «بين / من بين»، و in order to تعني «من أجل / لكي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q24",
+      "prompt": "Ahmed's ___ is computer science. He wants to be a programmer.",
+      "options": [
+        "score",
+        "task",
+        "major",
+        "trend"
+      ],
+      "answerIndex": 2,
+      "hint": "computer science = علوم الحاسب، programmer = مبرمج — الجملة تتحدث عن دراسة أحمد في الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ major تعني «تخصص جامعي» — علوم الحاسب هي المجال الذي يدرسه أحمد في الجامعة، أي تخصصه.",
+        "incorrect": "الإجابة الصحيحة هي major (تخصص جامعي) — علوم الحاسب هي المجال الذي يدرسه أحمد في الجامعة، أي تخصصه. أمّا score تعني «درجة / نتيجة»، و task تعني «مهمّة»، و trend تعني «اتجاه / موضة رائجة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q25",
+      "prompt": "Which word means: the person who is in charge of a company, a shop, or a group of workers?",
+      "options": [
+        "customer",
+        "manager",
+        "tourist",
+        "assistant"
+      ],
+      "answerIndex": 1,
+      "hint": "company = شركة، workers = عمّال — التعريف يصف شخصًا له منصب مهم في مكان العمل.",
+      "feedback": {
+        "correct": "أحسنت ✓ manager تعني «مدير» — الشخص المسؤول عن الشركة أو المحل أو العمّال هو المدير.",
+        "incorrect": "الإجابة الصحيحة هي manager (مدير) — الشخص المسؤول عن الشركة أو المحل أو العمّال هو المدير. أمّا customer تعني «عميل / زبون»، و tourist تعني «سائح»، و assistant تعني «مساعد» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q26",
+      "prompt": "In the science class, we ___ the birds through the window.",
+      "options": [
+        "repair",
+        "observe",
+        "graduate",
+        "trust"
+      ],
+      "answerIndex": 1,
+      "hint": "science class = حصة العلوم، window = نافذة — الطلاب في حصة العلوم يدرسون الطيور.",
+      "feedback": {
+        "correct": "أحسنت ✓ observe تعني «يراقب / يلاحظ» — الطلاب ينظرون إلى الطيور بانتباه ليتعلّموا عنها، أي يراقبونها.",
+        "incorrect": "الإجابة الصحيحة هي observe (يراقب / يلاحظ) — الطلاب ينظرون إلى الطيور بانتباه ليتعلّموا عنها، أي يراقبونها. أمّا repair تعني «يُصلِح»، و graduate تعني «يتخرّج»، و trust تعني «يثق بـ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q27",
+      "prompt": "In my ___, Jeddah is the most beautiful city in Saudi Arabia.",
+      "options": [
+        "effort",
+        "area",
+        "weight",
+        "opinion"
+      ],
+      "answerIndex": 3,
+      "hint": "beautiful = جميلة، most = الأكثر — المتحدث يتكلم عن جدة بطريقته الخاصة.",
+      "feedback": {
+        "correct": "أحسنت ✓ opinion تعني «رأي» — نقول In my opinion أي «في رأيي»، والمتحدث يعبّر عمّا يفكر فيه.",
+        "incorrect": "الإجابة الصحيحة هي opinion (رأي) — نقول In my opinion أي «في رأيي»، والمتحدث يعبّر عمّا يفكر فيه. أمّا effort تعني «جهد»، و area تعني «منطقة»، و weight تعني «وزن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q28",
+      "prompt": "A good teacher must be ___ with young children because they learn slowly.",
+      "options": [
+        "ancient",
+        "dangerous",
+        "physical",
+        "patient"
+      ],
+      "answerIndex": 3,
+      "hint": "young children = أطفال صغار، slowly = ببطء — الأطفال يحتاجون وقتًا طويلًا ليتعلّموا.",
+      "feedback": {
+        "correct": "أحسنت ✓ patient تعني «صبور» — الأطفال يتعلّمون ببطء، فيجب أن يكون المعلم صبورًا معهم.",
+        "incorrect": "الإجابة الصحيحة هي patient (صبور) — الأطفال يتعلّمون ببطء، فيجب أن يكون المعلم صبورًا معهم. أمّا ancient تعني «قديم جدًا / أثري»، و dangerous تعني «خطير»، و physical تعني «جسدي / بدني» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q29",
+      "prompt": "Football and swimming are good ___ activities.",
+      "options": [
+        "physical",
+        "ancient",
+        "patient",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "hint": "swimming = السباحة، activities = أنشطة — الجملة تتحدث عن أنشطة رياضية مفيدة للصحة.",
+      "feedback": {
+        "correct": "أحسنت ✓ physical تعني «جسدي / بدني» — كرة القدم والسباحة تحتاج إلى حركة الجسم، فهي أنشطة بدنية.",
+        "incorrect": "الإجابة الصحيحة هي physical (جسدي / بدني) — كرة القدم والسباحة تحتاج إلى حركة الجسم، فهي أنشطة بدنية. أمّا ancient تعني «قديم جدًا / أثري»، و patient تعني «صبور»، و dangerous تعني «خطير» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q30",
+      "prompt": "Which word means: the number of people who live in a city or a country?",
+      "options": [
+        "area",
+        "history",
+        "population",
+        "weight"
+      ],
+      "answerIndex": 2,
+      "hint": "country = دولة، live = يعيشون — فكّر في سؤال مثل: كم شخصًا يعيش في الرياض؟",
+      "feedback": {
+        "correct": "أحسنت ✓ population تعني «عدد السكان» — عدد الناس الذين يعيشون في مدينة أو دولة هو عدد السكان.",
+        "incorrect": "الإجابة الصحيحة هي population (عدد السكان) — عدد الناس الذين يعيشون في مدينة أو دولة هو عدد السكان. أمّا area تعني «منطقة»، و history تعني «تاريخ»، و weight تعني «وزن» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q31",
+      "prompt": "Try to have a ___ attitude. Don't think about bad things all the time.",
+      "options": [
+        "ancient",
+        "positive",
+        "dangerous",
+        "physical"
+      ],
+      "answerIndex": 1,
+      "hint": "attitude = موقف / طريقة تفكير، all the time = طوال الوقت — النصيحة تطلب منك ألّا تفكر في الأشياء السيئة.",
+      "feedback": {
+        "correct": "أحسنت ✓ positive تعني «إيجابي» — عكس التفكير في الأشياء السيئة هو أن تكون طريقة تفكيرك إيجابية.",
+        "incorrect": "الإجابة الصحيحة هي positive (إيجابي) — عكس التفكير في الأشياء السيئة هو أن تكون طريقة تفكيرك إيجابية. أمّا ancient تعني «قديم جدًا / أثري»، و dangerous تعني «خطير»، و physical تعني «جسدي / بدني» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q32",
+      "prompt": "Look at the dark clouds. It will ___ rain this afternoon.",
+      "options": [
+        "probably",
+        "however",
+        "on purpose",
+        "a little bit"
+      ],
+      "answerIndex": 0,
+      "hint": "dark clouds = غيوم داكنة، afternoon = بعد الظهر — المتحدث يرى السماء ويتكلم عن الطقس.",
+      "feedback": {
+        "correct": "أحسنت ✓ probably تعني «على الأرجح» — الغيوم الداكنة تعني أن المطر قريب، لكن المتحدث غير متأكد تمامًا، فيقول probably أي «على الأرجح».",
+        "incorrect": "الإجابة الصحيحة هي probably (على الأرجح) — الغيوم الداكنة تعني أن المطر قريب، لكن المتحدث غير متأكد تمامًا، فيقول probably أي «على الأرجح». أمّا however تعني «ومع ذلك»، و on purpose تعني «عمدًا / عن قصد»، و a little bit تعني «قليلًا / بعض الشيء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q33",
+      "prompt": "Saudi Arabia ___ a lot of dates every year.",
+      "options": [
+        "repairs",
+        "respects",
+        "imagines",
+        "produces"
+      ],
+      "answerIndex": 3,
+      "hint": "dates = تمور، every year = كل سنة — الجملة تتحدث عن الزراعة في المملكة.",
+      "feedback": {
+        "correct": "أحسنت ✓ produces تعني «يُنتِج» — المملكة تزرع التمور وتُخرج منها كميات كبيرة كل سنة، أي أنها تُنتجها.",
+        "incorrect": "الإجابة الصحيحة هي produces (يُنتِج) — المملكة تزرع التمور وتُخرج منها كميات كبيرة كل سنة، أي أنها تُنتجها. أمّا repairs تعني «يُصلِح»، و respects تعني «يحترم»، و imagines تعني «يتخيّل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q34",
+      "prompt": "Wear a helmet to ___ your head when you ride a bike.",
+      "options": [
+        "discover",
+        "protect",
+        "graduate",
+        "imagine"
+      ],
+      "answerIndex": 1,
+      "hint": "helmet = خوذة، ride a bike = تركب دراجة — نصيحة للسلامة عند ركوب الدراجة.",
+      "feedback": {
+        "correct": "أحسنت ✓ protect تعني «يحمي» — الخوذة تمنع الضرر عن الرأس، أي أنها تحميه.",
+        "incorrect": "الإجابة الصحيحة هي protect (يحمي) — الخوذة تمنع الضرر عن الرأس، أي أنها تحميه. أمّا discover تعني «يكتشف»، و graduate تعني «يتخرّج»، و imagine تعني «يتخيّل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q35",
+      "prompt": "What is the ___ of your visit to Jeddah? Work or holiday?",
+      "options": [
+        "purpose",
+        "section",
+        "effect",
+        "weight"
+      ],
+      "answerIndex": 0,
+      "hint": "visit = زيارة، holiday = عطلة — موظف المطار يسأل المسافر سؤالًا عن زيارته.",
+      "feedback": {
+        "correct": "أحسنت ✓ purpose تعني «هدف / غرض» — الموظف يسأل عن سبب الزيارة: للعمل أم للعطلة؟ أي عن الغرض منها.",
+        "incorrect": "الإجابة الصحيحة هي purpose (هدف / غرض) — الموظف يسأل عن سبب الزيارة: للعمل أم للعطلة؟ أي عن الغرض منها. أمّا section تعني «قسم / جزء»، و effect تعني «تأثير / أثر»، و weight تعني «وزن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q36",
+      "prompt": "When Huda heard the good news, her first ___ was to scream with joy.",
+      "options": [
+        "reaction",
+        "weight",
+        "section",
+        "population"
+      ],
+      "answerIndex": 0,
+      "hint": "news = الخبر، scream with joy = تصرخ من الفرح — هدى سمعت خبرًا سعيدًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ reaction تعني «ردّ فعل» — الصراخ من الفرح هو ما فعلته هدى مباشرة بعد سماع الخبر، أي ردّ فعلها.",
+        "incorrect": "الإجابة الصحيحة هي reaction (ردّ فعل) — الصراخ من الفرح هو ما فعلته هدى مباشرة بعد سماع الخبر، أي ردّ فعلها. أمّا weight تعني «وزن»، و section تعني «قسم / جزء»، و population تعني «عدد السكان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q37",
+      "prompt": "Can you ___ a good restaurant near King Saud University?",
+      "options": [
+        "repair",
+        "recommend",
+        "observe",
+        "graduate"
+      ],
+      "answerIndex": 1,
+      "hint": "restaurant = مطعم، near = قريب من — شخص جديد في المدينة يسأل صديقه عن مكان للأكل.",
+      "feedback": {
+        "correct": "أحسنت ✓ recommend تعني «ينصح بـ / يوصي بـ» — الشخص يطلب من صديقه أن يقترح عليه مطعمًا جيدًا، أي أن ينصحه به.",
+        "incorrect": "الإجابة الصحيحة هي recommend (ينصح بـ / يوصي بـ) — الشخص يطلب من صديقه أن يقترح عليه مطعمًا جيدًا، أي أن ينصحه به. أمّا repair تعني «يُصلِح»، و observe تعني «يراقب / يلاحظ»، و graduate تعني «يتخرّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q38",
+      "prompt": "Majed has a very good ___ with his brothers. They talk every day.",
+      "options": [
+        "weight",
+        "relationship",
+        "section",
+        "score"
+      ],
+      "answerIndex": 1,
+      "hint": "brothers = إخوة، talk = يتحدثون — الجملة تصف كيف يتعامل ماجد مع إخوته.",
+      "feedback": {
+        "correct": "أحسنت ✓ relationship تعني «علاقة» — ماجد يتحدث مع إخوته كل يوم، فالعلاقة بينهم جيدة.",
+        "incorrect": "الإجابة الصحيحة هي relationship (علاقة) — ماجد يتحدث مع إخوته كل يوم، فالعلاقة بينهم جيدة. أمّا weight تعني «وزن»، و section تعني «قسم / جزء»، و score تعني «درجة / نتيجة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q39",
+      "prompt": "My phone screen is broken. Can you ___ it, please?",
+      "options": [
+        "observe",
+        "repair",
+        "discover",
+        "graduate"
+      ],
+      "answerIndex": 1,
+      "hint": "screen = شاشة، broken = مكسورة — شخص يطلب مساعدة في محل الجوالات.",
+      "feedback": {
+        "correct": "أحسنت ✓ repair تعني «يُصلِح» — الشاشة مكسورة وتحتاج إلى أن تعود سليمة، أي أن يُصلحها أحد.",
+        "incorrect": "الإجابة الصحيحة هي repair (يُصلِح) — الشاشة مكسورة وتحتاج إلى أن تعود سليمة، أي أن يُصلحها أحد. أمّا observe تعني «يراقب / يلاحظ»، و discover تعني «يكتشف»، و graduate تعني «يتخرّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q40",
+      "prompt": "In Saudi culture, we ___ older people and listen to them.",
+      "options": [
+        "respect",
+        "repair",
+        "discover",
+        "produce"
+      ],
+      "answerIndex": 0,
+      "hint": "culture = ثقافة، older people = كبار السن — الجملة تتحدث عن عادة جميلة في المجتمع.",
+      "feedback": {
+        "correct": "أحسنت ✓ respect تعني «يحترم» — في ثقافتنا نقدّر كبار السن ونستمع إليهم، أي نحترمهم.",
+        "incorrect": "الإجابة الصحيحة هي respect (يحترم) — في ثقافتنا نقدّر كبار السن ونستمع إليهم، أي نحترمهم. أمّا repair تعني «يُصلِح»، و discover تعني «يكتشف»، و produce تعني «يُنتِج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q41",
+      "prompt": "I studied hard, and the ___ was a high grade in the exam.",
+      "options": [
+        "section",
+        "area",
+        "history",
+        "result"
+      ],
+      "answerIndex": 3,
+      "hint": "studied hard = درست بجد، high grade = درجة عالية — الجملة تربط الدراسة بما حدث بعدها.",
+      "feedback": {
+        "correct": "أحسنت ✓ result تعني «نتيجة» — الدرجة العالية جاءت بسبب الدراسة الجادة، فهي نتيجة لها.",
+        "incorrect": "الإجابة الصحيحة هي result (نتيجة) — الدرجة العالية جاءت بسبب الدراسة الجادة، فهي نتيجة لها. أمّا section تعني «قسم / جزء»، و area تعني «منطقة»، و history تعني «تاريخ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q42",
+      "prompt": "Which word means: a short document about your education and work experience that you send to a company?",
+      "options": [
+        "interview",
+        "résumé",
+        "major",
+        "survey"
+      ],
+      "answerIndex": 1,
+      "hint": "education = التعليم، experience = خبرة — الباحث عن عمل يرسل هذه الورقة قبل أن تتصل به الشركة.",
+      "feedback": {
+        "correct": "أحسنت ✓ résumé تعني «سيرة ذاتية» — الورقة القصيرة التي فيها تعليمك وخبراتك وترسلها للشركة هي السيرة الذاتية.",
+        "incorrect": "الإجابة الصحيحة هي résumé (سيرة ذاتية) — الورقة القصيرة التي فيها تعليمك وخبراتك وترسلها للشركة هي السيرة الذاتية. أمّا interview تعني «مقابلة»، و major تعني «تخصص جامعي»، و survey تعني «استطلاع رأي / استبيان» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q43",
+      "prompt": "Our team won the match. The final ___ was 3–1.",
+      "options": [
+        "section",
+        "weight",
+        "history",
+        "score"
+      ],
+      "answerIndex": 3,
+      "hint": "won = فاز، final = النهائية — الجملة تذكر أرقام الأهداف في المباراة.",
+      "feedback": {
+        "correct": "أحسنت ✓ score تعني «درجة / نتيجة» — الرقم 3–1 يبيّن عدد الأهداف لكل فريق، فهو نتيجة المباراة.",
+        "incorrect": "الإجابة الصحيحة هي score (درجة / نتيجة) — الرقم 3–1 يبيّن عدد الأهداف لكل فريق، فهو نتيجة المباراة. أمّا section تعني «قسم / جزء»، و weight تعني «وزن»، و history تعني «تاريخ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q44",
+      "prompt": "You can find English books in the language ___ of the library.",
+      "options": [
+        "section",
+        "weight",
+        "effort",
+        "trend"
+      ],
+      "answerIndex": 0,
+      "hint": "books = كتب، library = مكتبة — الجملة تحدّد مكان كتب اللغة داخل المكتبة.",
+      "feedback": {
+        "correct": "أحسنت ✓ section تعني «قسم / جزء» — المكتبة مقسّمة إلى أجزاء، وكتب اللغة في جزء خاص بها، أي قسم.",
+        "incorrect": "الإجابة الصحيحة هي section (قسم / جزء) — المكتبة مقسّمة إلى أجزاء، وكتب اللغة في جزء خاص بها، أي قسم. أمّا weight تعني «وزن»، و effort تعني «جهد»، و trend تعني «اتجاه / موضة رائجة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q45",
+      "prompt": "Which word means: the ability to do something well because you have learned and practiced it?",
+      "options": [
+        "result",
+        "opinion",
+        "effect",
+        "skill"
+      ],
+      "answerIndex": 3,
+      "hint": "learned = تعلّمت، well = جيدًا — فكّر في أمثلة مثل الطبخ أو الكتابة على الحاسب.",
+      "feedback": {
+        "correct": "أحسنت ✓ skill تعني «مهارة» — الشيء الذي تتقنه بعد التعلّم والتدريب هو مهارة.",
+        "incorrect": "الإجابة الصحيحة هي skill (مهارة) — الشيء الذي تتقنه بعد التعلّم والتدريب هو مهارة. أمّا result تعني «نتيجة»، و opinion تعني «رأي»، و effect تعني «تأثير / أثر» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q46",
+      "prompt": "I ___ to get my exam results next week.",
+      "options": [
+        "expect",
+        "repair",
+        "observe",
+        "protect"
+      ],
+      "answerIndex": 0,
+      "hint": "exam results = نتائج الاختبار، next week = الأسبوع القادم — الطالب يتحدث عن موعد قريب.",
+      "feedback": {
+        "correct": "أحسنت ✓ expect تعني «يتوقّع» — الطالب يظن أن النتائج ستصل الأسبوع القادم، فنقول expect to أي «يتوقّع أن».",
+        "incorrect": "الإجابة الصحيحة هي expect (يتوقّع) — الطالب يظن أن النتائج ستصل الأسبوع القادم، فنقول expect to أي «يتوقّع أن». أمّا repair تعني «يُصلِح»، و observe تعني «يراقب / يلاحظ»، و protect تعني «يحمي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q47",
+      "prompt": "My job is ___. I can start work at 8 or at 10 o'clock.",
+      "options": [
+        "ancient",
+        "dangerous",
+        "patient",
+        "flexible"
+      ],
+      "answerIndex": 3,
+      "hint": "start work = أبدأ العمل، o'clock = الساعة — الموظف يتحدث عن أوقات عمله.",
+      "feedback": {
+        "correct": "أحسنت ✓ flexible تعني «مرن» — الموظف يستطيع أن يختار وقت بداية العمل، فعمله مرن.",
+        "incorrect": "الإجابة الصحيحة هي flexible (مرن) — الموظف يستطيع أن يختار وقت بداية العمل، فعمله مرن. أمّا ancient تعني «قديم جدًا / أثري»، و dangerous تعني «خطير»، و patient تعني «صبور» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q48",
+      "prompt": "My ___ is to become a doctor and help people.",
+      "options": [
+        "weight",
+        "section",
+        "trend",
+        "goal"
+      ],
+      "answerIndex": 3,
+      "hint": "become = أصبح، help people = أساعد الناس — المتحدث يتكلم عن مستقبله.",
+      "feedback": {
+        "correct": "أحسنت ✓ goal تعني «هدف» — أن يصبح طبيبًا هو ما يريد الوصول إليه في المستقبل، أي هدفه.",
+        "incorrect": "الإجابة الصحيحة هي goal (هدف) — أن يصبح طبيبًا هو ما يريد الوصول إليه في المستقبل، أي هدفه. أمّا weight تعني «وزن»، و section تعني «قسم / جزء»، و trend تعني «اتجاه / موضة رائجة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q49",
+      "prompt": "Noura will ___ from university next year with a degree in English.",
+      "options": [
+        "repair",
+        "graduate",
+        "protect",
+        "observe"
+      ],
+      "answerIndex": 1,
+      "hint": "degree = شهادة جامعية، next year = السنة القادمة — نورة في سنتها الأخيرة في الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ graduate تعني «يتخرّج» — نقول graduate from university أي «يتخرّج من الجامعة»، ونورة ستنهي دراستها السنة القادمة.",
+        "incorrect": "الإجابة الصحيحة هي graduate (يتخرّج) — نقول graduate from university أي «يتخرّج من الجامعة»، ونورة ستنهي دراستها السنة القادمة. أمّا repair تعني «يُصلِح»، و protect تعني «يحمي»، و observe تعني «يراقب / يلاحظ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q50",
+      "prompt": "Faisal loves ___. He reads many books about the old kings of Arabia.",
+      "options": [
+        "history",
+        "weight",
+        "behavior",
+        "effort"
+      ],
+      "answerIndex": 0,
+      "hint": "kings = ملوك، reads = يقرأ — فيصل يحب نوعًا معيّنًا من الكتب.",
+      "feedback": {
+        "correct": "أحسنت ✓ history تعني «تاريخ» — الكتب عن الملوك القدماء تتحدث عن الماضي، أي عن التاريخ.",
+        "incorrect": "الإجابة الصحيحة هي history (تاريخ) — الكتب عن الملوك القدماء تتحدث عن الماضي، أي عن التاريخ. أمّا weight تعني «وزن»، و behavior تعني «سلوك / تصرّف»، و effort تعني «جهد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q51",
+      "prompt": "Close your eyes and ___ you are on a beautiful beach.",
+      "options": [
+        "repair",
+        "protect",
+        "imagine",
+        "graduate"
+      ],
+      "answerIndex": 2,
+      "hint": "close your eyes = أغمض عينيك، beach = شاطئ — المعلم يقوم بنشاط هادئ مع الطلاب.",
+      "feedback": {
+        "correct": "أحسنت ✓ imagine تعني «يتخيّل» — مع إغماض العينين نرى صورة الشاطئ في عقولنا، أي نتخيّلها.",
+        "incorrect": "الإجابة الصحيحة هي imagine (يتخيّل) — مع إغماض العينين نرى صورة الشاطئ في عقولنا، أي نتخيّلها. أمّا repair تعني «يُصلِح»، و protect تعني «يحمي»، و graduate تعني «يتخرّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q52",
+      "prompt": "Omar goes to the gym every day ___ lose weight.",
+      "options": [
+        "in order to",
+        "according to",
+        "among",
+        "except for"
+      ],
+      "answerIndex": 0,
+      "hint": "gym = النادي الرياضي، lose weight = يخسر الوزن — الجملة تربط ذهاب عمر للنادي بما يريده.",
+      "feedback": {
+        "correct": "أحسنت ✓ in order to تعني «من أجل / لكي» — عمر يذهب إلى النادي لكي يخسر الوزن، و in order to يأتي بعده فعل مثل lose.",
+        "incorrect": "الإجابة الصحيحة هي in order to (من أجل / لكي) — عمر يذهب إلى النادي لكي يخسر الوزن، و in order to يأتي بعده فعل مثل lose. أمّا according to تعني «وفقًا لـ / حسب»، و among تعني «بين / من بين»، و except for تعني «ما عدا / باستثناء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q53",
+      "prompt": "Turki has a job ___ tomorrow at 10 a.m. He feels nervous.",
+      "options": [
+        "section",
+        "interview",
+        "trend",
+        "effort"
+      ],
+      "answerIndex": 1,
+      "hint": "nervous = متوتر، tomorrow = غدًا — تركي يستعد ليوم مهم في بحثه عن عمل.",
+      "feedback": {
+        "correct": "أحسنت ✓ interview تعني «مقابلة» — نقول job interview أي «مقابلة عمل»، وتركي متوتر لأنه سيجيب عن أسئلة الشركة غدًا.",
+        "incorrect": "الإجابة الصحيحة هي interview (مقابلة) — نقول job interview أي «مقابلة عمل»، وتركي متوتر لأنه سيجيب عن أسئلة الشركة غدًا. أمّا section تعني «قسم / جزء»، و trend تعني «اتجاه / موضة رائجة»، و effort تعني «جهد» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q54",
+      "prompt": "Which phrase means: to try to find out what happened when someone broke the law?",
+      "options": [
+        "pretend",
+        "investigate a crime",
+        "escape",
+        "interrupt"
+      ],
+      "answerIndex": 1,
+      "hint": "broke the law = خالف القانون، find out = يعرف — هذا عمل الشرطة بعد سرقة مثلًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ investigate a crime تعني «يحقّق في جريمة» — البحث عن حقيقة ما حدث عندما يخالف شخص القانون هو التحقيق في جريمة.",
+        "incorrect": "الإجابة الصحيحة هي investigate a crime (يحقّق في جريمة) — البحث عن حقيقة ما حدث عندما يخالف شخص القانون هو التحقيق في جريمة. أمّا pretend تعني «يتظاهر»، و escape تعني «يهرب»، و interrupt تعني «يقاطع» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q55",
+      "prompt": "Traffic in Riyadh is a big problem. The metro is one ___.",
+      "options": [
+        "section",
+        "history",
+        "solution",
+        "behavior"
+      ],
+      "answerIndex": 2,
+      "hint": "traffic = زحمة السير، metro = المترو — الجملة تقدّم فكرة لمشكلة الطرق في الرياض.",
+      "feedback": {
+        "correct": "أحسنت ✓ solution تعني «حلّ» — المترو يساعد على إنهاء مشكلة الزحمة، فهو حلّ لها.",
+        "incorrect": "الإجابة الصحيحة هي solution (حلّ) — المترو يساعد على إنهاء مشكلة الزحمة، فهو حلّ لها. أمّا section تعني «قسم / جزء»، و history تعني «تاريخ»، و behavior تعني «سلوك / تصرّف» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q56",
+      "prompt": "Which word means: a piece of work that you must do?",
+      "options": [
+        "task",
+        "trend",
+        "history",
+        "weight"
+      ],
+      "answerIndex": 0,
+      "hint": "piece of work = عمل، must = يجب — فكّر في شيء يطلبه منك المدير أو المعلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ task تعني «مهمّة» — العمل الذي يجب عليك أن تقوم به هو مهمّة.",
+        "incorrect": "الإجابة الصحيحة هي task (مهمّة) — العمل الذي يجب عليك أن تقوم به هو مهمّة. أمّا trend تعني «اتجاه / موضة رائجة»، و history تعني «تاريخ»، و weight تعني «وزن» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q57",
+      "prompt": "Which word means: a group of people who play a sport or work together?",
+      "options": [
+        "history",
+        "area",
+        "team",
+        "trend"
+      ],
+      "answerIndex": 2,
+      "hint": "group = مجموعة، sport = رياضة — فكّر في الهلال أو النصر في الدوري السعودي.",
+      "feedback": {
+        "correct": "أحسنت ✓ team تعني «فريق» — المجموعة التي تلعب رياضة أو تعمل معًا هي الفريق.",
+        "incorrect": "الإجابة الصحيحة هي team (فريق) — المجموعة التي تلعب رياضة أو تعمل معًا هي الفريق. أمّا history تعني «تاريخ»، و area تعني «منطقة»، و trend تعني «اتجاه / موضة رائجة» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q58",
+      "prompt": "Which word means: a person who visits a place for a holiday?",
+      "options": [
+        "customer",
+        "tourist",
+        "manager",
+        "athlete"
+      ],
+      "answerIndex": 1,
+      "hint": "visits = يزور، place = مكان — فكّر في الناس الذين يأتون إلى العلا من دول أخرى في الإجازة.",
+      "feedback": {
+        "correct": "أحسنت ✓ tourist تعني «سائح» — الشخص الذي يزور مكانًا في العطلة هو السائح.",
+        "incorrect": "الإجابة الصحيحة هي tourist (سائح) — الشخص الذي يزور مكانًا في العطلة هو السائح. أمّا customer تعني «عميل / زبون»، و manager تعني «مدير»، و athlete تعني «رياضي» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q59",
+      "prompt": "Kabsa is a ___ Saudi dish. People have eaten it for many years.",
+      "options": [
+        "physical",
+        "traditional",
+        "flexible",
+        "patient"
+      ],
+      "answerIndex": 1,
+      "hint": "dish = طبق، many years = سنوات طويلة — الجملة تتحدث عن أكلة معروفة في المملكة.",
+      "feedback": {
+        "correct": "أحسنت ✓ traditional تعني «تقليدي» — الكبسة أكلة يأكلها الناس منذ سنوات طويلة، فهي طبق تقليدي.",
+        "incorrect": "الإجابة الصحيحة هي traditional (تقليدي) — الكبسة أكلة يأكلها الناس منذ سنوات طويلة، فهي طبق تقليدي. أمّا physical تعني «جسدي / بدني»، و flexible تعني «مرن»، و patient تعني «صبور» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q60",
+      "prompt": "Which word means: a new style or way of doing things that many people follow?",
+      "options": [
+        "trend",
+        "effect",
+        "section",
+        "result"
+      ],
+      "answerIndex": 0,
+      "hint": "style = أسلوب، follow = يتّبع — فكّر في ملابس أو ألعاب يحبها الجميع في وقت معيّن.",
+      "feedback": {
+        "correct": "أحسنت ✓ trend تعني «اتجاه / موضة رائجة» — الأسلوب الجديد الذي يتّبعه كثير من الناس هو الموضة الرائجة.",
+        "incorrect": "الإجابة الصحيحة هي trend (اتجاه / موضة رائجة) — الأسلوب الجديد الذي يتّبعه كثير من الناس هو الموضة الرائجة. أمّا effect تعني «تأثير / أثر»، و section تعني «قسم / جزء»، و result تعني «نتيجة» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q61",
+      "prompt": "Fahad never lies, so I ___ him.",
+      "options": [
+        "repair",
+        "produce",
+        "trust",
+        "graduate"
+      ],
+      "answerIndex": 2,
+      "hint": "never = أبدًا، lies = يكذب — الجملة تشرح شعور المتحدث تجاه صديقه الصادق.",
+      "feedback": {
+        "correct": "أحسنت ✓ trust تعني «يثق بـ» — فهد لا يكذب أبدًا، لذلك المتحدث يثق به.",
+        "incorrect": "الإجابة الصحيحة هي trust (يثق بـ) — فهد لا يكذب أبدًا، لذلك المتحدث يثق به. أمّا repair تعني «يُصلِح»، و produce تعني «يُنتِج»، و graduate تعني «يتخرّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q62",
+      "prompt": "Can you speak more slowly, please? I don't ___ you.",
+      "options": [
+        "repair",
+        "protect",
+        "graduate",
+        "understand"
+      ],
+      "answerIndex": 3,
+      "hint": "slowly = ببطء، speak = تتكلم — شخص يجد صعوبة في متابعة كلام الآخر.",
+      "feedback": {
+        "correct": "أحسنت ✓ understand تعني «يفهم» — الكلام سريع جدًا، لذلك المتحدث لا يفهم ما يقال.",
+        "incorrect": "الإجابة الصحيحة هي understand (يفهم) — الكلام سريع جدًا، لذلك المتحدث لا يفهم ما يقال. أمّا repair تعني «يُصلِح»، و protect تعني «يحمي»، و graduate تعني «يتخرّج» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q63",
+      "prompt": "The doctor checked my ___. I am 75 kilos.",
+      "options": [
+        "score",
+        "weight",
+        "area",
+        "section"
+      ],
+      "answerIndex": 1,
+      "hint": "doctor = طبيب، kilos = كيلوغرامات — الطبيب يفحص المريض في العيادة.",
+      "feedback": {
+        "correct": "أحسنت ✓ weight تعني «وزن» — 75 كيلوغرامًا هو مقدار ثقل الجسم، أي الوزن.",
+        "incorrect": "الإجابة الصحيحة هي weight (وزن) — 75 كيلوغرامًا هو مقدار ثقل الجسم، أي الوزن. أمّا score تعني «درجة / نتيجة»، و area تعني «منطقة»، و section تعني «قسم / جزء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q64",
+      "prompt": "I was very hungry, so I ate the ___ pizza.",
+      "options": [
+        "ancient",
+        "patient",
+        "whole",
+        "flexible"
+      ],
+      "answerIndex": 2,
+      "hint": "hungry = جائع، pizza = بيتزا — الجملة تتحدث عن كمية ما أكله المتحدث.",
+      "feedback": {
+        "correct": "أحسنت ✓ whole تعني «كامل» — المتحدث كان جائعًا جدًا فأكل البيتزا كلها، أي كاملة.",
+        "incorrect": "الإجابة الصحيحة هي whole (كامل) — المتحدث كان جائعًا جدًا فأكل البيتزا كلها، أي كاملة. أمّا ancient تعني «قديم جدًا / أثري»، و patient تعني «صبور»، و flexible تعني «مرن» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q65",
+      "prompt": "Sara's grades this term are above ___. She got mostly A's and B's.",
+      "options": [
+        "average",
+        "data",
+        "variety",
+        "survey"
+      ],
+      "answerIndex": 0,
+      "hint": "grades = درجات، term = الفصل الدراسي — الجملة تقارن درجات سارة بدرجات بقية الطلاب.",
+      "feedback": {
+        "correct": "أحسنت ✓ average تعني «متوسط / عادي» — نقول above average أي «فوق المتوسط»، ودرجات سارة أعلى من المستوى العادي.",
+        "incorrect": "الإجابة الصحيحة هي average (متوسط / عادي) — نقول above average أي «فوق المتوسط»، ودرجات سارة أعلى من المستوى العادي. أمّا data تعني «بيانات»، و variety تعني «تنوّع / تشكيلة»، و survey تعني «استطلاع رأي / استبيان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q66",
+      "prompt": "Dr. Reem is doing ___ on diabetes at King Saud University.",
+      "options": [
+        "advertising",
+        "pollution",
+        "variety",
+        "research"
+      ],
+      "answerIndex": 3,
+      "hint": "diabetes = مرض السكري، doing = تقوم بـ — الدكتورة ريم تعمل في مختبر الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ research تعني «يبحث / بحث» — هنا research اسم، ونقول do research on أي «تُجري بحثًا عن»، والدكتورة تدرس مرض السكري.",
+        "incorrect": "الإجابة الصحيحة هي research (يبحث / بحث) — هنا research اسم، ونقول do research on أي «تُجري بحثًا عن»، والدكتورة تدرس مرض السكري. أمّا advertising تعني «الإعلان / الدعاية»، و pollution تعني «تلوّث»، و variety تعني «تنوّع / تشكيلة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q67",
+      "prompt": "Which word means: how often something happens, or the number of times it happens in a period of time?",
+      "options": [
+        "crowd",
+        "rate",
+        "variety",
+        "degree"
+      ],
+      "answerIndex": 1,
+      "hint": "how often = كم مرة، period of time = فترة زمنية — فكّر في عدد حوادث السيارات في كل سنة.",
+      "feedback": {
+        "correct": "أحسنت ✓ rate تعني «معدّل / نسبة» — عدد مرات حدوث شيء في فترة معيّنة هو المعدّل أو النسبة.",
+        "incorrect": "الإجابة الصحيحة هي rate (معدّل / نسبة) — عدد مرات حدوث شيء في فترة معيّنة هو المعدّل أو النسبة. أمّا crowd تعني «حشد / زحام»، و variety تعني «تنوّع / تشكيلة»، و degree تعني «شهادة جامعية» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q68",
+      "prompt": "Eating too much sugar can ___ to health problems.",
+      "options": [
+        "escape",
+        "pretend",
+        "repeat",
+        "lead"
+      ],
+      "answerIndex": 3,
+      "hint": "sugar = سكر، health problems = مشاكل صحية — الجملة تربط السكر بنتيجة سيئة.",
+      "feedback": {
+        "correct": "أحسنت ✓ lead تعني «يقود (lead to = يؤدّي إلى)» — هنا lead to تعني «يؤدّي إلى»، فالسكر الكثير يسبب مشاكل صحية.",
+        "incorrect": "الإجابة الصحيحة هي lead (يقود (lead to = يؤدّي إلى)) — هنا lead to تعني «يؤدّي إلى»، فالسكر الكثير يسبب مشاكل صحية. أمّا escape تعني «يهرب»، و pretend تعني «يتظاهر»، و repeat تعني «يكرّر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q69",
+      "prompt": "Don't ___ to your parents. Always tell them the truth.",
+      "options": [
+        "pretend",
+        "repeat",
+        "lie",
+        "escape"
+      ],
+      "answerIndex": 2,
+      "hint": "parents = الوالدين، truth = الحقيقة — نصيحة عن الصدق مع الأهل.",
+      "feedback": {
+        "correct": "أحسنت ✓ lie تعني «يكذب» — عكس قول الحقيقة هو الكذب، ونقول lie to someone أي «يكذب على شخص».",
+        "incorrect": "الإجابة الصحيحة هي lie (يكذب) — عكس قول الحقيقة هو الكذب، ونقول lie to someone أي «يكذب على شخص». أمّا pretend تعني «يتظاهر»، و repeat تعني «يكرّر»، و escape تعني «يهرب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q70",
+      "prompt": "Ice ___ when water becomes very cold.",
+      "options": [
+        "escapes",
+        "forms",
+        "repeats",
+        "shakes"
+      ],
+      "answerIndex": 1,
+      "hint": "ice = ثلج، very cold = بارد جدًا — الجملة تشرح ما يحدث للماء في البرد الشديد.",
+      "feedback": {
+        "correct": "أحسنت ✓ forms تعني «يتكوّن / يتشكّل» — هنا form تعني «يتكوّن»، فالثلج يتكوّن عندما يبرد الماء كثيرًا.",
+        "incorrect": "الإجابة الصحيحة هي forms (يتكوّن / يتشكّل) — هنا form تعني «يتكوّن»، فالثلج يتكوّن عندما يبرد الماء كثيرًا. أمّا escapes تعني «يهرب»، و repeats تعني «يكرّر»، و shakes تعني «يهزّ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q71",
+      "prompt": "You should ___ milk in the fridge.",
+      "options": [
+        "escape",
+        "store",
+        "destroy",
+        "interrupt"
+      ],
+      "answerIndex": 1,
+      "hint": "fridge = ثلاجة، milk = حليب — نصيحة حتى لا يفسد الحليب.",
+      "feedback": {
+        "correct": "أحسنت ✓ store تعني «يخزّن / يحفظ» — هنا store تعني «يحفظ»، فنضع الحليب في الثلاجة لنحفظه.",
+        "incorrect": "الإجابة الصحيحة هي store (يخزّن / يحفظ) — هنا store تعني «يحفظ»، فنضع الحليب في الثلاجة لنحفظه. أمّا escape تعني «يهرب»، و destroy تعني «يدمّر»، و interrupt تعني «يقاطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q72",
+      "prompt": "You worked all day. Sit down and ___ for a while.",
+      "options": [
+        "compete",
+        "rest",
+        "repeat",
+        "connect"
+      ],
+      "answerIndex": 1,
+      "hint": "all day = طوال اليوم، for a while = لبعض الوقت — شخص متعب بعد يوم عمل طويل.",
+      "feedback": {
+        "correct": "أحسنت ✓ rest تعني «يرتاح» — بعد العمل طوال اليوم يحتاج الشخص أن يجلس ويرتاح.",
+        "incorrect": "الإجابة الصحيحة هي rest (يرتاح) — بعد العمل طوال اليوم يحتاج الشخص أن يجلس ويرتاح. أمّا compete تعني «يتنافس»، و repeat تعني «يكرّر»، و connect تعني «يربط / يوصل» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q73",
+      "prompt": "Your blue shirt doesn't ___ your green trousers.",
+      "options": [
+        "reach",
+        "match",
+        "control",
+        "promote"
+      ],
+      "answerIndex": 1,
+      "hint": "shirt = قميص، trousers = بنطال — الجملة تتحدث عن ألوان الملابس معًا.",
+      "feedback": {
+        "correct": "أحسنت ✓ match تعني «يطابق / يتناسب مع» — اللون الأزرق والأخضر لا يبدوان جميلين معًا، أي أن القميص لا يتناسب مع البنطال.",
+        "incorrect": "الإجابة الصحيحة هي match (يطابق / يتناسب مع) — اللون الأزرق والأخضر لا يبدوان جميلين معًا، أي أن القميص لا يتناسب مع البنطال. أمّا reach تعني «يصل إلى»، و control تعني «يتحكّم في»، و promote تعني «يروّج لـ» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q74",
+      "prompt": "Let's ___ our summer holiday together.",
+      "options": [
+        "plan",
+        "pretend",
+        "destroy",
+        "interrupt"
+      ],
+      "answerIndex": 0,
+      "hint": "summer holiday = العطلة الصيفية، together = معًا — الأسرة تتحدث عن الإجازة قبل موعدها.",
+      "feedback": {
+        "correct": "أحسنت ✓ plan تعني «يخطّط» — الأسرة تريد أن ترتّب تفاصيل الإجازة قبل وقتها، أي أن تخطّط لها.",
+        "incorrect": "الإجابة الصحيحة هي plan (يخطّط) — الأسرة تريد أن ترتّب تفاصيل الإجازة قبل وقتها، أي أن تخطّط لها. أمّا pretend تعني «يتظاهر»، و destroy تعني «يدمّر»، و interrupt تعني «يقاطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q75",
+      "prompt": "If you want to speak English well, you must ___ every day.",
+      "options": [
+        "forget",
+        "interrupt",
+        "pretend",
+        "practice"
+      ],
+      "answerIndex": 3,
+      "hint": "speak = تتحدث، well = جيدًا — نصيحة لطالب يريد أن يتحسّن في اللغة.",
+      "feedback": {
+        "correct": "أحسنت ✓ practice تعني «يتدرّب / يمارس» — لكي تتحدث الإنجليزية جيدًا يجب أن تتدرّب عليها كل يوم.",
+        "incorrect": "الإجابة الصحيحة هي practice (يتدرّب / يمارس) — لكي تتحدث الإنجليزية جيدًا يجب أن تتدرّب عليها كل يوم. أمّا forget تعني «ينسى»، و interrupt تعني «يقاطع»، و pretend تعني «يتظاهر» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q76",
+      "prompt": "Please turn off the TV. I can't ___ on my homework.",
+      "options": [
+        "compete",
+        "focus",
+        "rest",
+        "escape"
+      ],
+      "answerIndex": 1,
+      "hint": "turn off = أطفئ، homework = الواجب — صوت التلفاز يزعج الطالب.",
+      "feedback": {
+        "correct": "أحسنت ✓ focus تعني «يركّز» — نقول focus on أي «يركّز على»، والطالب لا يستطيع التركيز بسبب التلفاز.",
+        "incorrect": "الإجابة الصحيحة هي focus (يركّز) — نقول focus on أي «يركّز على»، والطالب لا يستطيع التركيز بسبب التلفاز. أمّا compete تعني «يتنافس»، و rest تعني «يرتاح»، و escape تعني «يهرب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q77",
+      "prompt": "This English course is for students at a beginner ___.",
+      "options": [
+        "variety",
+        "routine",
+        "level",
+        "rate"
+      ],
+      "answerIndex": 2,
+      "hint": "course = دورة، beginner = مبتدئ — الجملة تصف الطلاب المناسبين لهذه الدورة.",
+      "feedback": {
+        "correct": "أحسنت ✓ level تعني «مستوى» — نقول beginner level أي «المستوى المبتدئ».",
+        "incorrect": "الإجابة الصحيحة هي level (مستوى) — نقول beginner level أي «المستوى المبتدئ». أمّا variety تعني «تنوّع / تشكيلة»، و routine تعني «روتين»، و rate تعني «معدّل / نسبة» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q78",
+      "prompt": "I'm sorry I broke your cup. I didn't do it ___.",
+      "options": [
+        "however",
+        "probably",
+        "a little bit",
+        "on purpose"
+      ],
+      "answerIndex": 3,
+      "hint": "broke = كسرت، cup = كوب — شخص يعتذر لصديقه عن شيء حدث.",
+      "feedback": {
+        "correct": "أحسنت ✓ on purpose تعني «عمدًا / عن قصد» — المتحدث يعتذر ويقول إنه لم يكسر الكوب عمدًا، بل حدث ذلك بالخطأ.",
+        "incorrect": "الإجابة الصحيحة هي on purpose (عمدًا / عن قصد) — المتحدث يعتذر ويقول إنه لم يكسر الكوب عمدًا، بل حدث ذلك بالخطأ. أمّا however تعني «ومع ذلك»، و probably تعني «على الأرجح»، و a little bit تعني «قليلًا / بعض الشيء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q79",
+      "prompt": "Look at all this traffic! We ___ be late for class.",
+      "options": [
+        "are likely to",
+        "according to",
+        "in order to",
+        "except for"
+      ],
+      "answerIndex": 0,
+      "hint": "traffic = زحمة السير، late = متأخرون — الطلاب عالقون في الطريق قبل المحاضرة.",
+      "feedback": {
+        "correct": "أحسنت ✓ are likely to تعني «من المحتمل أن» — بسبب الزحمة من المحتمل أن يتأخر الطلاب، و are likely to يأتي بعده فعل مثل be.",
+        "incorrect": "الإجابة الصحيحة هي are likely to (من المحتمل أن) — بسبب الزحمة من المحتمل أن يتأخر الطلاب، و are likely to يأتي بعده فعل مثل be. أمّا according to تعني «وفقًا لـ / حسب»، و in order to تعني «من أجل / لكي»، و except for تعني «ما عدا / باستثناء» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q80",
+      "prompt": "Which word means: telling people about products on TV, online or in newspapers so that they buy them?",
+      "options": [
+        "research",
+        "training",
+        "advertising",
+        "pollution"
+      ],
+      "answerIndex": 2,
+      "hint": "newspapers = صحف، online = على الإنترنت — فكّر في الفيديوهات القصيرة قبل البرامج على يوتيوب.",
+      "feedback": {
+        "correct": "أحسنت ✓ advertising تعني «الإعلان / الدعاية» — تعريف الناس بالمنتجات لكي يشتروها هو الإعلان.",
+        "incorrect": "الإجابة الصحيحة هي advertising (الإعلان / الدعاية) — تعريف الناس بالمنتجات لكي يشتروها هو الإعلان. أمّا research تعني «يبحث / بحث»، و training تعني «تدريب»، و pollution تعني «تلوّث» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q81",
+      "prompt": "Which word means: a person who is good at sports and often competes in them?",
+      "options": [
+        "consumer",
+        "volunteer",
+        "assistant",
+        "athlete"
+      ],
+      "answerIndex": 3,
+      "hint": "competes = يتنافس، often = غالبًا — فكّر في لاعبي كرة القدم والعدّائين في الأولمبياد.",
+      "feedback": {
+        "correct": "أحسنت ✓ athlete تعني «رياضي» — الشخص الماهر في الرياضة الذي يشارك في المنافسات هو الرياضي.",
+        "incorrect": "الإجابة الصحيحة هي athlete (رياضي) — الشخص الماهر في الرياضة الذي يشارك في المنافسات هو الرياضي. أمّا consumer تعني «مستهلك»، و volunteer تعني «متطوّع»، و assistant تعني «مساعد» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q82",
+      "prompt": "These shoes were only 50 riyals. What a ___!",
+      "options": [
+        "crowd",
+        "survey",
+        "bargain",
+        "routine"
+      ],
+      "answerIndex": 2,
+      "hint": "shoes = حذاء، only = فقط — المتحدثة سعيدة بما اشترته من المحل.",
+      "feedback": {
+        "correct": "أحسنت ✓ bargain تعني «صفقة رابحة / شيء بسعر رخيص» — 50 ريالًا سعر قليل للحذاء، فهو صفقة رابحة.",
+        "incorrect": "الإجابة الصحيحة هي bargain (صفقة رابحة / شيء بسعر رخيص) — 50 ريالًا سعر قليل للحذاء، فهو صفقة رابحة. أمّا crowd تعني «حشد / زحام»، و survey تعني «استطلاع رأي / استبيان»، و routine تعني «روتين» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q83",
+      "prompt": "Which word means: a person who trains a sports team or a player?",
+      "options": [
+        "coach",
+        "consumer",
+        "volunteer",
+        "expert"
+      ],
+      "answerIndex": 0,
+      "hint": "player = لاعب، sports team = فريق رياضي — فكّر في الشخص الذي يقف بجانب الملعب ويعطي اللاعبين التعليمات.",
+      "feedback": {
+        "correct": "أحسنت ✓ coach تعني «مدرّب» — الشخص الذي يدرّب الفريق أو اللاعب هو المدرّب.",
+        "incorrect": "الإجابة الصحيحة هي coach (مدرّب) — الشخص الذي يدرّب الفريق أو اللاعب هو المدرّب. أمّا consumer تعني «مستهلك»، و volunteer تعني «متطوّع»، و expert تعني «خبير» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q84",
+      "prompt": "Which word means: a large group of people together in one place?",
+      "options": [
+        "crowd",
+        "bargain",
+        "survey",
+        "routine"
+      ],
+      "answerIndex": 0,
+      "hint": "large = كبيرة، together = معًا — فكّر في الملعب يوم المباراة النهائية.",
+      "feedback": {
+        "correct": "أحسنت ✓ crowd تعني «حشد / زحام» — المجموعة الكبيرة من الناس في مكان واحد هي الحشد أو الزحام.",
+        "incorrect": "الإجابة الصحيحة هي crowd (حشد / زحام) — المجموعة الكبيرة من الناس في مكان واحد هي الحشد أو الزحام. أمّا bargain تعني «صفقة رابحة / شيء بسعر رخيص»، و survey تعني «استطلاع رأي / استبيان»، و routine تعني «روتين» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q85",
+      "prompt": "Sara has a ___ in English from Princess Nourah University.",
+      "options": [
+        "routine",
+        "degree",
+        "crowd",
+        "survey"
+      ],
+      "answerIndex": 1,
+      "hint": "Princess Nourah University = جامعة الأميرة نورة — سارة أنهت دراستها في الجامعة.",
+      "feedback": {
+        "correct": "أحسنت ✓ degree تعني «شهادة جامعية» — ما تحصل عليه بعد إنهاء الدراسة في الجامعة هو الشهادة الجامعية، ونقول a degree in English.",
+        "incorrect": "الإجابة الصحيحة هي degree (شهادة جامعية) — ما تحصل عليه بعد إنهاء الدراسة في الجامعة هو الشهادة الجامعية، ونقول a degree in English. أمّا routine تعني «روتين»، و crowd تعني «حشد / زحام»، و survey تعني «استطلاع رأي / استبيان» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q86",
+      "prompt": "Which word means: a person who works for a company and gets money for it?",
+      "options": [
+        "consumer",
+        "volunteer",
+        "athlete",
+        "employee"
+      ],
+      "answerIndex": 3,
+      "hint": "company = شركة، money = مال — فكّر في الشخص الذي يذهب إلى مكتبه كل صباح.",
+      "feedback": {
+        "correct": "أحسنت ✓ employee تعني «موظف» — الشخص الذي يعمل لدى شركة ويأخذ راتبًا هو الموظف.",
+        "incorrect": "الإجابة الصحيحة هي employee (موظف) — الشخص الذي يعمل لدى شركة ويأخذ راتبًا هو الموظف. أمّا consumer تعني «مستهلك»، و volunteer تعني «متطوّع»، و athlete تعني «رياضي» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q87",
+      "prompt": "Smoke from cars and factories causes air ___ in big cities.",
+      "options": [
+        "advertising",
+        "variety",
+        "attention",
+        "pollution"
+      ],
+      "answerIndex": 3,
+      "hint": "smoke = دخان، factories = مصانع — الجملة تتحدث عن مشكلة في هواء المدن.",
+      "feedback": {
+        "correct": "أحسنت ✓ pollution تعني «تلوّث» — الدخان يجعل الهواء غير نظيف، فنقول air pollution أي «تلوّث الهواء».",
+        "incorrect": "الإجابة الصحيحة هي pollution (تلوّث) — الدخان يجعل الهواء غير نظيف، فنقول air pollution أي «تلوّث الهواء». أمّا advertising تعني «الإعلان / الدعاية»، و variety تعني «تنوّع / تشكيلة»، و attention تعني «انتباه» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q88",
+      "prompt": "Which word means: a list of questions that you ask many people to learn what they think?",
+      "options": [
+        "debate",
+        "survey",
+        "training",
+        "routine"
+      ],
+      "answerIndex": 1,
+      "hint": "list = قائمة، learn = تعرف — فكّر في الأسئلة التي ترسلها الجامعة للطلاب في نهاية الفصل.",
+      "feedback": {
+        "correct": "أحسنت ✓ survey تعني «استطلاع رأي / استبيان» — مجموعة الأسئلة التي نسألها لكثير من الناس لنعرف آراءهم هي الاستبيان.",
+        "incorrect": "الإجابة الصحيحة هي survey (استطلاع رأي / استبيان) — مجموعة الأسئلة التي نسألها لكثير من الناس لنعرف آراءهم هي الاستبيان. أمّا debate تعني «نقاش / مناظرة»، و training تعني «تدريب»، و routine تعني «روتين» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q89",
+      "prompt": "Ahmed works as a ___ at the hospital. He helps patients for free.",
+      "options": [
+        "consumer",
+        "coach",
+        "volunteer",
+        "athlete"
+      ],
+      "answerIndex": 2,
+      "hint": "hospital = مستشفى، patients = المرضى — أحمد يساعد الناس في المستشفى.",
+      "feedback": {
+        "correct": "أحسنت ✓ volunteer تعني «متطوّع» — أحمد يساعد المرضى بدون أجر، فهو متطوّع.",
+        "incorrect": "الإجابة الصحيحة هي volunteer (متطوّع) — أحمد يساعد المرضى بدون أجر، فهو متطوّع. أمّا consumer تعني «مستهلك»، و coach تعني «مدرّب»، و athlete تعني «رياضي» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q90",
+      "prompt": "You should ___ fast food if you want to be healthy.",
+      "options": [
+        "repeat",
+        "promote",
+        "avoid",
+        "reach"
+      ],
+      "answerIndex": 2,
+      "hint": "fast food = الوجبات السريعة، healthy = بصحة جيدة — نصيحة عن الأكل الصحي.",
+      "feedback": {
+        "correct": "أحسنت ✓ avoid تعني «يتجنّب» — لكي تكون بصحة جيدة يجب أن تبتعد عن الوجبات السريعة، أي أن تتجنّبها.",
+        "incorrect": "الإجابة الصحيحة هي avoid (يتجنّب) — لكي تكون بصحة جيدة يجب أن تبتعد عن الوجبات السريعة، أي أن تتجنّبها. أمّا repeat تعني «يكرّر»، و promote تعني «يروّج لـ»، و reach تعني «يصل إلى» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q91",
+      "prompt": "Which word means: to stop something bad before it happens?",
+      "options": [
+        "prevent",
+        "destroy",
+        "repeat",
+        "pretend"
+      ],
+      "answerIndex": 0,
+      "hint": "bad = سيئ، happens = يحدث — فكّر في غسل اليدين حتى لا تمرض.",
+      "feedback": {
+        "correct": "أحسنت ✓ prevent تعني «يمنع» — إيقاف الشيء السيئ قبل حدوثه هو المنع.",
+        "incorrect": "الإجابة الصحيحة هي prevent (يمنع) — إيقاف الشيء السيئ قبل حدوثه هو المنع. أمّا destroy تعني «يدمّر»، و repeat تعني «يكرّر»، و pretend تعني «يتظاهر» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q92",
+      "prompt": "Reading every day can help you ___ your English.",
+      "options": [
+        "destroy",
+        "pretend",
+        "interrupt",
+        "improve"
+      ],
+      "answerIndex": 3,
+      "hint": "reading = القراءة، every day = كل يوم — نصيحة لطالب يتعلّم الإنجليزية.",
+      "feedback": {
+        "correct": "أحسنت ✓ improve تعني «يحسّن / يتحسّن» — القراءة اليومية تجعل لغتك أفضل، أي تحسّنها.",
+        "incorrect": "الإجابة الصحيحة هي improve (يحسّن / يتحسّن) — القراءة اليومية تجعل لغتك أفضل، أي تحسّنها. أمّا destroy تعني «يدمّر»، و pretend تعني «يتظاهر»، و interrupt تعني «يقاطع» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q93",
+      "prompt": "Which word means: to stop someone while they are speaking by saying something?",
+      "options": [
+        "pretend",
+        "escape",
+        "interrupt",
+        "connect"
+      ],
+      "answerIndex": 2,
+      "hint": "speaking = يتكلم، while = أثناء — فكّر في طالب يبدأ الكلام قبل أن ينتهي المعلم.",
+      "feedback": {
+        "correct": "أحسنت ✓ interrupt تعني «يقاطع» — إيقاف شخص أثناء كلامه بأن تتكلم أنت هو المقاطعة.",
+        "incorrect": "الإجابة الصحيحة هي interrupt (يقاطع) — إيقاف شخص أثناء كلامه بأن تتكلم أنت هو المقاطعة. أمّا pretend تعني «يتظاهر»، و escape تعني «يهرب»، و connect تعني «يربط / يوصل» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q94",
+      "prompt": "Today, people ___ with their families by phone and WhatsApp.",
+      "options": [
+        "communicate",
+        "compete",
+        "pretend",
+        "escape"
+      ],
+      "answerIndex": 0,
+      "hint": "families = عائلات، phone = هاتف — الجملة تتحدث عن استخدام التقنية مع الأهل.",
+      "feedback": {
+        "correct": "أحسنت ✓ communicate تعني «يتواصل» — الناس يتحدثون ويرسلون الرسائل إلى عائلاتهم، أي يتواصلون معهم.",
+        "incorrect": "الإجابة الصحيحة هي communicate (يتواصل) — الناس يتحدثون ويرسلون الرسائل إلى عائلاتهم، أي يتواصلون معهم. أمّا compete تعني «يتنافس»، و pretend تعني «يتظاهر»، و escape تعني «يهرب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q95",
+      "prompt": "Faisal is ___ before his presentation. His hands are shaking.",
+      "options": [
+        "optimistic",
+        "organized",
+        "talented",
+        "nervous"
+      ],
+      "answerIndex": 3,
+      "hint": "presentation = عرض تقديمي، hands = يداه — فيصل ينتظر دوره ليتكلم أمام الصف.",
+      "feedback": {
+        "correct": "أحسنت ✓ nervous تعني «متوتر / قلق» — اهتزاز اليدين قبل العرض يدل على أن فيصل متوتر.",
+        "incorrect": "الإجابة الصحيحة هي nervous (متوتر / قلق) — اهتزاز اليدين قبل العرض يدل على أن فيصل متوتر. أمّا optimistic تعني «متفائل»، و organized تعني «منظَّم»، و talented تعني «موهوب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q96",
+      "prompt": "Which word means: always thinking that good things will happen?",
+      "options": [
+        "organized",
+        "nervous",
+        "talented",
+        "optimistic"
+      ],
+      "answerIndex": 3,
+      "hint": "always = دائمًا، good things = أشياء جيدة — فكّر في شخص يقول دائمًا: غدًا سيكون أفضل.",
+      "feedback": {
+        "correct": "أحسنت ✓ optimistic تعني «متفائل» — الشخص الذي يظن دائمًا أن الأشياء الجيدة ستحدث هو المتفائل.",
+        "incorrect": "الإجابة الصحيحة هي optimistic (متفائل) — الشخص الذي يظن دائمًا أن الأشياء الجيدة ستحدث هو المتفائل. أمّا organized تعني «منظَّم»، و nervous تعني «متوتر / قلق»، و talented تعني «موهوب» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q97",
+      "prompt": "Huda is very ___. Her desk is clean and all her notes are in order.",
+      "options": [
+        "organized",
+        "optimistic",
+        "talented",
+        "nervous"
+      ],
+      "answerIndex": 0,
+      "hint": "desk = مكتب، notes = ملاحظات — الجملة تصف مكان دراسة هدى.",
+      "feedback": {
+        "correct": "أحسنت ✓ organized تعني «منظَّم» — مكتب هدى نظيف وملاحظاتها مرتّبة، فهي منظَّمة.",
+        "incorrect": "الإجابة الصحيحة هي organized (منظَّم) — مكتب هدى نظيف وملاحظاتها مرتّبة، فهي منظَّمة. أمّا optimistic تعني «متفائل»، و talented تعني «موهوب»، و nervous تعني «متوتر / قلق» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q98",
+      "prompt": "Which word means: having a natural ability to do something very well, like drawing or singing?",
+      "options": [
+        "organized",
+        "nervous",
+        "embarrassed",
+        "talented"
+      ],
+      "answerIndex": 3,
+      "hint": "drawing = الرسم، singing = الغناء — فكّر في طفل يرسم صورًا جميلة دون أن يتعلّم.",
+      "feedback": {
+        "correct": "أحسنت ✓ talented تعني «موهوب» — من يملك قدرة طبيعية على فعل شيء بشكل ممتاز هو الموهوب.",
+        "incorrect": "الإجابة الصحيحة هي talented (موهوب) — من يملك قدرة طبيعية على فعل شيء بشكل ممتاز هو الموهوب. أمّا organized تعني «منظَّم»، و nervous تعني «متوتر / قلق»، و embarrassed تعني «محرَج» — ولا تناسب هذا التعريف."
+      }
+    },
+    {
+      "id": "q99",
+      "prompt": "Ali was ___ when he fell down in front of the whole class.",
+      "options": [
+        "embarrassed",
+        "optimistic",
+        "organized",
+        "talented"
+      ],
+      "answerIndex": 0,
+      "hint": "fell down = سقط، in front of = أمام — موقف صعب حدث لعلي أمام زملائه.",
+      "feedback": {
+        "correct": "أحسنت ✓ embarrassed تعني «محرَج» — السقوط أمام كل الطلاب يجعل الشخص يشعر بالحرج.",
+        "incorrect": "الإجابة الصحيحة هي embarrassed (محرَج) — السقوط أمام كل الطلاب يجعل الشخص يشعر بالحرج. أمّا optimistic تعني «متفائل»، و organized تعني «منظَّم»، و talented تعني «موهوب» — ولا تناسب معنى هذه الجملة."
+      }
+    },
+    {
+      "id": "q100",
+      "prompt": "The exam was very hard. ___, I passed it with a good grade.",
+      "options": [
+        "however",
+        "probably",
+        "on purpose",
+        "a little bit"
+      ],
+      "answerIndex": 0,
+      "hint": "hard = صعب، passed = نجحت — الجملة الثانية تقول شيئًا غير متوقّع بعد الجملة الأولى.",
+      "feedback": {
+        "correct": "أحسنت ✓ however تعني «ومع ذلك» — الاختبار كان صعبًا لكن الطالب نجح، و However تربط بين فكرتين متعارضتين.",
+        "incorrect": "الإجابة الصحيحة هي however (ومع ذلك) — الاختبار كان صعبًا لكن الطالب نجح، و However تربط بين فكرتين متعارضتين. أمّا probably تعني «على الأرجح»، و on purpose تعني «عمدًا / عن قصد»، و a little bit تعني «قليلًا / بعض الشيء» — ولا تناسب معنى هذه الجملة."
+      }
+    }
+  ]
+}

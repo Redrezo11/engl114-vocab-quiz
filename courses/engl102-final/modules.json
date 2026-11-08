@@ -9,6 +9,14 @@
       "title": "ENGL 102/103B — Final Vocabulary Bank 1",
       "description": "اختبار مفردات شامل (100 سؤال) من قائمة مفردات الاختبار النهائي لمقرر ENGL 102/103B — اختر الكلمة المناسبة لإكمال الجملة أو المعنى.",
       "count": 100
+    },
+    {
+      "id": "engl102-final-vocab-bank-2",
+      "file": "vocabulary/vocab-bank2.json",
+      "category": "vocabulary",
+      "title": "ENGL 102/103B — Final Vocabulary Bank 2",
+      "description": "اختبار مفردات شامل (100 سؤال) — الجزء الثاني من قائمة مفردات الاختبار النهائي لمقرر ENGL 102/103B مع مراجعة لكلمات من البنك الأول.",
+      "count": 100
     }
   ]
 }
