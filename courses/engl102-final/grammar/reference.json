@@ -1,0 +1,246 @@
+{
+  "course": "ENGL102",
+  "program": "KSU ELSD Common First Year (CFY) — Humanities track (ENGL 102/103B)",
+  "target_level": "CEFR A1-A2 (Beginner)",
+  "audience": "Common First Year Saudi students",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "assessment": "Final",
+  "description_en": "Bilingual (English/Arabic) grammar reference for the ENGL 102/103B final exam: the 14 grammar points listed in the exam specs, grouped into 11 topics. Explanations are short so learners can read, understand, and start practicing quickly.",
+  "description_ar": "مرجع قواعد ثنائي اللغة (إنجليزي/عربي) للاختبار النهائي لمقرر ENGL 102/103B: نقاط القواعد الأربع عشرة المذكورة في مواصفات الاختبار، مجمّعة في 11 موضوعًا. الشروح مختصرة ليتمكن الطالب من القراءة والفهم والبدء في التطبيق بسرعة.",
+  "topics": [
+    {
+      "id": 1,
+      "slug": "simple-present-verbs",
+      "title_en": "Simple Present with Regular Verbs (Affirmative and Negative)",
+      "title_ar": "المضارع البسيط مع الأفعال العادية (الإثبات والنفي)",
+      "explanation_en": "Use the simple present for habits, routines, facts, and to tell a short informal story (a narrative) about things that usually happen. With he / she / it, add -s or -es to the verb. For the negative, use don't or doesn't + the base verb (no -s).",
+      "explanation_ar": "نستخدم المضارع البسيط للعادات والروتين اليومي والحقائق، ولسرد قصة قصيرة غير رسمية عن أشياء تحدث عادةً. مع (he / she / it) نضيف (-s) أو (-es) إلى الفعل. وللنفي نستخدم (don't) أو (doesn't) + الفعل في صورته الأصلية (بدون -s).",
+      "structure": "I / you / we / they + verb  |  he / she / it + verb-s/-es  →  She works. He watches TV.  |  Negative: I / you / we / they + don't + verb  |  he / she / it + doesn't + verb",
+      "examples": [
+        { "en": "She usually drinks coffee before breakfast.", "ar": "هي عادةً تشرب القهوة قبل الإفطار." },
+        { "en": "My brother works at a local company.", "ar": "أخي يعمل في شركة محلية." },
+        { "en": "We don't watch TV in the morning.", "ar": "نحن لا نشاهد التلفاز في الصباح." },
+        { "en": "Ali doesn't like crowds.", "ar": "علي لا يحب الزحام." },
+        { "en": "Every morning, I wake up at six. I pray, and then I eat breakfast with my family.", "ar": "كل صباح أستيقظ في السادسة. أصلّي، ثم أتناول الإفطار مع عائلتي." }
+      ],
+      "common_mistakes": [
+        { "en": "She drink coffee. → She drinks coffee.", "ar": "مع (he / she / it) يجب أن نضيف (-s) إلى الفعل في الإثبات." },
+        { "en": "He doesn't likes tea. → He doesn't like tea.", "ar": "بعد (doesn't) يأتي الفعل في صورته الأصلية بدون (-s)." },
+        { "en": "They doesn't study. → They don't study.", "ar": "مع (I / you / we / they) نستخدم (don't)، ومع (he / she / it) نستخدم (doesn't)." }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "simple-present-have",
+      "title_en": "Simple Present with 'have' (Affirmative and Negative)",
+      "title_ar": "الفعل (have) في المضارع البسيط (الإثبات والنفي)",
+      "explanation_en": "Use have to talk about things you own, family, illnesses, and meals or activities (have breakfast, have a class). With he / she / it, use has. For the negative, use don't have or doesn't have (never 'doesn't has').",
+      "explanation_ar": "نستخدم (have) للحديث عن الأشياء التي نملكها، والعائلة، والأمراض، والوجبات أو الأنشطة (have breakfast, have a class). مع (he / she / it) نستخدم (has). وللنفي نستخدم (don't have) أو (doesn't have)، ولا نقول أبدًا (doesn't has).",
+      "structure": "I / you / we / they have  |  he / she / it has  |  Negative: don't have / doesn't have",
+      "examples": [
+        { "en": "I have two brothers and one sister.", "ar": "لديّ أخوان وأخت واحدة." },
+        { "en": "My father has a new car.", "ar": "أبي لديه سيارة جديدة." },
+        { "en": "We have a grammar class on Sunday.", "ar": "لدينا محاضرة قواعد يوم الأحد." },
+        { "en": "She doesn't have a lot of free time.", "ar": "ليس لديها الكثير من وقت الفراغ." },
+        { "en": "They don't have a car, so they take the bus.", "ar": "ليس لديهم سيارة، لذلك يركبون الحافلة." }
+      ],
+      "common_mistakes": [
+        { "en": "He have a computer. → He has a computer.", "ar": "مع (he / she / it) نستخدم (has) وليس (have)." },
+        { "en": "She doesn't has a job. → She doesn't have a job.", "ar": "بعد (doesn't) نستخدم (have) دائمًا." },
+        { "en": "I am have a car. → I have a car.", "ar": "لا نضع (am / is / are) قبل (have) في المضارع البسيط." }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "verbs-with-infinitives",
+      "title_en": "Verbs + Infinitives (like, want, need) and Noun Phrases with Infinitives",
+      "title_ar": "الأفعال + المصدر (like, want, need) وأشباه الجمل الاسمية مع المصدر",
+      "explanation_en": "After like, want, and need, use to + the base verb (an infinitive). You can also use a noun phrase + infinitive to give a reason or purpose: 'a good way to relax', 'time to study', 'a place to eat'.",
+      "explanation_ar": "بعد الأفعال (like) و(want) و(need) نستخدم (to) + الفعل في صورته الأصلية (المصدر). ويمكن أيضًا استخدام شبه جملة اسمية + مصدر لبيان الغرض أو السبب، مثل: (a good way to relax) أي «طريقة جيدة للاسترخاء»، و(time to study) أي «وقت للدراسة».",
+      "structure": "Subject + like / want / need + to + base verb  |  Noun phrase + to + base verb  →  a good place to study",
+      "examples": [
+        { "en": "I want to improve my English.", "ar": "أريد أن أحسّن لغتي الإنجليزية." },
+        { "en": "She needs to prepare for the interview.", "ar": "هي تحتاج أن تستعدّ للمقابلة." },
+        { "en": "My brothers like to play football after school.", "ar": "إخوتي يحبون لعب كرة القدم بعد المدرسة." },
+        { "en": "Walking is a good way to reduce stress.", "ar": "المشي طريقة جيدة لتقليل التوتر." },
+        { "en": "The library is a quiet place to study.", "ar": "المكتبة مكان هادئ للدراسة." }
+      ],
+      "common_mistakes": [
+        { "en": "I want improve my English. → I want to improve my English.", "ar": "بعد (want) لا بد من (to) قبل الفعل." },
+        { "en": "She needs to studies. → She needs to study.", "ar": "بعد (to) يأتي الفعل في صورته الأصلية بدون (-s)." },
+        { "en": "It's a good time for study. → It's a good time to study.", "ar": "بعد الاسم نستخدم (to) + الفعل لبيان الغرض." }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "simple-past",
+      "title_en": "Simple Past with Regular and Irregular Verbs",
+      "title_ar": "الماضي البسيط مع الأفعال المنتظمة وغير المنتظمة",
+      "explanation_en": "Use the simple past for finished actions in the past (yesterday, last week, in 2020, ago). Regular verbs add -ed (work → worked, study → studied). Irregular verbs have special forms you must learn (buy → bought, go → went, see → saw). The past form is the same for all subjects.",
+      "explanation_ar": "نستخدم الماضي البسيط للأحداث التي انتهت في الماضي (yesterday, last week, in 2020, ago). الأفعال المنتظمة نضيف لها (-ed) مثل (work → worked) و(study → studied). أما الأفعال غير المنتظمة فلها صيغ خاصة يجب حفظها مثل (buy → bought) و(go → went) و(see → saw). صيغة الماضي واحدة مع جميع الضمائر.",
+      "structure": "Subject + verb-ed (regular)  |  Subject + irregular past form  →  I visited my uncle. She went to Jeddah.",
+      "examples": [
+        { "en": "My friend bought me lunch today.", "ar": "صديقي اشترى لي الغداء اليوم." },
+        { "en": "We visited the ancient city of AlUla last year.", "ar": "زرنا مدينة العُلا الأثرية العام الماضي." },
+        { "en": "She studied for three hours yesterday.", "ar": "هي درست لمدة ثلاث ساعات أمس." },
+        { "en": "I saw an interesting program on TV last night.", "ar": "شاهدت برنامجًا ممتعًا على التلفاز الليلة الماضية." },
+        { "en": "He graduated from King Saud University in 2022.", "ar": "تخرّج من جامعة الملك سعود في عام 2022." }
+      ],
+      "common_mistakes": [
+        { "en": "He buyed a car. → He bought a car.", "ar": "(buy) فعل غير منتظم، وماضيه (bought) وليس (buyed)." },
+        { "en": "I go to Riyadh last week. → I went to Riyadh last week.", "ar": "مع (last week) نستخدم الماضي، وماضي (go) هو (went)." },
+        { "en": "She was study yesterday. → She studied yesterday.", "ar": "لا نستخدم (was) مع الفعل لتكوين الماضي البسيط؛ نستخدم صيغة الماضي فقط." }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "simple-past-negative",
+      "title_en": "Simple Past in Negative Statements",
+      "title_ar": "النفي في الماضي البسيط",
+      "explanation_en": "To make a simple past verb negative, use didn't (did not) + the base verb. The base verb does not change: use 'didn't go', not 'didn't went'. didn't is the same for all subjects. With be, use wasn't / weren't + noun, adjective, or place.",
+      "explanation_ar": "لنفي الفعل في الماضي البسيط نستخدم (didn't) أي (did not) + الفعل في صورته الأصلية. الفعل لا يتغيّر: نقول (didn't go) وليس (didn't went). و(didn't) واحدة مع جميع الضمائر. أما مع (be) فنستخدم (wasn't / weren't) + اسم أو صفة أو مكان.",
+      "structure": "Subject + didn't + base verb  →  I didn't know.  |  With be: I / he / she / it wasn't …  |  you / we / they weren't …",
+      "examples": [
+        { "en": "I didn't know he was rude.", "ar": "لم أكن أعرف أنه وقح." },
+        { "en": "She didn't go to class yesterday.", "ar": "لم تذهب إلى المحاضرة أمس." },
+        { "en": "We didn't buy anything at the mall.", "ar": "لم نشترِ أي شيء في المجمّع التجاري." },
+        { "en": "He didn't forget his résumé.", "ar": "لم ينسَ سيرته الذاتية." },
+        { "en": "The test wasn't difficult.", "ar": "لم يكن الاختبار صعبًا." }
+      ],
+      "common_mistakes": [
+        { "en": "I didn't knew. → I didn't know.", "ar": "بعد (didn't) يأتي الفعل في صورته الأصلية، وليس في صيغة الماضي." },
+        { "en": "I wasn't know. → I didn't know.", "ar": "لنفي الأفعال العادية نستخدم (didn't) وليس (wasn't)." },
+        { "en": "He not went home. → He didn't go home.", "ar": "لا بد من (didn't) في النفي، ولا نضع (not) وحدها قبل الفعل." }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "should-shouldnt",
+      "title_en": "should and shouldn't (Advice)",
+      "title_ar": "(should) و(shouldn't) لتقديم النصيحة",
+      "explanation_en": "Use should to give advice or say that something is a good idea. Use shouldn't (should not) to say that something is a bad idea. After should / shouldn't, use the base verb — no to, no -s, no -ing. should is the same for all subjects.",
+      "explanation_ar": "نستخدم (should) لتقديم النصيحة أو للقول إن شيئًا ما فكرة جيدة. ونستخدم (shouldn't) أي (should not) للقول إن شيئًا ما فكرة سيئة. بعد (should / shouldn't) يأتي الفعل في صورته الأصلية: بدون (to) وبدون (-s) وبدون (-ing). و(should) واحدة مع جميع الضمائر.",
+      "structure": "Subject + should / shouldn't + base verb  →  You should rest. He shouldn't eat junk food.",
+      "examples": [
+        { "en": "You shouldn't eat too much junk food.", "ar": "لا ينبغي أن تأكل الكثير من الوجبات السريعة." },
+        { "en": "You should sleep early before the exam.", "ar": "ينبغي أن تنام مبكرًا قبل الاختبار." },
+        { "en": "Students shouldn't interrupt the teacher.", "ar": "لا ينبغي للطلاب أن يقاطعوا المعلم." },
+        { "en": "He should practice every day.", "ar": "ينبغي أن يتدرّب كل يوم." },
+        { "en": "We should protect the environment.", "ar": "ينبغي أن نحمي البيئة." }
+      ],
+      "common_mistakes": [
+        { "en": "You shouldn't eating. → You shouldn't eat.", "ar": "بعد (shouldn't) نستخدم الفعل في صورته الأصلية بدون (-ing)." },
+        { "en": "He should to study. → He should study.", "ar": "لا نضع (to) بعد (should)." },
+        { "en": "She shoulds rest. → She should rest.", "ar": "(should) لا تأخذ (-s) مع (he / she / it)." }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "its-adjective-infinitive",
+      "title_en": "It's + Adjective + Infinitive",
+      "title_ar": "(It's) + صفة + مصدر",
+      "explanation_en": "Use It is (It's) + adjective + to + base verb to give an opinion about an activity: It's important to sleep well. It's easy to make mistakes. For the negative, use It isn't + adjective + to + base verb.",
+      "explanation_ar": "نستخدم (It is / It's) + صفة + (to) + الفعل في صورته الأصلية لإبداء رأي في نشاط ما، مثل: (It's important to sleep well) أي «من المهم أن تنام جيدًا». وللنفي نستخدم (It isn't) + صفة + (to) + الفعل.",
+      "structure": "It is / It's + adjective + to + base verb  |  It isn't + adjective + to + base verb",
+      "examples": [
+        { "en": "It is important to be in class on time.", "ar": "من المهم أن تكون في المحاضرة في الوقت المحدد." },
+        { "en": "It's difficult to learn a new language.", "ar": "من الصعب تعلّم لغة جديدة." },
+        { "en": "It's dangerous to drive fast.", "ar": "من الخطير القيادة بسرعة." },
+        { "en": "It isn't easy to find a good job.", "ar": "ليس من السهل إيجاد وظيفة جيدة." },
+        { "en": "It's enjoyable to travel with friends.", "ar": "من الممتع السفر مع الأصدقاء." }
+      ],
+      "common_mistakes": [
+        { "en": "It is important be on time. → It is important to be on time.", "ar": "بعد الصفة لا بد من (to) قبل الفعل." },
+        { "en": "Is important to study. → It is important to study.", "ar": "في الإنجليزية لا بد من الفاعل (It) في بداية الجملة." },
+        { "en": "It's easy to learning. → It's easy to learn.", "ar": "بعد (to) يأتي الفعل في صورته الأصلية بدون (-ing)." }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "because-when",
+      "title_en": "Sentences with 'because' and 'when'",
+      "title_ar": "الجمل التي تحتوي على (because) و(when)",
+      "explanation_en": "because gives a reason: it answers 'Why?'. when tells the time something happens: it answers 'When?'. The because- or when-clause can come at the end of the sentence (no comma) or at the beginning (with a comma). A because-clause alone is not a full sentence.",
+      "explanation_ar": "(because) تعني «لأنّ» وتُبيّن السبب، أي تجيب عن سؤال «لماذا؟». و(when) تعني «عندما» وتُبيّن وقت حدوث الشيء، أي تجيب عن سؤال «متى؟». يمكن أن تأتي جملة (because) أو (when) في آخر الجملة بدون فاصلة، أو في أولها مع فاصلة. وجملة (because) وحدها ليست جملة كاملة.",
+      "structure": "Main clause + because + reason  |  Because + reason, main clause  |  Main clause + when + time clause  |  When + time clause, main clause",
+      "examples": [
+        { "en": "I stayed home because I was sick.", "ar": "بقيت في البيت لأنني كنت مريضًا." },
+        { "en": "Because the test was tough, many students felt nervous.", "ar": "لأن الاختبار كان صعبًا، شعر كثير من الطلاب بالتوتر." },
+        { "en": "When I was a child, I lived in Abha.", "ar": "عندما كنت طفلًا، كنت أسكن في أبها." },
+        { "en": "She feels calm when she reads.", "ar": "تشعر بالهدوء عندما تقرأ." },
+        { "en": "He was embarrassed because he forgot her name.", "ar": "شعر بالإحراج لأنه نسي اسمها." }
+      ],
+      "common_mistakes": [
+        { "en": "Because I was tired. (alone) → I went to bed early because I was tired.", "ar": "جملة (because) وحدها ناقصة؛ يجب أن تكون معها جملة رئيسية." },
+        { "en": "When I was young I played football. → When I was young, I played football.", "ar": "عندما تأتي (when) في أول الجملة نضع فاصلة بعد جملتها." },
+        { "en": "I was late when the traffic was bad. → I was late because the traffic was bad.", "ar": "لبيان السبب نستخدم (because) وليس (when)." }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "but-so",
+      "title_en": "Sentences with 'but' and 'so'",
+      "title_ar": "الجمل التي تحتوي على (but) و(so)",
+      "explanation_en": "Use but to join two ideas that are different or opposite. Use so to show a result: the second idea happens because of the first. Put a comma before but and so when they join two full sentences.",
+      "explanation_ar": "نستخدم (but) أي «لكن» لربط فكرتين مختلفتين أو متعارضتين. ونستخدم (so) أي «لذلك» لبيان النتيجة: الفكرة الثانية تحدث بسبب الأولى. نضع فاصلة قبل (but) و(so) عندما تربطان جملتين كاملتين.",
+      "structure": "Sentence 1, but sentence 2 (contrast)  |  Sentence 1 (cause), so sentence 2 (result)",
+      "examples": [
+        { "en": "The test was tough, but I passed.", "ar": "كان الاختبار صعبًا، لكنني نجحت." },
+        { "en": "It was raining, so we stayed home.", "ar": "كانت السماء تمطر، لذلك بقينا في البيت." },
+        { "en": "I like coffee, but my sister likes tea.", "ar": "أنا أحب القهوة، لكن أختي تحب الشاي." },
+        { "en": "He was tired, so he went to bed early.", "ar": "كان متعبًا، لذلك نام مبكرًا." },
+        { "en": "The phone is a bargain, so I want to buy it.", "ar": "الهاتف سعره رخيص، لذلك أريد أن أشتريه." }
+      ],
+      "common_mistakes": [
+        { "en": "I was hungry, but I ate a sandwich. → I was hungry, so I ate a sandwich.", "ar": "الأكل نتيجة للجوع، لذلك نستخدم (so) وليس (but)." },
+        { "en": "She is rich, so she is not happy. → She is rich, but she is not happy.", "ar": "الفكرتان متعارضتان، لذلك نستخدم (but)." },
+        { "en": "It was late so we went home. → It was late, so we went home.", "ar": "نضع فاصلة قبل (so) و(but) عند ربط جملتين كاملتين." }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "parts-of-speech",
+      "title_en": "Parts of Speech: Noun, Verb, Adjective, Adverb",
+      "title_ar": "أقسام الكلام: الاسم، الفعل، الصفة، الظرف",
+      "explanation_en": "A noun is a person, place, thing, or idea (teacher, success). A verb is an action or state (run, improve). An adjective describes a noun (a creative student). An adverb describes a verb, an adjective, or another adverb, and many adverbs end in -ly (She works carefully). Some words change their ending to change their part of speech: success (n.), succeed (v.), successful (adj.), successfully (adv.).",
+      "explanation_ar": "الاسم (noun) هو شخص أو مكان أو شيء أو فكرة مثل (teacher, success). والفعل (verb) يدل على حدث أو حالة مثل (run, improve). والصفة (adjective) تصف الاسم مثل (a creative student). والظرف (adverb) يصف الفعل أو الصفة أو ظرفًا آخر، وكثير من الظروف تنتهي بـ(-ly) مثل (She works carefully). بعض الكلمات تتغيّر نهايتها فيتغيّر نوعها: (success) اسم، (succeed) فعل، (successful) صفة، (successfully) ظرف.",
+      "structure": "the / a + (adjective) + NOUN  |  subject + VERB  |  be + ADJECTIVE  /  ADJECTIVE + noun  |  verb + ADVERB (-ly)",
+      "examples": [
+        { "en": "Success needs effort. (success, effort = nouns)", "ar": "النجاح يحتاج إلى جهد. (success و effort أسماء)" },
+        { "en": "I want to improve my skills. (improve = verb)", "ar": "أريد أن أحسّن مهاراتي. (improve فعل)" },
+        { "en": "She is a creative designer. (creative = adjective)", "ar": "هي مصمّمة مبدعة. (creative صفة)" },
+        { "en": "He answered the questions quickly. (quickly = adverb)", "ar": "أجاب عن الأسئلة بسرعة. (quickly ظرف)" },
+        { "en": "Her decision was very professional. (decision = noun, professional = adjective)", "ar": "كان قرارها احترافيًا جدًا. (decision اسم، professional صفة)" }
+      ],
+      "common_mistakes": [
+        { "en": "She is a success person. → She is a successful person.", "ar": "قبل الاسم نحتاج صفة (successful) وليس اسمًا (success)." },
+        { "en": "He drives careful. → He drives carefully.", "ar": "لوصف الفعل (drives) نحتاج ظرفًا (carefully) وليس صفة." },
+        { "en": "I want to improvement my English. → I want to improve my English.", "ar": "بعد (to) نحتاج فعلًا (improve) وليس اسمًا (improvement)." }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "be-going-to",
+      "title_en": "be going to (Future Plans)",
+      "title_ar": "(be going to) للتعبير عن الخطط المستقبلية",
+      "explanation_en": "Use am / is / are + going to + base verb for future plans and things you have already decided. For the negative, put not after am / is / are. For a question, put am / is / are before the subject.",
+      "explanation_ar": "نستخدم (am / is / are) + (going to) + الفعل في صورته الأصلية للخطط المستقبلية والأشياء التي قرّرناها مسبقًا. للنفي نضع (not) بعد (am / is / are). وللسؤال نقدّم (am / is / are) على الفاعل.",
+      "structure": "Subject + am / is / are + going to + base verb  |  Negative: am / is / are + not + going to + verb  |  Question: (Wh-) + am / is / are + subject + going to + verb?",
+      "examples": [
+        { "en": "He is going to travel to Dubai in the vacation.", "ar": "سيسافر إلى دبي في الإجازة." },
+        { "en": "A: When are you going to submit the homework? B: Today.", "ar": "أ: متى ستسلّم الواجب؟ ب: اليوم." },
+        { "en": "I'm going to study medicine next year.", "ar": "سأدرس الطب العام القادم." },
+        { "en": "We aren't going to watch the match tonight.", "ar": "لن نشاهد المباراة الليلة." },
+        { "en": "Are they going to visit their grandparents?", "ar": "هل سيزورون أجدادهم؟" }
+      ],
+      "common_mistakes": [
+        { "en": "He going to travel. → He is going to travel.", "ar": "لا بد من (am / is / are) قبل (going to)." },
+        { "en": "She is going to visits us. → She is going to visit us.", "ar": "بعد (going to) يأتي الفعل في صورته الأصلية بدون (-s)." },
+        { "en": "When you are going to submit it? → When are you going to submit it?", "ar": "في السؤال نقدّم (are) على الفاعل (you)." }
+      ]
+    }
+  ]
+}
