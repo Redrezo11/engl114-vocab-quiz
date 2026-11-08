@@ -1,0 +1,825 @@
+{
+  "schemaVersion": 1,
+  "words": [
+    {
+      "t": "a little bit",
+      "a": "قليلًا / بعض الشيء",
+      "pos": "noun phrase"
+    },
+    {
+      "t": "ability",
+      "a": "قدرة",
+      "pos": "noun"
+    },
+    {
+      "t": "according to",
+      "a": "وفقًا لـ / حسب",
+      "pos": "preposition"
+    },
+    {
+      "t": "active",
+      "a": "نشيط",
+      "pos": "adjective"
+    },
+    {
+      "t": "activity",
+      "a": "نشاط",
+      "pos": "noun"
+    },
+    {
+      "t": "advertising",
+      "a": "الإعلان / الدعاية",
+      "pos": "noun"
+    },
+    {
+      "t": "afraid",
+      "a": "خائف",
+      "pos": "adjective"
+    },
+    {
+      "t": "among",
+      "a": "بين / من بين",
+      "pos": "preposition"
+    },
+    {
+      "t": "ancient",
+      "a": "قديم جدًا / أثري",
+      "pos": "adjective"
+    },
+    {
+      "t": "application",
+      "a": "طلب تقديم / تطبيق",
+      "pos": "noun"
+    },
+    {
+      "t": "area",
+      "a": "منطقة",
+      "pos": "noun"
+    },
+    {
+      "t": "assistant",
+      "a": "مساعد",
+      "pos": "noun"
+    },
+    {
+      "t": "athlete",
+      "a": "رياضي",
+      "pos": "noun"
+    },
+    {
+      "t": "attention",
+      "a": "انتباه",
+      "pos": "noun"
+    },
+    {
+      "t": "attitude",
+      "a": "موقف / طريقة تفكير",
+      "pos": "noun"
+    },
+    {
+      "t": "average",
+      "a": "متوسط / عادي",
+      "pos": "noun/adjective"
+    },
+    {
+      "t": "avoid",
+      "a": "يتجنّب",
+      "pos": "verb"
+    },
+    {
+      "t": "bargain",
+      "a": "صفقة رابحة / شيء بسعر رخيص",
+      "pos": "noun"
+    },
+    {
+      "t": "basic",
+      "a": "أساسي",
+      "pos": "adjective"
+    },
+    {
+      "t": "behavior",
+      "a": "سلوك / تصرّف",
+      "pos": "noun"
+    },
+    {
+      "t": "benefit",
+      "a": "فائدة",
+      "pos": "noun"
+    },
+    {
+      "t": "calm",
+      "a": "هادئ",
+      "pos": "adjective"
+    },
+    {
+      "t": "career",
+      "a": "مهنة / مسيرة مهنية",
+      "pos": "noun"
+    },
+    {
+      "t": "certain",
+      "a": "متأكد",
+      "pos": "adjective"
+    },
+    {
+      "t": "choice",
+      "a": "اختيار",
+      "pos": "noun"
+    },
+    {
+      "t": "coach",
+      "a": "مدرّب",
+      "pos": "noun"
+    },
+    {
+      "t": "combination",
+      "a": "مزيج",
+      "pos": "noun"
+    },
+    {
+      "t": "communicate",
+      "a": "يتواصل",
+      "pos": "verb"
+    },
+    {
+      "t": "company",
+      "a": "شركة",
+      "pos": "noun"
+    },
+    {
+      "t": "compete",
+      "a": "يتنافس",
+      "pos": "verb"
+    },
+    {
+      "t": "complex",
+      "a": "معقّد",
+      "pos": "adjective"
+    },
+    {
+      "t": "confused",
+      "a": "مرتبك / محتار",
+      "pos": "adjective"
+    },
+    {
+      "t": "connect",
+      "a": "يربط / يوصل",
+      "pos": "verb"
+    },
+    {
+      "t": "consumer",
+      "a": "مستهلك",
+      "pos": "noun"
+    },
+    {
+      "t": "control",
+      "a": "يتحكّم في",
+      "pos": "verb"
+    },
+    {
+      "t": "creative",
+      "a": "مبدع",
+      "pos": "adjective"
+    },
+    {
+      "t": "crowd",
+      "a": "حشد / زحام",
+      "pos": "noun"
+    },
+    {
+      "t": "customer",
+      "a": "عميل / زبون",
+      "pos": "noun"
+    },
+    {
+      "t": "dangerous",
+      "a": "خطير",
+      "pos": "adjective"
+    },
+    {
+      "t": "data",
+      "a": "بيانات",
+      "pos": "noun"
+    },
+    {
+      "t": "debate",
+      "a": "نقاش / مناظرة",
+      "pos": "noun"
+    },
+    {
+      "t": "decision",
+      "a": "قرار",
+      "pos": "noun"
+    },
+    {
+      "t": "degree",
+      "a": "شهادة جامعية",
+      "pos": "noun"
+    },
+    {
+      "t": "describe",
+      "a": "يصف",
+      "pos": "verb"
+    },
+    {
+      "t": "destroy",
+      "a": "يدمّر",
+      "pos": "verb"
+    },
+    {
+      "t": "die",
+      "a": "يموت",
+      "pos": "verb"
+    },
+    {
+      "t": "difficulty",
+      "a": "صعوبة",
+      "pos": "noun"
+    },
+    {
+      "t": "discover",
+      "a": "يكتشف",
+      "pos": "verb"
+    },
+    {
+      "t": "effect",
+      "a": "تأثير / أثر",
+      "pos": "noun"
+    },
+    {
+      "t": "effort",
+      "a": "جهد",
+      "pos": "noun"
+    },
+    {
+      "t": "embarrassed",
+      "a": "محرَج",
+      "pos": "adjective"
+    },
+    {
+      "t": "emotion",
+      "a": "عاطفة / شعور",
+      "pos": "noun"
+    },
+    {
+      "t": "employee",
+      "a": "موظف",
+      "pos": "noun"
+    },
+    {
+      "t": "enjoyable",
+      "a": "ممتع",
+      "pos": "adjective"
+    },
+    {
+      "t": "escape",
+      "a": "يهرب",
+      "pos": "verb"
+    },
+    {
+      "t": "event",
+      "a": "حدث / فعالية",
+      "pos": "noun"
+    },
+    {
+      "t": "except for",
+      "a": "ما عدا / باستثناء",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "exciting",
+      "a": "مثير / مشوّق",
+      "pos": "adjective"
+    },
+    {
+      "t": "local",
+      "a": "محلي",
+      "pos": "adjective"
+    },
+    {
+      "t": "major",
+      "a": "تخصص جامعي",
+      "pos": "noun"
+    },
+    {
+      "t": "manager",
+      "a": "مدير",
+      "pos": "noun"
+    },
+    {
+      "t": "match",
+      "a": "يطابق / يتناسب مع",
+      "pos": "verb"
+    },
+    {
+      "t": "mistake",
+      "a": "خطأ",
+      "pos": "noun"
+    },
+    {
+      "t": "move",
+      "a": "يتحرّك / ينتقل",
+      "pos": "verb"
+    },
+    {
+      "t": "natural",
+      "a": "طبيعي",
+      "pos": "adjective"
+    },
+    {
+      "t": "nervous",
+      "a": "متوتر / قلق",
+      "pos": "adjective"
+    },
+    {
+      "t": "observe",
+      "a": "يراقب / يلاحظ",
+      "pos": "verb"
+    },
+    {
+      "t": "on purpose",
+      "a": "عمدًا / عن قصد",
+      "pos": "phrasal verb"
+    },
+    {
+      "t": "opinion",
+      "a": "رأي",
+      "pos": "noun"
+    },
+    {
+      "t": "optimistic",
+      "a": "متفائل",
+      "pos": "adjective"
+    },
+    {
+      "t": "organized",
+      "a": "منظَّم",
+      "pos": "adjective"
+    },
+    {
+      "t": "patient",
+      "a": "صبور",
+      "pos": "adjective"
+    },
+    {
+      "t": "physical",
+      "a": "جسدي / بدني",
+      "pos": "adjective"
+    },
+    {
+      "t": "plan",
+      "a": "يخطّط",
+      "pos": "verb"
+    },
+    {
+      "t": "pollution",
+      "a": "تلوّث",
+      "pos": "noun"
+    },
+    {
+      "t": "population",
+      "a": "عدد السكان",
+      "pos": "noun"
+    },
+    {
+      "t": "positive",
+      "a": "إيجابي",
+      "pos": "adjective"
+    },
+    {
+      "t": "practice",
+      "a": "يتدرّب / يمارس",
+      "pos": "verb"
+    },
+    {
+      "t": "prepare",
+      "a": "يُعِدّ / يستعدّ",
+      "pos": "verb"
+    },
+    {
+      "t": "pretend",
+      "a": "يتظاهر",
+      "pos": "verb"
+    },
+    {
+      "t": "pretty",
+      "a": "جميل",
+      "pos": "adjective"
+    },
+    {
+      "t": "prevent",
+      "a": "يمنع",
+      "pos": "verb"
+    },
+    {
+      "t": "probably",
+      "a": "على الأرجح",
+      "pos": "adverb"
+    },
+    {
+      "t": "produce",
+      "a": "يُنتِج",
+      "pos": "verb"
+    },
+    {
+      "t": "product",
+      "a": "منتَج",
+      "pos": "noun"
+    },
+    {
+      "t": "professional",
+      "a": "محترف / مهني",
+      "pos": "adjective"
+    },
+    {
+      "t": "promote",
+      "a": "يروّج لـ",
+      "pos": "verb"
+    },
+    {
+      "t": "protect",
+      "a": "يحمي",
+      "pos": "verb"
+    },
+    {
+      "t": "provide",
+      "a": "يوفّر / يقدّم",
+      "pos": "verb"
+    },
+    {
+      "t": "purpose",
+      "a": "هدف / غرض",
+      "pos": "noun"
+    },
+    {
+      "t": "rate",
+      "a": "معدّل / نسبة",
+      "pos": "noun"
+    },
+    {
+      "t": "reach",
+      "a": "يصل إلى",
+      "pos": "verb"
+    },
+    {
+      "t": "reaction",
+      "a": "ردّ فعل",
+      "pos": "noun"
+    },
+    {
+      "t": "recommend",
+      "a": "ينصح بـ / يوصي بـ",
+      "pos": "verb"
+    },
+    {
+      "t": "reduce",
+      "a": "يقلّل",
+      "pos": "verb"
+    },
+    {
+      "t": "relationship",
+      "a": "علاقة",
+      "pos": "noun"
+    },
+    {
+      "t": "repair",
+      "a": "يُصلِح",
+      "pos": "verb"
+    },
+    {
+      "t": "repeat",
+      "a": "يكرّر",
+      "pos": "verb"
+    },
+    {
+      "t": "require",
+      "a": "يتطلّب",
+      "pos": "verb"
+    },
+    {
+      "t": "requirement",
+      "a": "متطلَّب / شرط",
+      "pos": "noun"
+    },
+    {
+      "t": "research",
+      "a": "يبحث / بحث",
+      "pos": "verb/noun"
+    },
+    {
+      "t": "respect",
+      "a": "يحترم",
+      "pos": "verb"
+    },
+    {
+      "t": "responsibility",
+      "a": "مسؤولية",
+      "pos": "noun"
+    },
+    {
+      "t": "rest",
+      "a": "يرتاح",
+      "pos": "verb"
+    },
+    {
+      "t": "result",
+      "a": "نتيجة",
+      "pos": "noun"
+    },
+    {
+      "t": "résumé",
+      "a": "سيرة ذاتية",
+      "pos": "noun"
+    },
+    {
+      "t": "routine",
+      "a": "روتين",
+      "pos": "noun"
+    },
+    {
+      "t": "score",
+      "a": "درجة / نتيجة",
+      "pos": "noun"
+    },
+    {
+      "t": "section",
+      "a": "قسم / جزء",
+      "pos": "noun"
+    },
+    {
+      "t": "serious",
+      "a": "جادّ / خطير",
+      "pos": "adjective"
+    },
+    {
+      "t": "several",
+      "a": "عدّة",
+      "pos": "adjective"
+    },
+    {
+      "t": "shake",
+      "a": "يهزّ",
+      "pos": "verb"
+    },
+    {
+      "t": "similar",
+      "a": "مشابه",
+      "pos": "adjective"
+    },
+    {
+      "t": "simple",
+      "a": "بسيط / سهل",
+      "pos": "adjective"
+    },
+    {
+      "t": "skill",
+      "a": "مهارة",
+      "pos": "noun"
+    },
+    {
+      "t": "social",
+      "a": "اجتماعي",
+      "pos": "adjective"
+    },
+    {
+      "t": "expect",
+      "a": "يتوقّع",
+      "pos": "verb"
+    },
+    {
+      "t": "expert",
+      "a": "خبير",
+      "pos": "noun"
+    },
+    {
+      "t": "facial expression",
+      "a": "تعبير الوجه",
+      "pos": "noun"
+    },
+    {
+      "t": "flexible",
+      "a": "مرن",
+      "pos": "adjective"
+    },
+    {
+      "t": "focus",
+      "a": "يركّز",
+      "pos": "verb"
+    },
+    {
+      "t": "forget",
+      "a": "ينسى",
+      "pos": "verb"
+    },
+    {
+      "t": "form",
+      "a": "يُكوِّن / يُشكِّل",
+      "pos": "verb"
+    },
+    {
+      "t": "goal",
+      "a": "هدف",
+      "pos": "noun"
+    },
+    {
+      "t": "graduate",
+      "a": "يتخرّج",
+      "pos": "verb"
+    },
+    {
+      "t": "history",
+      "a": "تاريخ",
+      "pos": "noun"
+    },
+    {
+      "t": "however",
+      "a": "ومع ذلك",
+      "pos": "adverb"
+    },
+    {
+      "t": "human",
+      "a": "إنسان",
+      "pos": "noun"
+    },
+    {
+      "t": "imagine",
+      "a": "يتخيّل",
+      "pos": "verb"
+    },
+    {
+      "t": "improve",
+      "a": "يحسّن / يتحسّن",
+      "pos": "verb"
+    },
+    {
+      "t": "in order to",
+      "a": "من أجل / لكي",
+      "pos": "prepositional phrase"
+    },
+    {
+      "t": "increase",
+      "a": "يزيد / يرتفع",
+      "pos": "verb"
+    },
+    {
+      "t": "insect",
+      "a": "حشرة",
+      "pos": "noun"
+    },
+    {
+      "t": "interrupt",
+      "a": "يقاطع",
+      "pos": "verb"
+    },
+    {
+      "t": "interview",
+      "a": "مقابلة",
+      "pos": "noun"
+    },
+    {
+      "t": "investigate a crime",
+      "a": "يحقّق في جريمة",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "is/are likely to",
+      "a": "من المحتمل أن",
+      "pos": "verb phrase"
+    },
+    {
+      "t": "lead",
+      "a": "يقود",
+      "pos": "verb"
+    },
+    {
+      "t": "level",
+      "a": "مستوى",
+      "pos": "noun"
+    },
+    {
+      "t": "lie",
+      "a": "يكذب",
+      "pos": "verb"
+    },
+    {
+      "t": "solution",
+      "a": "حلّ",
+      "pos": "noun"
+    },
+    {
+      "t": "solve",
+      "a": "يحلّ",
+      "pos": "verb"
+    },
+    {
+      "t": "some kind of",
+      "a": "نوع من",
+      "pos": "phrase"
+    },
+    {
+      "t": "store",
+      "a": "يخزّن / يحفظ",
+      "pos": "verb"
+    },
+    {
+      "t": "success",
+      "a": "نجاح",
+      "pos": "noun"
+    },
+    {
+      "t": "survey",
+      "a": "استطلاع رأي / استبيان",
+      "pos": "noun"
+    },
+    {
+      "t": "talented",
+      "a": "موهوب",
+      "pos": "adjective"
+    },
+    {
+      "t": "task",
+      "a": "مهمّة",
+      "pos": "noun"
+    },
+    {
+      "t": "team",
+      "a": "فريق",
+      "pos": "noun"
+    },
+    {
+      "t": "technology",
+      "a": "تقنية",
+      "pos": "noun"
+    },
+    {
+      "t": "tough",
+      "a": "صعب / قاسٍ",
+      "pos": "adjective"
+    },
+    {
+      "t": "tourist",
+      "a": "سائح",
+      "pos": "noun"
+    },
+    {
+      "t": "traditional",
+      "a": "تقليدي",
+      "pos": "adjective"
+    },
+    {
+      "t": "training",
+      "a": "تدريب",
+      "pos": "noun"
+    },
+    {
+      "t": "treatment",
+      "a": "علاج",
+      "pos": "noun"
+    },
+    {
+      "t": "trend",
+      "a": "اتجاه / موضة رائجة",
+      "pos": "noun"
+    },
+    {
+      "t": "trust",
+      "a": "يثق بـ",
+      "pos": "verb"
+    },
+    {
+      "t": "understand",
+      "a": "يفهم",
+      "pos": "verb"
+    },
+    {
+      "t": "upset",
+      "a": "منزعج / مستاء",
+      "pos": "adjective"
+    },
+    {
+      "t": "variety",
+      "a": "تنوّع / تشكيلة",
+      "pos": "noun"
+    },
+    {
+      "t": "volunteer",
+      "a": "متطوّع",
+      "pos": "noun"
+    },
+    {
+      "t": "weight",
+      "a": "وزن",
+      "pos": "noun"
+    },
+    {
+      "t": "whole",
+      "a": "كامل",
+      "pos": "adjective"
+    },
+    {
+      "t": "wrong",
+      "a": "خاطئ",
+      "pos": "adjective"
+    }
+  ]
+}
